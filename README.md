@@ -46,7 +46,7 @@ Here are simple steps to download the repository and create an environment.
     conda activate CivilBench
  ```
  ```cmd
-    git clone https://github.com/TongjiTierLab/Civil-Bench
+    git clone https://github.com/TongjiTAIERLAB/Civil-Bench
     cd Civil-Bench
     cd src
     pip install -r requirements.txt
