@@ -50,7 +50,7 @@ src----评测代码
     conda activate CivilBench
  ```
  ```cmd
-    git clone https://github.com/TongjiTierLab/Civil-Bench
+    git clone https://github.com/TongjiTAIERLAB/Civil-Bench
     cd Civil-Bench
     cd src
     pip install -r requirements.txt
