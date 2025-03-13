@@ -1,0 +1,1522 @@
+[
+    {
+        "question": "现行规范规定,编写测绘技术设计书时,下列依据中,属于设计输入的是()。A.作业方法B.设计书附图C.生产进度安排D.适用的国家技术标准",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "57c29e9d-dad3-4755-8b41-163bc42dcbd4",
+        "type": "single_choice",
+        "index": 1
+    },
+    {
+        "question": "一、二等水准路线中进行重力测量的目的是()。A.高程异常改正B.重力水平梯度C.重力垂直梯度D.重力异常改正",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "4fa1cefc-66b2-4700-9b4e-7fd0584b3b0a",
+        "type": "single_choice",
+        "index": 2
+    },
+    {
+        "question": "为求定GPS点在某一参考坐标系中的平面坐标,应与该参考坐标系中的原有控制点联测,联测的点数不得少于（）个点。A.1B.2C.3D.4",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "3b7c0b91-ee92-4eca-9afa-c3fd8ca8d2c2",
+        "type": "single_choice",
+        "index": 3
+    },
+    {
+        "question": "下列坐标系中，所采用的地球椭球长半径为6378140m的是（）。A.1954北京坐标系B.1980西安坐标系C.WGS-84坐标系D.2000国家大地坐标系",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "33412aba-e7a2-483b-a136-704893438329",
+        "type": "single_choice",
+        "index": 4
+    },
+    {
+        "question": "下列性质中,属于高斯-克吕格投影特点的是$\\left(\\;\\right)$。A.保持面积不变B.保持长度不变C.保持角度不变D.保持方位不变",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "1913a804-5b29-43ac-a951-b604e41454fe",
+        "type": "single_choice",
+        "index": 5
+    },
+    {
+        "question": "水平角观测中,应使各测回变换度盘位置,目的是为减少()的影响。A.度盘分划误差B.照准误差C.调焦误差D.垂直轴倾斜误差",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "0f220e96-90fb-43cd-a910-ce85219067d9",
+        "type": "single_choice",
+        "index": 6
+    },
+    {
+        "question": "GPS测定某点的大地高中误差为±6mm，水准测定该点的高程误差为±8mm，则利用GPS水准计算该点的高程异常中误差为$\\left(\\;\\right)\\mathrm{{mm}}$。A.$\\pm6$B.$\\pm8$C.$\\pm{10}$D.$\\pm{14}$",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "00e48257-735b-4ed9-90c1-318eb48a8072",
+        "type": "single_choice",
+        "index": 7
+    },
+    {
+        "question": "下列检核方法中,能够检核GNSS大地控制网起算数据正确性的是()。A.异步环检核B.同步环检核C.无约束平差D.约束平差",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "9d1a4f71-de40-476f-ac2e-99e2f5a175d6",
+        "type": "single_choice",
+        "index": 8
+    },
+    {
+        "question": "现行规范规定,下列图幅尺寸中,不属于海道测量中水深测量标准图幅尺寸的是（）。A.${40}\\mathrm{\\;{cm}}\\times{50}\\mathrm{\\;{cm}}$B.50cm×70cmC.${70}\\mathrm{\\;{cm}}\\times{100}\\mathrm{\\;{cm}}$D.${80}\\mathrm{\\;{cm}}\\times{110}\\mathrm{\\;{cm}}$",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "07b9bca3-4551-4dd3-891e-fd53b315f53b",
+        "type": "single_choice",
+        "index": 9
+    },
+    {
+        "question": "民用建筑工程竣工测量的内容不需要测量的是（）。A.测定建筑物各主要角点平面坐标B.测定建筑物各套房屋套内建筑面积C.测定零层高程和主体房顶高程D.测定建筑物各主要角点高程",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "65a3cc9b-f3ba-4b08-98bf-5a0ca4c110e5",
+        "type": "single_choice",
+        "index": 10
+    },
+    {
+        "question": "水准测量时,应使前后视距尽可能相等,其目的是减弱()的误差影响A.圆水准器轴不平行于仪器竖轴B.十字丝横丝不垂直于仪器竖轴C.标尺分划误差D.仪器视准轴不平行于水准管轴",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "861c3958-4266-475a-b0a1-5eeda79a02ec",
+        "type": "single_choice",
+        "index": 11
+    },
+    {
+        "question": "水准测量时,正午前后2小时内不应进行测量,这是为了避免()影响。A.大气折光误差B.电离层C.呈像不稳定D.气象因素",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "b0a890c4-9f9f-4708-8c93-86cd55618b14",
+        "type": "single_choice",
+        "index": 12
+    },
+    {
+        "question": "已知直线PA方位角,$a\\mathrm{{PA}}={58}^{\\circ}{48}^{\\prime}{16}^{\\prime\\prime},\\angle\\mathrm{{PAB}}={91}^{\\circ}{02}^{\\prime}{10}^{\\prime\\prime}$,若$\\angle\\mathrm{{PAB}}$为右角,则直线AB的坐标方位角为（）。A.${147}^{\\circ}{46}^{\\prime}{06}^{\\prime\\prime}$B.${137}^{\\circ}{47}^{\\prime}{06}^{\\prime\\prime}$C.${124}^{\\circ}{50}^{\\prime}{26}^{\\prime\\prime}$D.${69}^{\\circ}{50}^{\\prime}{26}^{\\prime\\prime}$",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "00aa61ef-8b74-4539-b1ed-9eb8fdb5fb28",
+        "type": "single_choice",
+        "index": 13
+    },
+    {
+        "question": "欲放样B点的设计高程HB＝6.000m，已知水准点高程HA＝3.545m，水准尺后视A点水平读数a＝2.817m，放样B点设计高程的前视读数（）。A.$b={3.545}\\mathrm{\\;m}$B.$b={1.555}\\mathrm{\\;m}$C.$b={2.362}\\mathrm{\\;m}$D.$b={0.362}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "1d78053b-3da1-4bc1-bbe1-011ff0fc267b",
+        "type": "single_choice",
+        "index": 14
+    },
+    {
+        "question": "已知A点高程为：HA=3.228m，水准仪器后视A点水平读数为：a=1.518m，放样B点的前视水平读数为:$\\mathrm{b}={1.310}\\mathrm{\\;m}$,则B点的高程测量结果为$\\left(\\;\\right)$。A.$\\mathrm{{HB}}={3.436}\\mathrm{\\;m}$B.$\\mathrm{{HB}}={3.020}\\mathrm{\\;m}$C.$\\mathrm{{HB}}={0.400}\\mathrm{\\;m}$D.$\\mathrm{{HB}}={6.056}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "167dd5b8-e1a3-4ebb-a9d3-69e29103a5e4",
+        "type": "single_choice",
+        "index": 15
+    },
+    {
+        "question": "在地面上测量两点间的水平距离为1km，两点的平均高程为64m，则该边长归算到椭球面上会（）A.减少2.0cmB.减少1.$0\\mathrm{\\;{cm}}$C.增加2.0cmD.增加1.0cm",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "f9fb9d15-2661-476b-aca2-68b5f48aeccd",
+        "type": "single_choice",
+        "index": 16
+    },
+    {
+        "question": "一、二等水准测量中,用于作为转点尺承的尺桩或尺台至少不能少于()个A.2B.3C.4D.5",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "798359cd-553f-48b1-9635-b874a4c372c4",
+        "type": "single_choice",
+        "index": 17
+    },
+    {
+        "question": "房屋调查与测绘的基本单元是（）。A.幢B.层C.套D.间",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "9a458c8b-a77c-4194-8833-48372c29231f",
+        "type": "single_choice",
+        "index": 18
+    },
+    {
+        "question": "根据现行土地利用分类标准,下列土地类型中,第三次全国国土调查不调查的是()A.耕地B.林地C.湖泊D.各宅基地界线",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "c47d4a37-4eb6-407c-9aef-dad9a8304e6c",
+        "type": "single_choice",
+        "index": 19
+    },
+    {
+        "question": "集体土地确权中,两个区没有明确归属的区域通常称为$\\left(\\;\\right)$。A.流转地B.破宗地C.插花地D.共用宗地",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "a1508c2e-6557-4bbd-8ac9-1f49672e0437",
+        "type": "single_choice",
+        "index": 20
+    },
+    {
+        "question": "航空摄影中，在航摄仪成像面上的地物构像产生的影像位移，最大容许像移值≤0.04mm时，m指的是（）。A.最高地形点航摄比例尺分母B.平均地面高程航摄比例尺分母C.成图比例尺分母D.航摄高度",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "3ebc69ff-65f6-46ac-a783-c2dfffeaecdb",
+        "type": "single_choice",
+        "index": 21
+    },
+    {
+        "question": "下列遥感卫星影像中,可以满足1：1万成图精度要求的是（）。A.高分1号B.高分2号C.高分3号D.高分4号",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "63afde6d-7dec-4e97-a194-03d7ebe08790",
+        "type": "single_choice",
+        "index": 22
+    },
+    {
+        "question": "航测法生产地形图时,若采用全野外布点法,无须进行的作业步骤是()。A.像控点测量B.立体测图C.外业调绘D.空中三角测量",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "907b6ea3-bcd0-4b28-9649-636c883dbfcb",
+        "type": "single_choice",
+        "index": 23
+    },
+    {
+        "question": "摄影测量工作中，下列外业控制点无法进行立体模型绝对定向的是（）。A.三个平高点B.两个平高点和一个高程点C.两个平面点和三个高程点D.四个平面点",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "169e50b9-9df8-4a9e-ae45-faabd27e2400",
+        "type": "single_choice",
+        "index": 24
+    },
+    {
+        "question": "下列影像数据格式中,数字正射影像图一般不选用的存储格式是()。A.ERDASIMGB.GeoTIFFC.TIFF与TFW的组合D.BMP",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "8aecd32f-78d7-4444-a650-9477abe22e68",
+        "type": "single_choice",
+        "index": 25
+    },
+    {
+        "question": "遥感卫星“GeoEye-1”的波段数是（）。A.3B.4C.5D.7",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "c334eb2e-8e96-4717-a841-96e638cc53ed",
+        "type": "single_choice",
+        "index": 26
+    },
+    {
+        "question": "地图的基本特性之一“一览性”是指（）。A.地图具有地图投影、比例尺和定向等数学基础B.地图用符号通过一定的法则对地面物体进行抽象C.通过制图综合,用概括和选取的手段突出地理事物的分布规律D.实体形体小而又非常重要的目标可设置单独的符号表示",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "d43ec8be-c6e0-4b71-909d-2eb54c382738",
+        "type": "single_choice",
+        "index": 27
+    },
+    {
+        "question": "下列说法中,不属于实体对象所具有拓扑描述的是()。A.国界不能有悬挂点B.等高线不能相交C.道路可用线性符号表示D.标识点必须落在多边形内",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "dec7458c-2fb8-4032-8630-85e1a6522ca0",
+        "type": "single_choice",
+        "index": 28
+    },
+    {
+        "question": "下列功能中,不属于GIS系统基本功能的是()。A.数据采集输入B.数据编辑与更新C.空间查询与分析D.决策指挥",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "fa6681d4-d7f5-4f50-9b9f-a3fdceac4973",
+        "type": "single_choice",
+        "index": 29
+    },
+    {
+        "question": "下列数据格式中,不属于三维模型数据格式的是()。A.OBJB.OSGBC.3DSD.ShapeFile",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "ef7de85b-463b-44d3-aca3-ddcce33bdf20",
+        "type": "single_choice",
+        "index": 30
+    },
+    {
+        "question": "下列文件资料中,不属于GIS工程项目验收依据的是（）。A.项目招投标文件B.相关标准规范C.承接方内部测试文档D.项目需求分析报告",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "99e8eb87-b123-48f3-a53b-29835618fb47",
+        "type": "single_choice",
+        "index": 31
+    },
+    {
+        "question": "与规则格网相比较,不规则三角网表达DEM的最显著特点是()。A.平坦地区数据冗余小B.数据结构简单C.可计算等高线D.地形表达直观易读",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "542870e0-3018-43a0-b6f1-42496370abe2",
+        "type": "single_choice",
+        "index": 32
+    },
+    {
+        "question": "下列软件系统组成部分中,属于地理信息公共服务平台基础的是()。A.数据集B.管理交换系统C.在线服务系统D.支撑环境",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "b453ac3f-9a51-4c46-bb0f-c10ee31ba82f",
+        "type": "single_choice",
+        "index": 33
+    },
+    {
+        "question": "下列应用需求中,应用程序编程接口(API)属于网络地理信息的()。A.数据下载B.二次开发C.地图浏览D.信息查询",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "7e06cf98-9984-4ff7-9fbf-15d996856b64",
+        "type": "single_choice",
+        "index": 34
+    },
+    {
+        "question": "使用数字水准仪进行二等水准测量,前后视距差不应大于$\\left(\\;\\right)\\mathrm{m}$。A.0.5B.1.5C.10D.15",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "3431f735-2a2e-42f5-8caa-598c04bfcf9c",
+        "type": "single_choice",
+        "index": 35
+    },
+    {
+        "question": "现行规范规定,下列精度指标中,可以说明GPS网平差结果满足规范要求的是()A.同步环闭合差小于限差B.异步环闭合差小于限差C.复测基线长度较差小于限差D.最弱边相对中误差小于限差",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "899e0acb-31e3-49bf-bd3b-0ad826ccaaf1",
+        "type": "single_choice",
+        "index": 36
+    },
+    {
+        "question": "采用多波束系统水深测量时,进行多波束参数校正不需要的是()。A.导航延迟校准B.转速校准C.横摇校准D.纵摇校准",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "bd3b76c4-8e92-4db4-9e35-3581eb6b3abd",
+        "type": "single_choice",
+        "index": 37
+    },
+    {
+        "question": "现行规范规定,短期验潮站一般应有$\\left(\\;\\right)$天以上连续观测的水位资料.A.15B.30C.45D.60",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "ae5dd173-8da0-4e75-85f4-aadc2f7a98e7",
+        "type": "single_choice",
+        "index": 38
+    },
+    {
+        "question": "采用DJ2经纬仪对某方向进行观测，观测结果的精度要求为1.0${}^{\\prime\\prime}$，则观测（）测回可满足要求A.2B.4C.6D.8",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "b94e0308-0497-4a24-9c93-269bdd0223f6",
+        "type": "single_choice",
+        "index": 39
+    },
+    {
+        "question": "下列因素中,建立城市独立平面坐标系不需考虑的是$\\left(\\;\\right)$。A.中央子午线B.城市坐标原点C.投影面高程D.高程异常",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "20725288-ef8e-41af-958f-83be0d1721b4",
+        "type": "single_choice",
+        "index": 40
+    },
+    {
+        "question": "水准测量中,下列措施中,可以削弱水准仪$\\mathrm{i}$角误差影响的是（）。A.保持测段内测站数为偶数B.保持前后视距基本相等C.采用前一后一后一前顺序观测D.采用后一前一前一后顺序观测",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "a1ce36ff-471f-4b5f-a274-005dce3630c8",
+        "type": "single_choice",
+        "index": 41
+    },
+    {
+        "question": "水准测量中设P点为后视点,E点为前视点,P点的高程是51.097m,当后视读数为1.116m,前视读数为1.357m，则E点的高程是（）。A.51.${338}\\mathrm{\\;m}$B.52.454mC.50.856mD.51.${213}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "16d59a76-0386-4bba-a4cd-9cfd5bf09ef0",
+        "type": "single_choice",
+        "index": 42
+    },
+    {
+        "question": "水准测量中,对每一测站的高差都必须采取措施进行检核测量,这种检核称为测站检核。下列何项属于常用的测站检核方法?()A.双面尺法B.黑面尺读数C.红面尺读数D.单次仪器高法",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "05661854-bea7-426a-9640-b5cf8788ef87",
+        "type": "single_choice",
+        "index": 43
+    },
+    {
+        "question": "水准测量中,当构成水准网的水准环超过20个时,还需按环线闭合差计算()A.环线高差闭合差B.往返较差闭合差C.每千米高差全中误差D.每千米高差偶然中误差",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "9bc398f9-2ee9-4b1f-838a-881af68e1123",
+        "type": "single_choice",
+        "index": 44
+    },
+    {
+        "question": "微倾式水准仪轴线之间应满足相应的几何条件,其中满足的主要条件是下列哪项?$\\left(\\;\\right)$A.圆水准器轴平行于仪器竖轴B.十字丝横丝垂直于仪器竖轴C.视准轴平行于水准管轴D.水准管轴垂直于圆水准器轴",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "742d6d74-8025-416e-bee2-2380fd7bf21d",
+        "type": "single_choice",
+        "index": 45
+    },
+    {
+        "question": "水准测量中每测段应采用偶数站,这种做法的目的是可以削弱$\\left(\\;\\right)$。A.水准仪$\\mathrm{i}$角误差B.对标尺零点不等差C.水准仪沉降D.水准尺沉降",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "a998da6f-f2be-43c3-b379-3426fc330644",
+        "type": "single_choice",
+        "index": 46
+    },
+    {
+        "question": "一、二等水准路线跨越江、河，当视线长度大于（）m时，应根据视线长度和仪器设备等情况，选用规范规定的相应方法进行跨河水准测量。A.50B.100C.150D.200",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "207c8afd-6d6e-4b40-abb4-bd6a3e5ed029",
+        "type": "single_choice",
+        "index": 47
+    },
+    {
+        "question": "在水准测量中,若后视点读数小于前视点读数,则()。A.后视点比前视点低B.后视点比前视点高C.后视点、前视点等高D.后视点、前视点的高程取决于仪器高度",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "2325fb65-02d4-4873-97a8-18da549949c9",
+        "type": "single_choice",
+        "index": 48
+    },
+    {
+        "question": "水准测量外业中,采用公式计算中误差,其中W为附合或环线闭合差,L为相应的路线长度,n为附合路线或闭合环的总个数，则Mw为每千米水准测量的（）。A.附合或环闭合差的偶然中误差B.高差偶然中误差C.附合或环闭合差的全中误差D.高差全中误差",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "76d87ecf-c7b7-45db-9dcb-d27537b0ec60",
+        "type": "single_choice",
+        "index": 49
+    },
+    {
+        "question": "进行三、四等水准测量,视线长度和前后视距差都有一定的要求,对于四等水准测量的前后视距差限差是（）。A.${10}\\mathrm{\\;m}$B.$5\\mathrm{\\;m}$C.$8\\mathrm{\\;m}$D.${12}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "b73b620d-7321-4115-b50a-22eebad174ca",
+        "type": "single_choice",
+        "index": 50
+    },
+    {
+        "question": "下列质量元素中,不属于工程控制网成果质量检查项的是()。A.设计方案B.观测质量C.计算质量D.数学精度",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "e43cec33-a0e5-4c92-ac0d-ddbbe58734ef",
+        "type": "single_choice",
+        "index": 51
+    },
+    {
+        "question": "从已知高程点,经过4个测站水准测量,测定未知点高程,已知点的高程中误差为8mm,每测站高差测量中误差为$2\\mathrm{\\;{mm}}$。则未知点的高程中误差为$\\left(\\;\\right)\\mathrm{{mm}}$(结果取至整数)。A.$\\pm9$B.$\\pm{10}$C.$\\pm{12}$D.$\\pm{16}$",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "a4e046b5-faae-4724-a446-27ea1720174d",
+        "type": "single_choice",
+        "index": 52
+    },
+    {
+        "question": "下列变形监测方法中,建筑物倾斜监测一般不采用的是()。A.全站仪投点法B.水平角观测法C.前方交会法D.后方交会法",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "a5f6fc59-a594-4d44-84b6-e4b276f54b4c",
+        "type": "single_choice",
+        "index": 53
+    },
+    {
+        "question": "下列误差中,通过GNSS站间求差的方式可以消弱的是（）。A.卫星钟差B.对中误差C.接收机钟差D.多路径误差",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "01117ac9-577c-4810-906c-7bb5fabee5e2",
+        "type": "single_choice",
+        "index": 54
+    },
+    {
+        "question": "变形监测中,沉降基准点的布设与建筑物的$\\left(\\;\\right)$有关。A.高度B.地基深度C.长度D.宽度",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "385f785f-bdb0-4041-a9fe-abdac4d1d0af",
+        "type": "single_choice",
+        "index": 55
+    },
+    {
+        "question": "理论上,不影响全站仪的水平视准误差(2C)的轴线是()。A.视准轴B.水准管轴C.横轴D.纵轴",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "de703a12-4032-4291-8ce6-6ae04aacf1b1",
+        "type": "single_choice",
+        "index": 56
+    },
+    {
+        "question": "下列关于房产图上门牌号和幢号的说法,正确的是（）。A.门牌号标注在房屋轮廓线内实际开门处B.门牌号标注在房屋轮廓线内中心位置C.幢号标注在房屋轮廓线内右下角D.幢号标注在房屋轮廓线内中心位置",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "92738cd3-fcc2-4207-9caa-820de7f0f05a",
+        "type": "single_choice",
+        "index": 57
+    },
+    {
+        "question": "房产测量中,下列建筑附属物不计算建筑面积的是()。A.楼房内管道井B.楼顶露天泳池C.有顶未封闭阳台D.无顶室外楼梯",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "10f24a69-7f15-4544-8a74-ad075c5b27e6",
+        "type": "single_choice",
+        "index": 58
+    },
+    {
+        "question": "甲乙两单位共建房屋，双方约定配电室面积20m${}^{2}$平均共有，其他共有面积50m${}^{2}$无特殊约定正常分摊。计算两单位套内建筑面积分别${200}{\\mathrm{\\;m}}^{2}、{300}{\\mathrm{\\;m}}^{2}$,则房产建筑面积分别为（）。A.${210}{\\mathrm{m}}^{2}$、310m2B.${240}{\\mathrm{m}}^{2}$、360m2C.${248}{\\mathrm{m}}^{2}$、${372}{\\mathrm{m}}^{2}$D.${250}{\\mathrm{m}}^{2}$、370m2",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "47693b6b-5040-42b3-9811-79d174613053",
+        "type": "single_choice",
+        "index": 59
+    },
+    {
+        "question": "根据《第三次全国土地调查实施方案》，建设用地和设施农用地图斑最小调查上图面积是（）m${}^{2}$。A.50B.200C.600D.800",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "8fca72e2-565c-407b-8f3a-7fea32f7da09",
+        "type": "single_choice",
+        "index": 60
+    },
+    {
+        "question": "宗地代码采用五层19位层次码结构,其中第五层代表的是（）。A.宗地顺序号B.土地权属类型C.地籍子区号D.县级行政区划代码",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "5a84476b-b3ed-4505-b745-5bea26aac7ad",
+        "type": "single_choice",
+        "index": 61
+    },
+    {
+        "question": "下列关于边界点的说法中,不正确的是()。A.边界点在界线两侧B.边界点有明确固定位置C.边界点是地物点D.边界点可确定边界线走向",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "12995a3a-9989-4f16-aaa1-1d94925b0e5a",
+        "type": "single_choice",
+        "index": 62
+    },
+    {
+        "question": "省级行政区域界线测量工作中,同号三立界桩的类型码分别用()A.A、B、CB.B、C、DC.C、D、ED.D、E、F",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "44aa7904-68a4-4f1f-88f8-9efd4c5a9923",
+        "type": "single_choice",
+        "index": 63
+    },
+    {
+        "question": "按航摄仪检定要求,下列情况中,航测仪无须检定的是()。A.距前次检定时间超过2年B.快门曝光次数超过10000次C.航摄仪经过大修D.航摄仪受到剧烈震动",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "fcc91ba9-ffae-44cc-844e-098547705f79",
+        "type": "single_choice",
+        "index": 64
+    },
+    {
+        "question": "航摄实施前,应进行测绘航空摄影准备的工作是()。A.航高保持B.航摄系统设备工作状态检查C.航线布设D.航摄漏洞补摄",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "029c907e-8edc-4c1a-bbc8-c2ea8c3f90c1",
+        "type": "single_choice",
+        "index": 65
+    },
+    {
+        "question": "地图编绘工作中,若注记和符号发生冲突,应该()。A.移动符号B.移动注记C.缩小符号D.缩小注记",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "a2b278db-3040-47d7-85a4-54a374e08e5f",
+        "type": "single_choice",
+        "index": 66
+    },
+    {
+        "question": "下列地形地物要素中,可作为航测像片平面控制点的是()。A.圆山顶B.弧形地物C.围墙拐点D.山区鞍部",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "0614ada3-5294-4dce-9e57-73f2860f40da",
+        "type": "single_choice",
+        "index": 67
+    },
+    {
+        "question": "下列特征中,无法提高遥感影像解译分类精度的是()A.纹理特征B.坡度C.像素坐标D.坡向",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "f95e7a26-f84a-4bd1-8b0f-17e0ce53f09d",
+        "type": "single_choice",
+        "index": 68
+    },
+    {
+        "question": "数字摄影测量不需要应用的技术是（）。A.影像相关B.像片扫描C.影像镶嵌D.影像匀色",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "d2b4159b-4c0d-40ac-84f6-ef4714647352",
+        "type": "single_choice",
+        "index": 69
+    },
+    {
+        "question": "下列关于机载侧视雷达的特征说法中,错误的是$\\left(\\;\\right)$。A.采用斜距投影的方式成像B.雷达影像色调与地物表面粗糙度有关C.侧视雷达成像是一种被动式测量方式D.雷达影像上会出现山体前倾重影现象",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "a2553ca2-0a17-4ed7-81f9-46956aad76e1",
+        "type": "single_choice",
+        "index": 70
+    },
+    {
+        "question": "下列技术环节中,不属于生产数字正射影像图工作内容的是()。A.DEM采集B.数字微分纠正C.像片调绘D.影像镶嵌",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "ec9e40e5-4d42-47bf-9c2a-062e83877775",
+        "type": "single_choice",
+        "index": 71
+    },
+    {
+        "question": "下列检查方法中,无法用于评定数字正射影像图DOM精度的是（）。A.野外测量检测B.与地形图套合C.与DEM套合D.与已有DOM套合",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "c09fa101-16a4-4412-b192-97a4c83f4d5f",
+        "type": "single_choice",
+        "index": 72
+    },
+    {
+        "question": "全色波段的成像波段范围属于电磁波中的（）A.远红外B.可见光C.紫外D.近红光",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "24e4c6b6-6dab-4612-b19b-b954c48a6462",
+        "type": "single_choice",
+        "index": 73
+    },
+    {
+        "question": "下列检查内容中,不属于摄影测量内业成果质量检查项的是()。A.像控点刺点精度B.模型接边C.地形图接边D.地物丢漏",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "00fe4dac-b25f-421f-ae36-c1899199147b",
+        "type": "single_choice",
+        "index": 74
+    },
+    {
+        "question": "1：500地形图上,比高一般注记至$\\left(\\;\\right)\\mathrm{m}$。A.0.001B.0.01C.0.1D.1",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "84479232-d39c-4305-a212-f5764dca16e7",
+        "type": "single_choice",
+        "index": 75
+    },
+    {
+        "question": "进行某地图集编绘时,一共设计240页,开本是8开,采用正度全开纸印刷,则一共需要()个印张.A.60B.30C.15D.10",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "c29dc07e-f484-4d8f-a0df-0cb162b60c6b",
+        "type": "single_choice",
+        "index": 76
+    },
+    {
+        "question": "下列关于地图拼接的方法中,错误的是$\\left(\\;\\right)$。A.地图拼接包括图廓拼接和重叠拼接两种方式B.地图拼接一般采用上压下、左压右的方式C.地形图通常采用图廓拼接的设计方式D.重叠拼接方式不可用于经纬度分幅地图",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "dc6cad6b-4aa7-4fec-a316-ad57413679b5",
+        "type": "single_choice",
+        "index": 77
+    },
+    {
+        "question": "一幅1：25万比例尺地形图可以分成（）幅1：10万比例尺地形图。A.4B.9C.16D.36",
+        "answer": "B",
+        "score": 0.93,
+        "unique_ID": "ea033b8f-2c23-4fda-85a7-ee7fa2926a47",
+        "type": "single_choice",
+        "index": 78
+    },
+    {
+        "question": "下列功能中,不适合采用DEM数据在空间分析中应用的是()。A.通视分析B.流域范围提取C.缓冲区分析D.地形坡度坡向计算",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "ad97f489-6734-440e-9cb8-3f31419bad57",
+        "type": "single_choice",
+        "index": 79
+    },
+    {
+        "question": "下列检查项中,不属于入库数据检查内容的是（）。A.平面精度检查B.标识码唯一性检查C.接边检查D.字段定义一致性检查",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "e37a1c7e-fc2a-4579-a4c2-ff1c8bacd892",
+        "type": "single_choice",
+        "index": 80
+    },
+    {
+        "question": "下列服务内容中,不属于智慧城市公共信息平台服务范畴的是()。A.计算服务B.知识服务C.接口服务D.通信服务",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "acdf52c8-f1d4-4bf9-b66d-e0cc496cebbe",
+        "type": "single_choice",
+        "index": 81
+    },
+    {
+        "question": "下列模型中,属于数据库逻辑结构设计阶段的是（）。A.关系模型B.E-R模型C.CMM模型D.瀑布模型",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "25e48bcc-ea76-4932-bdbd-48e93c86afc6",
+        "type": "single_choice",
+        "index": 82
+    },
+    {
+        "question": "国际开发地理空间联盟（OGC）标准中，在网络上以“覆盖”栅格数据形式共享地理空间数据的规范是（）。A.WMSB.WPSC.WFSD.WCS",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "c6065386-dae3-4c63-b53b-74972b5c685e",
+        "type": "single_choice",
+        "index": 83
+    },
+    {
+        "question": "面向对象数据库的索引技术中,能够快速高效进行数据查询的是()。A.网格索引B.KDB索引C.R-tree索引D.B-tree索引",
+        "answer": "D",
+        "score": 0.93,
+        "unique_ID": "886c7479-fc14-4a73-bc52-ad3477cb778d",
+        "type": "single_choice",
+        "index": 84
+    },
+    {
+        "question": "下列测试检查项,不属于GIS系统试运行测试内容的是()。A.测试时间B.测试数据C.测试的硬件环境D.测试的软件环境",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "399f3546-95f2-49e7-9c1f-bdd8916b563c",
+        "type": "single_choice",
+        "index": 85
+    },
+    {
+        "question": "下列识图标识中,不属于导航定位产品地图画面必须显示的是()。A.有方位指向的位置光标B.地图指北针C.地图图例D.图解比例尺或滑动比例尺",
+        "answer": "C",
+        "score": 0.93,
+        "unique_ID": "0ef7aff9-45af-4c0e-bcc5-5d1b81b1c19d",
+        "type": "single_choice",
+        "index": 86
+    },
+    {
+        "question": "1：5000比例尺导航电子地图注记符号的尺寸是（）。A.8像素$\\times8$像素B.16像素$\\times{16}$像素C.32像素$\\times{32}$像素D.64像素$\\times{64}$像素",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "fc1e4193-a040-44b9-9b4e-c469ba2da2b6",
+        "type": "single_choice",
+        "index": 87
+    },
+    {
+        "question": "地理信息公共服务平台电子地图第20级的显示比例尺是（）。A.$1:{564.25}$B.$1:{1128.50}$C.$1:{500}$D.$1\\cdot{1000}$",
+        "answer": "A",
+        "score": 0.93,
+        "unique_ID": "a5d04353-054c-4941-8e2a-b117652cd0f8",
+        "type": "single_choice",
+        "index": 88
+    },
+    {
+        "question": "高程异常是指()至参考椭球面的垂直距离。A.大地水准面B.似大地水准面C.地球自然表面D.理论最低潮面",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "1bd3ca0d-b127-4200-84e1-5f962b0bdba7",
+        "type": "single_choice",
+        "index": 89
+    },
+    {
+        "question": "在椭球面上两点间距离最短的线是（$\\;$）。A.直线B.大圆弧C.大地线D.法截线",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "7f0d447d-8161-4f05-afd7-5e2fd8adab81",
+        "type": "single_choice",
+        "index": 90
+    },
+    {
+        "question": "已知某点横轴坐标Y$=$19123456.789，则该点横轴坐标y是（$\\;$）。A.19123456.789B.123456.789C.-376543.211D.-576543.211",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "3e3a2592-6f7a-428e-ac93-8b9b6a3a4d4b",
+        "type": "single_choice",
+        "index": 91
+    },
+    {
+        "question": "要求测段的水准测站数为偶数,目的是减弱因()引起的误差。A.对角B.地面沉降C.大气折光D.一对标尺零点不等差",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "3c696b86-2975-441b-b981-e4b500fb6ca8",
+        "type": "single_choice",
+        "index": 92
+    },
+    {
+        "question": "正常水准面不平行改正与两个水准点间的()有关。A.纬度差值B.重力差值C.经度差值D.高程异常差值",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "d7024281-2044-4b9e-9cdc-7456e1ca2490",
+        "type": "single_choice",
+        "index": 93
+    },
+    {
+        "question": "与全站仪垂直轴正交的面是（）。A.大地水准面B.似大地水准面C.地球表面D.参考椭球面",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "d373e3c6-e3b1-413a-8414-bccc2386ab6d",
+        "type": "single_choice",
+        "index": 94
+    },
+    {
+        "question": "某高精度GNSS动态定位项目可采用的技术是（$\\;$）。A.单点定位技术B.RTK技术C.虚拟参考站(VRS)技术D.静态同步观测技术",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "1697f919-b238-4a88-bb34-971b2eb45e20",
+        "type": "single_choice",
+        "index": 95
+    },
+    {
+        "question": "日出后30min内不应进行水准观测是为了消除或减弱（$\\;$）的影响。A.对角B.地面沉降C.调焦误差D.大气折光",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "8a24e7ad-881a-4e03-9441-8b749db52c75",
+        "type": "single_choice",
+        "index": 96
+    },
+    {
+        "question": "高斯-克吕格投影属于（$\\;$）。A.椭圆柱投影B.圆锥投影C.方位投影D.任意投影",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "0eb66016-c5fd-49bb-acf0-9c9f474dc104",
+        "type": "single_choice",
+        "index": 97
+    },
+    {
+        "question": "珠穆朗玛峰高程是（）。A.大地高B.正常高C.正高D.力高",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "1791f48a-87b6-40f1-ad76-7c41a0068eb0",
+        "type": "single_choice",
+        "index": 98
+    },
+    {
+        "question": "锯齿形测深线的布设应与岸线总方向成（$\\;$）角。A.${0}^{\\circ}$B.${45}^{\\circ}$C.${60}^{\\circ}$D.${90}^{\\circ}$",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "7cbbdc5a-618c-44b5-b3ea-51f290ee7b1b",
+        "type": "single_choice",
+        "index": 99
+    },
+    {
+        "question": "不影响海水中声波传播速度的是（$\\;$）。A.盐度B.温度C.压力D.潮汐",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "894ef356-30dd-41a6-a3f2-5a13a01f53bc",
+        "type": "single_choice",
+        "index": 100
+    },
+    {
+        "question": "下列不属于海洋工程地形测量作业范围的是（$\\;$）。A.水位观测B.海底地形测绘C.海洋重力测量D.岛礁地形测绘",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "3c146bfc-c14c-45aa-ae30-ca4a7bc8e277",
+        "type": "single_choice",
+        "index": 101
+    },
+    {
+        "question": "相邻验潮站之间最大潮时差为()h。A.0.5B.1C.1.5D.2",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "9f303347-a661-43e7-a583-5610ccdbda19",
+        "type": "single_choice",
+        "index": 102
+    },
+    {
+        "question": "AB的方位角为${134}^{\\circ}$,测得B点水平角（左角）$\\angle\\mathrm{{ABC}}={89}^{\\circ}$,则CB的象限角余角为（$\\;$）.A.${43}^{\\circ}$B.${44}^{\\circ}$C.${46}^{\\circ}$D.${47}^{\\circ}$",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "8fbff191-eddf-4881-921f-e444f37ee357",
+        "type": "single_choice",
+        "index": 103
+    },
+    {
+        "question": "用DJ2全站仪进行竖直角观测,共观测四测回,则中误差是()。A.$\\pm{1.0}^{\\prime\\prime}$B.$\\pm{1.2}^{\\prime\\prime}$C.$\\pm{1.4}^{\\prime\\prime}$D.$\\pm{1.6}''$",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "57c16ff1-0c11-47de-8843-9ffd5bb5d83c",
+        "type": "single_choice",
+        "index": 104
+    },
+    {
+        "question": "一般不用于土石方测量的是（$\\;$）。A.双极坐标法B.网格测量法C.前方交会法D.GPS-RTK法",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "149dbc15-c46a-4322-9eed-4ea32e74b86a",
+        "type": "single_choice",
+        "index": 105
+    },
+    {
+        "question": "利用钢卷尺进行施工放样化成平距不需要加的是（$\\;$）。A.拉力改正B.尺长改正C.温度改正D.高差改正",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "1fd94158-f8f2-47cb-bbf0-aa11e9f46073",
+        "type": "single_choice",
+        "index": 106
+    },
+    {
+        "question": "桥梁施工控制网一般不采用的是（）。A.三角网测量B.导线测量C.GNSS测量D.后方交会测量",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "c8ebeb35-e597-4dc6-9f17-bc20c3b13c51",
+        "type": "single_choice",
+        "index": 107
+    },
+    {
+        "question": "城市首级高程控制网相对于起算点的最弱点高程中误差最大应不大于()cm.A.1B.2C.3D.4",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "a82bb2c2-3f54-4093-a58e-bfb4bd988d1c",
+        "type": "single_choice",
+        "index": 108
+    },
+    {
+        "question": "测距仪乘常数的变化主要与()变化相关。A.材质磨损B.测程C.频率D.电路延迟",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "08ac33c4-23eb-4204-95db-ffa30edebdb2",
+        "type": "single_choice",
+        "index": 109
+    },
+    {
+        "question": "不会影响一井定向方位传递的是（$\\;$）。A.对中误差B.仪器高测量误差C.量距误差D.测角误差",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "1cfecc27-3299-4784-86de-32c058b61d54",
+        "type": "single_choice",
+        "index": 110
+    },
+    {
+        "question": "选择抵偿高程面的目的是（）。A.抵消高差改正与高程投影改正B.抵消高程投影改正与高斯投影改正C.抵消高斯投影改正与高差改正D.抵消高差改正与地球曲率改正",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "d866463f-3ab9-42f6-b07d-360d20db0d16",
+        "type": "single_choice",
+        "index": 111
+    },
+    {
+        "question": "下列哪一项不是测量建筑物水平位移的方法?(A.航空摄影测量B.卫星导航定位测量C.全站仪测量D.近景摄影测量",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "53522c21-e6ad-49c0-a82f-3aab3bf4aa47",
+        "type": "single_choice",
+        "index": 112
+    },
+    {
+        "question": "现行规范规定,房产变更测量分为两类,分别是()A.图纸变更测量和实地变更测量B.现状变更测量和权属变更测量C.房屋变更测量和用地变更测量D.内业变更测量和外业变更测量",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "ee08bfc6-9b1e-4e0f-86b0-27da310ae4f1",
+        "type": "single_choice",
+        "index": 113
+    },
+    {
+        "question": "房产分丘图上优先顺序正确的排序是（$\\;$）。A.房屋轮廓线、房屋权界线、丘界线B.房屋权界线、房屋轮廓线、丘界线C.丘界线、房屋轮廓线、房屋权界线D.丘界线、房屋权界线、房屋轮廓线",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "1d20e9c4-5860-4b0a-9f2c-68bb1c51df7a",
+        "type": "single_choice",
+        "index": 114
+    },
+    {
+        "question": "以底板投影为准进行测量的是（$\\;$）。A.檐廊B.柱廊C.阳台D.室外楼梯",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "590b04bc-57b4-421f-95c0-89aca2d52237",
+        "type": "single_choice",
+        "index": 115
+    },
+    {
+        "question": "下列表示地籍区界线的是（$\\;$）。A.黑色,虚线B.黑色,实线C.紫色,虚线D.紫色,实线",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "bc3ae1ef-b95c-4161-969d-ce223a8a3665",
+        "type": "single_choice",
+        "index": 116
+    },
+    {
+        "question": "地籍测量内业部分互检的检查比例为（$\\;$）。A.0.3B.0.5C.0.7D.1",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "cfa7ca0c-5502-4a31-901b-dc5e3c44fae5",
+        "type": "single_choice",
+        "index": 117
+    },
+    {
+        "question": "某宗地代码中有字母A，则为（$\\;$）。A.该宗地为其他土地使用权宗地B.该宗地为集体土地所有权宗地C.该宗地为使用权未确定土地D.该宗地为宅基地使用权宗地",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "30ca37f1-2112-41bf-a47e-bab9d6faae89",
+        "type": "single_choice",
+        "index": 118
+    },
+    {
+        "question": "下列不属于边界测绘工作任务的是（$\\;$）。A.拟定边界协议书B.绘制边界协议书附图C.制作边界地形图D.绘制边界主张线图",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "830a417c-648d-48d8-939c-d86f4bbeda18",
+        "type": "single_choice",
+        "index": 119
+    },
+    {
+        "question": "界河交岔口位置应设置的界桩类型是()。A.异号双立界桩B.同号双立界桩C.异号三立界桩D.同号三立界桩",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "779ad88c-3569-4f12-a599-adde06863372",
+        "type": "single_choice",
+        "index": 120
+    },
+    {
+        "question": "下列不属于测绘航空摄影设计分析工作内容的是（$\\;$）。A.资料收集B.像控点布设C.飞行方案选择D.确定主要设计因子",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "a1784f4b-da6d-4303-8f1f-0edfd7b667df",
+        "type": "single_choice",
+        "index": 121
+    },
+    {
+        "question": "某平坦测区采用航测法生产1：1万地形图，如果航摄仪主距为200mm，航摄比例尺要求为1：2万$\\sim$1：4万，地面高程为2000m，则绝对航高范围是（）m。A.4000~8000B.${5000}\\sim{9000}$C.${6000}\\sim{10000}$D.${7000}\\sim{11000}$",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "100ac209-a9c3-4a13-b6a4-9a300cf5a93d",
+        "type": "single_choice",
+        "index": 122
+    },
+    {
+        "question": "飞行质量检查的是（）。A.像片倾斜角B.影像反差C.像点位移误差D.影像清晰度",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "70633aba-e508-4553-adf7-5f6b0961cb24",
+        "type": "single_choice",
+        "index": 123
+    },
+    {
+        "question": "下列立体测图要素采集方法中,错误的是()。A.公共边应各自采集B.线状要素采集定位线C.面状要素采集外围轮廓线D.点状要素采集定位点",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "978501bd-6e79-413a-875c-5cfe24bb512a",
+        "type": "single_choice",
+        "index": 124
+    },
+    {
+        "question": "下列不属于航测外业调绘工作内容的是()。A.测量像控点B.获取地物要素的属性C.获取内业无法获取的地理名称D.补测立体测图无法或不能准确采集的要素",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "f5b86457-1bb3-43a0-97ba-6c61bde299ec",
+        "type": "single_choice",
+        "index": 125
+    },
+    {
+        "question": "更精确表达复杂地形表面的是（$\\;$）。A.等值线模型B.不规则三角网模型C.等值域模型D.格网数据模型",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "5af61bd7-11f5-4d3e-a8a8-c628384bf2a4",
+        "type": "single_choice",
+        "index": 126
+    },
+    {
+        "question": "从卫星经某地上空开始计时,到再次回到该地上空所需要的时间称为$\\left(\\;\\right)$。A.发射周期B.生命周期C.运行周期D.重复周期",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "47e6269c-378d-4d99-925f-301c78f0fcbc",
+        "type": "single_choice",
+        "index": 127
+    },
+    {
+        "question": "利用数字高程模型无法计算$(\\;$)。A.地形坡度B.楼房高度C.道路纵断面D.挖填方量",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "3217d873-0e49-4294-b60c-4292fb9c7f75",
+        "type": "single_choice",
+        "index": 128
+    },
+    {
+        "question": "调绘的主要目的是提供（$\\;$）。A.地物的位置B.像片控制点C.地物的属性D.地貌的形状",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "f9d4a12d-e9bc-4ce6-b5f9-0762f68a526c",
+        "type": "single_choice",
+        "index": 129
+    },
+    {
+        "question": "航测内业立体测图能够获取的是（$\\;$）。A.房屋边线B.地下管线C.行政界线D.地理名称",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "b5529640-63d2-4de3-b685-b8638ed26789",
+        "type": "single_choice",
+        "index": 130
+    },
+    {
+        "question": "下列选项中,不属于内业的是()。A.绝对定向B.像片调绘C.立体采集D.像片坐标测量",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "462a4c3d-e112-4917-acb1-e4e098250568",
+        "type": "single_choice",
+        "index": 131
+    },
+    {
+        "question": "下列选项中,不属于4D产品的是（$\\;$）。A.DEMB.DRGC.DLGD.DSM",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "413c7cf9-cbc5-42af-8ce2-ed59a74242dc",
+        "type": "single_choice",
+        "index": 132
+    },
+    {
+        "question": "下列关于LIDAR的说法,错误的是（）。A.LIDAR的外业工作量小B.LIDAR的激光脉冲信号能部分穿透植被的叶冠C.LIDAR是一种被动式测量方式D.LIDAR可以进行电力线检查",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "58908804-8a33-4e50-892f-bac4edc4ab17",
+        "type": "single_choice",
+        "index": 133
+    },
+    {
+        "question": "全色波段影像空间分辨率最高的是（$\\;$）。A.WorldView-3B.高分1号C.IKONOSD.QuickBird",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "3d146c2d-12e4-4478-b08e-de7084b26e77",
+        "type": "single_choice",
+        "index": 134
+    },
+    {
+        "question": "房产分丘图的幅面的全开大小为$\\left(\\;\\right)$。A.787mm×1092mmB.850mm×1168mmC.${546}\\mathrm{\\;{mm}}\\times{787}\\mathrm{\\;{mm}}$D.584mm×850mm",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "1497497d-cc70-4076-ae48-25dfb491fb78",
+        "type": "single_choice",
+        "index": 135
+    },
+    {
+        "question": "下列对于点值法作图的说法中,错误的是()A.用金字塔图表法表示不同年龄段的人口统计专题B.用范围法表示行政区划C.用点数法表示人口分布密度D.用分区统计图法表示各区域的农作物种植面积",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "c7c31afa-1b48-46be-abe4-739fda4013f9",
+        "type": "single_choice",
+        "index": 136
+    },
+    {
+        "question": "中央经线为${114}^{\\circ}$,长度投影变形最小的是$\\left(\\;\\right)$。A.经度为${114}^{\\circ}{30}^{\\prime}$的赤道地区B.经度为${114}^{\\circ}{30}^{\\prime}$的中、高纬度地区C.经度为${113}^{\\circ}$的赤道地区D.经度为${113}^{\\circ}$的中、高纬度地区",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "c50a0879-610d-48dd-bfcf-2f55c7b023aa",
+        "type": "single_choice",
+        "index": 137
+    },
+    {
+        "question": "下列属于地理信息数据专有的是（$\\;$）。A.数据量庞大B.数据结构复杂C.数据有动态性D.数据有空间参考",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "c58e10a0-130b-4aad-b777-23ea50666e0c",
+        "type": "single_choice",
+        "index": 138
+    },
+    {
+        "question": "下列不属于地理信息工程详细设计阶段工作的是（$\\;$）。A.搭建系统原型B.选定功能模块算法C.绘制程序结构图D.描述模块流程逻辑",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "5759063a-5bdb-4d75-8f6b-de0f43b58aea",
+        "type": "single_choice",
+        "index": 139
+    },
+    {
+        "question": "GIS辅助选址时,周边不能有医院、商场等公共设施,较适合的空间分析方法是()A.网络分析B.缓冲区分析C.聚类分析D.坡度分析",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "0e23dd29-1c0d-4c9c-ab42-9fb8b822b487",
+        "type": "single_choice",
+        "index": 140
+    },
+    {
+        "question": "基于SOA的应用端开发要重点关注的是（）。A.服务接口B.数据库结构C.数据模型D.服务器操作系统",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "cf727f61-c46e-43cf-b1f3-9b5cc59e5fc4",
+        "type": "single_choice",
+        "index": 141
+    },
+    {
+        "question": "白盒测试也称（$\\;$）。A.因果图法B.边值分析法C.错误推测法D.逻辑驱动法",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "672ebe18-d1df-4e93-93d0-ad098a53caf7",
+        "type": "single_choice",
+        "index": 142
+    },
+    {
+        "question": "下列属于基础地理信息数据的是（$\\;$）。A.地理国情普查数据B.农村承包地数据C.三调数据D.$1:{500}$地形图数据",
+        "answer": "D",
+        "score": 1.28,
+        "unique_ID": "0752ab60-edc9-417e-9a7f-fb6f54965667",
+        "type": "single_choice",
+        "index": 143
+    },
+    {
+        "question": "数据库概念设计阶段常用到的是（$\\;$）。A.层次模型B.E-R模型C.面向对象数据模型D.网络模型",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "5da3507f-b378-4f9a-8fdd-7713ae3ef848",
+        "type": "single_choice",
+        "index": 144
+    },
+    {
+        "question": "按居民到设施点距离最短的要求划分设施点的服务范围可以采用的空间分析方法是()A.泰森多边形法B.视域分析法C.叠置分析D.缓冲区分析法",
+        "answer": "A",
+        "score": 1.28,
+        "unique_ID": "9e3fbc16-b497-4db0-931e-5856c41080c8",
+        "type": "single_choice",
+        "index": 145
+    },
+    {
+        "question": "下列关于地理实体的说法,错误的是()。A.地理实体是现实世界中具有空间位置、独立的自然或人工地物B.地理实体的空间数据表达由唯一的图元组成C.地理实体的几何表达类型包括点实体、线实体、面实体和体实体D.地理实体的空间数据表由图元表和实体表构成",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "e133bdc1-56f1-490a-a5d6-c713f0dcd196",
+        "type": "single_choice",
+        "index": 146
+    },
+    {
+        "question": "符合基础地理信息数据库设计顺序的是（$\\;$）。A.需求调查分析$\\rightarrow$概念设计$\\rightarrow$物理设计$\\rightarrow$逻辑设计B.需求调查分析$\\rightarrow$概念设计$\\rightarrow$逻辑设计$\\rightarrow$物理设计C.需求调查分析$\\rightarrow$逻辑设计$\\rightarrow$物理设计$\\rightarrow$概念设计D.需求调查分析$\\rightarrow$逻辑设计$\\rightarrow$概念设计$\\rightarrow$物理设计",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "0d54dbe0-2749-4f3b-b701-d457de0054d1",
+        "type": "single_choice",
+        "index": 147
+    },
+    {
+        "question": "下列编码格式不属于压缩编码方式的是（$\\;$）。A.链式编码B.直接栅格编码C.四叉树编码D.块状编码",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "e54a5e44-3bf3-483d-8ce6-bb851722188e",
+        "type": "single_choice",
+        "index": 148
+    },
+    {
+        "question": "可以在导航电子地图上表示的是（$\\;$）。A.雷达站B.大型通讯设施C.物流仓库D.专用公路",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "65c0f9e8-f650-43c0-86ad-6718dc5629f8",
+        "type": "single_choice",
+        "index": 149
+    },
+    {
+        "question": "在地理信息公共服务平台的构成体系中,应用程序接口属于()A.管理交换系统B.在线地理信息服务系统C.数据集D.支撑环境",
+        "answer": "B",
+        "score": 1.28,
+        "unique_ID": "ab365342-a209-4997-aa39-20cab85c0f2d",
+        "type": "single_choice",
+        "index": 150
+    },
+    {
+        "question": "能在互联网电子地图上表示的数字高程模型的格网间距最小不得小于()m.A.20B.50C.100D.200",
+        "answer": "C",
+        "score": 1.28,
+        "unique_ID": "2d6ba302-d677-4722-b605-177ce5854188",
+        "type": "single_choice",
+        "index": 151
+    },
+    {
+        "question": "水准测量的高程是（）。A.正常高B.正高C.大地高D.椭球高",
+        "answer": "A",
+        "score": 25.0,
+        "unique_ID": "b963fac3-2794-4ce7-8842-e4cb3cb733be",
+        "type": "single_choice",
+        "index": 152
+    },
+    {
+        "question": "AB方位角${45}^{\\circ}$,观测$\\angle\\mathrm{{ABC}}$左角${200}^{\\circ}$,BC的方位角（）。A.${45}^{\\circ}$B.${75}^{\\circ}$C.${65}^{\\circ}$D.${50}^{\\circ}$",
+        "answer": "C",
+        "score": 25.0,
+        "unique_ID": "4398082f-1db7-48d8-8486-6bd2667c1b4b",
+        "type": "single_choice",
+        "index": 153
+    },
+    {
+        "question": "房产面积测量精度有（）个等级。A.1B.2C.3D.4",
+        "answer": "C",
+        "score": 25.0,
+        "unique_ID": "e4bb3efd-ce04-4e95-8ce5-08bda3fee419",
+        "type": "single_choice",
+        "index": 154
+    },
+    {
+        "question": "地球随椭球的真子午线与中央子午线的差值,被称为$\\left(\\;\\right)$。A.磁偏角B.垂线偏差C.子午线收敛角D.大地方位角",
+        "answer": "C",
+        "score": 25.0,
+        "unique_ID": "9475484f-0d14-4927-a0cb-4e58e645f959",
+        "type": "single_choice",
+        "index": 155
+    },
+    {
+        "question": "下列误差中,属于GPS测量误差来源的是()。A.卫星钟差B.大气传播误差C.接收天线定向误差D.多路径效应产生的误差E.似大地水准面的误差",
+        "answer": "ABD",
+        "score": 0.93,
+        "unique_ID": "931ed37f-6cd0-438b-86a4-e3a52d0c81ad",
+        "type": "multi_choice",
+        "index": 156
+    },
+    {
+        "question": "现行规范规定,相邻两验潮站的布设应满足的要求有$\\left(\\;\\right)$。A.最大潮差不大于$1\\mathrm{\\;m}$B.满足GNSS观测条件C.最大潮时差不大于$2\\mathrm{\\;h}$D.地质结构基本一致E.潮汐性质基本相同",
+        "answer": "ACE",
+        "score": 0.93,
+        "unique_ID": "1646e2c2-0ef0-4b80-92cd-04a879868ea7",
+        "type": "multi_choice",
+        "index": 157
+    },
+    {
+        "question": "工程控制测量测定距离时,下列因素中,与测距仪加常数有关的是()。A.测距仪对中误差B.棱镜对中误差C.温度、气压变化D.测距仪距离起算中心与安置中心不一致E.棱镜有效反射面与安置中心不一致",
+        "answer": "DE",
+        "score": 0.93,
+        "unique_ID": "a716e771-948e-4361-8b11-8e74adeaab16",
+        "type": "multi_choice",
+        "index": 158
+    },
+    {
+        "question": "下列测绘成果中,属于边界测绘成果的是（）。A.边界协议书附图B.界桩位置略图C.边界地形图D.边界情况图E.边界主张线图",
+        "answer": "AB",
+        "score": 0.93,
+        "unique_ID": "29d26cd9-97ab-4806-8d7d-02ae1017aeb9",
+        "type": "multi_choice",
+        "index": 159
+    },
+    {
+        "question": "国家基本比例尺地形图中地形类别包括（）。A.平地B.坡地C.丘陵地D.山地E.高山地",
+        "answer": "ACDE",
+        "score": 0.93,
+        "unique_ID": "8f509965-b128-45cb-a33f-090fb327af3e",
+        "type": "multi_choice",
+        "index": 160
+    },
+    {
+        "question": "解析空中三角测量,按平差中所采用的数学模型可分为()。A.航带法B.独立模型法C.光束法D.数字微分法E.光学机械模拟法",
+        "answer": "ABC",
+        "score": 0.93,
+        "unique_ID": "ce704390-e855-4a43-9672-a9cd061aaaa8",
+        "type": "multi_choice",
+        "index": 161
+    },
+    {
+        "question": "下列地图表示方法中,可以用来表示海底地貌的是（）。A.水深注记法B.等深线法C.运动线法D.晕渲法E.分层设色法",
+        "answer": "ABDE",
+        "score": 0.93,
+        "unique_ID": "01f98603-fd9e-433f-a258-cec0970458a5",
+        "type": "multi_choice",
+        "index": 162
+    },
+    {
+        "question": "下列空间数据质量描述要素中,可用于评定数据质量的指标有$\\left(\\;\\right)$A.分辨率B.比例尺C.误差D.周期性E.空间投影",
+        "answer": "AC",
+        "score": 0.93,
+        "unique_ID": "d4fb538c-9c77-49c2-8bce-954afc77274d",
+        "type": "multi_choice",
+        "index": 163
+    },
+    {
+        "question": "我国2020年珠峰高程测量运用到的测绘技术有（）。A.GNSS测量B.水准测量C.重力测量D.三角高程测量E.激光准直测量",
+        "answer": "ABCD",
+        "score": 0.93,
+        "unique_ID": "ab26551f-17ad-440b-a48a-493e51887c27",
+        "type": "multi_choice",
+        "index": 164
+    },
+    {
+        "question": "三角高程测量中,能有效提高观测精度的方法有$\\left(\\;\\right)$。A.对向观测垂直角B.采用微倾螺旋法C.提高观测视线高度D.采用全圆观测法E.选择有利观测时间",
+        "answer": "ACE",
+        "score": 0.93,
+        "unique_ID": "c95988c0-17d3-4848-afa7-a9f7514559f2",
+        "type": "multi_choice",
+        "index": 165
+    },
+    {
+        "question": "利用全站仪在某测站进行水平角观测，下列情况中，水平角观测误差超限时需要重测该测回的是（）A.上半测回归零差超限B.下半测回归零差超限C.零方向测回差超限D.零方向$2\\mathrm{C}$较差超限E.重测方向数大于等于所测方向总数的$1/3$",
+        "answer": "BDE",
+        "score": 0.93,
+        "unique_ID": "b5bc51ef-a592-4ae8-8e61-982cb3a6c7db",
+        "type": "multi_choice",
+        "index": 166
+    },
+    {
+        "question": "下列操作中,数据解算时对CNSS短基线解算结果会产生影响的是$\\left(\\;\\right)$。A.改变仪器高B.选择不同对流层模型C.改变卫星截止高度角D.采用不同时间长度计算E.删除某颗卫星数据",
+        "answer": "BCDE",
+        "score": 0.93,
+        "unique_ID": "5a21efd5-03f5-442f-a0fd-82ba6d8d7394",
+        "type": "multi_choice",
+        "index": 167
+    },
+    {
+        "question": "下列资料中,属于建筑变形监测项目技术设计编写依据的是()。A.项目委托方要求B.规划审批文件C.建筑类型说明D.岩土工程勘察报告E.地基基础和建筑结构设计文件",
+        "answer": "ACDE",
+        "score": 0.93,
+        "unique_ID": "0bf27350-306f-4244-ab12-57c815244e9e",
+        "type": "multi_choice",
+        "index": 168
+    },
+    {
+        "question": "下列检查项中,属于精密光学水准仪作业前检查内容的是()。A.圆水准器的检校B.调焦透镜运行误差的测定C.i角检校D.光学测微器隙动差和分化值的测定E.视距常数的测定",
+        "answer": "ACD",
+        "score": 0.93,
+        "unique_ID": "e03a073b-8cc3-44d6-8f8c-d429f295ec3a",
+        "type": "multi_choice",
+        "index": 169
+    },
+    {
+        "question": "下列情况房产测绘成果中,属于现状测绘质量有问题的是()。A.成果总建筑面积与规划许可总建筑面积不符B.建筑物分摊后幢总建筑面积与分摊前幢总建筑面积不符C.成果图上建筑物外轮廓与建筑物自然状况不符D.成果中各分户面积较房屋预售面积普遍相差3%以上E.房屋内未有权属界线分隔的部位在成果中按有分隔显示",
+        "answer": "BCE",
+        "score": 0.93,
+        "unique_ID": "91c9a362-7245-4fc3-8db6-b628675263db",
+        "type": "multi_choice",
+        "index": 170
+    },
+    {
+        "question": "根据现行土地利用分类标准,下列用地类型中,属于商服用地的有()A.批发市场用地B.餐饮用地C.旅馆用地D.仓储用地E.娱乐用地",
+        "answer": "ABCE",
+        "score": 0.93,
+        "unique_ID": "5bc51b78-77e2-4317-954b-87cbc65e41f7",
+        "type": "multi_choice",
+        "index": 171
+    },
+    {
+        "question": "摄影测量时,需满足航摄技术的基本要求有$\\left(\\;\\right)$。A.航摄比例尺的选择B.航片控制点布设要求C.太阳高度角选择D.摄区内地形高差要求E.影像增强要求",
+        "answer": "AC",
+        "score": 0.93,
+        "unique_ID": "3429c671-fcbf-4742-b5af-2692f955afa3",
+        "type": "multi_choice",
+        "index": 172
+    },
+    {
+        "question": "下列因素中,会对地物波谱反射率造成影响的有$\\left(\\;\\right)$。A.太阳高度角B.季节C.地物所处地理位置D.反射形式E.地物本身的变异",
+        "answer": "ABCE",
+        "score": 0.93,
+        "unique_ID": "6e1f86ac-b7ac-4447-adea-c51af5f0ae79",
+        "type": "multi_choice",
+        "index": 173
+    },
+    {
+        "question": "GIS详细设计时,软件用户界面设计原则包括$\\left(\\;\\right)$。A.便于用户控制软件运行B.减少用户记忆负担C.保持用户交互一致性D.强调用户安全管理E.利于系统移植",
+        "answer": "ABC",
+        "score": 0.93,
+        "unique_ID": "32f41244-ae65-4eea-94ca-9495b66013cc",
+        "type": "multi_choice",
+        "index": 174
+    },
+    {
+        "question": "下列空间要素特性中,属于空间关系质量元素的有$\\left(\\;\\right)$。A.面要素的闭合性B.点要素的精度C.乡镇权属界线与其所属村界的包含性D.空间要素标识码的唯一性E.主要河流与其支流的连通性",
+        "answer": "ACDE",
+        "score": 0.93,
+        "unique_ID": "d1fe853b-ee0f-4085-a591-b8d1bc68f4e0",
+        "type": "multi_choice",
+        "index": 175
+    },
+    {
+        "question": "四等水准测量概略高程应加入的改正有（）。A.水准标尺长度误差改正B.固体潮改正C.路线闭合差改正D.重力异常改正E.正常水准面不平行改正",
+        "answer": "ACE",
+        "score": 1.28,
+        "unique_ID": "b54812a2-5825-483a-bffa-0f5c377c0b5d",
+        "type": "multi_choice",
+        "index": 176
+    },
+    {
+        "question": "减弱GNSS卫星信号多路径影响的方法有（$\\;$）。A.选择测站时避开反射体B.用扼流圈天线C.观测不同时段星座D.用双频接收机E.多台仪器同步观测",
+        "answer": "AB",
+        "score": 1.28,
+        "unique_ID": "58db5c76-f4a9-4cd7-b005-314a1d7b0099",
+        "type": "multi_choice",
+        "index": 177
+    },
+    {
+        "question": "建立国家天文大地控制网过程中使用（$\\;$）。A.三角测量B.天文大地测量C.GNSS测量D.导线测量E.甚长基线干涉测量",
+        "answer": "AD",
+        "score": 1.28,
+        "unique_ID": "8e718acb-9900-4755-a452-50d53c8156ff",
+        "type": "multi_choice",
+        "index": 178
+    },
+    {
+        "question": "海底地形图的基本比例尺包括$\\left(\\;\\right)$。A.$1\\div1$万B.$1:5$万C.$1:{10}$万D.$1:{25}$万E.$1:{100}$万",
+        "answer": "BDE",
+        "score": 1.28,
+        "unique_ID": "c6d75ff5-ee75-42fb-9dfb-fae881a2e263",
+        "type": "multi_choice",
+        "index": 179
+    },
+    {
+        "question": "经纬仪使用前应进行检验校准的有（$\\;$）。A.水准器轴与竖轴的垂直度B.照准部旋转不正确性C.视准轴与横轴的垂直度D.横轴与竖轴的垂直度E.竖盘指标差",
+        "answer": "ACDE",
+        "score": 1.28,
+        "unique_ID": "a82a2831-a96f-4780-ba9d-fd7e053adffa",
+        "type": "multi_choice",
+        "index": 180
+    },
+    {
+        "question": "水准测量系统误差的有（$\\;$）。A.标尺名义长偏差B.读数误差C.i角误差D.立尺不垂直误差E.大气折射误差",
+        "answer": "ACE",
+        "score": 1.28,
+        "unique_ID": "74a0c4cd-e83b-4f4e-962a-20c9816cfb2c",
+        "type": "multi_choice",
+        "index": 181
+    },
+    {
+        "question": "应增加建筑变形测量观测频率或观测内容的有$\\left(\\;\\right)$。A.变形量出现异常B.变形速率超出变形预警值C.变形观测人员受伤D.开挖面出现塌陷E.变形观测设备受损",
+        "answer": "ABD",
+        "score": 1.28,
+        "unique_ID": "317af293-eca3-4c49-9f8f-533720e6d46e",
+        "type": "multi_choice",
+        "index": 182
+    },
+    {
+        "question": "引起观测中某方向2C超限的原因有（$\\;$）。A.对中误差B.整平误差C.瞄准误差D.读数误差E.温度变化",
+        "answer": "CDE",
+        "score": 1.28,
+        "unique_ID": "9382dcb2-3cc2-4cdb-9d57-312aa533d186",
+        "type": "multi_choice",
+        "index": 183
+    },
+    {
+        "question": "定位点在图形几何中心的有（$\\;$）。A.圆形符号B.正方形符号C.下方无底的符号D.等边三角形符号E.长方形符号",
+        "answer": "ABDE",
+        "score": 1.28,
+        "unique_ID": "08b7379c-1ab9-4618-9add-13da4e6d4e0c",
+        "type": "multi_choice",
+        "index": 184
+    },
+    {
+        "question": "下列选项中,公共管理与公共服务用地的有()。A.机关团体用地B.军事设施用地C.科研用地D.体育用地E.医疗卫生用地",
+        "answer": "ACDE",
+        "score": 1.28,
+        "unique_ID": "82993df6-b935-433d-a7d4-6c8611dc742c",
+        "type": "multi_choice",
+        "index": 185
+    },
+    {
+        "question": "界桩成果表不包括（）。A.界桩类型B.界桩材质C.界桩编号D.方位物位置E.界桩位置略图",
+        "answer": "ABDE",
+        "score": 1.28,
+        "unique_ID": "dfd039a1-cb50-4ea1-90ff-ef3626503943",
+        "type": "multi_choice",
+        "index": 186
+    },
+    {
+        "question": "小卫星相对于大卫星的优势有（$\\;$）。A.重量轻B.体积小C.成本低D.研制周期短E.寿命长",
+        "answer": "ABCD",
+        "score": 1.28,
+        "unique_ID": "4878f7c6-bd62-455f-9c0e-49d140d63bdc",
+        "type": "multi_choice",
+        "index": 187
+    },
+    {
+        "question": "下列属于系统性能需求的有（$\\;$）。A.故障处理B.适应性C.时间特性D.数据精确度E.用户界面",
+        "answer": "BCD",
+        "score": 1.28,
+        "unique_ID": "ef23077b-d59c-4af8-8a35-8a2fd965f0b5",
+        "type": "multi_choice",
+        "index": 188
+    },
+    {
+        "question": "适合采用DEM数据的有（$\\;$）。A.流域范围提取B.森林火灾监测点设置C.水库大坝选址D.居民地拆迁分析E.物流配送路径分析",
+        "answer": "ABC",
+        "score": 1.28,
+        "unique_ID": "436c012c-9299-4c80-bd54-72550624797c",
+        "type": "multi_choice",
+        "index": 189
+    },
+    {
+        "question": "纸质地图质量评定内容包括（$\\;$）。A.内容质量B.编校质量C.设计质量D.资料质量E.印刷质量",
+        "answer": "ABCE",
+        "score": 1.28,
+        "unique_ID": "e685780d-5836-41e5-bb2f-5a3af6385a39",
+        "type": "multi_choice",
+        "index": 190
+    }
+]

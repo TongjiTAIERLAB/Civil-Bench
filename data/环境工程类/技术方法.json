@@ -1,0 +1,674 @@
+[
+    {
+        "question": "下列工作内容中，属于声环境影响评价基本要求的有（）。A.分析建设项目的噪声源分布B.明确引起超标的主要声源C.分析评价范围内的企业规模D.分析建设项目选址(选线)的合理性A.复氧系数$\\mathrm{K}2$与温度相关B.复氧系数K2与平均水深正相关C.复氧系数K2与平均流速正相关D.复氧系数K2与水面分子扩散系数相关",
+        "answer": "A",
+        "score": 5.56,
+        "unique_ID": "6686d1bc-cf4f-4686-9961-9f982c1911fd",
+        "type": "single_choice",
+        "index": 1
+    },
+    {
+        "question": "通用水土流失方程中,影响侵蚀控制措施因子P的主要因素有（）。A.土壤有机质含量B.农业耕作措施C.耕作期D.植被覆盖度",
+        "answer": "B",
+        "score": 5.56,
+        "unique_ID": "a40afad9-9af9-4087-a82c-6779610d871f",
+        "type": "single_choice",
+        "index": 2
+    },
+    {
+        "question": "机场项目环境影响评价中，声环境保护目标与项目现状评价关系图的最小比例尺是（）。A.$1:{5000}$B.$1:{10000}$C.$1:{15000}$D.$1:{20000}$",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "5d0e7073-8713-4806-a04d-8074eb90b787",
+        "type": "single_choice",
+        "index": 3
+    },
+    {
+        "question": "某拟建四车道公路项目近期设计车流量为200辆/h，预测点距离道路中心线15m，该项目采用公路交通运输噪声预测模型预测该点的距离衰减量为()dB。A.3.0B.4.5C.4.8D.7.2",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "601abbc3-d6ef-4135-a6a0-8ec71e4129d0",
+        "type": "single_choice",
+        "index": 4
+    },
+    {
+        "question": "某汽车厂冲压车间窗户长度×宽度为50m×2m，窗户对500Hz倍频带隔声量为24.0dB，车间内距窗户1m处${500}\\mathrm{\\;{Hz}}$倍频带声压级为82.$0\\mathrm{\\;{dB}}$,窗户向外辐射的${500}\\mathrm{\\;{Hz}}$倍频带声功率级是（）dB.A.52.0B.58.0C.72.0D.78.0",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "ee118a6f-614c-4379-9164-b9211d13ac45",
+        "type": "single_choice",
+        "index": 5
+    },
+    {
+        "question": "某污水接触氧化处理设施的有效容积为${2000}{\\mathrm{\\;m}}^{3}$,进水流量为${300}{\\mathrm{\\;m}}^{3}/\\mathrm{h}$,进水COD浓度为${150}\\mathrm{{mg}}/\\mathrm{L}$,出水COD浓度为70mg/L。该设施的COD有效容积去除负荷是（）${\\text{kg/m}}^{3}\\cdot$d。A.0.288B.0.540C.1.080D.1.440",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "0a1332fd-805f-4b5e-aa26-62be7b66662e",
+        "type": "single_choice",
+        "index": 6
+    },
+    {
+        "question": "某建设项目对土壤环境产生污染的因子有汞,评价范围内现有企业中,涉及汞污染因子的土壤影响源的是（）。A.木材加工厂B.汽车加油站C.生活垃圾焚烧发电厂D.钢制设备机械加工厂",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "d5d1ad8a-46f6-4159-986b-9e5692698708",
+        "type": "single_choice",
+        "index": 7
+    },
+    {
+        "question": "下列适用于静电除尘器除尘的是（）。A.燃煤锅炉烟气B.聚丙烯粉料仓废气C.汽车喷涂车间废气D.铝质轮毂抛光车间废气",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "bef62196-df66-4a58-a255-cf5c8a1ba42b",
+        "type": "single_choice",
+        "index": 8
+    },
+    {
+        "question": "下列属于生态处理技术的是（）。A.臭氧氧化B.V型生物滤池C.人工湿地D.厌氧生物处理设施",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "b2a696fe-af57-4667-997d-ab64ca8b8772",
+        "type": "single_choice",
+        "index": 9
+    },
+    {
+        "question": "某建设项目拟新建海水直流冷却系统,取水设计规模为${16000}{\\mathrm{\\;m}}^{3}/\\mathrm{h}$,悬浮物按${150}\\mathrm{{mg}}/\\mathrm{L}$考虑,供水设计温度为${33}^{\\circ}\\mathrm{C}$,直流冷却系统排水温度为${43}^{\\circ}\\mathrm{C}$,取水经沉淀处理,污泥脱水外运。该项目直流冷却系统排水的主要评价因子是（）。A.水量B.水温C.沉淀污泥D.盐度",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "caf3f26b-1b09-4614-9c81-7f683562e88d",
+        "type": "single_choice",
+        "index": 10
+    },
+    {
+        "question": "某石化项目配套的原油码头库区拟建12座共10万${}^{3}$的原油储存罐区,为满足土壤污染风险管控要求,拟在库区及周围设置15个土壤现状监测点,其中8个为柱状点,土壤现状监测应选择的特征因子是()A.$\\mathrm{{pH}}$值B.石油烃C.四氯化碳D.苯胺",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "35f9a2f3-fb2d-4cf2-9c96-cee1666e87e9",
+        "type": "single_choice",
+        "index": 11
+    },
+    {
+        "question": "某生活垃圾焚烧厂为减少二嗯英的排放,烟气净化系统在脱酸塔和袋式除尘器之间设置吸附剂喷射设施，应喷入的吸附剂是（）。A.氯气B.石灰水C.活性炭粉D.尿素",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "33317291-a130-4a1d-a0a5-7a71b506a4e6",
+        "type": "single_choice",
+        "index": 12
+    },
+    {
+        "question": "某油品泄漏事故情形设定储罐防火堤内形成液池火灾,液池的有效面积为2357.1m${}^{2}$,油品在液池里燃烧速率为0.0445kg/（m${}^{2}$·s）。油品火灾次生的一氧化碳释放量估算，取碳含量85%，化学不完全燃烧值5%，该事故情形一氧化碳产生的源强是（）$\\mathrm{{kg}}/\\mathrm{s}$。A.10.39B.12.22C.207.74D.244.39",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "8aeb4763-7e96-4e6c-a0db-60b152cfec48",
+        "type": "single_choice",
+        "index": 13
+    },
+    {
+        "question": "某湖泊面积较小、水深较大,除太阳辐射外没有其他热源交换,预测该湖泊水温时应采用的模型为(）。A.垂向一维数学模型B.湖泊均匀混合模型C.纵向一维数学模型D.平面二维数学模型",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "0cd28c57-baef-42ce-9c66-4965ec1e0d65",
+        "type": "single_choice",
+        "index": 14
+    },
+    {
+        "question": "选用高污泥负荷、高充水比序批式活性污泥法（SBR）去除的目标污染物主要是（）。A.氮B.锰C.铜D.磷",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "6dbb9c3c-4d01-4a64-9da2-e722e0c5b75b",
+        "type": "single_choice",
+        "index": 15
+    },
+    {
+        "question": "某地下水监测井井筒中水量为1.$5{\\mathrm{\\;m}}^{3}$,采用潜水泵或离心泵对采样井（孔）进行全井孔清洗,抽汲的水量最低为（）m${}^{3}$。A.1.5B.3.0C.4.5D.6.0",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "d6d0b448-3896-4723-930c-6fe6f0a7c086",
+        "type": "single_choice",
+        "index": 16
+    },
+    {
+        "question": "某油库油罐泄漏事故风险情景设定为油罐出料管口破裂,环境风险预测时其排放规律可以概化为$\\left(\\;\\right)$A.面源排放B.点源排放C.瞬时排放D.恒定排放",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "1584eb2d-5b65-4ffa-991c-dd9203ed9c79",
+        "type": "single_choice",
+        "index": 17
+    },
+    {
+        "question": "某拟建生活垃圾填埋场开展土壤环境影响预测,应选用的模型是$\\left(\\;\\right)$。A.一维非饱和溶质运移模型B.一维饱和溶质运移模型C.二维饱和溶质运移模型D.二维非饱和溶质运移模型",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "754aa7df-3769-4db5-a534-a96e548ef3f4",
+        "type": "single_choice",
+        "index": 18
+    },
+    {
+        "question": "下列水文地质试验中,可用于测定包气带渗透性能及防污性能的是()。A.抽水试验B.注水试验C.渗水试验D.浸溶试验",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "8d1e927a-8311-4f2e-b854-90e1b21243d3",
+        "type": "single_choice",
+        "index": 19
+    },
+    {
+        "question": "某拟建项目位于城市区域，排放的主要污染物有颗粒物、S02、N02、NH3和H2S，大气环境影响评价等级为一级，评价收集了项目所在区域环境空气质量监测网中评级基准年一年的S02、N02、PM10、PM2.5、C0和O3六项污染物监测数据，并进行了NH3和H2S的补充监测，判定该项目所在区域环境空气质量为达标区的依据是（）。A.补充监测的NH3和H2S达标B.SO2、NO2、PM10、PM2.5、NH3和H2S达标C.主要污染物SO2、NO2、PM10、PM2.5达标D.SO2、NO2、PM10、PM2.5、CO和O3达标",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "5a7e803c-d56f-4d10-80a7-2cfcb01a12b9",
+        "type": "single_choice",
+        "index": 20
+    },
+    {
+        "question": "某建设项目年排放SO2200t、NOx340t、VOCS1700t，选用模型模拟法预测二次PM2.5的推荐模型为（）A.AERMOD模型B.ADMS模型C.CMAQ模型D.CALPUFF模型",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "532e6c77-f302-44bb-8418-c21fd7bd9c3d",
+        "type": "single_choice",
+        "index": 21
+    },
+    {
+        "question": "某水库项目在进行生态影响评价因子筛选时,下列生态影响中,属于间接生态影响的是()A.水库蓄水淹没库区植被B.大坝阻隔鱼类洄游通道C.工程施工噪声干扰工区边缘动物栖息D.库岸浸没导致地下水水位上升,使周边区域植物群落发生变化",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "66e88e15-88fb-420f-ad80-47baead77c31",
+        "type": "single_choice",
+        "index": 22
+    },
+    {
+        "question": "某项目采用3S叠图法,下列关于其工作底图要求的说法,正确的是()A.工作底图应采用植被类型图B.工作底图范围应大于评价范围C.工作底图应采用土地利用图D.工作底图范围应小于评价范围",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "cc4038e4-e3d4-4396-a548-3ecce6d6f264",
+        "type": "single_choice",
+        "index": 23
+    },
+    {
+        "question": "某生态项目采用生物多样性评价法,表征物种多样性的评价指标是()。A.蔓延度指数B.香农多样性指数C.综合影响评价指数D.香农-威纳多样性指数",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "bb8cb6c2-fd5c-44c0-a349-5669ac13683f",
+        "type": "single_choice",
+        "index": 24
+    },
+    {
+        "question": "土层薄弱但有植被,关于开挖区表土处理的说法,正确的是()。A.应与工程其他土统一存放并做好防护措施B.为节约资源,应集中收集后外售作建材或其他综合利用材料C.为做好土石方挖填平衡,应充分利用表土作工程填方料D.应对表土进行剥离,单独堆存,施工结束后回用于植被修复",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "6fc750de-d240-4062-89a7-bf3201e597dd",
+        "type": "single_choice",
+        "index": 25
+    },
+    {
+        "question": "地下水水质评价时,关于标准指数数值的判定,正确的是()。A.标准指数$>1$,表明该水质因子在地下水中已超标B.标准指数$>1$,表明该水质因子污染了地下水C.标准指数$<1$,表明该水质因子在地下水中已超标D.标准指数$<1$,表明该水质因子污染了地下水",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "9a149de0-782e-437c-a403-0b10f7b3402d",
+        "type": "single_choice",
+        "index": 26
+    },
+    {
+        "question": "某建设项目拟采用V总$=$（V1+V2-V3）max+V4+V5公式核算项目事故废水终端收集池的容积。可能发生事故的罐组或装置的物料量和相应的消防水量核算结果见下表,事故对可转输到其他存储或处理设施的物料量V3=0考虑,按表中数据,(V1+V2-V3)max的取值应该是()m<sup>3</sup>。<table><thead><tr><th>装置或罐区</th><th>${V}_{1}$物料量$\\left({\\mathrm{m}}^{3}\\right)$</th><th>${V}_{2}$消防水量（${\\mathrm{m}}^{2}$）</th></tr></thead><tr><td>装置1</td><td>56</td><td>17280</td></tr><tr><td>装置2</td><td>389</td><td>17280</td></tr><tr><td>原料儲罐</td><td>1.000</td><td>2592</td></tr><tr><td>中间罐1</td><td>300</td><td>2592</td></tr><tr><td>中间罐2</td><td>450</td><td>2592</td></tr><tr><td>中间罐3</td><td>500</td><td>1.944</td></tr></table>A.2892B.3592C.17669D.18280",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "0ca9aa68-5026-4a2e-973a-85d1526c8ce1",
+        "type": "single_choice",
+        "index": 27
+    },
+    {
+        "question": "0dB（A），该风电场在声环境保护目标处??1?的贡献值1?21是（）dB（A）。A.42.0B.45.0C.46.5D.48.0",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "f9d580e5-4e7f-4dff-ac07-6c5d76ef6495",
+        "type": "single_choice",
+        "index": 28
+    },
+    {
+        "question": "下列户外声传播衰减项中,与频率无关的有$\\left(\\;\\right)$。A.隔声屏障衰减B.空气吸收衰减C.几何发散衰减D.绿化林带衰减",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "374c186a-5cae-4624-9808-3a5a57ef5594",
+        "type": "single_choice",
+        "index": 29
+    },
+    {
+        "question": "地下水水位测量时,必须测量的项目有（）。A.监测井地面高程B.监测井深度C.监测井静水位埋藏深度D.监测井潜水深度",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "42ada62f-352d-4810-9ef5-5129d2282ca4",
+        "type": "single_choice",
+        "index": 30
+    },
+    {
+        "question": "在距城市地面快速路路肩20m处进行了夜间时段噪声监测（监测结果见下表）。则该处现状夜间等效连续A声级是（）。<table><tr><td>时间段</td><td>22:00-24:00</td><td>$0:{00}-2:{00}$</td><td>$2:{00}-4:{00}$</td><td>$4:{00}-6:{00}$</td></tr><tr><td>等效连续A声级/dB(A)</td><td>65.0</td><td>61.5</td><td>62.3</td><td>64.5</td></tr></table>A.69.$6\\mathrm{\\;{dB}}$(A)B.63.$6\\mathrm{\\;{dB}}$(A)C.63.$3\\mathrm{\\;{dB}}$(A)D.60.$6\\mathrm{\\;{dB}}$(A)",
+        "answer": "B",
+        "score": 14.29,
+        "unique_ID": "8dc3d7e1-4b96-4b19-8d97-17dcea5616f5",
+        "type": "single_choice",
+        "index": 31
+    },
+    {
+        "question": "某新建地铁地面线路运营后,距地铁线路${60}\\mathrm{\\;m}$处噪声级为${60.4}\\mathrm{\\;{dB}}$(A)。地铁线路运营前,该处噪声级为59.$0\\mathrm{\\;{dB}}\\left(\\mathrm{\\;A}\\right)$,则地铁线路在该处产生的噪声级为$\\left(\\;\\right)$。A.59.7dB(A)B.59.0dB(A)C.${57.6}\\mathrm{\\;{dB}}$(A)D.54.$8\\mathrm{\\;{dB}}$(A)",
+        "answer": "D",
+        "score": 14.29,
+        "unique_ID": "b338d583-ddca-4988-b80a-ec93c8fec21c",
+        "type": "single_choice",
+        "index": 32
+    },
+    {
+        "question": "大气估算模式中,城市或农村选项需要考虑的下垫面特征半径范围是()。A.$2\\mathrm{\\;{km}}$B.$3\\mathrm{\\;{km}}$C.$4\\mathrm{\\;{km}}$D.$5\\mathrm{\\;{km}}$",
+        "answer": "B",
+        "score": 14.29,
+        "unique_ID": "992143e3-376b-4d51-b339-b976552f6dea",
+        "type": "single_choice",
+        "index": 33
+    },
+    {
+        "question": "生活垃圾焚烧发电厂位于环境质量不达标区域,其应采取的环境保护措施是()A.技术可行的环境保护措施B.经济合理的环境保护措施C.满足达标排放的环境保护措施D.国内外先进可行的环境保护措施",
+        "answer": "D",
+        "score": 14.29,
+        "unique_ID": "f7fdacec-744a-45e3-8ba9-f22d8036dfdb",
+        "type": "single_choice",
+        "index": 34
+    },
+    {
+        "question": "治理项目区土壤盐渍化有效措施是（）。A.增加植被覆盖B.排水降低地下水水位C.防止水土流失D.减少地表水负营养化",
+        "answer": "B",
+        "score": 14.29,
+        "unique_ID": "4363a1be-a26d-406a-93ba-f22093628537",
+        "type": "single_choice",
+        "index": 35
+    },
+    {
+        "question": "地下水渗流速度V与实际流速$\\mu$之间的关系是（）。A.$\\mathrm{V}=\\mu$B.$V>\\mu$C.$\\mathrm{V}<\\mu$D.不能确定",
+        "answer": "C",
+        "score": 14.29,
+        "unique_ID": "329ec744-c44a-4592-a9b7-2472e5cb172b",
+        "type": "single_choice",
+        "index": 36
+    },
+    {
+        "question": "某项目拟建环境空气质量二类区（SO224h平均浓度限值为150μg/m³，1h平均浓度限值为500μg/m³）。补充监测站的S021h浓度为620μg/m³。该站位S021h浓度的超标倍数是（）。A.0.24B.1.24C.2.3D.3.1",
+        "answer": "A",
+        "score": 14.29,
+        "unique_ID": "01ae4e63-47e9-419c-9d78-1d4ccb953b3b",
+        "type": "single_choice",
+        "index": 37
+    },
+    {
+        "question": "根据埋藏条件和含水介质,地下水类型可划分为$\\left(\\;\\right)$。A.毛细水、重力水B.饱和带水、承压水C.孔隙水、裂隙水、岩溶水D.包气带水、潜水、承压水",
+        "answer": "CD",
+        "score": 5.56,
+        "unique_ID": "d4c3043d-23ff-4516-b6ab-3a68c424d023",
+        "type": "multi_choice",
+        "index": 38
+    },
+    {
+        "question": "某大型水电站建于干热河谷,为跟踪监测电站建成后对干热河谷陆生生态的影响,监测计划应包括的内容有（）。A.物候变化B.局地气候的变化C.土壤理化性质的变化D.陆生动植物物种的变化",
+        "answer": "ABCD",
+        "score": 5.56,
+        "unique_ID": "92c638be-a34c-497f-bc0a-ec577cfd119a",
+        "type": "multi_choice",
+        "index": 39
+    },
+    {
+        "question": "隧道施工可能对生态环境产生影响的因素有$\\left(\\;\\right)$。A.弃渣占地B.施工涌水C.施工粉尘D.地下水疏干",
+        "answer": "ABCD",
+        "score": 5.56,
+        "unique_ID": "2d5be36e-f134-4fb4-a1fb-e9a82c6381f4",
+        "type": "multi_choice",
+        "index": 40
+    },
+    {
+        "question": "陆生动物调查中,设立调查线路或调查点应考虑$\\left(\\;\\right)$A.代表性B.随机性C.整体性D.可行性",
+        "answer": "ABCD",
+        "score": 5.56,
+        "unique_ID": "34088a6e-3688-40c9-9f17-78e236ad3ae5",
+        "type": "multi_choice",
+        "index": 41
+    },
+    {
+        "question": "地表水质模拟影响预测中,需确定的参数和条件有$\\left(\\;\\right)$。A.受纳水体背景浓度B.设计水文条件C.水质模型参数D.污染源的排放方式",
+        "answer": "ABCD",
+        "score": 5.56,
+        "unique_ID": "a41e0f10-79ea-4bc9-a96f-724822f97d6f",
+        "type": "multi_choice",
+        "index": 42
+    },
+    {
+        "question": "为解决某河流溶解氧超标严重的问题,可削减的污染物有$\\left(\\;\\right)$。A.总砷B.氨氮C.BOD5D.氰化物",
+        "answer": "BCD",
+        "score": 5.56,
+        "unique_ID": "397ae563-95e1-4644-a554-0c60a93ce761",
+        "type": "multi_choice",
+        "index": 43
+    },
+    {
+        "question": "用两点法估算河流的一阶降解系数,需要测定的基本数据有$\\left(\\;\\right)$。A.两断面的浓度B.两断面的间距C.两断面之间的平均流速D.两断面间的平均河宽",
+        "answer": "ABC",
+        "score": 5.56,
+        "unique_ID": "a82a61c9-5dce-488d-852e-99f676b3a597",
+        "type": "multi_choice",
+        "index": 44
+    },
+    {
+        "question": "生态影响预测与评价中,类比项目的选择应考虑的条件有$\\left(\\;\\right)$。A.项目区域生态背景一致B.项目性质相同C.项目建设经费基本相等D.类比项目已建成并产生了实际生态影响",
+        "answer": "ABD",
+        "score": 5.56,
+        "unique_ID": "4a6a3426-c2b6-46e0-9990-978cbc8bb5ac",
+        "type": "multi_choice",
+        "index": 45
+    },
+    {
+        "question": "在制定生态保护战略时,应特别注重保护的区域有（）。A.人口密度大的地区B.生态功能特别重要的地区C.生态良好的地区D.生态系统十分脆弱并正在发生退化的地区",
+        "answer": "BCD",
+        "score": 5.56,
+        "unique_ID": "eb356e65-917b-40c4-ac90-7bf40a5ae267",
+        "type": "multi_choice",
+        "index": 46
+    },
+    {
+        "question": "关于天然包气带防污性能的说法,正确的有$\\left(\\;\\right)$。A.包气带者土层越厚,防污性能越弱B.包气带岩土层渗透性越强,防污性能越弱C.包气带岩土层防污性能与下伏含水层水位相关D.包气带岩土层防污性能与岩土层稳定分布程度相关",
+        "answer": "BCD",
+        "score": 5.56,
+        "unique_ID": "434677bd-3b07-49b7-ba9b-0ef8da776029",
+        "type": "multi_choice",
+        "index": 47
+    },
+    {
+        "question": "陆地油田开发过程中,钻井泥浆处置不当可能会造成$\\left(\\;\\right)$。A.土壤污染B.辐射污染C.地表水污染D.地下水污染",
+        "answer": "ACD",
+        "score": 5.56,
+        "unique_ID": "4f8d708b-c5de-4aeb-8e36-a38e56a635fc",
+        "type": "multi_choice",
+        "index": 48
+    },
+    {
+        "question": "下列自然或人为活动中,可能成为生态风险源的有()。A.地质灾害B.外来物种引入C.生物技术应用D.农田土壤改良",
+        "answer": "ABC",
+        "score": 5.56,
+        "unique_ID": "c72f914d-6d6c-4e54-9e21-63310e6cd0d3",
+        "type": "multi_choice",
+        "index": 49
+    },
+    {
+        "question": "关于生态影响保护与恢复措施的说法,正确的有$\\left(\\;\\right)$。A.应按照补偿和重建、减缓,避让的次序提出生态影响保护与恢复措施B.各项生态保护措施应按照项目实施阶段分别提出C.涉及珍稀濒危物种时,必须提出可靠的避让措施或生境替代方案D.应给出实施时限和估算经费",
+        "answer": "BCD",
+        "score": 5.56,
+        "unique_ID": "fe69e06c-3b83-4616-804c-58000a2129d3",
+        "type": "multi_choice",
+        "index": 50
+    },
+    {
+        "question": "某煤矿开发项目进行竣工环境保护验收调查时,应选取的生态影响调查因子有()A.植被覆盖率B.“三废”排放C.土地资源损失量D.野生动物栖息地",
+        "answer": "ACD",
+        "score": 5.56,
+        "unique_ID": "516c3d96-a1f4-44e1-b068-011ff36625fa",
+        "type": "multi_choice",
+        "index": 51
+    },
+    {
+        "question": "采用皆伐实测法测定森林生物量,下列说法中,正确的有()。A.测定生物量时,只需计算树干、枝叶质量B.皆伐实测法可精确测定生物量C.皆伐实测法无法测定植物自身代谢、生长发育所消耗的物质D.皆伐实测法可测定总生产量或总生产力",
+        "answer": "BC",
+        "score": 5.56,
+        "unique_ID": "7142d775-9935-4eba-8ad3-acf037d651db",
+        "type": "multi_choice",
+        "index": 52
+    },
+    {
+        "question": "某拟建高速公路长${105}\\mathrm{\\;{km}}$,评价区域内无特殊生态敏感区和重要生态敏感区,则其生态影响评价需要的基本图件有（）。A.地表水系图B.土地利用现状图C.项目区域地理位置图D.水文地质图",
+        "answer": "ABC",
+        "score": 5.56,
+        "unique_ID": "5b437a21-358f-40f3-8a73-e1ae4f03b7d9",
+        "type": "multi_choice",
+        "index": 53
+    },
+    {
+        "question": "某烧碱聚氯乙烯建设项目,循环水站、脱盐水站、烧碱装置等产生的废水经厂内无机废水处理站预处理后送至园区污水处理厂；氯乙烯装置、聚氯乙烯装置、聚乙烯罐区等产生的废水经厂内有机废水处理站预处理后送至园区污水处理厂；生活污水经化粪池处理后送入有机废水处理站；厂区雨水经北侧雨水收集池送至市政雨排水管网。该项目监测计划中应包含的监测点位有（）。A.有机废水处理站排放口B.生活污水化粪池排放口C.无机废水处理站排放口D.雨水收集池排放口",
+        "answer": "AC",
+        "score": 1.69,
+        "unique_ID": "76a5fcec-6f36-4248-9eb2-0854e7b584ac",
+        "type": "multi_choice",
+        "index": 54
+    },
+    {
+        "question": "环境风险评价时,生产系统危险性识别应考虑$\\left(\\;\\right)$A.事故触发因素B.生产系统设置C.生产工艺危险特点D.工艺系统危险物质的最大存在量",
+        "answer": "ACD",
+        "score": 1.69,
+        "unique_ID": "a8b8ca2a-ca62-497c-8a54-67441bb775fe",
+        "type": "multi_choice",
+        "index": 55
+    },
+    {
+        "question": "废弃铅酸蓄电池可回收利用的资源有（）。A.废塑料壳B.硫酸铅膏C.废铅栅D.废电解液",
+        "answer": "ABCD",
+        "score": 1.69,
+        "unique_ID": "4f49f976-199e-43ee-bd57-213d14a61278",
+        "type": "multi_choice",
+        "index": 56
+    },
+    {
+        "question": "某水污染型项目废水排入附近河流,地表水现状调查时,该河流水文情势调查内容包括$\\left(\\;\\right)$A.特征水文参数B.不利水文条件C.水文年及水期划分D.水动力学参数",
+        "answer": "ABCD",
+        "score": 1.69,
+        "unique_ID": "2cb3f307-f901-463d-a765-811fbf80636c",
+        "type": "multi_choice",
+        "index": 57
+    },
+    {
+        "question": "项目废水排入附近河流,对排放口下游溶解氧转换过程进行定量分析,需要的参数有$\\left(\\;\\right)$A.耗氧系数B.复氧系数C.COD浓度D.BOD浓度",
+        "answer": "ABD",
+        "score": 1.69,
+        "unique_ID": "f076c1c8-de77-4c84-9587-7c1cd877c818",
+        "type": "multi_choice",
+        "index": 58
+    },
+    {
+        "question": "某建设项目拟向内陆河流排放废水，下列可作为该河流地表水环境影响预测的设计水文条件有（）A.${90}\\%$保证率最枯月流量B.近10年最枯月平均水位C.近10年最枯月平均流量D.近20年最枯月平均水位",
+        "answer": "AC",
+        "score": 1.69,
+        "unique_ID": "a229cfb5-6527-4b68-8b1a-96ffda5e9da6",
+        "type": "multi_choice",
+        "index": 59
+    },
+    {
+        "question": "北方某微咸水灌区土壤环境影响可能有（）。A.盐化B.石漠化C.碱化D.沙化",
+        "answer": "AC",
+        "score": 1.69,
+        "unique_ID": "b3d57996-621f-484a-a248-599b40931259",
+        "type": "multi_choice",
+        "index": 60
+    },
+    {
+        "question": "某城镇生活污水处理厂扩建并新增污泥焚烧装置,环境空气现状评价时,应补充监测的污染物有$\\left(\\;\\right)$A.硫化氢B.氨C.苯并芘D.二噁英",
+        "answer": "ABCD",
+        "score": 1.69,
+        "unique_ID": "7dc0683f-e1cd-4ce7-a41d-29a38f2ac448",
+        "type": "multi_choice",
+        "index": 61
+    },
+    {
+        "question": "某拟建项目排放的大气污染物有基本污染物和其他污染物,在进行环境影响评价时,其他污染物环境质量现状评价内容应包括$\\left(\\;\\right)$。A.达标情况B.污染物评价标准C.污染物最大浓度占标率D.年评价指标及对应的现状浓度",
+        "answer": "ABC",
+        "score": 1.69,
+        "unique_ID": "7a9223c8-a15d-4aa8-8f13-7dad572e6d37",
+        "type": "multi_choice",
+        "index": 62
+    },
+    {
+        "question": "某拟建项目应编制环境影响报告书,该项目距最近的城市规划区边界为5.1km,距海岸线2.5km,采用估算模型AERSCREEN计算项目排放大气污染物的最大1h空气质量浓度时,应考虑的参数有().A.人口数B.土地利用类型C.最高环境温度D.岸线熏烟",
+        "answer": "BCD",
+        "score": 1.69,
+        "unique_ID": "d16d5f0b-f28e-4d8b-bbb1-b14a9f2fab7e",
+        "type": "multi_choice",
+        "index": 63
+    },
+    {
+        "question": "某热联电产项目拟采用“烟塔合一”排烟方案，选用AUSTAL2000模型进行大气环境影响预测时，应输入的气象参数有（）。A.地面风向风速B.地面相对湿度C.高空气象数据D.大气稳定度",
+        "answer": "ABD",
+        "score": 1.69,
+        "unique_ID": "8f4c12c3-4c72-416f-89f6-0458f7b67b69",
+        "type": "multi_choice",
+        "index": 64
+    },
+    {
+        "question": "拟建项目可能影响某湿地特有鸟类栖息地，下列因子中，可作为生态影响评价因子的有$\\left(\\;\\right)$A.生境质量B.生境面积C.森林覆盖率D.干扰指数",
+        "answer": "AB",
+        "score": 1.69,
+        "unique_ID": "8fcc1a9e-21a8-44f0-8684-687ef49f4787",
+        "type": "multi_choice",
+        "index": 65
+    },
+    {
+        "question": "制定陆生维管植物调查方案时,通常应准备的观测区域资料有$\\left(\\;\\right)$。A.气候资料B.土壤类型图C.植被类型图D.动植物区系资料",
+        "answer": "ACD",
+        "score": 1.69,
+        "unique_ID": "837f1569-9a87-4f43-869e-f966f44d7b3c",
+        "type": "multi_choice",
+        "index": 66
+    },
+    {
+        "question": "在应用分区直数法对鸟类进行调查时,其适用的区域有$\\left(\\;\\right)$。A.较大面积的森林B.较小面积的草原C.较大面积的湿地D.较小面积的湿地",
+        "answer": "BD",
+        "score": 1.69,
+        "unique_ID": "91dbbb2a-c456-48a1-b8c6-353d25c1fa51",
+        "type": "multi_choice",
+        "index": 67
+    },
+    {
+        "question": "关于生态影响评价图件的说法,正确的有$\\left(\\;\\right)$。A.涉及生态保护红线时,不可分幅成图B.成图精度要求比例尺一般小于1：50000C.图件基础数据应选择与评价基准时段相匹配的数据源D.当成图范围过大时,可采用点线面相结合的方式分幅成图",
+        "answer": "CD",
+        "score": 1.69,
+        "unique_ID": "f79c281c-0236-4b93-89e1-911a122b8e95",
+        "type": "multi_choice",
+        "index": 68
+    },
+    {
+        "question": "采用生态机理分析法进行生态影响评价时,应开展的工作有$\\left(\\;\\right)$。A.预测项目建成后该地区动物、植物生长环境的变化B.调查植物和动物分布,动物栖息地和迁徙、洄游路线C.根据项目建成后的环境变化,预测建设项目对个体、种群和群落的影响D.通过定性分析或定量方法对指标赋值或分级,依据指标进行区域划分并将区划信息绘制成图",
+        "answer": "ABC",
+        "score": 1.69,
+        "unique_ID": "4819ee61-80fe-4a86-83a9-fb669f639173",
+        "type": "multi_choice",
+        "index": 69
+    },
+    {
+        "question": "拟建公路项目可能对某种国家重点保护野生动物及其生境造成不利影响，应采取的生态保护措施有（）。A.实施迁地保护并加强种群观测B.施工临时占地尽量减少占用该物种生境C.对被道路分割的该物种生境构建动物活动廊道D.优化工程施工方案,主要施工期避开该物种的繁殖期",
+        "answer": "BCD",
+        "score": 1.69,
+        "unique_ID": "5e1539b1-48dc-47e4-a78e-cad68e7e8516",
+        "type": "multi_choice",
+        "index": 70
+    },
+    {
+        "question": "某项目液体物料储存罐区由原料罐区、中间产品罐区、液体产品罐区组成，罐区按功能划分为3个危险单元,初步分析的环境风险类型见下表。可以作为代表性环境风险评价事故情形的有$\\left(\\;\\right)$.<table><thead><tr><th>危险单元</th><th>危险源</th><th>罐客$\\left({\\mathrm{m}}^{3}\\right)$</th><th>数量(台)</th><th>罐型</th><th>环境风险类型</th><th>环境危害途径</th></tr></thead><tr><tdrowspan=\"2\">原料罐区</td><td>石脑油储罐</td><td>20000</td><td>2</td><td>內浮頂罐</td><tdrowspan=\"6\">泄漏、火灾爆炸引发次生/伴生污染物排放</td><tdrowspan=\"6\">大气、地下水</td></tr><tr><td>LPG储罐</td><td>4000</td><td>6</td><td>球罐</td></tr><tr><tdrowspan=\"2\">中间产品罐区</td><td>乙烯储罐</td><td>30000</td><td>1</td><td>低温罐</td></tr><tr><td>苯储罐</td><td>3000</td><td>2</td><td>內浮頂罐</td></tr><tr><tdrowspan=\"2\">液体产品罐区</td><td>苯乙烯储罐</td><td>1.000</td><td>2</td><td>低温罐</td></tr><tr><td>聚酯级一乙二醇储罐</td><td>20000</td><td>3</td><td>拱顶罐</td></tr></table>A.苯储罐事故泄漏B.LPG储罐爆炸事故造成的框架倒塌C.一乙二醇储罐火灾事故热辐射D.石脑油储罐火灾事故CO排放",
+        "answer": "BD",
+        "score": 1.69,
+        "unique_ID": "1cec6a6f-f3d5-484d-8d70-8ea354dfd591",
+        "type": "multi_choice",
+        "index": 71
+    },
+    {
+        "question": "下列属于采用生物接触氧化工艺处理的废水有（）。A.低浓度的生活污水B.肉类加工废水C.磷铁矿尾矿库渗滤液D.电厂脱硫废水",
+        "answer": "AC",
+        "score": 1.69,
+        "unique_ID": "347b1bc5-b6ef-4ffc-828b-4bd98f32aeb3",
+        "type": "multi_choice",
+        "index": 72
+    },
+    {
+        "question": "某新建城市轨道交通项目,声环境保护目标调查的内容有$\\left(\\;\\right)$。A.与线路位置关系B.声环境功能区划C.距外轨边界水平距离D.与轨面高差",
+        "answer": "ABD",
+        "score": 1.69,
+        "unique_ID": "259aba9e-868d-4654-a961-b926e094f47d",
+        "type": "multi_choice",
+        "index": 73
+    },
+    {
+        "question": "某机械加工项目声环境影响评价为一级评价,现状调查一般应给出的现状评价图有$\\left(\\;\\right)$A.厂区平面布置图B.声环境功能区划图C.声环境保护目标分布图D.现状监测布点图",
+        "answer": "ABCD",
+        "score": 1.69,
+        "unique_ID": "63cc59e4-39cc-463d-9dd0-dc5caaf6c9b3",
+        "type": "multi_choice",
+        "index": 74
+    },
+    {
+        "question": "下列废气排放源中,属于点源的有（）。A.${60}\\mathrm{\\;m}$高燃气锅炉烟囱B.${40}\\mathrm{\\;m}$高燃气工艺加热炉排气筒C.${15}\\mathrm{\\;m}$高围挡敞开式地面火炬D.$2\\mathrm{\\;m}$高的敞开式废水处理接触氧化池",
+        "answer": "AB",
+        "score": 1.69,
+        "unique_ID": "d5d756dc-fa95-45b6-ae40-ded3a495a8b5",
+        "type": "multi_choice",
+        "index": 75
+    },
+    {
+        "question": "某陆上油田集输站原油脱水处理单元生产流程的生产废水产生环节有（）。A.缓冲罐B.一级三相分离器C.二级三相分离器D.原油稳定",
+        "answer": "BCD",
+        "score": 1.69,
+        "unique_ID": "b679ef1b-5d00-445c-9626-31ccf623333f",
+        "type": "multi_choice",
+        "index": 76
+    },
+    {
+        "question": "某炼油企业扩建项目进行大气环境影响评价,适用于改扩建项目无组织挥发性有机物排放量核算的方法有（）。A.实验法B.实测法C.类比法D.物料衡算法",
+        "answer": "CD",
+        "score": 1.69,
+        "unique_ID": "932728d8-9d76-4cad-84d4-c243fa09aa9c",
+        "type": "multi_choice",
+        "index": 77
+    },
+    {
+        "question": "下列属于膜分离技术的有（）。A.微滤B.纳滤C.超滤D.砂滤",
+        "answer": "ABC",
+        "score": 1.69,
+        "unique_ID": "f154f26a-deab-4cef-9865-81116f514eaa",
+        "type": "multi_choice",
+        "index": 78
+    },
+    {
+        "question": "土壤盐化影响因素分析需要考虑的因素有（）。A.地下水位埋深B.地下水溶解性总固体C.土壤质地D.土壤结构",
+        "answer": "ABC",
+        "score": 1.69,
+        "unique_ID": "2282b386-02cd-4c1e-96aa-f9d9ef9b7d89",
+        "type": "multi_choice",
+        "index": 79
+    },
+    {
+        "question": "某项目开展地下水环境影响预测,其预测模型概化应包括$\\left(\\;\\right)$。A.水文地质条件概化B.污染源概化C.水文地质参数初始值的确定D.预测情形确定",
+        "answer": "ABC",
+        "score": 1.69,
+        "unique_ID": "f64264ab-8261-4278-8886-ec7dfb07e26e",
+        "type": "multi_choice",
+        "index": 80
+    },
+    {
+        "question": "地下水污染防渗分区应考虑的因素有（）。A.天然包气带防污性能B.污染控制难易程度C.污染物特性D.污染物产生量",
+        "answer": "ABC",
+        "score": 1.69,
+        "unique_ID": "1c1ea7e9-ad5f-42b3-ab0d-cc6903674e99",
+        "type": "multi_choice",
+        "index": 81
+    },
+    {
+        "question": "某建设项目环境影响可能涉及古树名木,现状调查结果至少包含$\\left(\\;\\right)$。A.盖度B.树龄C.生长状况D.树种名称",
+        "answer": "BCD",
+        "score": 1.69,
+        "unique_ID": "6b438115-4003-4364-bcad-2e7169ef2e73",
+        "type": "multi_choice",
+        "index": 82
+    },
+    {
+        "question": "景观生态学评价法中,可用于分析景观变化的方法有$\\left(\\;\\right)$。A.定性描述法B.生境评价法C.景观生态图叠置法D.景观动态的定量化分析法",
+        "answer": "ACD",
+        "score": 1.69,
+        "unique_ID": "957e2408-4aba-4a0f-bfc5-8bca029e4d93",
+        "type": "multi_choice",
+        "index": 83
+    },
+    {
+        "question": "在忽略风机噪声指向性的情况下,关于风机噪声源强评价量的说法,正确能有$\\left(\\;\\right)$A.A声级B.A声功率级C.距离风机1.$0\\mathrm{\\;m}$处的$\\mathrm{A}$声级D.距离风机1.$0\\mathrm{\\;m}$处的$\\mathrm{A}$声功率级",
+        "answer": "BC",
+        "score": 1.69,
+        "unique_ID": "442f4918-61a2-40c8-bdc7-b3f668e41248",
+        "type": "multi_choice",
+        "index": 84
+    }
+]

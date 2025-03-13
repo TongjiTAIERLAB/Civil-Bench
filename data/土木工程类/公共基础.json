@@ -1,0 +1,1938 @@
+[
+    {
+        "question": "下列结论正确的是（）。A.$\\mathop{\\lim}\\limits_{{x\\rightarrow0}}{e}^{\\frac{1}{x}}$存在B.$\\mathop{\\lim}\\limits_{{x\\rightarrow{0}^{-}}}{e}^{\\frac{1}{x}}$存在C.$\\mathop{\\lim}\\limits_{{x\\rightarrow{0}^{+}}}{e}^{\\frac{1}{x}}$存在D.$\\mathop{\\lim}\\limits_{{x\\rightarrow{0}^{+}}}{e}^{\\frac{1}{x}}$存在，$\\mathop{\\lim}\\limits_{{x\\rightarrow{0}^{-}}}{e}^{\\frac{1}{x}}$不存在,从而$\\mathop{\\lim}\\limits_{{x\\rightarrow0}}{e}^{\\frac{1}{x}}$不存在",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "9953370c-00ea-42e0-84e6-0e6590dc0acc",
+        "type": "single_choice",
+        "index": 1
+    },
+    {
+        "question": "当$x\\rightarrow0$时,与${x}^{2}$为同阶无穷小的是（）。A.$1-\\cos{2x}$B.${x}^{2}\\sinx$C.$\\sqrt{1+x}-1$D.$1-\\cos{x}^{2}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "a1c8c55c-7515-4ff6-925f-8588067f13f4",
+        "type": "single_choice",
+        "index": 2
+    },
+    {
+        "question": "设$f\\left(x\\right)$在$x=0$的某个领域内有定义,$f\\left(0\\right)=0$,且$\\mathop{\\lim}\\limits_{{x\\rightarrow0}}\\frac{f\\left(x\\right)}{x}=1$,则$f\\left(x\\right)$在$x=0$处$\\left(\\;\\right)$。A.不连续B.连续但不可导C.可导且导数为1D.可导且导数为0",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "04ac906f-d690-48b6-bbde-3029fc9e3bbf",
+        "type": "single_choice",
+        "index": 3
+    },
+    {
+        "question": "若$f\\left(\\frac{1}{x}\\right)=\\frac{x}{1+x}$，则${f}^{\\prime}\\left(x\\right)$等于$\\left(\\;\\right)$A.$\\frac{1}{x+1}$B.$-\\frac{1}{x+1}$C.$-\\frac{1}{{\\left(x+1\\right)}^{2}}$D.$\\frac{1}{{\\left(x+1\\right)}^{2}}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "c822a825-9f83-4058-a33a-7b44939addbb",
+        "type": "single_choice",
+        "index": 4
+    },
+    {
+        "question": "方程${x}^{3}+x-1=0$（）。A.无实根B.只有一个实根C.有两个实根D.有三个实根",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "d5ed39f8-4207-4c50-9f33-2ab7f4cd4cdd",
+        "type": "single_choice",
+        "index": 5
+    },
+    {
+        "question": "若$$\\intf\\left(x\\right)\\mathrm{d}x=\\int\\mathrm{{dg}}\\left(x\\right)$$，则下列各式中正确的是（）。A.$$f\\left(x\\right)=g\\left(x\\right)$$B.$$f\\left(x\\right)={g}^{\\prime}\\left(x\\right)$$C.$${f}^{\\prime}\\left(x\\right)=g\\left(x\\right)$$D.$${f}^{\\prime}\\left(x\\right)={g}^{\\prime}\\left(x\\right)$$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "2ce755f3-9d90-44d2-b945-a8237c5dadd0",
+        "type": "single_choice",
+        "index": 6
+    },
+    {
+        "question": "定积分$${\\int}_{-1}^{1}\\left({{x}^{3}+\\left|x\\right|}\\right){e}^{{x}^{2}}\\mathrm{\\;d}x$$的值等于$\\left(\\;\\right)$。A.0B.eC.$\\mathrm{e}-1$D.不存在",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "d6542a73-5357-4b86-b9d0-1f7ddbf6d7f2",
+        "type": "single_choice",
+        "index": 7
+    },
+    {
+        "question": "已知函数$\\mathrm{f}\\left(\\mathrm{x}\\right)$在$\\left({-\\infty,+\\infty}\\right)$内连续,并满足$$f\\left(x\\right)={\\int}_{0}^{x}f\\left(t\\right)\\mathrm{d}t$$,则$\\mathrm{f}\\left(\\mathrm{x}\\right)$为$\\left(\\;\\right)$。A.${\\mathrm{e}}^{\\mathrm{X}}$B.$-{\\mathrm{e}}^{\\mathrm{X}}$C.0D.${\\mathrm{e}}^{-\\mathrm{x}}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "ae044091-7945-42ca-9cf3-50a8e5ad155e",
+        "type": "single_choice",
+        "index": 8
+    },
+    {
+        "question": "在下列函数中,为微分方程${\\mathrm{y}}^{\\prime\\prime}-{\\mathrm{y}}^{\\prime}-2\\mathrm{y}=6{\\mathrm{e}}^{\\mathrm{X}}$的特解的是$\\left(\\;\\right)$。A.$y=3{\\mathrm{e}}^{-x}$B.$y=-3{\\mathrm{e}}^{-x}$C.$y=3{e}^{X}$D.$y=-3{e}^{X}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "d70bde04-ce36-4715-a0e9-1d98fe4b5ee9",
+        "type": "single_choice",
+        "index": 9
+    },
+    {
+        "question": "设函数$$f\\left({x,y}\\right)=\\left\\{\\begin{array}{l}\\frac{1}{xy}\\sin\\left({{x}^{2}y}\\right),&{xy}\\neq0\\\\0,&{xy}=0\\end{array}\\right.$$，则${f}_{x}^{\\prime}\\left({0,1}\\right)$等于（）。A.0B.1C.2D.-1",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "a194bb5c-a3ca-4300-ae16-279d336cf7e0",
+        "type": "single_choice",
+        "index": 10
+    },
+    {
+        "question": "设函数$\\mathrm{f}$(u)连续,而区域D:$\\mathrm{x}<\\sup>2</\\sup>+\\mathrm{y}<\\sup>2</\\sup>\\leq1$,且$\\mathrm{x}>0$,则二重积分${\\iint}_{D}f\\left(\\sqrt{{x}^{2}+{y}^{2}}\\right)\\mathrm{d}x\\mathrm{\\;d}y$等于（）。A.$\\pi{\\int}_{0}^{1}f\\left(r\\right)\\mathrm{d}r$B.$$\\pi{\\int}_{0}^{1}{rf}\\left(r\\right)\\mathrm{d}r$$C.$$\\frac{\\pi}{2}{\\int}_{0}^{1}f\\left(r\\right)\\mathrm{d}r$$D.$$\\frac{\\pi}{2}{\\int}_{0}^{1}{rf}\\left(r\\right)\\mathrm{d}r$$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "a0b3fd0c-3bba-40a2-aae6-2a2539a16104",
+        "type": "single_choice",
+        "index": 11
+    },
+    {
+        "question": "设$\\mathrm{L}$是圆$\\mathrm{x}<\\sup>2</\\sup>+\\mathrm{y}<\\sup>2</\\sup>=-2\\mathrm{x}$,取逆时针方向,则对坐标的曲线积分$${\\int}_{L}\\left({x-y}\\right)\\mathrm{d}x+\\left({x+y}\\right)\\mathrm{d}y$$等于（）。A.$-{4\\pi}$B.$-{2\\pi}$C.0D.${2\\pi}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "f187742e-d379-41e3-8919-6af3cbb875a9",
+        "type": "single_choice",
+        "index": 12
+    },
+    {
+        "question": "设函数$$z={x}^{y}$$，则$\\frac{{\\partial}^{2}z}{\\partialx\\partialy}$等于$\\left(\\;\\right)$。A.$${x}^{y}\\left({1+\\lnx}\\right)$$B.$${x}^{y}\\left({1+y\\lnx}\\right)$$C.$${x}^{y-1}\\left({1+y\\lnx}\\right)$$D.$${x}^{y}\\left({1-x\\lnx}\\right)$$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "2a52c970-d95b-4e33-b52b-1203f761fdf4",
+        "type": "single_choice",
+        "index": 13
+    },
+    {
+        "question": "下列级数中,收敛的级数是()。A.$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}\\frac{{8}^{n}}{{7}^{n}}$$B.$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}n\\sin\\frac{1}{n}$$C.$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}\\frac{1}{\\sqrt{n}}$$D.$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}{\\left(-1\\right)}^{n-1}\\frac{1}{n}$$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "fa4f088f-d22d-40f3-86e9-37af48326bf8",
+        "type": "single_choice",
+        "index": 14
+    },
+    {
+        "question": "级数$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}n{\\left(\\frac{1}{2}\\right)}^{n-1}$的和是（）。A.1B.2C.3D.4",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "bf35c126-2b5f-4890-8e9a-4afbb3074da2",
+        "type": "single_choice",
+        "index": 15
+    },
+    {
+        "question": "若矩阵$$A=\\left(\\begin{matrix}1&0&0\\\\0&-1&-1\\\\0&0&1\\end{matrix}\\right)$$,$$\\mathbf{I}=\\left(\\begin{array}{l}1&0&0\\\\0&1&0\\\\0&0&1\\end{array}\\right)$$，则矩阵$${\\left(A-2I\\right)}^{-1}\\left({{A}^{2}-{4I}}\\right)$$为（）。A.$$\\left(\\begin{matrix}3&0&0\\\\0&1&-1\\\\0&0&3\\end{matrix}\\right)$$B.$$\\left(\\begin{array}{l}3&0&0\\\\0&1&0\\\\0&0&3\\end{array}\\right)$$C.$$\\left(\\begin{array}{l}3&0&0\\\\0&1&1\\\\0&0&3\\end{array}\\right)$$D.$\\left(\\begin{matrix}2&0&0\\\\0&-2&-2\\\\0&0&2\\end{matrix}\\right)$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "da3af70e-6df1-46f8-93ef-102448668753",
+        "type": "single_choice",
+        "index": 16
+    },
+    {
+        "question": "已知矩阵$$A=\\left(\\begin{array}{l}0&0&1\\\\x&1&y\\\\1&0&0\\end{array}\\right)$$有三个线性无关的特征向量,则下列关系式正确的是()。A.$x+y=0$B.$x+y\\neq0$C.$x+y=1$D.$x=y=1$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "b67a0adf-a794-4cb0-89f5-5f837f9aaef8",
+        "type": "single_choice",
+        "index": 17
+    },
+    {
+        "question": "设n维向量组${a}_{1},{a}_{2},{a}_{3}$是线性方程组Ax$=0$的一个基础解系,则下列向量组也是Ax$=0$的基础解系的是（）。A.${a}_{1},{a}_{2}-{a}_{3}$B.${a}_{1}+{a}_{2},{a}_{2}+{a}_{3},{a}_{3}+{a}_{1}$C.${a}_{1}+{a}_{2},{a}_{2}+{a}_{3},{a}_{1}-{a}_{3}$$D.{a}_{1},{a}_{1}+{a}_{2},{a}_{2}+{a}_{3},{a}_{1}+{a}_{2}+{a}_{3}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "925fc2d7-d152-421b-83ec-2fdd17a4f1e4",
+        "type": "single_choice",
+        "index": 18
+    },
+    {
+        "question": "袋子里有5个白球,3个黄球,4个黑球,从中随机地抽取1只,已知它不是黑球,则它是黄球的概率是(）。A.$\\frac{1}{8}$B.$\\frac{3}{8}$C.$\\frac{5}{8}$D.$\\frac{7}{8}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "c372f2dc-1db5-4fe0-a49d-b0329b2a3621",
+        "type": "single_choice",
+        "index": 19
+    },
+    {
+        "question": "设X服从泊松分布P（3）,则X的方差与数学期望之比$\\frac{D\\left(X\\right)}{E\\left(X\\right)}$等于（）。A.3B.$\\frac{1}{3}$C.1D.9",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "dd2800b6-cc5e-4646-a28c-960aba9c7c5d",
+        "type": "single_choice",
+        "index": 20
+    },
+    {
+        "question": "设X<sub>1</sub>，X<sub>2</sub>，$\\cdots,$X<sub>n</sub>是来自总体X$\\sim$N(μ,$\\sigma$<sup>2</sup>）的样本，$\\bar{X}$是X<sub>1</sub>，X<sub>2</sub>，$\\cdots$，X<sub>n</sub>的样本均值，则$\\mathop{\\sum}\\limits_{{i=1}}^{n}\\frac{{\\left({X}_{i}-\\bar{X}\\right)}^{2}}{{\\sigma}^{2}}$服从的分布是（）。A.$\\mathrm{F}\\left(\\mathrm{n}\\right)$B.$\\mathrm{t}\\left(\\mathrm{n}\\right)$C.${x}^{2}$(n)D.${x}^{2}\\left({n-1}\\right)$___",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "5b1b9fa2-fc42-48c1-bf68-5cc5ce8f2514",
+        "type": "single_choice",
+        "index": 21
+    },
+    {
+        "question": "在标准状态下,即压强${\\mathrm{P}}_{0}=1\\mathrm{\\;{atm}}$,温度T$={273.15}\\mathrm{\\;K}$,一摩尔任何理想气体的体积均为$\\left(\\;\\right)$A.22.4LB.2.24LC.${224}\\mathrm{\\;L}$D.0.224L",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "4350d600-1786-479c-8a4f-9c9d6546ce84",
+        "type": "single_choice",
+        "index": 22
+    },
+    {
+        "question": "理想气体经过等温膨胀过程,其平均自由程$\\lambda\\left(-\\right)$和平均碰撞频率$Z\\left(-\\right)$的变化是$\\left(\\;\\right)$A.$\\lambda\\left(-\\right)$变大,$Z\\left(-\\right)$变大B.$\\lambda\\left(-\\right)$变大,$\\mathrm{Z}\\left(-\\right)$变小C.$\\lambda\\left(-\\right)$变小,$\\mathrm{Z}\\left(-\\right)$变大D.$\\lambda\\left(-\\right)$变小,$\\mathrm{Z}\\left(-\\right)$变小",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "0285550f-77c6-4c18-8502-619040b4a2c6",
+        "type": "single_choice",
+        "index": 23
+    },
+    {
+        "question": "在一热力学过程中,系统内能的减少量全部成为传给外界的热量,此过程一定是()A.等体升温过程B.等体降温过程C.等压膨胀过程D.等压压缩过程",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "03a8516c-41bf-4ece-9e10-cfeba263b429",
+        "type": "single_choice",
+        "index": 24
+    },
+    {
+        "question": "一热机在一次循环中吸热1.68×${10}^{7}$J，向冷源放热1.26×${10}^{7}$J，该热机效率为（）。A.${25}\\%$B.${40}\\%$C.${60}\\%$D.${75}\\%$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "31dc4a17-e330-4c42-862e-61692b8029bf",
+        "type": "single_choice",
+        "index": 25
+    },
+    {
+        "question": "若一平面简谐波的表达式为$\\mathrm{y}=$Acos$\\left({\\mathrm{{Bt}}-\\mathrm{{Cx}}}\\right)$,式中$\\mathrm{A}、\\mathrm{\\;B}、\\mathrm{C}$为正值常量,则$\\left(\\;\\right)$.A.波速为CB.周期为$1/B$C.波长为${2\\pi}/\\mathrm{C}$D.角频率为${2\\pi}/\\mathrm{B}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "487fed5c-95cf-4eab-8246-25a9f8e69df1",
+        "type": "single_choice",
+        "index": 26
+    },
+    {
+        "question": "两个相同的喇叭接在同一播音器上,它们是相干波源,二者到P点的距离之差为$\\lambda/2$($\\lambda$是声波波长），则P点处为（）。A.波相干加强点B.波相干减弱点C.合振幅随时间变化的点D.合振幅无法确定的点",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "11ec540e-b915-4cd1-b7aa-4fc6f778c80d",
+        "type": "single_choice",
+        "index": 27
+    },
+    {
+        "question": "一声波波源相对媒质不动,发出的声波的频率是${\\mathrm{v}}_{0}$,设一观察者的速度为波速的$1/2$,当观察者远离波源运动时,他接收到的声波频率v为()。A.${\\mathrm{v}}_{0}$B.$2{\\mathrm{v}}_{0}$C.${\\mathrm{v}}_{0}/2$D.$3{\\mathrm{v}}_{0}/2$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "dc6c8faf-0c28-429e-8722-542a71a4df5f",
+        "type": "single_choice",
+        "index": 28
+    },
+    {
+        "question": "当一束单色光通过折射率不同的两种媒质时,光的()。A.频率不变,波长不变B.频率不变,波长改变C.频率改变,波长不变D.频率改变,波长改变",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "011b4dec-d1c3-4bc6-a051-077f78873a47",
+        "type": "single_choice",
+        "index": 29
+    },
+    {
+        "question": "在单缝衍射中,若单缝处的波面恰好被分成偶数个半波带,在相邻半波带上任何两个对应点所发出的光，在暗条纹处的相位差为（）。A.$\\pi$B.${2\\pi}$C.$\\pi/2$D.${3\\pi}/2$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "5934218f-084f-44ac-ba5c-26b3f6a72e4a",
+        "type": "single_choice",
+        "index": 30
+    },
+    {
+        "question": "一束平行单色光垂直入射在光栅上,当光栅常数$\\left({\\mathrm{a}+\\mathrm{b}}\\right)$为下列哪种情况时($\\mathrm{a}$代表每条缝的宽度)$,\\mathrm{k}=3、6、9$等级次的主极大均不出现?A.$a+b={2a}$B.$a+b={3a}$C.$a+b={4a}$D.$a+b={6a}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "693473ec-eb71-4733-82b8-e12154d76218",
+        "type": "single_choice",
+        "index": 31
+    },
+    {
+        "question": "既能衡量元素金属性、又能衡量元素非金属性强弱的物理量是()A.电负性B.电离能C.电子亲合能D.极化力",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "863e6719-41e5-462d-a87f-60936f6d580a",
+        "type": "single_choice",
+        "index": 32
+    },
+    {
+        "question": "下列各组物质中,两种分子之间存在的分子间力只含有色散力的是（）。A.氢气和氦气B.二氧化碳和二氧化硫气体C.氢气和溴化氢气体D.一氧化碳和氧气",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "2692b224-2335-458d-8d06-86cc7e59f42f",
+        "type": "single_choice",
+        "index": 33
+    },
+    {
+        "question": "在BaSO<sub>4</sub>饱和溶液中，加入Na<sub>2</sub>S0<sub>4</sub>，溶液中c（Ba${}^{2+}$）的变化是（）。A.增大B.减小C.不变D.不能确定",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "f09a8eab-843b-438f-9d2f-5ed83f8d47f2",
+        "type": "single_choice",
+        "index": 34
+    },
+    {
+        "question": "已知K（NH3·H20）$={1.8}\\times{10}^{-5\\langle/\\langle\\mathrm{{sub}}\\rangle\\mathrm{s}\\langle/\\mathrm{{sub}}\\rangle\\mathrm{{up}}\\langle\\mathrm{{sub}}\\rangle\\rangle\\langle/\\mathrm{{sub}}\\rangle}$,浓度均为0.1mol·L<sup>-1的NH${}_{3}$·F20和NH${}_{4}$Cl混合溶液的pH值为（）。A.4.74B.9.26C.5.74D.8.26",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "f132571c-3110-41ba-9f42-cf1ec3034a41",
+        "type": "single_choice",
+        "index": 35
+    },
+    {
+        "question": "已知HCl(g)的$\\Delta<\\operatorname{sub}>\\mathrm{f}</\\operatorname{sub}>\\mathrm{H}<\\operatorname{sub}>\\mathrm{m}</\\mathrm{{sub}}>=-{92}\\mathrm{\\;{kJ}}\\cdot{\\mathrm{{mol}}-1}$,则反应H<sub>2</sub>（g）$+\\mathrm{{Cl}}<\\mathrm{{sub}}>2</{}^{\\mathrm{S}}\\mathrm{{ub}}>$（g）$\\rightarrow2{\\mathrm{{HC}}}^{1}{}^{(}\\mathrm{g}$)的Δ<sub>r</sub>H<sub>m</sub>是（）。A.${92}\\mathrm{\\;{kJ}}\\cdot{\\mathrm{{mol}}}^{-1}$B.$-{92}\\mathrm{\\;{kJ}}\\cdot{\\mathrm{{mol}}}^{-1}$C.$-{184}\\mathrm{\\;{kJ}}\\cdot{\\mathrm{{mol}}}^{-1}$D.${46}\\mathrm{\\;{kJ}}\\cdot\\mathrm{{mol}}-1$___",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "48366ba2-372f-487e-8840-972e0bec5a82",
+        "type": "single_choice",
+        "index": 36
+    },
+    {
+        "question": "反应A（s）$+$B（g）2C（g）在体系中达到平衡，如果保持温度不变，升高体系的总压（减小体积），平衡向左移动,则K的变化是（）。A.增大B.减小C.不变D.无法判断",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "2d1f58ef-dbd1-4130-9390-f5f9c6ad6094",
+        "type": "single_choice",
+        "index": 37
+    },
+    {
+        "question": "已知E$\\left({{\\mathrm{{Fe}}}^{3+}/{\\mathrm{{Fe}}}^{2+}}\\right)={0.771}\\mathrm{\\;V},\\mathrm{E}\\left({{\\mathrm{{Fe}}}^{2+}/\\mathrm{{Fe}}}\\right)=-{0.44}\\mathrm{\\;V},\\mathrm{{Ksp}}$(Fe(OH)$3$)$={2.79}\\times{10}^{-{39}},\\mathrm{{Ksp}}$(Fe(OH)2)$={4.87}\\times{10}^{-{17}}$,有如下原电池(-)Fe$\\mid{\\mathrm{{Fe}}}^{2+}$(1.0mol·L<su<sub>p></sub>一1</sup><sub>)</sub>||Fe$3+</\\mathrm{s}<\\mathrm{{sub}}>\\mathrm{{up}}</\\mathrm{{sub}}>>\\left({1.0\\mathrm{{mol}}<\\mathrm{{sub}}>\\bullet</\\mathrm{{sub}}>\\mathrm{L}<\\mathrm{{sup}}>-{1}_{<\\mathrm{{sub}}>}}\\right)</\\mathrm{{sub}}>\\mid\\mid\\mathrm{{Fe}}$3+</s<sub>up</sub>>(1.0mol<sub>・</sub>L<sup>-1),Fe${}^{2+}$(1.0mol・L${}^{-1}$)|Pt（+），如向两个半电池中均加入NaOH，最终均使c${\\text{(OH}}^{-}$)$=$1.0mol$\\cdot{\\text{L}}^{-1}$，则原电池电动势的变化是（）。A.变大B.变小C.不变D.无法确定",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "621ad10a-5172-4e5d-9be5-eef03ae56776",
+        "type": "single_choice",
+        "index": 38
+    },
+    {
+        "question": "下列各组化合物中能用溴水区别的是（）。A.1-己烯和己烷B.1-己烯和1-己炔C.2-己烯和1-己烯D.己烷和苯",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "b19c7e3a-6030-4e40-b07f-64cdc4068bc3",
+        "type": "single_choice",
+        "index": 39
+    },
+    {
+        "question": "某点按$\\mathrm{x}={\\mathrm{t}}^{3}-{12}\\mathrm{t}+2$的规律沿直线轨迹运动（其中$\\mathrm{t}$以s计，$\\mathrm{x}$以m计）,则$\\mathrm{t}=3\\mathrm{\\;s}$时点经过的路程为（）。A.${23}\\mathrm{\\;m}$B.${21}\\mathrm{\\;m}$C.$-7\\mathrm{\\;m}$D.$-{14}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "3dad18e3-75f6-44fa-929e-53cf2d3334fc",
+        "type": "single_choice",
+        "index": 40
+    },
+    {
+        "question": "关于铸铁力学性能有以下两个结论：①抗剪能力比抗拉能力差；②压缩强度比拉伸强度高。关于以上结论下列说法正确的是（）。A.①正确,②不正确B.②正确,①不正确C.①、②都正确D.①、②都不正确",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "69ebdda5-a800-436c-b69a-8cc49cc0820b",
+        "type": "single_choice",
+        "index": 41
+    },
+    {
+        "question": "下面四个强度条件表达式中,对应最大拉应力强度理论的表达式是()A.$${\\sigma}_{1}\\leq\\left\\lbrack\\sigma\\right\\rbrack$$B.$${\\sigma}_{1}-\\mu\\left({{\\sigma}_{2}+{\\sigma}_{3}}\\right)\\leq\\left\\lbrack\\sigma\\right\\rbrack$$C.$${\\sigma}_{1}-{\\sigma}_{3}\\leq\\left\\lbrack\\sigma\\right\\rbrack$$D.$$\\sqrt{\\frac{1}{2}\\left\\lbrack{{\\left({\\sigma}_{1}-{\\sigma}_{2}\\right)}^{2}+{\\left({\\sigma}_{2}-{\\sigma}_{3}\\right)}^{2}+{\\left({\\sigma}_{3}-{\\sigma}_{1}\\right)}^{2}}\\right\\rbrack}\\leq\\left\\lbrack\\sigma\\right\\rbrack$$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "95e2a0aa-70ff-4769-9d94-b973d974e9d9",
+        "type": "single_choice",
+        "index": 42
+    },
+    {
+        "question": "用一块平板挡水,其挡水面积为A,形心淹深为h,平板的水平倾角为$\\theta$,该平板受到的静水压力为(）。A.ρghAsinθB.$\\rho$ghAcos$\\theta$C.$\\rho$ghAtan$\\theta$D.$\\rho\\mathrm{{ghA}}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "9816230c-3a9a-4e39-853e-8d86d80c8c6b",
+        "type": "single_choice",
+        "index": 43
+    },
+    {
+        "question": "流体的粘性与下列哪个因素无关?()A.分子的内聚力B.分子的动量交换C.温度D.速度梯度",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "6e354771-db86-4f86-ae1c-cc69cb06a6c6",
+        "type": "single_choice",
+        "index": 44
+    },
+    {
+        "question": "二维不可压缩流场中,$${v}_{x}=5{x}^{3}$$,${v}_{y}=-{15}{x}^{2}y$,试求$\\mathrm{x}=1\\mathrm{\\;m},\\mathrm{y}=2\\mathrm{\\;m}$点上的速度$\\left(\\;\\right)$。A.$v={30.41}\\mathrm{\\;m}/\\mathrm{s}$B.$v={25}\\mathrm{\\;m}/\\mathrm{s}$C.$\\mathrm{v}=-{30.41}\\mathrm{\\;m}/\\mathrm{s}$D.$\\mathrm{v}=-{25}\\mathrm{\\;m}/\\mathrm{s}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "df89a8c4-7c54-4092-85ec-328e0418d464",
+        "type": "single_choice",
+        "index": 45
+    },
+    {
+        "question": "圆管流动中,判断层流与湍流状态的临界雷诺数为$\\left(\\;\\right)$A.2320B.400C.1200D.50000",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "0ef8a323-e009-4800-84b7-8b3395913061",
+        "type": "single_choice",
+        "index": 46
+    },
+    {
+        "question": "A、B为并联管1、2、3的两连接端点，A、B两点之间的水头损失为（）。A.${h}_{fab}={h}_{f1}+{h}_{f2}+{h}_{f3}$B.${h}_{fab}={h}_{f1}+{h}_{f2}$C.${\\mathrm{h}}_{\\mathrm{{fab}}}={\\mathrm{h}}_{\\mathrm{f}2}+{\\mathrm{h}}_{\\mathrm{f}3}$D.${\\text{h}}_{\\text{fab}}$=${\\text{h}}_{\\text{f1}}$=${\\text{h}}_{\\text{f2}}$=${\\text{h}}_{\\text{f3}}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "7a498d25-3916-49a1-ba01-450d76a8b8e1",
+        "type": "single_choice",
+        "index": 47
+    },
+    {
+        "question": "可能产生明渠均匀流的渠道是$\\left(\\;\\right)$。A.平坡棱柱形渠道B.正坡棱柱形渠道C.正坡非棱柱形渠道D.逆坡棱柱形渠道",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "5928e8dc-86fa-4b5f-9083-1b45764162e9",
+        "type": "single_choice",
+        "index": 48
+    },
+    {
+        "question": "工程上常见的地下水运动属于（）。A.有压渐变渗流B.无压渐变渗流C.有压急变渗流D.无压急变渗流",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "a50eb3b9-7b2f-4a8a-b713-e04f204d9307",
+        "type": "single_choice",
+        "index": 49
+    },
+    {
+        "question": "新设计的汽车迎风面积1.$5{\\mathrm{m}}^{2}$，最大行驶速度为108km/h，拟在风洞中进行模型试验。已知风洞试验段的最大风速为45m/s，则模型的迎风面积为（）。A.$1{\\mathrm{m}}^{2}$B.2.${25}{\\mathrm{m}}^{2}$C.${3.6}{\\mathrm{m}}^{2}$D.0.${28}{\\text{m}}^{2}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "265d16e4-c9b4-4ad7-8914-bf078102b821",
+        "type": "single_choice",
+        "index": 50
+    },
+    {
+        "question": "运动的电荷在穿越磁场时会受到力的作用,这种力称为()。A.库仑力B.洛仑兹力C.电场力D.安培力",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "8d4e13ae-7565-44fa-b29d-0a0aaf2ea09e",
+        "type": "single_choice",
+        "index": 51
+    },
+    {
+        "question": "某RL串联电路在$$u={U}_{m}\\sin{\\omegat}$$的激励下,等效复阻抗$$Z={100}+\\mathrm{j}{100\\Omega}$$，那么，如果$$u={U}_{m}\\sin{2\\omegat}$$,电路的功率因数$\\lambda$为$\\left(\\;\\right)$。A.0.707B.-0.707C.0.894D.0.447",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "2391c7d2-c6f6-4fa3-b159-c50fd31a93e4",
+        "type": "single_choice",
+        "index": 52
+    },
+    {
+        "question": "改变三相异步电动机旋转方向的方法是（）。A.改变三相电源的大小B.改变三相异步电动机定子绕组上电流的相序C.对三相异步电动机的定子绕组接法进行$\\mathrm{Y}-\\Delta$转换D.改变三相异步电动机转子绕组上电流的方向",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "416072d0-a120-4732-9bd6-8b9e7715ffbd",
+        "type": "single_choice",
+        "index": 53
+    },
+    {
+        "question": "就数字信号而言,下述说法中正确的是()。A.数字信号是一种离散时间信号B.数字信号只能用来表示数字C.数字信号是一种代码信号D.数字信号直接表示对象的原始信息",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "9c51660a-dae0-4c4a-8940-2557e6972fd5",
+        "type": "single_choice",
+        "index": 54
+    },
+    {
+        "question": "对逻辑表达式${ABC}+\\overset{―}{A}D+\\overset{―}{B}D+\\overset{―}{C}D$的化简结果是（）。A.DB.$\\overline{D}$C.ABCDD.$\\mathrm{{ABC}}+\\mathrm{D}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "d4603ab6-3799-4592-8458-8819beed2e01",
+        "type": "single_choice",
+        "index": 55
+    },
+    {
+        "question": "逻辑函数$$F=f\\left({A,B,C}\\right)$$的真值表如下所示,由此可知()。题92表<table><tr><td>$A$</td><td>$B$</td><td>C</td><td>$F$</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td></tr></table>A.$$F=A\\bar{B}C+{AB}\\bar{C}$$B.$$F=\\bar{A}\\bar{B}C+\\bar{A}B\\bar{C}$$C.$$F=\\bar{A}\\bar{B}\\bar{C}+\\bar{A}{BC}$$D.$$F=A\\bar{B}\\bar{C}+{ABC}$$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "d49a0d17-2f60-4ccd-8363-ba635ab7ac63",
+        "type": "single_choice",
+        "index": 56
+    },
+    {
+        "question": "按照目前的计算机的分类方法,现在使用的PC机是属于$\\left(\\;\\right)$A.专用、中小型计算机B.大型计算机C.微型、通用计算机D.单片机计算机",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "03a2f437-d1bb-4d03-9a3d-5c7898d6b9fe",
+        "type": "single_choice",
+        "index": 57
+    },
+    {
+        "question": "目前,微机系统内主要的、常用的外存储器是()。A.硬盘存储器B.软盘存储器C.输入用的键盘D.输出用的显示器",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "3edb22b9-5f57-4b2b-b278-9ee394fc679c",
+        "type": "single_choice",
+        "index": 58
+    },
+    {
+        "question": "根据软件的功能和特点,计算机软件一般可分为两大类,它们应该是()。A.系统软件和非系统软件B.应用软件和非应用软件C.系统软件和应用软件D.系统软件和管理软件",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "091659f1-c319-43c4-9b79-8e7745bbdb8a",
+        "type": "single_choice",
+        "index": 59
+    },
+    {
+        "question": "支撑软件是指支援其他软件的软件,它包括()。A.服务程序和诊断程序B.接口软件、工具软件、数据库C.服务程序和编辑程序D.诊断程序和编辑程序",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "479b1f18-03c9-401a-8652-06d86374a206",
+        "type": "single_choice",
+        "index": 60
+    },
+    {
+        "question": "下面所列的四条中,不属于信息主要特征的一条是()。A.信息的战略地位性、信息的不可表示性B.信息的可识别性、信息的可变性C.信息的可流动性、信息的可处理性D.信息的可再生性、信息的有效性和无效性",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "9d662e7d-49ae-406e-a92a-f24661baae71",
+        "type": "single_choice",
+        "index": 61
+    },
+    {
+        "question": "从多媒体的用度上来看,图像分辨率（）。A.是指显示器屏幕上的最大显示区域B.是计算机多媒体系统的参数C.是指显示卡支持的最大分辨率D.是图像水平和垂直方向像素点的乘积",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "7ded788e-b269-4459-92ea-6a04f8d2cddd",
+        "type": "single_choice",
+        "index": 62
+    },
+    {
+        "question": "以下关于计算机病毒的四条描述中,不正确的一条是()。A.计算机病毒是人为编制的程序B.计算机病毒只有通过磁盘传播C.计算机病毒通过修改程序嵌入自身代码进行传播D.计算机病毒只要满足某种条件就能起破坏作用",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "f07af5ec-e6fe-4713-80bc-22351d4bdcfd",
+        "type": "single_choice",
+        "index": 63
+    },
+    {
+        "question": "操作系统的存储管理功能不包括$\\left(\\;\\right)$A.分段存储管理B.分页存储管理C.虚拟存储管理D.分时存储管理",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "15b4e841-fd63-4eba-9f96-2fe3afb66b21",
+        "type": "single_choice",
+        "index": 64
+    },
+    {
+        "question": "网络协议主要组成的三要素是（）。A.资源共享、数据通信和增强系统处理功能B.硬件共享、软件共享和提高可靠性C.语法、语义和同步(定时)D.电路交换、报文交换和分组交换",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "5e253f25-b1ef-401b-b587-290c6cd38750",
+        "type": "single_choice",
+        "index": 65
+    },
+    {
+        "question": "若按照数据交换方法的不同,可将网络分为()。A.广播式网络、点到点式网络B.双绞线网、同轴电缆网、光纤网、无线网C.基带网和宽带网D.电路交换、报文交换、分组交换",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "9a352f7e-3fdb-456f-8f7f-b466ea14874a",
+        "type": "single_choice",
+        "index": 66
+    },
+    {
+        "question": "某企业向银行贷款1000万元，年复利率为8%，期限为5年，每年末等额偿还贷款本金和利息。则每年应偿还（）。[已知（P/A，8%，5）$={3.9927}$]A.220.63万元B.250.46万元C.289.64万元D.296.87万元",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "c621b834-003d-463c-b712-50ebba42c668",
+        "type": "single_choice",
+        "index": 67
+    },
+    {
+        "question": "在项目评价中,建设期利息应列入总投资,并形成()。A.固定资产原值B.流动资产C.无形资产D.长期待摊费用",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "b456e559-e121-4791-aac5-d91d8c48ba2f",
+        "type": "single_choice",
+        "index": 68
+    },
+    {
+        "question": "作为一种融资方式,优先股具有某些优先权利,包括$\\left(\\;\\right)$。A.先于普通股行使表决权利B.企业清算时,享有先于债权人的剩余财产的优先分配权C.享受先于债权人的分红权利D.先于普通股分配股利",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "737d71eb-1e24-464a-94ec-2fd64b024a23",
+        "type": "single_choice",
+        "index": 69
+    },
+    {
+        "question": "某建设项目各年的利息备付率均小于1,其含义为$\\left(\\;\\right)$。A.该项目利息偿付的保障程度高B.当年资金来源不足以偿付当期债务,需要通过短期借款偿付已到期债务C.可用于还本付息的资金保障程度较高D.表示付息能力保障程度不足",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "35318c39-8668-43c9-b95f-274dbb409f3a",
+        "type": "single_choice",
+        "index": 70
+    },
+    {
+        "question": "某建设项目第一年年初投资1000万元,此后从第一年年末开始,每年年末将有200万元的净收益,方案的运营期为10年。寿命期结束时的净残值为零，基准收益率为12%，则该项目的净年值约为（）。[已知(P/A,${12}\\%,{10})={5.6502}\\rbrack$A.12.34万元B.23.02万元C.36.04万元D.64.60万元",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "d4c21a40-bfb7-40c6-88e9-c2696d449216",
+        "type": "single_choice",
+        "index": 71
+    },
+    {
+        "question": "进行线性盈亏平衡分析有若干假设条件,其中包括$\\left(\\;\\right)$。A.只生产单一产品B.单位可变成本随生产量的增加成比例降低C.单价随销售量的增加而成比例降低D.销售收入是销售量的线性函数",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "f2a6b0ed-65ce-4f6e-8338-b12bba4e180b",
+        "type": "single_choice",
+        "index": 72
+    },
+    {
+        "question": "有甲、乙两个独立的投资项目，有关数据如下表所示（项目结束时均无残值）。基准折现率为10%。以下关于项目可行性的说法中正确的是$\\left(\\;\\right)$。[已知$\\left({\\mathrm{P}/\\mathrm{A},{10}\\%,{10}}\\right)={6.1446}$]题113表<table><thead><tr><th>项目</th><th>投资(万元)</th><th>每年净收益（万元）</th><th>寿命期（年）</th></tr></thead><tr><td>甲</td><td>300</td><td>52</td><td>10</td></tr><tr><td>乙</td><td>200</td><td>30</td><td>10</td></tr></table>A.应只选择甲项目B.应只选择乙项目C.甲项目与乙项目均可行D.甲、乙两项目均不可行",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "d01f24ab-353d-48cc-a523-d3e4119ccc84",
+        "type": "single_choice",
+        "index": 73
+    },
+    {
+        "question": "在价值工程的一般工作程序中,分析阶段要做的工作包括$\\left(\\;\\right)$。A.制定工作计划B.功能评价C.方案创新D.方案评价",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "b54e2308-aaf7-4635-8c9d-24cbb00124f8",
+        "type": "single_choice",
+        "index": 74
+    },
+    {
+        "question": "依据《建筑法》，依法取得相应的执业资格证书的专业技术人员，其从事建筑活动的合法范围是(）。A.执业资格证书许可的范围内B.企业营业执照许可的范围内C.建设工程合同的范围内D.企业资质证书许可的范围内",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "faf617d7-0883-4e9e-8ccf-1b7512764266",
+        "type": "single_choice",
+        "index": 75
+    },
+    {
+        "question": "根据《安全生产法》规定,下列有关重大危险源管理的说法正确的是()。A.生产经营单位对重大危险源应当登记建档,并制定应急预案B.生产经营单位对重大危险源应当经常性检测、评估、处置C.安全生产监督管理的部门应当针对该企业的具体情况制定应急预案D.生产经营单位应当提醒从业人员和相关人员注意安全",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "5320fde3-024f-424d-8a91-01ab181fc370",
+        "type": "single_choice",
+        "index": 76
+    },
+    {
+        "question": "根据《招标投标法》规定，依法必须进行招标的项目，招标公告应当载明的事项不包括（）A.招标人的名称和地址B.招标项目的性质C.招标项目的实施地点和时间D.投标报价要求",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "ded8f73d-8660-43c1-8ffc-a02a6d421d88",
+        "type": "single_choice",
+        "index": 77
+    },
+    {
+        "question": "某水泥有限责任公司向若干建筑施工单位发出要约，以400元/吨的价格销售水泥，一周内承诺有效。其后,收到了若干建筑施工单位的回复。下列回复中,属于承诺有效的是()A.甲施工单位同意400元/吨购买200吨B.乙施工单位回复不购买该公司的水泥C.丙施工单位要求按380元/吨购买200吨D.丁施工单位一周后同意400元/吨购买100吨",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "068ac040-7f27-4206-973f-2f25908d8964",
+        "type": "single_choice",
+        "index": 78
+    },
+    {
+        "question": "根据《节约能源法》规定,节约能源所采取的措施正确的是（）。A.采取技术上可行、经济上合理以及环境和社会可以承受的措施B.采取技术上先进、经济上保证以及环境和安全可以承受的措施C.采取技术上可行、经济上合理以及人身和健康可以承受的措施D.采取技术上先进、经济上合理以及功能和环境可以保证的措施",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "7f0d6b94-19e7-4d07-bdc4-2928aca74677",
+        "type": "single_choice",
+        "index": 79
+    },
+    {
+        "question": "某工程施工单位完成了楼板钢筋绑扎工序,在浇筑混凝土前需要进行隐蔽质量验收,根据《建设工程质量管理条例》规定，施工单位在隐蔽前应当通知的单位是（）。A.建设单位和监理单位B.建设单位和建设工程质量监督机构C.监理单位和设计单位D.设计单位和建设工程质量监督机构",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "b7fa79a6-87ae-4911-ac28-d26896a053d8",
+        "type": "single_choice",
+        "index": 80
+    },
+    {
+        "question": "极限$\\mathop{\\lim}\\limits_{{x\\rightarrow0}}\\frac{3+{e}^{\\frac{1}{x}}}{1-{e}^{\\frac{2}{x}}}$（）。A.值为3B.值为-1C.值为0D.不存在",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "10cd60e2-727d-4826-b44c-f19a230abc88",
+        "type": "single_choice",
+        "index": 81
+    },
+    {
+        "question": "函数$f\\left(x\\right)$在点$x={x}_{0}$处连续是$f\\left(x\\right)$在点$x={x}_{0}$处可微的$\\left(\\;\\right)$。A.充分条件B.充要条件C.必要条件D.无关条件",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "1260c73e-6cca-45d6-8766-d0b6aba68d4d",
+        "type": "single_choice",
+        "index": 82
+    },
+    {
+        "question": "当$\\mathrm{x}\\rightarrow0$时,$\\sqrt{1-{x}^{2}}-\\sqrt{1+{x}^{2}}$是${x}^{k}$的同阶无穷小,则常数$k$等于()。A.3B.2C.1D.$1/2$",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "2e7f874f-eba2-44c4-9a31-6d75f5376bb9",
+        "type": "single_choice",
+        "index": 83
+    },
+    {
+        "question": "设$\\mathrm{y}=\\ln$(sinx),则二阶导数${\\mathrm{y}}^{\\prime\\prime}$等于()。A.$\\frac{\\cosx}{{\\sin}^{2}x}$B.$\\frac{1}{{\\cos}^{2}x}$C.$\\frac{1}{{\\sin}^{2}x}$D.$-\\frac{1}{{\\sin}^{2}x}$",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "a476684f-7c9a-456d-bf92-f2e8bd187b38",
+        "type": "single_choice",
+        "index": 84
+    },
+    {
+        "question": "若函数$f\\left(x\\right)$在$\\left\\lbrack{a,b}\\right\\rbrack$上连续,在$\\left({a,b}\\right)$内可导,且$f\\left(a\\right)=f\\left(b\\right)$,则在$\\left({a,b}\\right)$内满足${f}^{\\prime}\\left({x}_{0}\\right.$）$=0$的点${\\mathrm{x}}_{0}$（）。A.必存在且只有一个B.至少存在一个C.不一定存在D.不存在",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "10f56453-1d60-453d-9749-8f35db7c3bec",
+        "type": "single_choice",
+        "index": 85
+    },
+    {
+        "question": "不定积分$$\\int\\frac{x}{{\\sin}^{2}\\left({{x}^{2}+1}\\right)}\\mathrm{d}x$$等于（）。A.$$-\\frac{1}{2}\\cot\\left({{x}^{2}+1}\\right)+C$$B.C.$$-\\frac{1}{\\sin\\left({{x}^{2}+1}\\right)}+C$$$$-\\frac{1}{2}\\tan\\left({{x}^{2}+1}\\right)+C$$D.$$-\\frac{1}{2}\\cotx+C$$",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "6e364255-fc0e-431c-9936-910aea6f4559",
+        "type": "single_choice",
+        "index": 86
+    },
+    {
+        "question": "广义积分${\\int}_{-2}^{2}\\frac{1}{{\\left(1+x\\right)}^{2}}\\mathrm{\\;d}x$（）。A.值为$4/3$B.值为$-4/3$C.值为$2/3$D.发散",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "06034c95-67e4-4b4e-820e-ae6d52109e6d",
+        "type": "single_choice",
+        "index": 87
+    },
+    {
+        "question": "向量$a=\\left({2,1,-1}\\right)$,若向量$\\beta$与$a$平行,且$a\\cdot\\beta=3$,则$\\beta$为$\\left(\\;\\right)$。A.$\\left({2,1,-1}\\right)$B.$\\left({3/2,3/4,-3/4}\\right)$C.$\\left({1,1/2,-1/2}\\right)$D.$\\left({1,-1,1/2}\\right)$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "1ced8735-ab3b-418c-ae2a-6b319a8037b7",
+        "type": "single_choice",
+        "index": 88
+    },
+    {
+        "question": "过点$\\left({2,0,-1}\\right)$且垂直于$\\mathrm{x}0\\mathrm{y}$坐标面的直线方程是$\\left(\\;\\right)$。A.$$\\frac{x-2}{1}=\\frac{y}{0}=\\frac{z+1}{0}$$B.$$\\frac{x-2}{0}=\\frac{y}{1}=\\frac{z+1}{0}$$C.$$\\frac{x-2}{0}=\\frac{y}{0}=\\frac{z+1}{1}$$D.$$\\left\\{\\begin{array}{l}x=2\\\\z=-1\\end{array}\\right.$$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "4c09107d-b9ae-45bf-a491-69f4bd4fa93f",
+        "type": "single_choice",
+        "index": 89
+    },
+    {
+        "question": "微分方程$y\\lnx\\mathrm{\\;d}x-x\\lny\\mathrm{\\;d}y=0$满足条件y$\\left(1\\right)=1$的特解是$\\left(\\;\\right)$。A.$${\\ln}^{2}x+{\\ln}^{2}y=1$$B.$${\\ln}^{2}x-{\\ln}^{2}y=1$$C.$${\\ln}^{2}x+{\\ln}^{2}y=0$$D.${\\ln}^{2}x-{\\ln}^{2}y=0$",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "86e71360-39c5-44fc-80d1-1046cb2fbf7e",
+        "type": "single_choice",
+        "index": 90
+    },
+    {
+        "question": "若D是由$\\mathrm{x}$轴、$\\mathrm{y}$轴及直线$2\\mathrm{x}+\\mathrm{y}-2=0$所围成的闭区域,则二重积分${\\iint}_{D}\\mathrm{\\;d}x\\mathrm{\\;d}y$的值等于（）。A.1B.2C.$1/2$D.-1",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "a503246f-ad35-4bf7-95b2-93df29a3ae3c",
+        "type": "single_choice",
+        "index": 91
+    },
+    {
+        "question": "函数$$y={C}_{1}{C}_{2}{e}^{-x}$$（C<sub>1</sub>、C<sub>2</sub>是任意常数）是微分方程$${y}^{\\prime\\prime}-2{y}^{\\prime}-{3y}=0$$的（）。A.通解B.特解C.不是解D.既不是通解又不是特解,而是解",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "30025ced-9dc9-4200-a350-73de9acbdb6b",
+        "type": "single_choice",
+        "index": 92
+    },
+    {
+        "question": "设圆周曲线$\\mathrm{L}:\\mathrm{x}<\\sup>2</\\sup>+\\mathrm{y}<\\sup>2</\\sup>=1$取逆时针方向,则对坐标的曲线积分${\\int}_{L}\\frac{y\\mathrm{\\;d}x-x\\mathrm{\\;d}y}{{x}^{2}+{y}^{2}}$值等于（）。A.${2\\pi}$B.$-{2\\pi}$C.$\\pi$D.0",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "4cc8a088-3d53-4c52-8b40-63d22f62a6fa",
+        "type": "single_choice",
+        "index": 93
+    },
+    {
+        "question": "对于函数$f\\left({x,y}\\right)={xy}$,原点$\\left({0,0}\\right)\\left(\\;\\right)$。A.不是驻点B.是驻点但非极值点C.是驻点且为极小值点D.是驻点且为极大值点",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "bc3df43e-96a8-48db-a0ba-fbfbd690bea0",
+        "type": "single_choice",
+        "index": 94
+    },
+    {
+        "question": "关于级数$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}{\\left(-1\\right)}^{n-1}\\frac{1}{{n}^{p}}$$收敛性的正确结论是（$\\;$）。A.$0<\\mathrm{p}\\leq1$时发散B.$p>1$时条件收敛C.$0<\\mathrm{p}\\leq1$时绝对收敛D.$0<\\mathrm{p}\\leq1$时条件收敛",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "88c05963-7d32-4010-8246-9bf9b9292d20",
+        "type": "single_choice",
+        "index": 95
+    },
+    {
+        "question": "设函数$$z={\\left(\\frac{y}{x}\\right)}^{x}$$,则全微分$${\\left.\\mathrm{d}z\\right|}_{\\begin{matrix}{x=1}\\\\{y=2}\\end{matrix}}$$等于$\\left(\\;\\right)$。A.$\\ln2\\mathrm{\\;d}x+\\frac{1}{2}\\mathrm{\\;d}y$B.$\\left({\\ln2+1}\\right)\\mathrm{d}x+\\frac{1}{2}\\mathrm{\\;d}y$C.D.$$2\\left\\lbrack{\\left({\\ln2-1}\\right)\\mathrm{d}x+\\frac{1}{2}\\mathrm{\\;d}y}\\right\\rbrack$$$$\\frac{1}{2}\\ln2\\mathrm{\\;d}x+2\\mathrm{\\;d}y$$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "62de29e4-8d18-4866-b843-3b3cc146d42f",
+        "type": "single_choice",
+        "index": 96
+    },
+    {
+        "question": "幂级数$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}{\\left(-1\\right)}^{n-1}\\frac{{x}^{{2n}-1}}{{2n}-1}$$的收敛域是（）。A.$\\left\\lbrack{-1,1}\\right\\rbrack$B.$(-1,1\\rbrack$C.$\\lbrack-1,1)$D.$\\left({-1,1}\\right)$",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "ba04b4ca-a651-4920-98ae-a398db4e1dca",
+        "type": "single_choice",
+        "index": 97
+    },
+    {
+        "question": "若n阶方阵A满足$\\left|\\mathrm{A}\\right|=\\mathrm{b}$(b≠0,$\\mathrm{n}\\geq2$),而${\\mathrm{A}}^{*}$是A的伴随矩阵,则行列式$\\left|{\\mathrm{A}}^{*}\\right|$等于($\\;$)。A.${\\mathrm{b}}^{\\mathrm{n}}$B.${b}^{n-1}$C.${b}^{n-2}$D.${b}^{n-3}$",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "d92fe29d-c46d-41b3-ba08-a7341498921a",
+        "type": "single_choice",
+        "index": 98
+    },
+    {
+        "question": "已知二阶实对称矩阵A的特征值是1,A的对应于特征值1的特征向量为${\\left(1,-1\\right)}^{\\mathrm{T}}$,若$\\left|\\mathrm{A}\\right|=-1$,则A的另一个特征值及其对应的特征向量是（$\\;$）。A.$$\\left\\{\\begin{array}{l}\\lambda=1\\\\x={\\left(1,1\\right)}^{T}\\end{array}\\right.$$B.$$\\left\\{\\begin{array}{l}\\lambda=-1\\\\x={\\left(1,1\\right)}^{T}\\end{array}\\right.$$C.$$\\left\\{\\begin{array}{l}\\lambda=-1\\\\x={\\left(-1,1\\right)}^{T}\\end{array}\\right.$$D.$$\\left\\{\\begin{array}{l}\\lambda=1\\\\x={\\left(1,-1\\right)}^{T}\\end{array}\\right.$$",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "677ec891-3095-4b12-8801-25d3b78ef86a",
+        "type": "single_choice",
+        "index": 99
+    },
+    {
+        "question": "设A、B为两个事件,且$$P\\left(\\mathrm{\\;A}\\right)=\\frac{1}{3}$$,$$P\\left(\\mathrm{\\;B}\\right)=\\frac{1}{4}$$,$P\\left({\\mathrm{\\;B}\\mid\\mathrm{A}}\\right)=\\frac{1}{6}$，则$P\\left({\\mathrm{\\;A}\\mid\\mathrm{B}}\\right)$等于（）。A.$1/9$B.$2/9$C.$1/3$D.$4/9$",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "731e523a-617d-4f02-9c75-dc0e58033ffc",
+        "type": "single_choice",
+        "index": 100
+    },
+    {
+        "question": "设随机向量(X,Y)的联合分布律为<table><thead><tr><th>YX</th><th>$-1$</th><th>0</th></tr></thead><tr><td>1</td><td>$1/4$</td><td>1/4</td></tr><tr><td>2</td><td>$1/6$</td><td>a</td></tr></table>则a的值等于（$\\;$）。A.$1/3$B.$2/3$C.$1/4$D.$3/4$",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "0f049077-9642-4b24-b639-d5f4436abc0c",
+        "type": "single_choice",
+        "index": 101
+    },
+    {
+        "question": "设总体X服从均匀分布U$\\left({1,\\theta}\\right)$,$$\\bar{X}=\\frac{1}{n}\\mathop{\\sum}\\limits_{{i=1}}^{n}{x}_{i}$$,则$\\theta$的矩估计为()。A.$\\overline{X}$B.$2\\bar{X}$C.$2\\bar{X}-1$D.$2\\bar{X}+1$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "357ee646-38aa-49dc-b07c-bb496b61b525",
+        "type": "single_choice",
+        "index": 102
+    },
+    {
+        "question": "关于温度的意义,有下列几种说法:①气体的温度是分子平均平动动能的量度;②气体的温度是大量气体分子热运动的集体表现,具有统计意义:③温度的高低反映物质内部分子运动剧烈程度的不同;④从微观上看,气体的温度表示每个气体分子的冷热程度。这些说法中正确的是（$\\;$）。A.①②④B.①②③C.②③④D.①③④",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "54c51352-f292-4924-886f-07361cb4d31c",
+        "type": "single_choice",
+        "index": 103
+    },
+    {
+        "question": "设1代表气体分子运动的平均速率,$\\mathrm{v}<\\mathrm{{sub}}>\\mathrm{p}</\\mathrm{{sub}}>$代表气体分子运动的最概然速率,${\\left(\\overline{{v}^{2}}\\right)}^{1/2}$代表气体分子运动的方均根速率,处于平衡状态下理想气体,三种速率关系为()A.B.$${\\left(\\overline{{v}^{2}}\\right)}^{1/2}=\\bar{v}={v}_{p}$$$$\\bar{v}={v}_{p}<{\\left(\\overline{{v}^{2}}\\right)}^{1/2}$$C.$${v}_{p}<\\bar{v}<{\\left(\\overline{{v}^{2}}\\right)}^{1/2}$$D.$${v}_{p}>\\bar{v}>{\\left(\\overline{{v}^{2}}\\right)}^{1/2}$$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "1db574d4-6201-4a44-a6b2-3737705d61bc",
+        "type": "single_choice",
+        "index": 104
+    },
+    {
+        "question": "理想气体向真空做绝热膨胀（）。A.膨胀后,温度不变,压强减小B.膨胀后,温度降低,压强减小C.膨胀后,温度升高,压强减小D.膨胀后,温度不变,压强不变",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "0c872db1-ab73-4497-9f52-53ac3afa35f6",
+        "type": "single_choice",
+        "index": 105
+    },
+    {
+        "question": "刚性双原子分子理想气体的定压摩尔热容量${\\mathrm{C}}_{\\mathrm{p}}$,与其定容摩尔热容量${\\mathrm{C}}_{\\mathrm{v}}$之比,${\\mathrm{C}}_{\\mathrm{p}}/{\\mathrm{C}}_{\\mathrm{v}}=\\left(\\;\\right)$A.$5:3$B.$3:5$C.$7:5$D.$5:7$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "fbd26a28-be85-4913-a70f-a83b3e79f9be",
+        "type": "single_choice",
+        "index": 106
+    },
+    {
+        "question": "一横波沿绳子传播时,波的表达式为$\\mathrm{y}={0.05}\\cos\\left({{4\\pi}\\mathrm{x}-{10\\pi}\\mathrm{t}}\\right)$(SI),则$\\left(\\;\\right)$A.其波长为${0.5}\\mathrm{\\;m}$B.波速为$5\\mathrm{\\;m}\\cdot{\\mathrm{s}}^{-1}$C.波速为${25}\\mathrm{\\;m}\\cdot\\mathrm{s}$_1D.频率为$2\\mathrm{{Hz}}$",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "f03c2850-5fba-4d46-926e-8b331c28d38f",
+        "type": "single_choice",
+        "index": 107
+    },
+    {
+        "question": "在波的传播过程中,若保持其他条件不变,仅使振幅增加一倍,则波的强度增加到()A.1倍B.2倍C.3倍D.4倍",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "b87a152e-2598-4c5f-ae8e-99c52ed06adb",
+        "type": "single_choice",
+        "index": 108
+    },
+    {
+        "question": "两列相干波,其表达式为$${y}_{1}=A\\cos{2\\pi}\\left({{vt}-\\frac{x}{\\lambda}}\\right)$$和$${y}_{2}=A\\cos{2\\pi}\\left({{vt}+\\frac{x}{\\lambda}}\\right)$$，在叠加后形成的驻波中，波腹处质元振幅为（$\\;$）。A.AB.-AC.$2\\mathrm{\\;A}$D.$-2\\mathrm{\\;A}$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "23b43ded-6eee-43de-8894-f8082bb3f7a6",
+        "type": "single_choice",
+        "index": 109
+    },
+    {
+        "question": "在玻璃（折射率n<sub>3</sub>=1.60）表面镀一层MgF<sub>2</sub>（折射率n<sub>2</sub>=1.38）薄膜作为增透膜,为了使波长为500nm(1nm=10-9m)的光从空气(n<sub>I</sub>=1.00)正入射时尽可能少反射,${\\mathrm{{MgF}}}_{2}$薄膜的最少厚度应是（$\\;$）。A.78.1nmB.90.6nmC.${125}\\mathrm{\\;{nm}}$D.${181}\\mathrm{\\;{nm}}$",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "953a14d1-4251-426d-bcdd-4f28021f0c21",
+        "type": "single_choice",
+        "index": 110
+    },
+    {
+        "question": "在单缝衍射实验中,若单缝处波面恰好被分成奇数个半波带,在相邻半波带上,任何两个对应点所发出的光在明条纹处的光程差为()。A.$\\lambda$B.${2\\lambda}$C.$\\lambda/2$D.$\\lambda/4$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "9d6cf879-1161-4b97-8461-a325fa4d604b",
+        "type": "single_choice",
+        "index": 111
+    },
+    {
+        "question": "在双缝干涉实验中,用单色自然光,在屏上形成干涉条纹。若在两缝后放一个偏振片,则()A.干涉条纹的间距不变,但明纹的亮度加强B.干涉条纹的间距不变,但明纹的亮度减弱C.干涉条纹的间距变窄,且明纹的亮度减弱D.无干涉条纹",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "bc2a2631-0cc5-4d0a-9106-8c6884ab84a0",
+        "type": "single_choice",
+        "index": 112
+    },
+    {
+        "question": "下列元素中第一电离能最小的是（）。A.$\\mathrm{H}$B.LiC.$\\mathrm{{Na}}$D.K",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "1dbf7b62-4c04-48a7-959b-a1670e85fcb8",
+        "type": "single_choice",
+        "index": 113
+    },
+    {
+        "question": "在${\\mathrm{H}}_{2}\\mathrm{C}=\\mathrm{{HC}}-\\mathrm{{CH}}={\\mathrm{{CH}}}_{2}$分子中所含化学键共有（）。A.4个$\\sigma$键,2个$\\pi$键B.9个$\\sigma$键,2个$\\pi$键C.7个$\\sigma$键,4个$\\pi$键D.5个$\\sigma$键,4个$\\pi$键",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "ce6230f2-bba1-416c-9a0d-f5f55e01767a",
+        "type": "single_choice",
+        "index": 114
+    },
+    {
+        "question": "在NaCl、MgCl${}_{2}$、AlCl${}_{3}$、SiCl${}_{4}$四种物质的晶体中,离子极化作用最强的是（$\\;$）。A.$\\mathrm{{NaC}}1$B.${\\mathrm{{MgCl}}}_{2}$C.${\\mathrm{{AlCl}}}_{3}$D.${\\mathrm{{SiCl}}}_{4}$",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "2d81f8f7-677f-4ea7-a3c3-10f9db27c5a2",
+        "type": "single_choice",
+        "index": 115
+    },
+    {
+        "question": "$\\mathrm{{pH}}=2$的溶液中的c${\\mathrm{{OH}}}^{-}$)与$\\mathrm{{pH}}=4$的溶液中c${\\mathrm{{OH}}}^{-}$)的比值是()。A.2B.0.5C.0.01D.100",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "c67f1fb0-e27c-47b2-87e9-eb22ea36bed2",
+        "type": "single_choice",
+        "index": 116
+    },
+    {
+        "question": "某反应在298K及标准状态下不能自发进行,当温度升高到一定值时,反应能自发进行,符合此条件的是（$\\;$）。A.$\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{H}<\\operatorname{sub}>\\mathrm{m}</\\operatorname{sub}>>0,\\;\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{S}<{\\operatorname{sub}}^{>}\\mathrm{m}</\\operatorname{sub}>>0$B.$\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{H}<\\operatorname{sub}>\\mathrm{m}</\\operatorname{sub}><0,\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{S}<{\\operatorname{sub}}^{>}\\mathrm{m}</\\operatorname{sub}><0$C.$\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{H}<\\operatorname{sub}>\\mathrm{m}</\\operatorname{sub}><0,\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{S}<{\\operatorname{sub}}^{>}\\mathrm{m}</\\operatorname{sub}>>0$D.$\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{H}<\\operatorname{sub}>\\mathrm{m}</\\operatorname{sub}>>0,\\;\\Delta<\\operatorname{sub}>\\mathrm{r}</\\operatorname{sub}>\\mathrm{S}<{\\operatorname{sub}}^{>}\\mathrm{m}</\\operatorname{sub}><0$",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "df0a9c6c-f8ea-46e1-908e-673f03cf24ce",
+        "type": "single_choice",
+        "index": 117
+    },
+    {
+        "question": "下列物质水溶液的pH＞7的是（$\\;$）。A.NaClB.${\\mathrm{{Na}}}_{2}{\\mathrm{{CO}}}_{3}$C.${\\mathrm{{Al}}}_{2}{\\left({\\mathrm{{SO}}}_{4}\\right)}_{3}$D.$\\left({\\mathrm{{NH}}}_{4}\\right)2{\\mathrm{{SO}}}_{4}$",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "38ce89f0-4490-4706-92ca-2c70f6780be3",
+        "type": "single_choice",
+        "index": 118
+    },
+    {
+        "question": "已知E$\\left({{\\mathrm{{Fe}}}^{3+}/{\\mathrm{{Fe}}}^{2+}}\\right)={0.77}\\mathrm{\\;V},\\mathrm{E}\\left({{\\mathrm{{Mn04}}}^{-}/{\\mathrm{{Mn}}}^{2\\langle\\mathrm{{sub}}\\rangle+\\langle/\\mathrm{{sub}}\\rangle}}\\right)={1.51}\\mathrm{\\;V}$,当同时提高两电对电极的酸度时,两电对电极电势数值的变化是()。A.E$\\left({{\\mathrm{{Fe}}}^{3+}/{\\mathrm{{Fe}}}^{2+}}\\right)$变小,E$\\left({{\\mathrm{{Mn04}}}^{-}/{\\mathrm{{Mn}}}^{2<\\mathrm{{sub}}}>+</\\mathrm{{sub}}>}\\right)$变大B.E$\\left({{\\mathrm{{Fe}}}^{3+}/{\\mathrm{{Fe}}}^{2+}}\\right)$变大,E$\\left({{\\mathrm{{Mn04}}}^{-}/{\\mathrm{{Mn}}}^{2<\\mathrm{{sub}}}>+</\\mathrm{{sub}}>}\\right)$变大C.E$\\left({{\\mathrm{{Fe}}}^{3+}/{\\mathrm{{Fe}}}^{2+}}\\right)$不变,E$\\left({{\\mathrm{{Mn04}}}^{-}/{\\mathrm{{Mn}}}^{2<\\mathrm{{sub}}}>+</\\mathrm{{sub}}>}\\right)$变大D.E$\\left({{\\mathrm{{Fe}}}^{3+}/{\\mathrm{{Fe}}}^{2+}}\\right)$不变,E$\\left({{\\mathrm{{Mn04}}}^{-}/{\\mathrm{{Mn}}}^{2<}\\mathrm{{sub}}>+</\\mathrm{{sub}}>}\\right)$不变",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "efc13666-e17d-4477-8d40-969e9b3282e5",
+        "type": "single_choice",
+        "index": 119
+    },
+    {
+        "question": "以下是分子式为C<sub>5</sub>H<sub>12</sub>0的有机物，其中能被氧化为含相同碳原子数的醛的是（）。①${\\mathrm{{CH}}}_{2}{\\mathrm{{CH}}}_{2}{\\mathrm{{CH}}}_{2}{\\mathrm{{CH}}}_{2}{\\mathrm{{CH}}}_{3}$OHOH②${\\mathrm{{CH}}}_{3}{\\mathrm{{CHCH}}}_{2}{\\mathrm{{CH}}}_{2}{\\mathrm{{CH}}}_{3}$OH④${\\mathrm{{CH}}}_{3}{\\mathrm{{CHCH}}}_{2}{\\mathrm{{CH}}}_{3}$${\\mathrm{{CH}}}_{2}\\mathrm{{OH}}$A.1)②B.34C.①④D.只有①",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "6d8347e0-d00d-4675-8b6e-401a017e225c",
+        "type": "single_choice",
+        "index": 120
+    },
+    {
+        "question": "汽车均匀加速运动,在${10}\\mathrm{\\;s}$内,速度由0增加到$5\\mathrm{\\;m}/\\mathrm{s}$,则汽车在此时间内行驶距离为$\\left(\\;\\right)$A.${25}\\mathrm{\\;m}$B.50mC.${75}\\mathrm{\\;m}$D.${100}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "9b862698-c3b9-43e9-aa43-9ab93f707490",
+        "type": "single_choice",
+        "index": 121
+    },
+    {
+        "question": "物体做定轴转动的运动方程为$\\phi=4\\mathrm{t}-3{\\mathrm{t}}^{2}$,则此物体转动半径$\\mathrm{r}={0.5}\\mathrm{m}$的一点,在$\\mathrm{t}=1\\mathrm{\\;s}$的速度和切向加速度为（$\\;$）。A.2m/s，20m/s2B.$-1\\mathrm{\\;m}/\\mathrm{s},-3\\mathrm{\\;m}/{\\mathrm{s}}^{2}$C.2m/s，8.54m/s2D.Om/s，20.2m/s2",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "5f694728-2e3c-4277-8dce-a543719cd754",
+        "type": "single_choice",
+        "index": 122
+    },
+    {
+        "question": "重为W的货物由电梯载运下降,当电梯加速下降、匀速下降及减速下降时,货物对地板的压力分别为${\\mathrm{F}}_{1}、\\mathrm{\\;F}$2、${\\mathrm{F}}_{3}$,他们之间的关系为()。A.${F}_{1}={F}_{2}={F}_{3}$B.${F}_{1}>{F}_{2}>{F}_{3}$C.${F}_{1}<{F}_{2}<{F}_{3}$D.${F}_{1}<{F}_{3}>{F}_{2}$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "3f632d1d-5b02-45ed-8540-33946f4fa24c",
+        "type": "single_choice",
+        "index": 123
+    },
+    {
+        "question": "一无阻尼弹簧-质量系统受简谐激振力作用,当激振频率为${\\omega}_{1}=6\\mathrm{{rad}}/\\mathrm{s}$时,系统发生共振。给质量块增加$1\\mathrm{{kg}}$的质量后重新试验，测得共振频率${\\omega}_{2}=$5.86rad/s。则原系统的质量及弹簧刚度系数是（$\\;$）。A.19.${69}\\mathrm{\\;{kg}},{623.55}\\mathrm{\\;N}/\\mathrm{m}$B.${20.69}\\mathrm{\\;{kg}},{623.55}\\mathrm{\\;N}/\\mathrm{m}$C.${21.69}\\mathrm{\\;{kg}},{744.86}\\mathrm{\\;N}/\\mathrm{m}$D.20.69kg,744.84N/m",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "d93dfd5d-e6cb-464e-9ddd-66b855dd5ba5",
+        "type": "single_choice",
+        "index": 124
+    },
+    {
+        "question": "扭转切应力公式$${\\tau}_{\\rho}=\\frac{T}{{I}_{p}}\\rho$$适用的杆件是（$\\;$）。A.矩形截面杆B.任意实心截面杆C.弹塑性变形的圆截面杆D.线弹性变形的圆截面杆",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "eb740cd5-1221-4305-953e-4e2d4cfd60c9",
+        "type": "single_choice",
+        "index": 125
+    },
+    {
+        "question": "已知实心圆轴按强度条件可承担的最大扭矩为T，若改变该轴的直径，使其横截面积增加1倍。则可承担的最大扭矩为（）。A.$\\sqrt{2}T$B.2TC.$2\\sqrt{2}T$D.$4\\mathrm{\\;T}$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "42817d9e-f3f3-4f72-be3e-b465c3772830",
+        "type": "single_choice",
+        "index": 126
+    },
+    {
+        "question": "下列关于平面图形几何性质的说法中,错误的是()。A.对称轴必定通过图形形心B.两个对称轴的交点必为图形形心C.图形关于对称轴的静矩为零D.使静矩为零的轴必为对称轴",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "d76bf9c2-8d32-4f99-a983-43e2fbeabfbd",
+        "type": "single_choice",
+        "index": 127
+    },
+    {
+        "question": "连续介质假设意味着是（$\\;$）。A.流体分子相互紧连B.流体的物理量是连续函数C.流体分子间有间隙D.流体不可压缩",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "e61471b2-b571-4f42-aeea-2f9697042776",
+        "type": "single_choice",
+        "index": 128
+    },
+    {
+        "question": "流体的连续性方程适用于（$\\;$）。A.可压缩流体B.不可压缩流体C.理想流体D.任何流体",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "3296cfa6-62e3-4896-bcac-2a0d6f2bfacd",
+        "type": "single_choice",
+        "index": 129
+    },
+    {
+        "question": "尼古拉斯实验曲线中,当某管路流动在紊流光滑区内时,随着雷诺数$\\mathrm{{Re}}$的增大,其沿程阻力系数$\\lambda$将$($）。A.增大B.减小C.不变D.增大或减小",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "86890c6f-89d0-4f8f-a6ca-7509e2c60ad5",
+        "type": "single_choice",
+        "index": 130
+    },
+    {
+        "question": "正常工作条件下的薄壁小孔口${\\mathrm{d}}_{1}$与圆柱形外管嘴${\\mathrm{d}}_{2}$相等,作用水头$\\mathrm{H}$相等,则孔口与管嘴的流量的关系是（$\\;$）。A.${Q}_{1}>{Q}_{2}$B.${Q}_{1}<{Q}_{2}$C.${Q}_{1}={Q}_{2}$D.条件不足无法确定",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "36fa7098-82bb-40c5-98df-35b5d14cafee",
+        "type": "single_choice",
+        "index": 131
+    },
+    {
+        "question": "半圆形明渠,半径${r}_{0}=4\\mathrm{\\;m}$,水力半径为$\\left(\\;\\right)$。A.$4\\mathrm{\\;m}$B.$3\\mathrm{\\;m}$C.$2\\mathrm{\\;m}$D.$1\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "e329e505-7e05-4cfa-9cc0-4006b8837241",
+        "type": "single_choice",
+        "index": 132
+    },
+    {
+        "question": "有一完全井,半径$\\mathrm{r}<\\mathrm{{sub}}>0</\\mathrm{{sub}}>={0.3}\\mathrm{\\;m}$,含水层厚度H=15m,抽水稳定后,井水深h=10m,影响半径R<sub>0</sub>$={375}$m，已知井的抽水量是0.0276m${}^{3}$/s，求土壤的渗水系数k为（$\\;$）。A.0.0005m/sB.${0.0015}\\mathrm{\\;m}/\\mathrm{s}$C.${0.0010}\\mathrm{\\;m}/\\mathrm{s}$D.0.00025m/s",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "66ef2da0-c3b1-4da4-a1fe-82d8d9e0fb24",
+        "type": "single_choice",
+        "index": 133
+    },
+    {
+        "question": "L为长度量纲,T为时间量纲,则沿程损失系数$\\lambda$的量纲为()。A.LB.L/TC.${L}^{2}/T$D.无量纲",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "0871f5fe-0f96-48b5-ad29-31e8c02a3bd4",
+        "type": "single_choice",
+        "index": 134
+    },
+    {
+        "question": "额定容量为20kVA、额定电压为220V的某交流电源，功率为8kW、功率因数为0.6的感性负载供电后，负载电流的有效值为()。A.$$\\frac{{20}\\times{10}^{3}}{220}={90.9}\\mathrm{\\;A}$$B.$$\\frac{8\\times{10}^{3}}{{0.6}\\times{220}}={60.6}\\mathrm{\\;A}$$C.$$\\frac{8\\times{10}^{3}}{220}={36.36}\\mathrm{\\;A}$$D.$$\\frac{{20}\\times{10}^{3}}{{0.6}\\times{220}}={151.5}\\mathrm{\\;A}$$",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "b88bfdc2-7b53-4548-832b-3b105aecf49b",
+        "type": "single_choice",
+        "index": 135
+    },
+    {
+        "question": "三相异步电动机在满载起动时,为了不引起电网电压的过大波动,应该采用的异步电动机类型和起动方案是（$\\;$）。A.鼠笼式电动机和Y-△降压起动B.鼠笼式电动机和自耦调压器降压起动C.绕线式电动机和转子绕组串电阻起动D.绕线式电动机和$\\mathrm{Y}-\\bigtriangleup$降压起动",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "617842dc-ccb0-47e4-a69d-64b75362ec7a",
+        "type": "single_choice",
+        "index": 136
+    },
+    {
+        "question": "在模拟信号、采样信号和采样保持信号几种信号中,属于连续时间信号的是()A.模拟信号与采样保持信号B.模拟信号和采样信号C.采样信号与采样保持信号D.采样信号",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "da6ae0ef-3043-4802-99c0-191ad9e5fce0",
+        "type": "single_choice",
+        "index": 137
+    },
+    {
+        "question": "放大器在信号处理系统中的作用是（$\\;$）。A.从信号中提取有用信息B.消除信号中的干扰信号C.分解信号中的谐波成分D.增强信号的幅值以便于后续处理",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "33f0a0f3-9586-468f-a050-35f5186bc4f4",
+        "type": "single_choice",
+        "index": 138
+    },
+    {
+        "question": "对逻辑表达式${ABC}+A\\bar{B}+{AB}\\bar{C}$的化简结果是（$\\;$）。A.AB.$A\\bar{B}$C.$\\mathrm{{AB}}$D.${AB}\\bar{C}$",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "54b54766-f7df-4b7a-8eda-d15c356bba39",
+        "type": "single_choice",
+        "index": 139
+    },
+    {
+        "question": "在计算机内,为有条不紊地进行信息传输操作,要用总线将硬件系统中的各个部件()A.连接起来B.串联起来C.集合起来D.耦合起来",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "f603bafe-76e3-4d69-9261-34afcf0213b6",
+        "type": "single_choice",
+        "index": 140
+    },
+    {
+        "question": "若干台计算机相互协作完成同一任务的操作系统属于（$\\;$）。A.分时操作系统B.嵌入式操作系统C.分布式操作系统D.批处理操作系统",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "4be878d1-0b4f-4ea4-96da-9759fda47cb2",
+        "type": "single_choice",
+        "index": 141
+    },
+    {
+        "question": "计算机可以直接执行的程序是用()。A.自然语言编制的程序B.汇编语言编制的程序C.机器语言编制的程序D.高级语言编制的程序",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "e1fa532f-1dc5-4b6a-9d5b-6067f7ce8e90",
+        "type": "single_choice",
+        "index": 142
+    },
+    {
+        "question": "汉字的国标码是用两个字节码表示,为与ASCII码区别,是将两个字节的最高位()。A.都置成0B.都置成1C.分别置成1和0D.分别置成0和1",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "02ad1637-f7d0-49c5-8700-98e99b89d3b8",
+        "type": "single_choice",
+        "index": 143
+    },
+    {
+        "question": "下面所列的四条存储容量单位之间换算表达式中,其中正确的一条是()。A.$1\\mathrm{\\;{GB}}={1024}\\mathrm{\\;B}$B.$1\\mathrm{{GB}}={1024}\\mathrm{{KB}}$C.$1\\mathrm{{GB}}={1024}\\mathrm{{MB}}$D.$1\\mathrm{{GB}}={1024}\\mathrm{{TB}}$",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "1e6074d2-05f6-4231-84c5-e3990fc4fe67",
+        "type": "single_choice",
+        "index": 144
+    },
+    {
+        "question": "下列四条关于防范计算机病毒的方法中,并非有效的一条是()。A.不使用来历不明的软件B.安装防病毒软件C.定期对系统进行病毒检测D.计算机使用完后锁起来",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "dc72ace2-9751-46b6-9373-9678342753ff",
+        "type": "single_choice",
+        "index": 145
+    },
+    {
+        "question": "下面四条描述操作系统与其他软件明显不同的特征中,正确的是()。A.并发性,共享性,随机性B.共享性,随机性,动态性C.静态性,共享性,同步性D.动态性,并发性,异步性",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "c8d2ce96-4c3a-40f4-b67d-8f4cb084e820",
+        "type": "single_choice",
+        "index": 146
+    },
+    {
+        "question": "构成信息化社会的主要技术支柱有三个,它们是()。A.计算机技术、通信技术和网络技术B.数据库、计算机技术和数字技术C.可视技术、大规模集成技术和网络技术D.动画技术、网络技术和通信技术",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "18d3d387-09a8-41e9-9b73-b76358a6ddd7",
+        "type": "single_choice",
+        "index": 147
+    },
+    {
+        "question": "为有效地防范网络中的冒充、非法访问等威胁,应采用的网络安全技术是()A.数据加密技术B.防火墙技术C.身份验证与鉴别技术D.访问控制与目录管理技术",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "55a10fe2-267b-4341-ac83-75cd186e4ec6",
+        "type": "single_choice",
+        "index": 148
+    },
+    {
+        "question": "某项目向银行借款,按半年复利计息,年实际利率为8.6%,则年名义利率为$\\left(\\;\\right)$A.$8\\%$B.8.16%C.${8.24}\\%$D.8.${42}\\%$",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "f4ca2e01-5c35-40c8-b311-10438becede5",
+        "type": "single_choice",
+        "index": 149
+    },
+    {
+        "question": "对于国家鼓励发展的缴纳增值税的经营性项目,可以获得增值税的优惠,在财务评价中,先征后返的增值税应记作项目的（）。A.补贴收入B.营业收入C.经营成本D.营业外收入",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "95d71441-d4ab-4a7a-9812-dcdc53f84237",
+        "type": "single_choice",
+        "index": 150
+    },
+    {
+        "question": "下列筹资方式中,属于项目资本金的筹集方式的是()。A.银行贷款B.政府投资C.融资租赁D.发行债券",
+        "answer": "B",
+        "score": 1.22,
+        "unique_ID": "dd38f88f-fdc9-4572-b877-f19007214236",
+        "type": "single_choice",
+        "index": 151
+    },
+    {
+        "question": "某建设项目预计第三年息税前利润为200万元，折旧与摊销为30万元，所得税为20万元。项目生产期第三年应还本付息金额为100万元。则该年的偿债备付率为（$\\;$）。A.1.5B.1.9C.2.1D.2.5",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "faebd3bd-2604-4f75-ae4f-ad6c3ec21fef",
+        "type": "single_choice",
+        "index": 152
+    },
+    {
+        "question": "在进行融资前项目投资现金流量分析时,现金流量应包括()。A.资产处置收益分配B.流动资金C.借款本金偿还D.借款利息偿还",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "10d244a0-e5ec-4908-b755-8dfcc894b3bf",
+        "type": "single_choice",
+        "index": 153
+    },
+    {
+        "question": "某拟建生产企业设计年产6万吨化工原料,年固定成本为1000万元,单位可变成本、销售税金和单位产品增值税之和为800元，单位产品销售为1000元/吨。销售收入和成本费用均采用含税价格表示。以生产能力利用率表示的盈亏平衡点为()。A.9.${25}\\%$B.${21}\\%$C.66.7%D.83.3%",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "072ad943-b26f-4df5-bb74-c42530ab5409",
+        "type": "single_choice",
+        "index": 154
+    },
+    {
+        "question": "某项目有甲、乙两个建设方案,投资分别为500万元和1000万元。项目期均为10年,甲项目年收益为140万元，乙项目年收益为250万元。假设基准收益率为10%，则两项目的差额净现值为（$\\;$）[已知:$\\left({\\mathrm{P}/\\mathrm{A},{10}\\%,{10}}\\right)={6.1446}\\rbrack$A.175.9万元B.360.24万元C.536.14万元D.896.38万元",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "23cd3a39-a393-4319-884b-f24389a68514",
+        "type": "single_choice",
+        "index": 155
+    },
+    {
+        "question": "某项目打算采用甲工艺进行施工,但经广泛的市场调研和技术论证后,决定用乙工艺代替甲工艺,并达到了同样的施工质量,且成本下降${15}\\%$。根据价值工程原理,该项目提高价值的途径是$\\left(\\;\\right)$。A.功能不变,成本降低B.功能提高,成本降低C.功能和成本均下降,但成本降低幅度更大D.功能提高,成本不变",
+        "answer": "A",
+        "score": 1.22,
+        "unique_ID": "8db61876-bd39-4ee4-8aa4-97b8c3bfb0bc",
+        "type": "single_choice",
+        "index": 156
+    },
+    {
+        "question": "某投资亿元的建设工程,建设工期3年,建设单位申请领取施工许可证,经审查该申请不符合法定条件的是（$\\;$）。A.已经取得该建设工程规划许可证B.已依法确定施工单位C.到位资金达到投资额的30%D.该建设工程设计已经发包由某设计单位完成",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "84e4f304-7beb-461f-a054-871d3a442ad1",
+        "type": "single_choice",
+        "index": 157
+    },
+    {
+        "question": "根据《安全生产法》规定，组织制定并实施本单位生产安全事故应急救援预案的责任人是（$\\;$）A.项目负责人B.安全生产管理人员C.单位主要负责人D.主管安全的负责人",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "975e5db9-6bfd-4a4c-8ac8-bfff3a412711",
+        "type": "single_choice",
+        "index": 158
+    },
+    {
+        "question": "根据《招标投标法》规定,下列工程建设项目,项目的勘探、设计、施工、监理以及与工程建设有关的重要设备、材料等的采购，按照国家有关规定可以不进行招标的是$\\left(\\;\\right)$。A.大型基础设施、公用事业等关系社会公共利益、公众安全的项目B.全部或者部分使用国有资金投资或者国家融资的项目C.使用国际组织或者外国政府贷款、援助资金的项目D.利用扶贫资金实行以工代赈、需要使用农民工的项目",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "11a70c52-8aac-421a-b46a-f587778f9ae3",
+        "type": "single_choice",
+        "index": 159
+    },
+    {
+        "question": "订立合同需要经过要约和承诺两个阶段,下列关于要约的说法,错误的是()A.要约是希望和他人订立合同的意思表示B.要约内容应当具体确定C.要约是吸引他人向自己提出订立合同的意思表示D.经受要约人承诺,要约人即受该意思表示约束",
+        "answer": "C",
+        "score": 1.22,
+        "unique_ID": "459d53ac-bdbe-4740-8646-47721ba30d94",
+        "type": "single_choice",
+        "index": 160
+    },
+    {
+        "question": "根据《行政许可法》的规定,行政机关对申请人提出的行政许可申请,应当根据不同情况分别作出处理，下列行政机关的处理，符合规定的是（$\\;$）。A.申请事项依法不需要取得行政许可的,应当即时告知申请人向有关行政机关申请B.申请事项依法不属于本行政机关职权范围的,应当即时告知申请人不需要申请C.申请材料存在可以当场更正错误的,应当告知申请人在3日内补正D.申请材料不齐全,应当当场或者在5日内一次告知申请人需要补正的全部内容",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "5f84c8c0-0820-4722-943f-2a2314e877f6",
+        "type": "single_choice",
+        "index": 161
+    },
+    {
+        "question": "依据《建设工程质量管理条例》，下列有关建设单位的质量责任和义务的说法，正确的是（$\\;$）。A.建设工程发包单位不得暗示承包方以低价竞标B.建设单位在办理工程质量监督手续前,应当领取施工许可证C.建设单位可以明示或者暗示设计单位违反工程建设强制性标准D.建设单位提供的与建设工程有关的原始资料必须真实、准确、齐全",
+        "answer": "D",
+        "score": 1.22,
+        "unique_ID": "ba0007e3-30e9-4195-819b-4df99a3861ff",
+        "type": "single_choice",
+        "index": 162
+    },
+    {
+        "question": "当$\\mathrm{x}\\rightarrow+\\infty$时,下列函数为无穷大量的是()。A.$\\frac{1}{2+x}$B.xcosxC.${\\mathrm{e}}^{3\\mathrm{x}}-1$D.1-arctanx",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "1bbc4efb-646a-49b7-ba95-bad39bf262cc",
+        "type": "single_choice",
+        "index": 163
+    },
+    {
+        "question": "设函数$y=f\\left(x\\right)$满足$$\\mathop{\\lim}\\limits_{{x\\rightarrow{x}_{0}}}{f}^{\\prime}\\left(x\\right)=\\infty$$,且曲线$\\mathrm{y}=\\mathrm{f}\\left(\\mathrm{x}\\right)$在$\\mathrm{x}={\\mathrm{x}}_{0}$处有切线,则此切线$\\left(\\;\\right)$。A.与0x轴平行B.与$0\\mathrm{y}$轴平行C.与直线$y=-x$平行D.与直线$y=x$平行",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "311b687d-bceb-4bbd-bf1c-e29719ae9f69",
+        "type": "single_choice",
+        "index": 164
+    },
+    {
+        "question": "设可微函数$y=y$(x)由方程$\\siny+{e}^{x}-x{y}^{2}=0$所确定,则微分${dy}$等于$\\left(\\;\\right)$A.$$\\frac{-{y}^{2}+{e}^{x}}{\\cosy-{2xy}}\\mathrm{\\;d}x$$B.$$\\frac{{y}^{2}+{e}^{x}}{\\cosy-{2xy}}\\mathrm{\\;d}x$$C.$\\frac{{y}^{2}+{e}^{x}}{\\cosy+{2xy}}\\mathrm{\\;d}x$D.$\\frac{{y}^{2}-{e}^{x}}{\\cosy-{2xy}}\\mathrm{\\;d}x$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "0fef77f6-9c3a-4a41-bd17-625698aca854",
+        "type": "single_choice",
+        "index": 165
+    },
+    {
+        "question": "设$f\\left(x\\right)$的二阶导数存在,$y=f\\left({e\\langle\\sup\\ranglex\\langle/\\sup\\rangle}\\right)$,则$\\frac{{\\mathrm{d}}^{2}y}{{\\mathrm{\\;{dx}}}^{2}}$等于（）。A.${\\mathrm{f}}^{\\prime\\prime}\\;\\left({\\mathrm{e}}^{\\mathrm{X}}\\right){\\mathrm{e}}^{\\mathrm{X}}$B.$\\left\\lbrack\\begin{array}{l}{\\mathrm{f}}^{\\prime\\prime}&\\left({\\mathrm{e}}^{\\mathrm{X}}\\right)+{\\mathrm{f}}^{\\prime}&\\left({\\mathrm{e}}^{\\mathrm{X}}\\right)\\end{array}\\right\\rbrack{\\mathrm{e}}^{\\mathrm{X}}$C.${\\mathrm{f}}^{\\prime\\prime}\\left({\\mathrm{e}}^{\\mathrm{X}}\\right){\\mathrm{e}}^{2\\mathrm{x}}+{\\mathrm{f}}^{\\prime}\\left({\\mathrm{e}}^{\\mathrm{X}}\\right){\\mathrm{e}}^{\\mathrm{X}}$D.${\\mathrm{f}}^{\\prime\\prime}\\left({\\mathrm{e}}^{\\mathrm{X}}\\right){\\mathrm{e}}^{\\mathrm{X}}+{\\mathrm{f}}^{\\prime}\\left({\\mathrm{e}}^{\\mathrm{X}}\\right){\\mathrm{e}}^{2\\mathrm{x}}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "1bac507e-6762-4f5a-bbe2-93cf01ee7f9b",
+        "type": "single_choice",
+        "index": 166
+    },
+    {
+        "question": "下列函数在区间$\\left\\lbrack{-1,1}\\right\\rbrack$上满足罗尔定理条件的是（$\\;$）。A.$$f\\left(x\\right)=\\sqrt[3]{{x}^{2}}$$B.$f\\left(x\\right)=\\sin{x}^{2}$C.$f\\left(x\\right)=\\left|x\\right|$D.$f\\left(x\\right)=1/x$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "9c64186f-f53e-487a-9aac-de1bd2f7fa0c",
+        "type": "single_choice",
+        "index": 167
+    },
+    {
+        "question": "曲线$\\mathrm{f}\\left(\\mathrm{x}\\right)={\\mathrm{x}}^{4}+4{\\mathrm{x}}^{3}+\\mathrm{x}+1$在区间$(-\\infty,+\\infty)$上的拐点个数是$\\left(\\;\\right)$。A.0B.1C.2D.3",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "085ab35b-730d-4d41-822c-5e57778bea6f",
+        "type": "single_choice",
+        "index": 168
+    },
+    {
+        "question": "已知函数$f\\left(x\\right)$的一个原函数是$1+\\sinx$,则不定积分$\\intx{f}^{\\prime}\\left(x\\right)\\mathrm{d}x$等于$\\left(\\;\\right)$。A.$\\left({1+\\sinx}\\right)\\left({x-1}\\right)+C$B.xcosx-(1+sinx)+CC.$-x\\cosx+\\left({1+\\sinx}\\right)+C$D.1+sinx+C",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "43345e23-9889-4f00-bea5-dfc5e324fa34",
+        "type": "single_choice",
+        "index": 169
+    },
+    {
+        "question": "由曲线y$={\\mathrm{x}}^{3}$,直线x=1和0x轴所围成的平面图形绕0x轴旋转一周所形成的旋转体的体积是（$\\;$）。A.$\\pi/7$B.${7\\pi}$C.$\\pi/6$D.${6\\pi}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "f5b872b5-bd0b-4329-aa38-db2a7f17cc0a",
+        "type": "single_choice",
+        "index": 170
+    },
+    {
+        "question": "设向量$\\mathfrak{a}=\\left({5,1,8}\\right),\\beta=\\left({3,2,7}\\right)$,若$\\lambda\\mathfrak{a}+\\beta$与$0\\mathrm{z}$轴垂直,则常数$\\lambda$等于$\\left(\\;\\right)$.A.$7/8$B.$-7/8$C.$8/7$D.$-8/7$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "42e12e5d-7dbe-4e22-8a6f-bcf2e72695df",
+        "type": "single_choice",
+        "index": 171
+    },
+    {
+        "question": "过点${\\mathrm{M}}_{1}\\left({0,1,2}\\right)$和${\\mathrm{M}}_{2}\\left({1,0,1}\\right)$且平行于$\\mathrm{z}$轴的平面方程是$\\left(\\;\\right)$。A.$x-y=0$B.$\\frac{x}{1}=\\frac{y+1}{-1}=\\frac{z-2}{0}$C.$x+y-1=0$D.$x-y-1=0$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "f5df3922-56be-4a9d-80e8-b69d9a6d529a",
+        "type": "single_choice",
+        "index": 172
+    },
+    {
+        "question": "过点$\\left({1,2}\\right)$且切线斜率为$2\\mathrm{x}$的曲线$\\mathrm{y}=\\mathrm{y}\\left(\\mathrm{x}\\right)$应满足的关系式是$\\left(\\;\\right)$A.${\\mathrm{y}}^{\\prime}=2$B.${\\mathrm{y}}^{\\prime\\prime}=2\\mathrm{x}$C.${y}^{\\prime}={2x},y\\left(1\\right)=2$D.${y}^{\\prime\\prime}={2x},y\\left(1\\right)=2$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "939caf20-c84a-403b-9153-0b8a8faff862",
+        "type": "single_choice",
+        "index": 173
+    },
+    {
+        "question": "设D是由直线$\\mathrm{y}=\\mathrm{x}$和圆x$\\langle\\sup\\rangle2\\langle/\\sup\\rangle+\\left({\\mathrm{y}-1}\\right)\\langle\\sup\\rangle2\\langle/\\sup\\rangle=1$所围成且在直线$\\mathrm{y}=\\mathrm{x}$下方的平面区域,则二重积分${\\iint}_{D}x\\mathrm{\\;d}x\\mathrm{\\;d}y$等于$\\left(\\;\\right)$。A.$${\\int}_{0}^{\\frac{\\pi}{2}}\\cos\\theta\\;{d\\theta}{\\int}_{0}^{2\\cos\\theta}{\\rho}^{2}{d\\rho}$$B.$${\\int}_{0}^{\\frac{\\pi}{2}}\\sin\\theta\\;{d\\theta}{\\int}_{0}^{2\\sin\\theta}{\\rho}^{2}\\;{d\\rho}$$C.$${\\int}_{0}^{\\frac{\\pi}{4}}\\sin\\theta\\mathrm{d}\\theta{\\int}_{0}^{2\\sin\\theta}{\\rho}^{2}\\mathrm{\\;d}\\rho$$D.$${\\int}_{0}^{\\frac{\\pi}{4}}\\cos\\theta\\;{d\\theta}{\\int}_{0}^{2\\sin\\theta}{\\rho}^{2}{d\\rho}$$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "5658e12d-0eb1-4fcf-b26a-d09d0402d64a",
+        "type": "single_choice",
+        "index": 174
+    },
+    {
+        "question": "已知${\\mathrm{y}}_{0}$是微分方程${\\mathrm{y}}^{\\prime\\prime}+{\\mathrm{{py}}}^{\\prime}+\\mathrm{{qy}}=0$的解,${\\mathrm{y}}_{1}$是微分方程${\\mathrm{y}}^{\\prime\\prime}+{\\mathrm{{py}}}^{\\prime}+\\mathrm{{qy}}=\\mathrm{f}\\left(\\mathrm{x}\\right)\\;\\left({\\mathrm{f}\\left(\\mathrm{x}\\right)\\neq0}\\right)$的解,则下列函数中是微分方程${\\mathrm{y}}^{\\prime\\prime}+{\\mathrm{{py}}}^{\\prime}+\\mathrm{{qy}}=\\mathrm{f}\\left(\\mathrm{x}\\right)$的解的是$\\left(\\;\\right)$。A.$y={y}_{0}+{C}_{1}{y}_{1}$(${C}_{1}$是任意常数)B.$y={C}_{1}{y}_{1}+{C}_{2}{y}_{0}\\left({C}_{1}\\right.,{C}_{2}$是任意常数$)$C.$y={y}_{0}+{y}_{1}$D.$y=2{y}_{1}+3{y}_{0}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "45f15410-5f08-44fc-b04c-f6f9a01e57b3",
+        "type": "single_choice",
+        "index": 175
+    },
+    {
+        "question": "设$z=\\frac{1}{x}{e}^{xy}$,则全微分$\\mathrm{{dz}}\\mid\\left({1,-1}\\right)$等于$(\\;$)。A.${\\mathrm{e}}^{-1}\\left({\\mathrm{{dx}}+\\mathrm{{dy}}}\\right)$B.${\\mathrm{e}}^{-1}\\left({-2\\mathrm{{dx}}+\\mathrm{{dy}}}\\right)$C.${\\mathrm{e}}^{-1}\\left({\\mathrm{{dx}}-\\mathrm{{dy}}}\\right)$D.${\\mathrm{e}}^{-1}\\left({\\mathrm{{dx}}+2\\mathrm{{dy}}}\\right)$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "c80415b1-689a-4101-b7c0-55789965a94b",
+        "type": "single_choice",
+        "index": 176
+    },
+    {
+        "question": "设$\\mathrm{L}$为从原点$0\\left({0,0}\\right)$到点$\\mathrm{A}\\left({1,2}\\right)$的有向直线段,则对坐标的曲线积分${\\int}_{\\mathrm{L}}-y\\mathrm{\\;d}x+x\\mathrm{\\;d}y$等于$\\left(\\;\\right)$。A.0B.1C.2D.3",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "cf04ca75-44a3-48c7-b775-ce743baecc71",
+        "type": "single_choice",
+        "index": 177
+    },
+    {
+        "question": "下列级数发散的是（）。A.$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}\\frac{{n}^{2}}{3{n}^{4}+1}$$B.$$\\mathop{\\sum}\\limits_{{n=2}}^{\\infty}\\frac{1}{\\sqrt[3]{n\\left({n-1}\\right)}}$$C.$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}\\frac{{\\left(-1\\right)}^{n}}{\\sqrt{n}}$D.$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}\\frac{5}{{3}^{n}}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "0c01dae4-815c-4be2-9eff-0344154a3a63",
+        "type": "single_choice",
+        "index": 178
+    },
+    {
+        "question": "设函数$z=\\mathrm{f}\\langle\\sup\\rangle2\\langle/\\sup\\rangle\\left({\\mathrm{x}\\mathrm{y}}\\right)$,其中$\\mathrm{f}\\left(\\mathrm{u}\\right)$具有二阶导数,则$\\frac{{\\partial}^{2}z}{\\partial{x}^{2}}$等于（）。A.$2{\\mathrm{y}}^{3}{\\mathrm{f}}^{\\prime}\\;\\left(\\mathrm{{xy}}\\right){\\mathrm{f}}^{\\prime\\prime}\\;\\left(\\mathrm{{xy}}\\right)$B.$2{y}^{2}\\left\\lbrack{{f}^{\\prime}\\left({xy}\\right)+{f}^{\\prime\\prime}\\left({xy}\\right)}\\right\\rbrack$C.${2y}\\left\\{{{\\left\\lbrack\\begin{array}{l}{\\mathrm{f}}^{\\prime}&\\left(\\mathrm{{xy}}\\right)\\end{array}\\right\\rbrack}^{2}+{\\mathrm{f}}^{\\prime\\prime}\\;\\left(\\mathrm{{xy}}\\right)}\\right\\}$D.$2{y}^{2}\\left\\{{{\\left\\lbrack{f}^{\\prime}\\;\\left(xy\\right)\\right\\rbrack}^{2}+f\\left({xy}\\right){f}^{\\prime\\prime}\\;\\left({xy}\\right)}\\right\\}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "32f1a6ff-4d6a-4089-b388-24656430cbb1",
+        "type": "single_choice",
+        "index": 179
+    },
+    {
+        "question": "若幂级数$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}{a}_{n}{\\left(x+2\\right)}^{n}$$在$\\mathrm{x}=0$处收敛,在$\\mathrm{x}=-4$处发散,则幂级数$$\\mathop{\\sum}\\limits_{{n=1}}^{\\infty}{a}_{n}{\\left(x-1\\right)}^{n}$$的收敛域是（）。A.$\\left({-1,3}\\right)$B.$\\lbrack-1,3)$C.$(-1,3\\rbrack$D.$\\left\\lbrack{-1,3}\\right\\rbrack$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "b32203f5-d74e-46fe-bdba-310cb672fd89",
+        "type": "single_choice",
+        "index": 180
+    },
+    {
+        "question": "设A为n阶方阵,B是只对调A的一、二列所得的矩阵,若$\\left|\\mathrm{A}\\right|\\neq\\left|\\mathrm{B}\\right|$,则下面结论中一定成立的是$\\left(\\;\\right)$A.|A|可能为0B.$\\left|A\\right|\\neq0$C.$\\left|{\\mathrm{A}+\\mathrm{B}}\\right|\\neq\\mathrm{A}$D.$\\left|{\\mathrm{A}-\\mathrm{B}}\\right|\\neq\\mathrm{A}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "a12b6abb-bc8f-47e5-a7c9-672ebece6e03",
+        "type": "single_choice",
+        "index": 181
+    },
+    {
+        "question": "设$$\\mathbf{A}=\\left(\\begin{array}{l}1&x&1\\\\x&1&y\\\\1&y&1\\end{array}\\right)$$,$\\mathbf{B}=\\left(\\begin{array}{l}0&0&0\\\\0&1&0\\\\0&0&2\\end{array}\\right)$，且A与B相似，则下列结论中成立的是（$\\;$）。A.$x=y=0$B.$x=0,y=1$C.$x=1,y=0$D.$x=y=1$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "f563b485-0e26-4d0d-9e96-ac8a2bde57bd",
+        "type": "single_choice",
+        "index": 182
+    },
+    {
+        "question": "若向量组$\\alpha<\\operatorname{sub}>1</\\operatorname{sub}>=\\left({a,1,1}\\right)T,\\alpha<\\operatorname{sub}>2</\\operatorname{sub}>=\\left({1,a,-1}\\right)T,\\alpha<\\operatorname{sub}>3</S$ub$>={\\left(1,-1,\\mathrm{a}\\right)}^{\\mathrm{T}}$线性相关,则$\\mathrm{a}$的取值为$\\left(\\;\\right)$。A.$a=1$或$a=-2$B.$a=-1$或$a=2$C.$a>2$D.$a>-1$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "6052abf2-44c5-4c45-a236-256bcd58bac4",
+        "type": "single_choice",
+        "index": 183
+    },
+    {
+        "question": "设A,B是两事件,若P(A)$=1/4,\\mathrm{P}\\left({\\mathrm{B}\\mid\\mathrm{A}}\\right)=1/3,\\mathrm{P}\\left({\\mathrm{A}\\mid\\mathrm{B}}\\right)=1/2$,则$\\mathrm{P}\\left({\\mathrm{A}\\cup\\mathrm{B}}\\right)$等于$\\left(\\;\\right)$A.$3/4$B.$3/5$C.$1/2$D.$1/3$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "9a31f1a9-b64b-4737-974e-2ddde1d58ad7",
+        "type": "single_choice",
+        "index": 184
+    },
+    {
+        "question": "设随机变量X与Y相互独立,D（X）$=1,$D（Y）$=3$,方差D（2X-Y）等于$\\left(\\;\\right)$A.7B.-1C.1D.4",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "911c9f7b-fdd6-4a5e-8137-57b7ffa2297f",
+        "type": "single_choice",
+        "index": 185
+    },
+    {
+        "question": "设随机变量X与Y相互独立，且X$\\sim$N（μ<sub>1</sub>，σ<sub>1</sub>2），Y~N（μ<sub>2</sub>，σ${}^{<}$sub>2</sub>${}^{2}$),则Z=X+Y服从的分布是（$\\;$）。A.$\\mathrm{N}\\left({\\mu\\langle\\mathrm{{sub}}\\rangle1\\langle/\\mathrm{{sub}}\\rangle,\\;\\sigma\\langle\\mathrm{{sub}}\\rangle1\\langle/\\mathrm{{sub}}\\rangle2+\\sigma\\langle\\mathrm{{sub}}\\rangle2\\langle{/}^{\\mathrm{S}}\\mathrm{{ub}}{\\rangle}^{2}}\\right)$B.N$\\left({{\\mu}_{1}+{\\mu}_{2},{\\sigma}_{1}{\\sigma}_{2}}\\right)$C.N$\\left({\\mu<\\operatorname{sub}>1</\\operatorname{sub}>+\\mu<\\operatorname{sub}>2</\\operatorname{sub}>,\\;\\sigma<\\operatorname{sub}>1</\\operatorname{sub}>{2\\sigma}<\\operatorname{sub}>2</{s}^{u}b{>}^{2}}\\right)$D.N$\\left({\\mu\\langle\\mathrm{{sub}}\\rangle1\\langle/\\mathrm{{sub}}\\rangle+\\mu\\langle\\mathrm{{sub}}\\rangle2\\langle/\\mathrm{{sub}}\\rangle,\\;\\sigma\\langle\\mathrm{{sub}}\\rangle1\\langle/\\mathrm{{sub}}\\rangle2+\\sigma\\langle\\mathrm{{sub}}\\rangle2\\langle{/}^{\\mathrm{S}}\\mathrm{{ub}}{\\rangle}^{2}}\\right)$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "516d3526-af77-4597-b5ee-ed641df00a45",
+        "type": "single_choice",
+        "index": 186
+    },
+    {
+        "question": "某理想气体分子在温度T${}_{1}$时的方均根速率等于温度T${}_{2}$时的最概然速率,则该二温度T${}_{2}/{\\mathrm{T}}_{1}$等于（$\\;$）。A.$3/2$B.$2/3$C.$\\sqrt{\\frac{3}{2}}$D.$\\sqrt{\\frac{2}{3}}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "e47857c0-3d34-4258-823d-9f8e1dc2f78b",
+        "type": "single_choice",
+        "index": 187
+    },
+    {
+        "question": "一定量的理想气体经等压膨胀后,气体的（$\\;$）。A.温度下降,做正功B.温度下降,做负功C.温度升高,做正功D.温度升高,做负功",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "f8183dcc-a361-4c00-bb27-a91b8fb06000",
+        "type": "single_choice",
+        "index": 188
+    },
+    {
+        "question": "一定量的理想气体从初态经过一热力学过程到达末态,如初、末态均处于同一温度线上,此过程中的内能变化$\\Delta\\mathrm{E}$和气体做功W为（）。A.$\\Delta\\mathrm{E}=0$,W可正可负B.$\\Delta\\mathrm{E}=0,\\mathrm{\\;W}$一定为正C.$\\Delta\\mathrm{E}=0,\\mathrm{\\;W}$一定为负D.$\\Delta\\mathrm{E}>0,\\mathrm{W}$一定为正",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "e92140de-1bae-471d-b055-1666f0f6ea4c",
+        "type": "single_choice",
+        "index": 189
+    },
+    {
+        "question": "具有相同温度的氧气和氢气的分子平均速率之比${\\overset{-}{v}}_{{\\mathrm{O}}_{2}}/{\\overset{-}{v}}_{{\\mathrm{H}}_{2}}$为（$\\;$）。A.1B.$1/2$C.$1/3$D.$1/4$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "f73d710d-653c-4808-a7e4-02befdbd57d5",
+        "type": "single_choice",
+        "index": 190
+    },
+    {
+        "question": "一卡诺热机,低温热源温度为${27}^{\\circ}\\mathrm{C}$,热机效率为${40}\\%$,其高温热源温度为$\\left(\\;\\right)$。A.${500}\\mathrm{\\;K}$B.${45}^{\\circ}\\mathrm{C}$C.${400}\\mathrm{\\;K}$D.${500}^{\\circ}\\mathrm{C}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "b4224e4c-e313-4e28-aeb5-2e657b6b0160",
+        "type": "single_choice",
+        "index": 191
+    },
+    {
+        "question": "一平面简谐波,波动方程为$\\mathrm{y}={0.02}\\sin\\left({\\pi\\mathrm{t}+\\mathrm{x}}\\right)$（SI）,波动方程的余弦形式为$\\left(\\;\\right)$A.$y={0.02}\\cos\\left({{\\pit}+x+\\pi/2}\\right)$(SI)B.$y={0.02}\\cos\\left({{\\pit}+x-\\pi/2}\\right)$(SI)C.$y={0.02}\\cos\\left({{\\pit}+x+\\pi}\\right)$(SI)D.$y={0.02}\\cos\\left({{\\pit}+x+\\pi/4}\\right)$(SI)",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "968d36d4-472f-4ce7-9751-a90ce20b2731",
+        "type": "single_choice",
+        "index": 192
+    },
+    {
+        "question": "一简谐波的频率$\\mathrm{v}={2000}\\mathrm{\\;{Hz}}$,波长$\\lambda={0.20}\\mathrm{\\;m}$,则该波的周期和波速为$\\left(\\;\\right)$。A.$1/{2000}\\mathrm{\\;s}$,${400}\\mathrm{\\;m}\\cdot{\\mathrm{s}}^{-1}$B.$1/{2000}\\mathrm{\\;s},{40}\\mathrm{\\;m}\\cdot\\mathrm{s}-1$C.2000s,${400}\\mathrm{\\;m}\\cdot{\\mathrm{s}}^{-1}$D.$1/{2000}\\mathrm{\\;s},{20}\\mathrm{\\;m}\\cdot{\\mathrm{s}}^{-1}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "cb28f0eb-3914-4d01-ad87-da9ac431e9e8",
+        "type": "single_choice",
+        "index": 193
+    },
+    {
+        "question": "在双缝干涉实验中,设缝是水平的,若双缝所在的平板稍微向上平移,其他条件不变,则屏上的干涉条纹（）。A.向下平移,且间距不变B.向上平移,且间距不变C.不移动,但间距改变D.向上平移,且间距改变",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "78fce421-4bb4-42cf-a522-02cee60ef7ab",
+        "type": "single_choice",
+        "index": 194
+    },
+    {
+        "question": "在空气中有一肥皂膜,厚度为${0.32\\mu}\\mathrm{m}\\left({{1\\mu}\\mathrm{m}={10}^{-6}\\mathrm{\\;m}}\\right)$,折射率为${1.33}$,若用白光垂直照射,通过反射，此膜呈现的颜色大体是（$\\;$）。A.紫光（430nm）B.蓝光（470nm）C.绿光(566nm)D.红光（730nm）",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "9eb4ded7-0724-4ccc-afaa-2b88f39ed70e",
+        "type": "single_choice",
+        "index": 195
+    },
+    {
+        "question": "三个偏振片P${}_{1}、{\\text{P}}_{2}$与P${}_{3}$堆叠在一起,P${}_{1}$与P${}_{3}$的偏振化方向相互垂直,P${}_{2}$与P${}_{3}$的偏振化方向间的夹角为${30}^{\\circ}$，强度为${\\mathrm{I}}_{0}$的自然光垂直入射于偏振片P${}_{1}$，并依次透过偏振片P${}_{1}$、P${}_{2}$与P${}_{3}$，则通过三个偏振片后的光强为（$\\;$）。A.${\\mathrm{I}}_{0}/4$B.${\\mathrm{I}}_{0}/8$C.$3{\\mathrm{I}}_{0}/{32}$D.$3{\\mathrm{I}}_{0}/8$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "ad187523-5da1-45cd-b0f5-7a2f7634054c",
+        "type": "single_choice",
+        "index": 196
+    },
+    {
+        "question": "主量子数$\\mathrm{n}=3$的原子轨道最多可容纳的电子总数是（$\\;$）。A.10B.8C.18D.32",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "443f15b4-191c-4438-b337-73401a933625",
+        "type": "single_choice",
+        "index": 197
+    },
+    {
+        "question": "下列物质中,同种分子间不存在氢键的是()。A.HIB.HFC.${\\mathrm{{NH}}}_{3}$D.${\\mathrm{C}}_{2}{\\mathrm{H}}_{5}\\mathrm{{OH}}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "a9808871-8858-4421-8761-72a346af2987",
+        "type": "single_choice",
+        "index": 198
+    },
+    {
+        "question": "已知铁的相对原子质量是56，测得100ml某溶液中含有112mg铁，则溶液中铁的物质的量浓度为（$\\;$）A.2mol$\\cdot{\\text{L}}^{1}$B.0.2mol·L${}^{1}$C.${0.02}$mol$\\cdot{\\text{L}}^{1}$D.0.002mol$\\cdot{\\text{L}}^{1}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "ff42ba52-ffda-4928-b9d1-3089efa65383",
+        "type": "single_choice",
+        "index": 199
+    },
+    {
+        "question": "已知${\\mathrm{K}}^{\\Theta}$(HOAc)$={1.8}\\times{10}^{-5},{0.1}\\mathrm{\\;{mol}}\\cdot{\\mathrm{L}}^{1}\\mathrm{{NaOAc}}$溶液的pH值为(A.2.87B.11.13C.5.13D.8.88",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "c4cbe1c7-04e2-4eb9-8ea6-77cb1f0e699f",
+        "type": "single_choice",
+        "index": 200
+    },
+    {
+        "question": "在${298}\\mathrm{\\;K},{100}\\mathrm{{kPa}}$下,反应$2\\mathrm{H}<\\mathrm{{sub}}>2</\\mathrm{{sub}}>\\left(\\mathrm{g}\\right)+0<\\mathrm{{sub}}>2</\\mathrm{{sub}}>\\left(\\mathrm{g}\\right)\\rightarrow2\\mathrm{H}<\\mathrm{{sub}}>2</\\mathrm{{sub}}>0\\left(1\\right)$的$\\Delta<\\mathrm{{sub}}>\\mathrm{r}</\\mathrm{{sub}}>\\mathrm{H}<\\mathrm{{sub}}>\\mathrm{m}</\\mathrm{{sub}}>\\Theta=-{572}\\mathrm{\\;{kJ}}\\cdot\\mathrm{{mol}}-1$,则$\\mathrm{H}<\\mathrm{{sub}}>2</\\mathrm{{sub}}>0$（1）的$\\Delta<\\mathrm{{sub}}>\\mathrm{f}</{\\mathrm{{sub}}}^{\\mathrm{b}>}$H<sub>m</sub>${}^{\\Theta}$是（$\\;$）。A.${572}\\mathrm{\\;{kJ}}\\cdot\\mathrm{{mol}}{}^{-1}$---$$\\mathrm{{pOH}}=-\\lg{c}_{{\\mathrm{{OH}}}^{-}}=-{0.5}\\lg\\left({{K}_{{\\mathrm{{OH}}}^{-}}^{\\ominus}\\timesc}\\right)$$$$=-{0.5}\\lg\\left({\\frac{{\\mathrm{K}}_{w}^{\\ominus}}{{K}_{\\mathrm{{HOAc}}}^{\\ominus}}\\times{c}_{\\mathrm{{NaOAc}}}}\\right)$$$$=-{0.5}\\lg\\left({\\frac{{1.0}\\times{10}^{-{14}}}{{1.8}\\times{10}^{-5}}\\times{c}_{\\text{NaOAc}}}\\right)$$$$={5.12}$$B.$-{572}\\mathrm{\\;{kJ}}\\cdot\\mathrm{{mol}}{}^{1}$C.${286}\\mathrm{\\;{kJ}}\\cdot\\mathrm{{mol}}{}^{1}$D.$-{286}\\mathrm{\\;{kJ}}\\cdot\\mathrm{{mol}}{}^{1}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "ff2bcd01-15c8-4abb-862e-bf66138e8edb",
+        "type": "single_choice",
+        "index": 201
+    },
+    {
+        "question": "已知298K时，反应N<sub>2</sub>0<sub>4</sub>（g）2N0<sub>2</sub>（g）的K(c)=0.1132，在298K时,如$\\mathrm{p}\\left({\\mathrm{N}<\\mathrm{{sub}}>2</\\mathrm{{sub}}>0<\\mathrm{{sub}}>4</\\mathrm{{sub}}>}\\right)=\\mathrm{p}\\left({\\mathrm{{NO}}}_{2}\\right)=\\mathrm{p}\\left({\\mathrm{{NO}}}_{2}\\right)={100}\\mathrm{{kPa}}$,则上述反应进行的方向是(）。A.反应向正向进行B.反应向逆向进行C.反应达平衡状态D.无法判断",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "3a3eaf4c-ef82-4aaf-a767-2f3297b61d13",
+        "type": "single_choice",
+        "index": 202
+    },
+    {
+        "question": "有原电池(一)$\\mathrm{{Zn}}\\mid{\\mathrm{{ZnSO}}}_{4}\\left({\\mathrm{c}}_{1}\\right)\\left|\\right|{\\mathrm{{CuSO}}}_{4}\\left({\\mathrm{c}}_{2}\\right)\\mid\\mathrm{{Cu}}\\left(+\\right)$,如提高${\\mathrm{{ZnSO}}}_{4}$浓度${\\mathrm{c}}_{1}$数值,则原电池电动势变化是（$\\;$）。A.变大B.变小C.不变D.无法判断",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "802c95f0-fab7-4e64-bee5-1e80b49b022e",
+        "type": "single_choice",
+        "index": 203
+    },
+    {
+        "question": "已知动点的运动方程为$\\mathrm{x}={\\mathrm{t}}^{2},\\mathrm{y}=2{\\mathrm{t}}^{4}$,则其轨迹方程为()。A.$x={t}^{2}-t$B.$y={2t}$C.$y-2{x}^{2}=0$D.$y+2{x}^{2}=0$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "1149a2e6-6ef1-40c5-9f59-41d8f25d2f68",
+        "type": "single_choice",
+        "index": 204
+    },
+    {
+        "question": "在低磷钢拉伸实验中,冷作硬化现象发生在()。A.弹性阶度B.屈服阶段C.强化阶段D.局部变形阶段",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "738a31cd-23a2-4741-b4e8-d0b607d1e71c",
+        "type": "single_choice",
+        "index": 205
+    },
+    {
+        "question": "在下面四个表达式中,第一强度理论的强度表达式是()。A.${\\sigma}_{1}\\leq\\left\\lbrack\\sigma\\right\\rbrack$B.${\\sigma}_{1}-\\mu\\left({{\\sigma}_{2}+{\\sigma}_{3}}\\right)\\leq\\left\\lbrack\\sigma\\right\\rbrack$C.${\\sigma}_{1}-{\\sigma}_{3}\\leq\\left\\lbrack\\sigma\\right\\rbrack$D.$$\\sqrt{\\frac{1}{2}\\left\\lbrack{{\\left({\\sigma}_{1}+{\\sigma}_{2}\\right)}^{2}+{\\left({\\sigma}_{2}-{\\sigma}_{3}\\right)}^{2}+{\\left({\\sigma}_{3}-{\\sigma}_{1}\\right)}^{2}}\\right\\rbrack}\\leq\\left\\lbrack\\sigma\\right\\rbrack$$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "29d7245b-19c4-498e-a879-11a1fda9f5f9",
+        "type": "single_choice",
+        "index": 206
+    },
+    {
+        "question": "静止流体能否承受剪切应力?(A.不能承受B.可以承受C.能承受很小的D.具有粘性可以承受",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "67729b9f-7233-4e74-8667-9ab55fce9d99",
+        "type": "single_choice",
+        "index": 207
+    },
+    {
+        "question": "应用动量定理计算流体对固体壁面的作用力时,进、出口截面上的压强应为$\\left(\\;\\right)$。A.绝对压强B.相对压强C.大气压D.真空度",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "0bd2fbd8-b56f-4243-8247-a4aee8ee397d",
+        "type": "single_choice",
+        "index": 208
+    },
+    {
+        "question": "一直径为${50}\\mathrm{\\;{mm}}$的圆管,运动黏性系数$\\mathrm{v}={0.18}{\\mathrm{\\;{cm}}}^{2}/\\mathrm{s}$、密度$\\rho={0.85}\\mathrm{\\;g}/{\\mathrm{{cm}}}^{3}$的油在管内以$\\mathrm{u}=5\\mathrm{\\;{cm}}/\\mathrm{s}$的速度做层流运动,则沿程损失系数是()。A.0.09B.0.461C.0.1D.0.13",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "3c2c5237-8463-4811-ae8e-05e6338c317b",
+        "type": "single_choice",
+        "index": 209
+    },
+    {
+        "question": "并联长管1、2两管的直径相同,沿程阻力系数相同,长度${\\mathrm{L}}_{2}=3{\\mathrm{\\;L}}_{1}$,通过的流量为$\\left(\\;\\right)$A.${Q}_{1}={Q}_{2}$B.${Q}_{1}={1.5}{Q}_{2}$C.${Q}_{1}={1.73}{Q}_{2}$D.${Q}_{1}=3{Q}_{2}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "785327a2-5655-4bee-b68a-d0803cdb6715",
+        "type": "single_choice",
+        "index": 210
+    },
+    {
+        "question": "明渠均匀流只能发生在（$\\;$）。A.平坡棱柱形渠道B.顺坡棱柱形渠道C.逆坡棱柱形渠道D.不能确定",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "c3e3addf-d494-4e34-b942-2383f8d5f6a1",
+        "type": "single_choice",
+        "index": 211
+    },
+    {
+        "question": "均匀砂质土填装在容器中,已知水力坡度J=0.5,渗透系数为0.005cm/s,则渗流流速为()。A.0.0025cm/sB.0.0001cm/sC.${0.001}\\mathrm{\\;{cm}}/\\mathrm{s}$D.0.015cm/s",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "be2dad81-1dee-45bb-848c-9d9e5e23c6d3",
+        "type": "single_choice",
+        "index": 212
+    },
+    {
+        "question": "进行水力模型实验,要实现有压管流的动力相似,应选用的准则是()。A.雷诺准则B.弗劳德准则C.欧拉准则D.马赫数",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "9c33fa1e-c080-45a8-979e-27ca634775d3",
+        "type": "single_choice",
+        "index": 213
+    },
+    {
+        "question": "在三相交流电路中,电流和电压近似反相,且电流周期是电压周期的2倍,电压为$v\\left(t\\right)={220}\\sqrt{2}\\sin\\left({{314t}+{30}^{\\circ}}\\right)\\mathrm{V}$，则电流I为（$\\;$）。A.${\\mathrm{I}}_{\\mathrm{m}}\\sin\\left({{628}\\mathrm{t}+{30}^{\\circ}}\\right)$B.${\\mathrm{I}}_{\\mathrm{m}}\\sin\\left({{157}\\mathrm{t}+{165}^{\\circ}}\\right)$C.$-{\\mathrm{I}}_{\\mathrm{m}}\\sin\\left({{628}\\mathrm{t}+{15}^{\\circ}}\\right)$D.${\\mathrm{I}}_{\\mathrm{m}}\\sin\\left({{157}\\mathrm{t}-{165}^{\\circ}}\\right)$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "39d53a68-4553-41f7-895e-569deba63adb",
+        "type": "single_choice",
+        "index": 214
+    },
+    {
+        "question": "设三相异步电动机的空载功率因数为${\\lambda}_{1},{20}\\%$额定负载时功率因数为${\\lambda}_{2}$,满载时功率因数为${\\lambda}_{3}$,那么，如下关系式成立的是（$\\;$）。A.${\\lambda}_{1}>{\\lambda}_{2}>{\\lambda}_{3}$B.${\\lambda}_{1}<{\\lambda}_{2}<{\\lambda}_{3}$C.${\\lambda}_{1}<{\\lambda}_{3}<{\\lambda}_{2}$D.${\\lambda}_{1}>{\\lambda}_{3}>{\\lambda}_{2}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "6c272a3a-fa99-4b62-91f1-581356fd1d45",
+        "type": "single_choice",
+        "index": 215
+    },
+    {
+        "question": "如下几种说法中正确的是（）。A.滤波器会改变正弦波信号的频率B.滤波器会改变正弦波信号的波形形状C.滤波器会改变非正弦周期信号的频率D.滤波器会改变非正弦周期信号的波形形状",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "8c641085-b5da-4995-9bb8-989abf2e5c8c",
+        "type": "single_choice",
+        "index": 216
+    },
+    {
+        "question": "对逻辑表达式$\\mathrm{{ABCD}}+\\overline{\\mathrm{A}}+\\overline{\\mathrm{B}}+\\overline{\\mathrm{C}}+\\overline{\\mathrm{D}}$的化简结果是（$\\;$）。A.0B.1C.ABCDD.$\\overset{―}{A}+\\overset{―}{B}+\\overset{―}{C}+\\overset{―}{D}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "c7b3cc33-3663-43e7-a7b1-14fca63c7800",
+        "type": "single_choice",
+        "index": 217
+    },
+    {
+        "question": "逻辑函数$\\mathrm{F}=\\mathrm{f}\\left({\\mathrm{A},\\mathrm{B},\\mathrm{C}}\\right)$的真值表如下所示,由此可知$\\left(\\;\\right)$。题92表<table><tr><td>A</td><td>B</td><td>C</td><td>$\\mathrm{F}$</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td></tr></table>A.$$\\mathrm{F}=\\mathrm{{BC}}+\\mathrm{{AB}}+\\overline{\\mathrm{{AB}}}\\mathrm{C}+\\mathrm{B}\\overline{\\mathrm{C}}$$B.$$\\mathrm{F}=\\overline{\\mathrm{A}}\\overline{\\mathrm{B}}\\overline{\\mathrm{C}}+\\mathrm{{ABC}}+\\mathrm{{AC}}+\\mathrm{{ABC}}$$C.$$\\mathrm{F}=\\mathrm{{AB}}+\\mathrm{{BC}}+\\mathrm{{AC}}$$D.$$\\mathrm{F}=\\overline{\\mathrm{A}}\\mathrm{{BC}}+\\mathrm{{AB}}\\overline{\\mathrm{C}}+\\mathrm{{ABC}}$$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "15b9543b-e171-4280-9381-ce43d35d5f98",
+        "type": "single_choice",
+        "index": 218
+    },
+    {
+        "question": "下面四条有关数字计算机处理信息的描述中,其中不正确的一条是()。A.计算机处理的是数字信息B.计算机处理的是模拟信息C.计算机处理的是不连续的离散(0或1)信息D.计算机处理的是断续的数字信息",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "fe814375-b6e3-4ab1-8400-4e799eedd248",
+        "type": "single_choice",
+        "index": 219
+    },
+    {
+        "question": "程序计数器(PC)的功能是()。A.对指令进行译码B.统计每秒钟执行指令的数目C.存放下一条指令的地址D.存放正在执行的指令地址",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "41765f3d-5b64-47b0-8c07-946edb1fe40a",
+        "type": "single_choice",
+        "index": 220
+    },
+    {
+        "question": "计算机的软件系统是由（$\\;$）。A.高级语言程序、低级语言程序构成B.系统软件、支撑软件、应用软件构成C.操作系统、专用软件构成D.应用软件和数据库管理系统构成",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "f7b1a648-4546-45c3-ae27-8bb794fdeaac",
+        "type": "single_choice",
+        "index": 221
+    },
+    {
+        "question": "允许多个用户以交互方式使用计算机的操作系统是()。A.批处理单道系统B.分时操作系统C.实时操作系统D.批处理多道系统",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "a4e17e0e-ac05-473f-9dc2-cb22067c49a8",
+        "type": "single_choice",
+        "index": 222
+    },
+    {
+        "question": "在计算机内,ASCII码是为()。A.数字而设置的一种编码方案B.汉字而设置的一种编码方案C.英文字母而设置的一种编码方案D.常用字符而设置的一种编码方案",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "33402256-0708-4760-867a-0f71f485c012",
+        "type": "single_choice",
+        "index": 223
+    },
+    {
+        "question": "在微机系统内,为存储器中的每一个()。A.字节分配一个地址B.字分配一个地址C.双字分配一个地址D.四字分配一个地址",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "099bfaad-d2cf-4735-ad42-19bbfcf3176a",
+        "type": "single_choice",
+        "index": 224
+    },
+    {
+        "question": "保护信息机密性的手段有两种,一是信息隐藏,二是数据加密。下面四条表述中,有错误的一条是(）。A.数据加密的基本方法是编码,通过编码将明文变换为密文B.信息隐藏是使非法者难以找到秘密信息、而采用“隐藏”的手段C.信息隐藏与数据加密所采用的技术手段不同D.信息隐藏与数据加密所采用的技术手段是一样的",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "a83a7ec7-1e22-4a2f-9682-45c4a91015a7",
+        "type": "single_choice",
+        "index": 225
+    },
+    {
+        "question": "下面四条有关线程的表述中,其中错误的一条是()。A.线程有时也叫做轻量级的进程B.有些进程只包含一个线程C.线程是所有操作系统分配CPU时间的基本单位D.把进程再细分成线程的目的是为更好地实现并发处理和共享资源",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "dc302361-9551-4db7-97ed-5395a6ccfcb3",
+        "type": "single_choice",
+        "index": 226
+    },
+    {
+        "question": "计算机与信息化社会的关系是（$\\;$）。A.没有信息化社会就不会有计算机B.没有计算机在数值上的快速计算,就没有信息化社会C.没有计算机及其与通信、网络等的综合利用,就没有信息化社会D.没有网络电话就没有信息化社会",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "d00ae11e-efb6-4a43-8f49-f7e2be0ca164",
+        "type": "single_choice",
+        "index": 227
+    },
+    {
+        "question": "域名服务器的作用是（$\\;$）。A.为连入Internet网的主机分配域名B.为连入Internet网的主机分配IP地址C.为连入Internet网的一个主机域名寻找所对应的IP地址D.将主机的IP地址转换为域名",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "8453d84a-11ec-4356-8484-dad19e77f0bc",
+        "type": "single_choice",
+        "index": 228
+    },
+    {
+        "question": "某人预计5年后需要一笔50万元的资金，现市场上正发售期限为5年的电力债券，年利率为5.06%，按年复利计息，5年末一次还本付息，若想5年后拿到50万元的本利和，他现在应该购买电力债券（）。A.30.52万元B.38.18万元C.39.06万元D.44.19万元",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "9670b133-b2eb-45ad-9e19-61b74c31b400",
+        "type": "single_choice",
+        "index": 229
+    },
+    {
+        "question": "以下关于项目总投资中的流动资金的说法中正确的是()。A.是指工程建设其他费用和预备费之和B.是指投产后形成流动资产和流动负债之和C.是指投产后形成的流动资产和流动负债的差额D.是指投产后形成的流动资产占用的资金",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "2c0e38ed-83ae-4c1d-a234-d69b5af937a7",
+        "type": "single_choice",
+        "index": 230
+    },
+    {
+        "question": "下列筹资方式中,属于项目债务资金的筹集方式的是()。A.优先股B.政府投资C.融资租赁D.可转换债券",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "86b47e9e-520e-48f0-8039-06061c2af699",
+        "type": "single_choice",
+        "index": 231
+    },
+    {
+        "question": "某建设项目预计生产期第三年息税前利润为200万元，折旧与摊销为50万元，所得税为25万元，计入总成本费用的应付利息为100万元。则该年的利息备付率为$\\left(\\;\\right)$。A.1.25B.2C.2.25D.2.5",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "e1c2aa1d-055a-4f21-898f-e952b85ce25a",
+        "type": "single_choice",
+        "index": 232
+    },
+    {
+        "question": "某项目方案各年的净现金流量如下表所示(单位:万元),其静态投资回收期为()题111表<table><tr><td>年份</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>净现金流量</td><td>$-{100}$</td><td>－50</td><td>40</td><td>60</td><td>60</td><td>60</td></tr></table>A.2.17年B.3.17年C.3.83年D.4年",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "7d198268-374c-4b67-a992-811603507ac3",
+        "type": "single_choice",
+        "index": 233
+    },
+    {
+        "question": "某项目的产出物为可外贸货物,其离岸价格为100美元,影子汇率为6元人民币/美元,出口费用为每件100元人民币，则该货物的影子价格为（$\\;$）。A.500元人民币B.600元人民币C.700元人民币D.1200元人民币",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "4cce7b44-2696-4fda-b783-dbdb4f324b73",
+        "type": "single_choice",
+        "index": 234
+    },
+    {
+        "question": "某项目有甲、乙两个建设方案,投资分别为500万元和1000万元,项目期均为10年,甲项目年收益为140万元，乙项目年收益为250万元。假设基准收益率为8%，已知（P/A，8%，10）=6.7101，则下列关于该项目方案选择的说法正确的是()。A.甲方案的净现值大于乙方案,故应选择甲方案B.乙方案的净现值大于甲方案,故应选择乙方案C.甲方案的内部收益率大于乙方案,故应选择甲方案D.乙方案的内部收益率大于甲方案,故应选择乙方案",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "a1394795-c388-462d-8830-965587da4f46",
+        "type": "single_choice",
+        "index": 235
+    },
+    {
+        "question": "用强制确定法（FD法）选择价值工程的对象时，得出某部件的价值系数为1.02，下列说法正确的是（）。A.该部件的功能重要性与成本比重相当,因此应将该部件作为价值工程对象B.该部件的动能重要性与成本比重相当,因此不应将该部件作为价值工程对象C.该部件功能重要性较小,而所占成本较高,因此应将该部件作为价值工程对象D.该部件功能过高或成本过低,因此应将该部件作为价值工程对象",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "ebb116d9-c535-4b72-af05-42c71c34812d",
+        "type": "single_choice",
+        "index": 236
+    },
+    {
+        "question": "某在建的建筑工程因故中止施工,建设单位的下列做法,符合《建筑法》的是()A.自中止施工之日起一个月内,向发证机关报告B.自中止施工之日起半年内,报发证机关核验施工许可证C.自中止施工之日起三个月内,向发证机关申请延长施工许可证的有效期D.自中止施工之日起满一年,向发证机关重新申请施工许可证",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "00b7ce07-42c5-4087-a9cc-f5fb63a86582",
+        "type": "single_choice",
+        "index": 237
+    },
+    {
+        "question": "依据《安全生产法》，企业应当对职工进行安全生产教育和培训。某施工总承包单位对职工进行安全生产培训,其培训的内容不包括$\\left(\\;\\right)$。A.安全生产知识B.安全生产规章制度C.安全生产管理能力D.本岗位安全操作技能",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "8e0643d7-7839-45ba-80e0-a68a6322ba6f",
+        "type": "single_choice",
+        "index": 238
+    },
+    {
+        "question": "下列说法符合《招标投标法》规定的是（$\\;$）。A.招标人自行招标,应当具有编制招标文件和组织评标能力B.招标人必须自行办理招标事宜C.招标人委托招标代理机构办理招标事宜应当向有关行政监督部门备案D.有关行政监督部门有权强制招标人委托代理机构办理招标事宜",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "e8ad4c4f-cac0-4eef-b6a6-37addb4001b7",
+        "type": "single_choice",
+        "index": 239
+    },
+    {
+        "question": "甲乙双方于4月1日约定采用数据电文的方式订立合同,但双方没有指定特定系统,乙方于4月8日下午收到甲方以电子邮件方式发出的要约，于4月9日上午又收到了甲方发出的同样内容的传真，甲方于4月9日下午给乙方打电话通知对方要约已经发出,请对方尽快作出承诺,则该要约生效的时间是()A.4月8日下午B.4月9日上午C.4月9日下午D.4月1日",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "91e4a61a-1aac-4b0e-a8d0-fa542563edfa",
+        "type": "single_choice",
+        "index": 240
+    },
+    {
+        "question": "根据《行政许可法》规定，行政许可采取统一办理或者联合办理的，办理的时间不得超过（$\\;$）。A.10日B.15日C.30日D.${45}$日",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "ed2c8538-1ada-4ccf-9201-7b345f07317a",
+        "type": "single_choice",
+        "index": 241
+    },
+    {
+        "question": "依据《建设工程质量管理条例》，建设单位收到施工单位提交的建设工程竣工验收报告申请后，应当组织有关单位进行竣工验收，参加验收的单位可以不包括$(\\;$)。A.施工单位B.监理单位C.材料供应单位D.设计单位",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "2ea0f68e-514e-4c52-ae02-fb4c371f7331",
+        "type": "single_choice",
+        "index": 242
+    }
+]

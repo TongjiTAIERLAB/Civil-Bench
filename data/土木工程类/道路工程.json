@@ -1,0 +1,3762 @@
+[
+    {
+        "question": "无机结合料稳定土无侧限抗压强度实验时,试件的养生方法是()。A.在潮湿空气中养生7天B.在潮湿空气中养生14天C.在潮湿空气中养生6天,浸水1天D.在潮湿空气中养生13天,浸水1天",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "4d0b5d59-f557-408a-a714-a371085e8e11",
+        "type": "single_choice",
+        "index": 1
+    },
+    {
+        "question": "下列因素中,不属于影响石灰稳定土强度的因素是()。A.土质B.灰质C.含水率D.和易性",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "1d597010-29b7-4d0f-a08f-92a4fbf8b69c",
+        "type": "single_choice",
+        "index": 2
+    },
+    {
+        "question": "水泥熟料中掺加适量石膏的目的是（）。A.降低发热量B.增加产量C.减少收缩D.调节水泥凝结速度",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "c283abb8-95b5-46e0-8032-2613d6da4b3b",
+        "type": "single_choice",
+        "index": 3
+    },
+    {
+        "question": "路面水泥混凝土配合比设计中,经过工作性调整的配比称为()。A.初步配合比B.基准配合比C.试验室配合比D.工地配合比",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "f2b8b68a-316a-4bd7-a1f3-b1ee758a7fcb",
+        "type": "single_choice",
+        "index": 4
+    },
+    {
+        "question": "建筑砂浆在硬化前应具有良好的和易性，和易性包括流动性与（$\\;$）。A.保水性B.维勃稠度C.坍落度D.捣实性",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "0e5c73ab-99a5-4c1c-bf8b-14dfef2eb1b8",
+        "type": "single_choice",
+        "index": 5
+    },
+    {
+        "question": "评价沥青与集料黏附性最常用的方法是（$\\;$）。A.水煮法B.拉拔法C.马歇尔法D.维姆法",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "c9de941d-3bb2-4f57-9951-48796ab64695",
+        "type": "single_choice",
+        "index": 6
+    },
+    {
+        "question": "沥青路面的抗渗能力主要取决于沥青路面的A.稳定度B.饱和度C.空隙率D.骨架间隙率",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "c770cb25-2b95-4031-b014-309948ebcc8e",
+        "type": "single_choice",
+        "index": 7
+    },
+    {
+        "question": "下列影响沥青耐久性因素中,可不予考虑的是()。A.热B.氧C.风D.光",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "0950aeca-2532-4c6d-95d8-ff319fa93731",
+        "type": "single_choice",
+        "index": 8
+    },
+    {
+        "question": "沥青路面混合料组成设计中,随着沥青用量的增加,沥青混合料的空隙率()A.减小B.增大C.先减小后增大D.先增大后减小",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "47a25361-2a0f-43df-ac1e-2449912a89e5",
+        "type": "single_choice",
+        "index": 9
+    },
+    {
+        "question": "二灰土的主要组成材料是（$\\;$）。A.石灰、水泥、土B.石灰、煤渣、土C.石灰、粉煤灰、土D.粉煤灰、水泥、土",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "4a565c86-26e4-4d37-9ef2-dce0a4c01799",
+        "type": "single_choice",
+        "index": 10
+    },
+    {
+        "question": "路面水泥混凝土配合比设计的强度指标是（$\\;$）。A.抗压强度B.抗劈裂强度C.抗弯强度D.抗弯拉强度",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "6e94b53e-2578-4ab1-8511-08804a3df766",
+        "type": "single_choice",
+        "index": 11
+    },
+    {
+        "question": "土的含水率是指（$\\;$）。A.土中水的质量与土体总质量的比值B.土中水的质量与土粒质量的比值C.土中水的体积与孔隙的体积的比值D.土中水的体积与土颗粒体积的比值",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "74fb3723-63dc-447f-8216-6014ec9860d1",
+        "type": "single_choice",
+        "index": 12
+    },
+    {
+        "question": "评价砂土的密实程度,最常用指标是()。A.相对密实度B.表观密实C.孔隙率D.稠度",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "4dc994d7-5dbf-44db-b348-b3752f4ca44c",
+        "type": "single_choice",
+        "index": 13
+    },
+    {
+        "question": "粉细砂在饱和状态下,突然发生振动而且排水不畅,此时砂土可能会出现$\\left(\\;\\right)$。A.管涌B.稳定C.液化D.密实",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "b8c6b10f-358e-4d3e-964c-83fb193644e4",
+        "type": "single_choice",
+        "index": 14
+    },
+    {
+        "question": "在持续负温作用下,地下水位较高处的粉砂、粉土、粉质黏土等土层冻胀危害（$\\;$）.A.程度较轻B.程度较大C.程度不明D.与地下水位的高低无关",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "4237cf31-ff43-4370-b86b-628ff4f13c70",
+        "type": "single_choice",
+        "index": 15
+    },
+    {
+        "question": "地基表面作用着均布的矩形荷载,在矩形的中心点下,随着深度的增加,地基中的()A.附加应力不变,自重应力增大B.附加应力线性增大,自重应力减小C.附加应力线性减小,自重应力增大D.附加应力非线性减小,自重应力增大",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "8bcfcf86-91e0-430f-bf54-6a4fe6697c24",
+        "type": "single_choice",
+        "index": 16
+    },
+    {
+        "question": "土的有效应力作用会引起土体发生压缩，同时有效应力也影响土的抗剪强度，有效应力等于（$\\;$）。A.总应力减去孔隙压力B.总应力减去孔隙水压力C.总应力减去孔隙中空气压力D.孔隙中的空气压力与孔隙水压力之和",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "8cc9257e-0344-4e34-a5e8-50150c50f7f3",
+        "type": "single_choice",
+        "index": 17
+    },
+    {
+        "question": "室内测定土的压缩性指标的试验为（$\\;$）。A.剪切试验B.侧限压缩试验C.静载荷试验D.无侧限压缩试验",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "4faee541-169b-435f-b82a-7da2357e0096",
+        "type": "single_choice",
+        "index": 18
+    },
+    {
+        "question": "有A、B两土样,如果其中A的压缩性大于B的压缩性,则（$\\;$）。A.土样B的压缩曲线陡B.土样A的压缩系数小C.土样A的压缩模量小D.土样B易产生变形",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "8a48ced2-a75b-432f-8664-1f939ccfacd3",
+        "type": "single_choice",
+        "index": 19
+    },
+    {
+        "question": "饱和软土地基在外荷载作用下,其抗剪强度逐渐增长的原因是()。A.总应力的减小B.有效应力的减小C.孔隙水压力的消散D.孔隙水压力的增加",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "baeb776d-3e93-4817-9478-0b98ec0fa579",
+        "type": "single_choice",
+        "index": 20
+    },
+    {
+        "question": "饱和黏性土地基瞬时沉降的计算可采用()。A.库伦理论公B.分层总和法C.经验公式D.弹性理论公式",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "1cc8c5bf-f88f-455c-962f-4538acd13852",
+        "type": "single_choice",
+        "index": 21
+    },
+    {
+        "question": "土的层流渗透定律（达西定律）一般只适用于（$\\;$）。A.弹性理论公式B.中砂、细砂和粉砂C.粗砂D.卵石",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "1b7d885a-8a82-45f5-865a-c081005827d5",
+        "type": "single_choice",
+        "index": 22
+    },
+    {
+        "question": "下列岩石为变质岩的是（$\\;$）。A.花岗岩B.片麻岩C.流纹岩D.泥岩",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "054d681a-9975-4834-9a40-99858bd4e156",
+        "type": "single_choice",
+        "index": 23
+    },
+    {
+        "question": "下列全部属于岩浆岩构造类型的是（$\\;$）。A.板状、块状、流纹状、杏仁状B.片麻状、流纹状、气孔状、杏仁状C.块状、流纹状、气孔状、杏仁状D.千枚状、流纹状、气孔状、杏仁状",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "1321dba5-35f9-4b18-8965-bfe57eaa5fd3",
+        "type": "single_choice",
+        "index": 24
+    },
+    {
+        "question": "结晶联结的岩石,结晶颗粒的大小与岩石强度有一定关系,一般晶粒越大强度()A.越小B.越大C.不变化D.无规律",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "b89f2d5a-8e1f-428d-83be-0b8b94b6a6d0",
+        "type": "single_choice",
+        "index": 25
+    },
+    {
+        "question": "岩石受力发生破裂时,未发生明显位移的断裂是()。A.断层B.解理C.节理D.背斜",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "67e3ee41-2932-47cd-b0ed-e40f5ae6210c",
+        "type": "single_choice",
+        "index": 26
+    },
+    {
+        "question": "根据地质构造条件分析,下列条件中容易发生崩塌的是()。A.沉积岩层的整合接触B.为结构面切割的破碎岩体C.软弱结构面与坡向相反D.无结构面切割的完整岩体",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "2a951311-8366-442b-8588-e82109809784",
+        "type": "single_choice",
+        "index": 27
+    },
+    {
+        "question": "下列有关岩石风化作用的说法中,错误的是()。A.岩石的风化作用仅发生在地表B.岩石的风化作用使岩体的结构构造发生变化C.岩石的风化作用使岩石的强度及稳定性降低D.岩石的风化作用使岩石的矿物成分和化学成分发生变化",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "e37f5981-6b8d-4684-b09c-e5909cdd4cc0",
+        "type": "single_choice",
+        "index": 28
+    },
+    {
+        "question": "山区公路水毁的重要动因是河流的（$\\;$）。A.溶蚀作用B.侧蚀作用C.下蚀作用D.机械侵蚀作用",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "e744a6ba-6e9a-457c-95a0-d34aa2ede4a8",
+        "type": "single_choice",
+        "index": 29
+    },
+    {
+        "question": "在某河谷上形成若干级河谷阶地,用于敷设路线最好的是()。A.一、二级阶地B.三、四级阶地C.三级阶地D.四级阶地",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "dd2708d7-f369-4cb9-a927-7e0bcbce5fab",
+        "type": "single_choice",
+        "index": 30
+    },
+    {
+        "question": "岩石的风化程度一般划分为全风化、强风化等（$\\;$）。A.二级B.三级C.四级D.五级",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "fc02b31c-5e77-419a-bc04-f2b3d6bbb80f",
+        "type": "single_choice",
+        "index": 31
+    },
+    {
+        "question": "公路工程地质勘察中,能直接观察地层结构变化的方法是()。A.挖探B.冲击钻探C.触探D.地球物理勘探",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "6422ce73-d5e4-4736-bba6-3fcd10dc00f0",
+        "type": "single_choice",
+        "index": 32
+    },
+    {
+        "question": "下列有关岩溶水的说法中,错误的是()。A.岩溶水与地表水的流域系统相似B.岩溶水空间分布极不均匀C.岩溶水水量变化受气候影响不大D.岩溶水给工程预测预防带来困难",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "e608e6c1-2546-4842-a758-2934d29e713b",
+        "type": "single_choice",
+        "index": 33
+    },
+    {
+        "question": "滑坡体在滑动过程中,因受力不均面产生滑坡裂缝,其中分布在滑坡体后缘,多呈弧形,与滑坡壁大致平行的是（$\\;$）。A.扇形裂缝B.拉张裂缝C.鼓张裂缝D.剪切裂缝",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "c62c408c-1b46-4d48-bcfd-65701eb562ba",
+        "type": "single_choice",
+        "index": 34
+    },
+    {
+        "question": "工程可行性研究阶段,隧道工程地质勘察的主要任务是()。A.隧道洞身的勘察B.隧道洞口的勘察C.隧道方案与位置的确定D.隧道的水文地质勘察",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "487591ef-e898-4f43-968a-3e564e61bec8",
+        "type": "single_choice",
+        "index": 35
+    },
+    {
+        "question": "高速公路、一级公路进行勘测时,高程控制测量等级应选用()A.二等B.三等C.四等D.五等",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "86037906-5d71-4940-9d1f-eda50d15ccbc",
+        "type": "single_choice",
+        "index": 36
+    },
+    {
+        "question": "根据公路勘测平面控制点布设要求,路线平面控制点距路线中心300m,且应大于()A.${20}\\mathrm{\\;m}$B.30mC.${40}\\mathrm{\\;m}$D.${50}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "25a727ea-437d-4b65-acde-0874e84d3c59",
+        "type": "single_choice",
+        "index": 37
+    },
+    {
+        "question": "下列公路勘测高程控制测量工作中,符合高程控制点布设要求的是()A.高程控制点距离路线中心的距离应大于${35}\\mathrm{\\;m}$B.高程控制点距离路线中心的距离宜小于${400}\\mathrm{\\;m}$C.路线高程控制点相邻点间的距离以${1.5}\\sim{2.5}\\mathrm{\\;{km}}$为宜D.特大型构造物每端应埋设2个(含2个)以上高程控制点",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "3becdfcd-5be1-4477-956e-999b967ce636",
+        "type": "single_choice",
+        "index": 38
+    },
+    {
+        "question": "公路工程地形图绘制中，平原地区测绘1：1000比例尺地形图的基本等高距应为（$\\;$）。A.${0.5}\\mathrm{\\;m}$B.1.OmC.${2.0}\\mathrm{\\;m}$D.5.0m",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "8836e087-82ca-4386-b175-a63679a08ce7",
+        "type": "single_choice",
+        "index": 39
+    },
+    {
+        "question": "公路勘测地形图测绘采用GPS-RTK法测量时,流动站至基准站的距离应小于()A.${10}\\mathrm{\\;{km}}$B.${15}\\mathrm{\\;{km}}$C.${20}\\mathrm{\\;{km}}$D.${25}\\mathrm{\\;{km}}$",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "e6f9ca37-45be-4895-9c9b-de14c89ba30a",
+        "type": "single_choice",
+        "index": 40
+    },
+    {
+        "question": "公路施工图设计阶段，利用数字地面模型（DTM）计算公路纵断面时，中桩桩距取值间距应为（$\\;$）。A.${20}\\sim{50}\\mathrm{\\;m}$B.${20}\\sim{40}\\mathrm{\\;m}$C.${20}\\sim{30}\\mathrm{\\;m}$D.$5\\sim{20}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "12a4112a-2a6b-4e21-86a4-153b9c31b554",
+        "type": "single_choice",
+        "index": 41
+    },
+    {
+        "question": "以地形图数字化为数据源生成的公路数字地面模型（DTM），其高程插值原地形图的高程误差不得超过原图等高距的（$\\;$）。A.1B.$1/2$C.$1/3$D.$1/5$",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "0c2608c7-14e0-4d95-a9ed-d60026682f8d",
+        "type": "single_choice",
+        "index": 42
+    },
+    {
+        "question": "公路航空摄影测量成图比例尺为1：1000时，航摄比例尺应为（$\\;$）。A.$1\\div{2000}\\sim1\\div{3000}$B.$1:{4000}\\sim1:{6000}$C.$1:{8000}\\sim1:{12000}$D.$1\\div{20000}\\sim1\\div{30000}$",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "0ae499bc-f3cb-4fa8-8997-cdd4de9ae015",
+        "type": "single_choice",
+        "index": 43
+    },
+    {
+        "question": "公路大、中桥定测阶段勘测与调查时，应进行形态断面测量，选择形态断面的要求是（$\\;$）A.任选两个断面即可B.宜在桥位上游选一个断面C.宜在桥位下游选一个断面D.宜在桥位上、下游各选一个断面",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "5c9b6f75-69fb-42ce-991e-2c886a957551",
+        "type": "single_choice",
+        "index": 44
+    },
+    {
+        "question": "公路设计定测阶段,对于平原、微丘区的一、二级公路,中桩平面位置中误差应不大于()A.$\\pm5\\mathrm{\\;{cm}}$B.$\\pm{10}\\mathrm{\\;{cm}}$C.$\\pm{15}\\mathrm{\\;{cm}}$D.$\\pm{20}\\mathrm{\\;{cm}}$",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "066b9148-3338-4ad6-a314-f3be59d22a20",
+        "type": "single_choice",
+        "index": 45
+    },
+    {
+        "question": "公路设计初测阶段,符合大、中桥梁控制测量要求的是()。A.可不专门布设桥梁平面和高程控制网B.布设路线控制网时,每岸不需布设必要的控制点C.布设的控制点不需要纳入路线控制测量进行施测D.需设置独立坐标系统",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "e089a0e4-4b14-4d31-8db5-0b42c648a883",
+        "type": "single_choice",
+        "index": 46
+    },
+    {
+        "question": "公路定测阶段,三级及以下公路横断面测量距离检测互差限差应为()m.注:L为测点至中桩的水平距离(m)A.$\\leq\\mathrm{L}/{2.5}+{0.2}$B.$\\leq\\mathrm{L}/{25}+{0.1}$C.$\\leq\\mathrm{L}/{50}+{0.2}$D.$\\leq\\mathrm{L}/{50}+{0.1}$",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "fc66219e-b750-4210-94ac-cac51cdccfa0",
+        "type": "single_choice",
+        "index": 47
+    },
+    {
+        "question": "极限状态设计法中,结构的可靠性是指$\\left(\\;\\right)$。A.安全性、耐久性和稳定性B.安全性、耐久性和适用性C.安全性、耐久性和使用性D.使用性、耐久性和稳定性",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "6d252f4b-a8d4-45c8-8820-acd316823afe",
+        "type": "single_choice",
+        "index": 48
+    },
+    {
+        "question": "轴心受压构件按箍筋作用不同,可分为的两种基本类型是()。A.普通箍筋柱和直接箍筋柱B.螺旋箍筋柱和普通箍筋柱C.普通箍筋柱和长箍筋柱D.螺旋箍筋柱和间接箍筋柱",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "a813cdeb-0e98-42c6-b0e6-86927b18331e",
+        "type": "single_choice",
+        "index": 49
+    },
+    {
+        "question": "用螺旋箍筋约束混凝土的目的是（）。A.混凝土的强度和延性均提高B.混凝土的强度能提高,延性不能提高C.混凝土的延性能提高,强度不能提高D.混凝土的延性和强度均不能提高",
+        "answer": "A",
+        "score": 1.69,
+        "unique_ID": "000ad55f-1ce6-4b17-a8b5-9b5c71d3520f",
+        "type": "single_choice",
+        "index": 50
+    },
+    {
+        "question": "确定预应力钢筋弯起点时,考虑受力要求应兼顾A.弯矩和预加力B.预加力和剪力C.轴力弯矩D.弯矩和剪力",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "ae2040ad-b30e-487a-9508-2dfaf7a759be",
+        "type": "single_choice",
+        "index": 51
+    },
+    {
+        "question": "钢筋混凝土梁的试验表明,钢筋混凝土适筋梁从加荷直至破坏。其正截面工作状态经历了三个阶段,大到可分为（）。A.整体工作阶段、极限工作阶段、破坏阶段B.弹性工作阶段、带裂缝工作阶段、破坏阶段C.弹性工作阶段、受拉区混凝土退出工作阶段、塑性阶段D.弹性工作阶段、全截面工作阶段、受拉区混凝土退出工作阶段",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "ed27a03b-f4f8-436a-ada3-aa296a5822c0",
+        "type": "single_choice",
+        "index": 52
+    },
+    {
+        "question": "在矩形截面偏心受压构件计算中,判断大偏心受压、小偏心受压的条件是()。A.${\\mathrm{e}}_{0}<{0.3}{\\mathrm{\\;h}}_{0}$为小偏心;${\\mathrm{e}}_{0}\\geq{0.3}{\\mathrm{\\;h}}_{0}$为大偏心B.${\\mathrm{e}}_{0}>{0.3}{\\mathrm{\\;h}}_{0}$为小偏心;${\\mathrm{e}}_{0}\\leq{0.3}{\\mathrm{\\;h}}_{0}$为大偏心C.$\\xi\\leq{\\xi}_{\\mathrm{b}}$为大偏心;$\\xi>{\\xi}_{\\mathrm{b}}$为小偏心D.$\\xi<{\\xi}_{\\mathrm{b}}$为小偏心;$\\xi\\geq{\\xi}_{\\mathrm{b}}$为大偏心",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "57988e27-5198-4ad6-8a15-05e037415b59",
+        "type": "single_choice",
+        "index": 53
+    },
+    {
+        "question": "砌体受剪时,其破坏形式为$\\left(\\;\\right)$。A.通缝抗剪、齿缝抗剪和水平抗剪B.通缝抗剪、齿缝抗剪和阶梯形抗剪C.齿缝抗剪、阶梯抗剪和竖缝抗剪D.水平抗剪、竖缝抗剪和齿缝抗剪",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "144a8c37-8dfe-4191-b2a1-9fd542c37168",
+        "type": "single_choice",
+        "index": 54
+    },
+    {
+        "question": "根据《建设工程质量管理条例》，勘察、设计单位超越本单位资质等级承揽工程的，责令停止违法行为,对勘察、设计单位处以罚款,罚款是合同约定的勘察费、设计费的$\\left(\\;\\right)$。A.2倍以上3倍以下B.3倍以上5倍以下C.1倍以上2倍以下D.10万元以上30万元以下",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "66975b02-17b9-430e-a6bb-c994b31f409a",
+        "type": "single_choice",
+        "index": 55
+    },
+    {
+        "question": "根据《中华人民共和国公路法》，县级以上地方人民政府确定公路两侧用地，侧用地自边沟（截水沟、坡脚护坡道）外缘起应不少于（）。A.$5\\mathrm{\\;m}$B.$2\\mathrm{\\;m}$C.$1\\mathrm{\\;m}$D.${0.5}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "217a6c80-9127-42b7-806d-4a4d31b61f35",
+        "type": "single_choice",
+        "index": 56
+    },
+    {
+        "question": "根据《建设工程安全生产管理条例》，注册执业人员未执行法律、法规和工程建设强制性标准的。应（）。A.终身不予注册B.吊销执业资格证书,5年内不予注册C.吊销执业资格证书,10年内不予注册D.责令停止执业3个月以上1年以下",
+        "answer": "D",
+        "score": 1.69,
+        "unique_ID": "a9ea1696-b177-4181-9997-d4508e521ffc",
+        "type": "single_choice",
+        "index": 57
+    },
+    {
+        "question": "根据《中华人民共和国合同法》，建设工程项目执行政府定价或者政府指导价的，在合同约定的交付期限内政府价格调整时，按照交付时的价格计价。逾期交付标的物的，遇价格上涨时，执行（$\\;$）。A.新价格B.原价格C.商议确定的价格D.新价格与原价格的平均值",
+        "answer": "B",
+        "score": 1.69,
+        "unique_ID": "f2b7d20b-7ca4-4c61-a9f1-ca29c45c1924",
+        "type": "single_choice",
+        "index": 58
+    },
+    {
+        "question": "根据《建设工程质量管理条例》，建设工程发生质量事故后，有关单位向当地建设行政管理部门和其他有关部门报告的时间应不大于（）。A.4小时B.8小时C.24小时D.48小时",
+        "answer": "C",
+        "score": 1.69,
+        "unique_ID": "0321c501-c180-4279-a8df-54e6e0c648a3",
+        "type": "single_choice",
+        "index": 59
+    },
+    {
+        "question": "下列关于公路技术等级与设计速度方面的描述,不符合标准规范规定的是()。A.三级公路设计速度宜根据实际情况采用${30}\\sim{40}\\mathrm{\\;{km}}/\\mathrm{h}$B.集散二级公路设计速度宜根据实际情况采用${40}\\sim{50}\\mathrm{\\;{km}}/\\mathrm{h}$C.干线二级公路设计速度宜根据实际情况采用${60}\\sim{80}\\mathrm{\\;{km}}/\\mathrm{h}$D.一级公路设计速度宜根据实际情况采用${60}\\sim{100}\\mathrm{\\;{km}}/\\mathrm{h}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "a62081a8-1f27-43ba-beb6-f28e3094adeb",
+        "type": "single_choice",
+        "index": 60
+    },
+    {
+        "question": "东北地区某一级公路、地处积雪冰冻的平原地区，设计速度采用100km/h，下列有关该公路在穿越城镇路段设超高的最小平面圆曲线半径值,符合规范规定的是$\\left(\\;\\right)$。A.360mB.${400}\\mathrm{\\;m}$C.${440}\\mathrm{\\;m}$D.${500}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "d3065d7d-fc4a-4cdd-b49e-5fe3bfa8030a",
+        "type": "single_choice",
+        "index": 61
+    },
+    {
+        "question": "两条公路交叉时,下列有关应设置互通式立体交叉的情形,符合《公路工程技术标准（JTGB01—2014）规定的是（）。A.高速公路与支线公路相交时B.两条二级公路相交时C.高速公路与连接其他重要交通源的连接线公路相交时D.二级公路采用平面交叉冲突交通量较大时",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "fa268d72-bd72-44b1-b022-3387f4500a52",
+        "type": "single_choice",
+        "index": 62
+    },
+    {
+        "question": "某山区四车道一级公路,设计速度80km/h,下列关于沿连续上坡方向载重允许最低速度,符合规范规定的是（）。A.${40}\\mathrm{\\;{km}}/\\mathrm{h}$B.${50}\\mathrm{\\;{km}}/\\mathrm{h}$C.${55}\\mathrm{\\;{km}}/\\mathrm{h}$D.${60}\\mathrm{\\;{km}}/\\mathrm{h}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "5208d059-e293-49da-b768-031a5d8c0bce",
+        "type": "single_choice",
+        "index": 63
+    },
+    {
+        "question": "公路选线应遵循的原则中,符合《公路路线技术标准》（JTGD20-20017）规定的是（）A.由点到面B.由点到线C.由面到带、由带到线D.由深到浅、由具体到宏观",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "c98f7c55-e0ce-420f-9937-2502aa86e188",
+        "type": "single_choice",
+        "index": 64
+    },
+    {
+        "question": "某山区一级公路,设计速度${60}\\mathrm{\\;{km}}/\\mathrm{h}$,设置了多处连续长、陡下坡路段,其中应进行安全性评价的路段是（）。A.平均坡度$2\\%$,连续坡长${25}\\mathrm{\\;{km}}$B.平均坡度${2.5}\\%$,连续坡长${21}\\mathrm{\\;{km}}$C.平均坡度$3\\%$,相对高差${400}\\mathrm{\\;m}$D.平均坡度${3.5}\\%$,相对高差${300}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "fc422578-05c4-4d5d-9189-7e857546f1b6",
+        "type": "single_choice",
+        "index": 65
+    },
+    {
+        "question": "某一级公路下穿210kV架空输电线路,交叉角度为${90}^{\\circ}$,符合规范规定的输电线距路面的最小垂直距离是（）。A.7.OmB.8.0mC.${9.0}\\mathrm{\\;m}$D.10.0m",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "359406d7-d573-4363-a004-9de409a23c8b",
+        "type": "single_choice",
+        "index": 66
+    },
+    {
+        "question": "5.2(见题7解表)的规定值。题7解表架空输电线路导线距路面的最小垂直距离<table><thead><tr><throwspan=\"2\">架空输电线路标称电压$\\left(\\mathrm{{kV}}\\right)$</th><throwspan=\"2\">${35}\\sim$110</th><throwspan=\"2\">${154}\\sim$220</th><throwspan=\"2\">330</th><throwspan=\"2\">500</th><throwspan=\"2\">750</th><thcolspan=\"2\">1000</th><throwspan=\"2\">$\\pm{800}$直流</th></tr><tr><th>单回路</th><th>双回路逆相序</th></tr></thead><tr><td>距路面最小垂直距离(m)</td><td>7.0</td><td>8.0</td><td>9.0</td><td>14.0</td><td>19.5</td><td>27.0</td><td>25.0</td><td>21.5</td></tr></table>由表可知,一级公路下穿210kV架空输电线路,其距路面最小垂直距离为8.0m.8.位于抗震有利地段的高速公路高路堤,在E1地震作用下,其抗震设防目标是()A.不受损坏B.不需修复可正常使用C.经一般整修即可正常使用D.经短期抢修即可恢复使用",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "289d422c-3123-443c-9769-d17e29761635",
+        "type": "single_choice",
+        "index": 67
+    },
+    {
+        "question": "北方某高速公路土质挖方路段,下列路基地表排水设计合理的是()。A.截水沟的水流直接引入路堑边沟之中B.工程所在地的冻结指数为1500,边沟、截水沟浆砌片石采用M7.5砂浆、MU30石料砌筑C.地下水较多的路段,为减少地下水对路床的影响,没设渗沟,采用了深度1.5m、宽度0.8m的浆砌片石矩形盖板边沟D.挖方边坡较高、坡顶以外地表汇水面积较大时，在堑坡顶坡口5m以外处设置深度0.4m、底宽0.4m的浆砌片石梯形截水沟",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "2c96486f-4aef-4e68-ab38-3b29670ffd48",
+        "type": "single_choice",
+        "index": 68
+    },
+    {
+        "question": "公路沥青路面设计采用轴重为100kN的单轴一双轮组设计轴载,其两轮中心距是()A.299.5mmB.309.5mmC.${319.5}\\mathrm{\\;{mm}}$D.329.5mm",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "f4ba48b0-18be-4919-ae0b-a65d139b0e26",
+        "type": "single_choice",
+        "index": 69
+    },
+    {
+        "question": "公路乳化沥青贯入式路面的厚度不宜超过（）。A.${50}\\mathrm{\\;{mm}}$B.${55}\\mathrm{\\;{mm}}$C.${60}\\mathrm{\\;{mm}}$D.65mm",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "ec6f9554-7e94-4287-8be0-50c4dba63d1d",
+        "type": "single_choice",
+        "index": 70
+    },
+    {
+        "question": "季节性冰冻地区,高速公路沥青路面在设计使用年限内的面层低温开裂指数CI不大于()A.3B.5C.7D.9",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "31203a3c-0bcd-4e40-b63a-b520467679c1",
+        "type": "single_choice",
+        "index": 71
+    },
+    {
+        "question": "公路水泥混凝土路面路床顶面的综合回弹模量,轻交通荷载等级时不得低于$\\left(\\;\\right)$。A.40MPaB.50MPaC.${60}\\mathrm{{MPa}}$D.${70}\\mathrm{{MPa}}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "1c2dd6dd-6644-496c-9c4c-281b37e24890",
+        "type": "single_choice",
+        "index": 72
+    },
+    {
+        "question": "公路水泥混凝土路面与沥青路面相接时,应设置的过渡段不小于$\\left(\\;\\right)$。A.$3\\mathrm{\\;m}$B.$4\\mathrm{\\;m}$C.$5\\mathrm{\\;m}$D.$6\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "245bbe2f-898c-43ef-888c-861eb7ebf3b4",
+        "type": "single_choice",
+        "index": 73
+    },
+    {
+        "question": "位于冬季结冰、积雪地区的公路桥梁,桥上纵坡不宜大于$\\left(\\;\\right)$。A.5.0%B.4.$5\\%$C.${4.0}\\%$D.3.0%",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "4f1c3d86-0a43-4acf-9356-fe44882e1323",
+        "type": "single_choice",
+        "index": 74
+    },
+    {
+        "question": "根据《公路桥涵设计通用规范》（JTGD60—2015）规定，可变作用汽车制动力不应与下列作用同时参与组合的是（）。A.预加力B.人群荷载C.流水压力D.地震作用",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "554f54d7-e78d-4b8a-8482-91eb3d1d71c0",
+        "type": "single_choice",
+        "index": 75
+    },
+    {
+        "question": "设计使用年限100年的公路桥梁钻孔灌注桩基础，Ⅱ类冻融环境下混凝土保护层最小厚度是（）A.${45}\\mathrm{\\;{mm}}$B.${40}\\mathrm{\\;{mm}}$C.${35}\\mathrm{\\;{mm}}$D.${30}\\mathrm{\\;{mm}}$",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "4a1b8c2d-6b98-4715-8c87-ef77669b95ce",
+        "type": "single_choice",
+        "index": 76
+    },
+    {
+        "question": "I类和II类环境下,公路钢筋混凝土构件和B类预应力混凝土构件的最大裂缝宽度计算值不应超过）。A.0.30mmB.0.25mmC.${0.20}\\mathrm{\\;{mm}}$D.${0.15}\\mathrm{\\;{mm}}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "52903cae-81f3-4121-898e-f0607a0dfb8e",
+        "type": "single_choice",
+        "index": 77
+    },
+    {
+        "question": "高速公路隧道设计洪水频率标准为（）。A.$1/{300}$B.$1/{200}$C.$1/{100}$D.$1/{50}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "f3f167cb-c5d1-454a-ab2a-f682d9d36f05",
+        "type": "single_choice",
+        "index": 78
+    },
+    {
+        "question": "根据公路隧道设计规范规定,二级公路隧道应设置照明的最小长度是()。A.${500}\\mathrm{\\;m}$B.${800}\\mathrm{\\;m}$C.${1000}\\mathrm{\\;m}$D.${1500}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "c87bdc8e-52d7-4ee4-9c76-90a5453b9942",
+        "type": "single_choice",
+        "index": 79
+    },
+    {
+        "question": "公路隧道采用复合式衬砌时,应在初期支护与二次衬砌之间设置防水层。防水层宜采用防水板与无纺布的组合,无纺布密度不应小于()。A.${100}\\mathrm{\\;g}/{\\mathrm{m}}^{2}$B.${200}\\mathrm{g}/{\\mathrm{m}}^{2}$C.${300}\\mathrm{\\;g}/{\\mathrm{m}}^{2}$D.${400}\\mathrm{g}/{\\mathrm{m}}^{2}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "c531ce65-a45b-45ca-91f7-54714d850aa7",
+        "type": "single_choice",
+        "index": 80
+    },
+    {
+        "question": "公路隧道应设置衬砌,并根据隧道围岩级别、施工条件和使用要求选择不同的衬砌形式,其中高速公路的隧道应采用（）。A.喷锚衬砌B.明洞衬砌C.复合式衬砌D.整体式衬砌",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "abc0d779-842b-498a-8f99-b2e1cff2cf65",
+        "type": "single_choice",
+        "index": 81
+    },
+    {
+        "question": "某山岭高速公路隧道抗震设防应选择的是（）。A.A类B.B类C.C类D.D类",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "221f5809-3613-448c-9791-0111d8fe529a",
+        "type": "single_choice",
+        "index": 82
+    },
+    {
+        "question": "根据规范规定,在平面交叉范围内,主要公路纵坡的取值范围应为()。A.$0\\sim{3.0}\\%$B.0.5%～3.0%C.0.15%~3.0%D.0.25%~3.0%",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "d722af3f-43b0-41aa-862f-0c6a4363da70",
+        "type": "single_choice",
+        "index": 83
+    },
+    {
+        "question": "根据规范规定,公路平面交叉可采用的交通管理方式分为$\\left(\\;\\right)$。A.停车让行交叉、减速让行交叉和信号交叉B.信号交叉、无信号交叉和渠化交叉C.十字交叉、T形交叉和环形交叉D.主路优先交叉、无优先交叉和信号交叉",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "8a55ea51-dffe-4b5a-92d9-137cc5e863ba",
+        "type": "single_choice",
+        "index": 84
+    },
+    {
+        "question": "设计速度为120km/h的双向6车道高速公路，当相邻互通式立体交叉分别独立设置时，相互之间的最小净距是（）。A.800mB.${900}\\mathrm{\\;m}$C.${1000}\\mathrm{\\;m}$D.${1200}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "2fcc34e7-628d-49f9-8f62-07ff1173244d",
+        "type": "single_choice",
+        "index": 85
+    },
+    {
+        "question": "在高速公路出口匝道的下列几种分流形式中,不符合一致性原则的是()。A.于高速公路右侧分流B.左、右侧交替分流C.于交叉点之前分流D.采用单一的出口方式",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "1082cda0-d5d9-47fb-b31f-ffa9e3db92ac",
+        "type": "single_choice",
+        "index": 86
+    },
+    {
+        "question": "《公路交通安全设施设计规范》（JTGD81—2017）规定，避险车道制动床材料宜采用具有较高滚动阻力系数、陷落度较好、不易板结和被雨水冲刷的卵（砾）石材料，材料粒径宜为（）。A.0.5~1.0cmB.1.$0\\sim{1.5}\\mathrm{\\;{cm}}$C.${2.0}\\sim{4.0}\\mathrm{\\;{cm}}$D.4.5～5.5cm",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "874756f5-3d48-4bdf-ba5a-ac58af9921b4",
+        "type": "single_choice",
+        "index": 87
+    },
+    {
+        "question": "《公路交通安全设施设计规范》（JTGD81—2017）规定，高速公路设计速度为100km/h，中央分隔带宽度小于2.5m且采用整体式护栏形式时,应采用的路基护栏防护等级为$\\left(\\;\\right)$。A.三(Am)级B.四(SBm)级C.五（SAm）级D.六（SSm）级",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "9e2bba41-741b-492b-ad63-dece6be807ca",
+        "type": "single_choice",
+        "index": 88
+    },
+    {
+        "question": "公路工程建设项目的投资最高限额是经批准的（）。A.设计概算B.施工图预算C.工程结算D.竣工决算",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "d1eed10e-cc5b-480c-b6f9-b037aa0ec9d9",
+        "type": "single_choice",
+        "index": 89
+    },
+    {
+        "question": "根据《公路工程基本建设项目概算预算编制办法》的规定,下列选项中,属于定额建筑安装工程费组成内容的是（）。A.研究试验费B.生产准备费C.工程保险费D.措施费",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "1f4e248e-d349-4076-bf65-4d7db62a7ad4",
+        "type": "single_choice",
+        "index": 90
+    },
+    {
+        "question": "拟建某城市支路,仅允许车辆高度不超过2.0m的小客车通行,一般情况下,下列关于设计中采用的最小净高,符合规范规定的是$\\left(\\;\\right)$。A.${2.5}\\mathrm{\\;m}$B.3.$2\\mathrm{\\;m}$C.${3.5}\\mathrm{\\;m}$D.4.$5\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "e499b4f7-f1c7-4ab3-ac19-dcfbbe9e7dc7",
+        "type": "single_choice",
+        "index": 91
+    },
+    {
+        "question": "拟建某城市快速路，设计速度为80km/h，预测远景年单向高峰小时交通量为5040pcu/h，计算拟建道路所需的双向车道数(不考虑方向不均匀系数)应为()。(结果取整数)A.3条B.4条C.6条D.8条",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "02ba9937-d292-419a-a348-ddcb971ea4e2",
+        "type": "single_choice",
+        "index": 92
+    },
+    {
+        "question": "位于重要地区的城市主干路某灯控平交路口,预测通过其中一方向的人行过街交通总量为3100人/h,假设该方向人行横道设计通行能力为800人/（h・m），不考虑其他因素的干扰，符合规范规定的人行横道宽度是（）。（结果取整数）A.$3\\mathrm{\\;m}$B.$4\\mathrm{\\;m}$C.$5\\mathrm{\\;m}$D.$6\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "227d1147-cdec-4691-8f4a-fb8f2d378eac",
+        "type": "single_choice",
+        "index": 93
+    },
+    {
+        "question": "拟建某城市次干路,设计速度${40}\\mathrm{\\;{km}}/\\mathrm{h}$,横断面布置为单幅路形式,双向4条小客车和大型车混行机动车道,采用黄实线分隔对向交通,非机动车道宽2.5m,其中某路段圆曲线半径为230m,计算该路段的行车道路面最小宽度应为()。(取小数点后两位)A.19.00mB.19.80mC.20.60mD.20.80m",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "8761ec70-153e-48db-b4e7-e7efed5e43a7",
+        "type": "single_choice",
+        "index": 94
+    },
+    {
+        "question": "位于积雪冰冻地区的某城市快速路,设计速度为80km/h,线形设计中,采用的主要线形指标为:圆曲线最小半径330m，平曲线最小长度520m，最大纵坡3.4%，最小坡长500m，最大合成坡度6.1%，下列关于以上线形设计指标中,不符合规范规定的是()。A.最小圆曲线半径B.最大纵坡度C.最大合成坡度D.最小坡长",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "e4391990-6122-451f-aa8a-462954280009",
+        "type": "single_choice",
+        "index": 95
+    },
+    {
+        "question": "拟建某城市主干路采用沥青路面结构,下列关于道路交通量达到饱和状态时的道路设计年限和路面结构的设计使用年限,符合规范规定的是$\\left(\\;\\right)$。A.10年，10年B.15年，10年C.15年，15年D.20年，15年",
+        "answer": "D",
+        "score": 1.25,
+        "unique_ID": "c4e51c76-e945-4d60-94e9-6fa11820bf39",
+        "type": "single_choice",
+        "index": 96
+    },
+    {
+        "question": "某城市道路采用透水路面结构,下列采用的道路横坡,符合规范规定的是()A.${1.0}\\%\\sim{1.5}\\%$B.1.0%～2.0%C.1.5%~2.0%D.2.0%～2.5%",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "f61d0ee4-b99b-4d33-b2c0-afd7c1c5e74a",
+        "type": "single_choice",
+        "index": 97
+    },
+    {
+        "question": "下列关于城市道路路面结构设计的要求,符合规范规定的是$\\left(\\;\\right)$。A.路面结构均应设置面层、基层和垫层B.城市道路均应采用透水路面结构C.沥青混凝土路面设计应包括面层类型选择与结构层组合设计D.水泥混凝土路面应设置纵横向接缝,横向接缝应设置传力杆",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "185d42ff-19c3-4db4-b17e-7747710c8c82",
+        "type": "single_choice",
+        "index": 98
+    },
+    {
+        "question": "城市道路拟建专用非机动车桥，桥面宽6m，桥梁跨径18m，计算该桥人群荷载（W）应为（）。（取小数点后1位）A.${2.4}\\mathrm{{kPa}}$B.3.$2\\mathrm{{kPa}}$C.${3.8}\\mathrm{{kPa}}$D.4.5kPa",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "6b4ada39-9c18-4ae1-bafe-15aa164ca702",
+        "type": "single_choice",
+        "index": 99
+    },
+    {
+        "question": "城市地下道路在设置平曲线及凹形竖曲线路段应保证具有足够的行车视距,按照规范规定,必须进行视距验算的是（）。A.识别视距B.停车视距C.会车视距D.超车视距",
+        "answer": "B",
+        "score": 1.25,
+        "unique_ID": "4e1059fb-2e88-4cf0-a49e-7fbda23a2580",
+        "type": "single_choice",
+        "index": 100
+    },
+    {
+        "question": "拟建某城市快速路,设计速度${100}\\mathrm{\\;{km}}/\\mathrm{h}$,两侧设有辅路,计算辅路设计速度最大取值为$\\left(\\;\\right)$A.${40}\\mathrm{\\;{km}}/\\mathrm{h}$B.${50}\\mathrm{\\;{km}}/\\mathrm{h}$C.${60}\\mathrm{\\;{km}}/\\mathrm{h}$D.${70}\\mathrm{\\;{km}}/\\mathrm{h}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "35be0de1-d318-4e27-bfbd-e993729cd9df",
+        "type": "single_choice",
+        "index": 101
+    },
+    {
+        "question": "某城市主干路路基为粉质土，根据规范规定判断其路基是否进行处置的干湿状态分界稠度值应为（）A.0.90B.1.00C.1.10D.1.20",
+        "answer": "A",
+        "score": 1.25,
+        "unique_ID": "5610b273-eed7-4b39-b3ba-e2b6fa443073",
+        "type": "single_choice",
+        "index": 102
+    },
+    {
+        "question": "下列关于城市道路无障碍设计的要求,符合规范规定的是()。A.在车道之间的分隔带设公交车站时可不考虑乘轮椅者的使用要求B.城市道路的人行横道,均应配置过街音响提示装置C.当人行天桥设置坡道有困难时,应设置无障碍电梯D.行进盲道的触感条底宽为${25}\\mathrm{\\;{mm}}$",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "6179d010-1aed-43dd-8dcb-d9615d018799",
+        "type": "single_choice",
+        "index": 103
+    },
+    {
+        "question": "按城市道路或路网的性质和监控系统特性,交通监控系统配置分级中,I级与II级的主要区别为是否设置（）。A.信息发布设施B.交通控制设施C.紧急报警设施D.交通违法事件检测记录设施",
+        "answer": "C",
+        "score": 1.25,
+        "unique_ID": "3d553f0c-003a-4955-8e0e-7b310b568ef6",
+        "type": "single_choice",
+        "index": 104
+    },
+    {
+        "question": "某具有干线功能的二级公路,设计速度采用${60}\\mathrm{\\;{km}}/\\mathrm{h}$,间隔设置满足超车视距要求路段的间距宜小(）。A.$1\\mathrm{\\;{km}}$B.$3\\mathrm{\\;{km}}$C.$4\\mathrm{\\;{km}}$D.$5\\mathrm{\\;{km}}$",
+        "answer": "B",
+        "score": 16.67,
+        "unique_ID": "b006e2a2-0994-4fec-933f-e833b38edbfa",
+        "type": "single_choice",
+        "index": 105
+    },
+    {
+        "question": "某高速公路速度采用100km/h，平曲线半径采用2700m，比较合适的回旋线参数A取值是（$\\;$）。A.1200B.1150C.900D.800",
+        "answer": "C",
+        "score": 16.67,
+        "unique_ID": "94cdb2d2-6029-47a0-a22b-25b8e3fd5ccb",
+        "type": "single_choice",
+        "index": 106
+    },
+    {
+        "question": "某山区公路设计速度采用40km/h某路段需要采用卵形曲线才能与地形很好吻合，小圆曲线半径采用80m，大圆曲线半径采用的合理区间是（）。A.${400}\\sim{600}\\mathrm{\\;m}$B.${100}\\sim{400}\\mathrm{\\;m}$C.${80}\\sim{600}\\mathrm{\\;m}$D.${80}\\sim{150}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 16.67,
+        "unique_ID": "1287a201-4809-4786-9226-4304a17430f3",
+        "type": "single_choice",
+        "index": 107
+    },
+    {
+        "question": "某公路分车型交通量观测数据如下表,问该公路交通量折算为小客车,合计是()题5表交通量观测数据<table><thead><tr><thcolspan=\"2\">车型</th><th>公车型交通量（辆/日）</th></tr></thead><tr><tdrowspan=\"2\">客车</td><td>座位$\\leq{19}$座</td><td>800</td></tr><tr><td>座位＞19座</td><td>400</td></tr><tr><tdrowspan=\"4\">货车</td><td>载重量$\\leq2\\mathrm{t}$</td><td>650</td></tr><tr><td>$2\\mathrm{t}<$载重量$\\leq7\\mathrm{t}$</td><td>700</td></tr><tr><td>7t<载重量≤20t</td><td>400</td></tr><tr><td>载重量＞20t</td><td>520</td></tr></table>A.${5400}\\mathrm{{pcu}}/\\mathrm{d}$B.5980pcu/dC.${6180}\\mathrm{{pcu}}/\\mathrm{d}$D.6505pcu/d",
+        "answer": "C",
+        "score": 16.67,
+        "unique_ID": "49c91367-abee-468b-bfdc-efade348b21c",
+        "type": "single_choice",
+        "index": 108
+    },
+    {
+        "question": "拟建一条城市快速路，设计速度100km/h，预测远景年单向高峰小时交通量为5200pcu/h，那么，拟建道路需要的单向车道数应为（）。A.3条B.4条C.6条D.8条",
+        "answer": "A",
+        "score": 16.67,
+        "unique_ID": "e04536ac-3814-4db8-a898-5519bcae027a",
+        "type": "single_choice",
+        "index": 109
+    },
+    {
+        "question": "某城市主干路桥梁跨越非通航河道,河道洪水期无大漂流物,不考虑浪高及流冰,该河道百年一遇的洪水标高45.50m，冬季最高流冰面标高44.00m，桥梁上部结构为等截面连续梁桥，那么河道范围内梁底最小标高应为（）。A.46.50mB.46.00mC.45.${50}\\mathrm{\\;m}$D.44.75m",
+        "answer": "B",
+        "score": 16.67,
+        "unique_ID": "e3f9e552-f5d4-4717-812f-08f7d28fa721",
+        "type": "single_choice",
+        "index": 110
+    },
+    {
+        "question": "高速公路和一级公路设计交通量预测年限为()。A.15年B.20年C.25年D.30年",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "8d5bcf6f-b81d-4626-97d1-58727d57ed4b",
+        "type": "single_choice",
+        "index": 111
+    },
+    {
+        "question": "在公路工程设计时,应进行交通安全评价的是()。A.乡村公路B.三级公路C.四级公路D.二级及二级以上的干线公路",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "52d90373-cb5e-4a47-83c4-dc3a6b1db7a6",
+        "type": "single_choice",
+        "index": 112
+    },
+    {
+        "question": "无中间带公路超高过渡有多种方式,下列方式中不常用的是()。A.绕内侧车道边缘旋转B.绕外侧车道边缘旋转C.绕路中线旋转D.绕内侧边沟边缘旋转",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "5a9ea1df-4d40-40b1-a0dc-03c4da345115",
+        "type": "single_choice",
+        "index": 113
+    },
+    {
+        "question": "一般情况下，公路隧道长度大于100m时，洞内路段的纵坡应大于0.3%，小于（$\\;$）。A.3.0%B.${3.5}\\%$C.${3.8}\\%$D.4.$0\\%$",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "e9e53260-219b-4aeb-956f-d2d93eb877a9",
+        "type": "single_choice",
+        "index": 114
+    },
+    {
+        "question": "公路主线设计速度为30km/h时,回头曲线内的最大纵坡应不大于()。A.${3.5}\\%$B.2.5%C.${4.0}\\%$D.4.$5\\%$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "fba5b522-0c7f-4061-8e55-cf0bf4327f00",
+        "type": "single_choice",
+        "index": 115
+    },
+    {
+        "question": "在公路边线时,一般不是路线基本走向控制点的是()。A.路线起、终点B.必须连接的城镇、工矿企业C.互通式立体交叉、铁路交叉的位置D.特定的特大桥、特长隧道的位置",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "1d3af2d9-2db4-4ab2-b49b-161ec2b5fb58",
+        "type": "single_choice",
+        "index": 116
+    },
+    {
+        "question": "高速公路、一级公路整体式路基必须设置中间带,组成中间带的是中央分隔带和两条()A.护栏B.路缘石C.右侧路缘带D.左侧路缘带",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "a7488939-ccea-4b6e-8999-48b93cfd7b7d",
+        "type": "single_choice",
+        "index": 117
+    },
+    {
+        "question": "公路选线的全过程,除应包括确定路线基本走向、路线方案至选定线位外,关键是确定()A.桥梁方案B.隧道方案C.路线走廊带D.互通方案",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "9c8095ab-0643-4afc-a17f-5c6f444ce86b",
+        "type": "single_choice",
+        "index": 118
+    },
+    {
+        "question": "某四级公路在越岭段路线连续上坡，该段相对高差为600m，在纵断面设计时平均纵坡应不大于（$\\;$）。A.3.0%B.4.0%C.${5.0}\\%$D.${5.5}\\%$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "60156cd3-9d83-4706-a255-6612c72e31eb",
+        "type": "single_choice",
+        "index": 119
+    },
+    {
+        "question": "高速公路路基设计洪水频率应采用（$\\;$）。A.$1/{25}$B.${11}/{50}$C.$1/{100}$D.$1/{200}$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "bd701625-1f94-4b60-a960-e447bc21b937",
+        "type": "single_choice",
+        "index": 120
+    },
+    {
+        "question": "位于基本地震动峰值加速度0.20g地区的一级公路,下列选项中,应验算路边坡抗震稳定性的是(）。A.黏性土边坡高度大于${20}\\mathrm{\\;m}$B.土质边坡高度大于${15}\\mathrm{\\;m}$C.碎石土边坡高度大于${15}\\mathrm{\\;m}$D.黄土边坡高度大于${30}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "e5781dd6-a5fa-4150-a146-a8144f04bd33",
+        "type": "single_choice",
+        "index": 121
+    },
+    {
+        "question": "下列土质中,可直接作为公路路堤填料的是（$\\;$）。<table><thead><tr><thcolspan=\"3\"rowspan=\"3\">项目</th><thcolspan=\"4\">基本地震动峰值加速度</th></tr><tr><thcolspan=\"3\">高速公路、一级公路、二级公路</th><th>三级公路、四级公路</th></tr><tr><th>${0.10}\\mathrm{\\;g}$(${0.15}\\mathrm{\\;g}$)</th><th>${0.20}\\mathrm{\\;g}\\left({{0.30}\\mathrm{\\;g}}\\right)$</th><th>$\\geq{0.40}\\mathrm{\\;g}$</th><th>$\\geq{0.40}\\mathrm{\\;g}$</th></tr></thead><tr><tdrowspan=\"4\">岩石、非液化土及非软土地基上的路基</td><tdrowspan=\"2\">非浸水</td><td>用岩块及细粒土（粉性土、有机质土除外）填筑</td><td>不验算</td><td>HC>20验算</td><td>H＞15验算</td><td>H＞20验算</td></tr><tr><td>用粗粒土（极细砂、细砂除外）填筑</td><td>不验算</td><td>H＞12验算</td><td>H＞6验算</td><td>H＞12验算</td></tr><tr><td>浸水</td><td>用渗水性土填筑</td><td>不验算</td><td>${\\mathrm{H}}_{\\mathrm{w}}>3$验算</td><td>${\\mathrm{H}}_{\\mathrm{w}}>$2验算</td><td>水库地区${\\mathrm{H}}_{\\mathrm{w}}>$3验算</td></tr><tr><tdcolspan=\"2\">地面横坡度大于1：3的路基</td><td>不验算</td><td>验算</td><td>验算</td><td>验算</td></tr><tr><td>路堑</td><tdcolspan=\"2\">黏性土、黄土、碎石类土</td><td>一般不验算___</td><td>H＞20验算</td><td>H＞15验算</td><td>H＞20验算</td></tr></table>注：①H为路基高度（m）；②${\\mathrm{H}}_{\\mathrm{w}}$为路基浸水常水位的深度(m)。A.泥炭土B.强膨胀土C.液限大于${50}\\%$、塑性指数大于${26}$的细粒土D.液限小于${50}\\%$、塑性指数小于${26}$的细粒土",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "1dbe260e-e7f6-44b0-8c7e-bdcdbf34500b",
+        "type": "single_choice",
+        "index": 122
+    },
+    {
+        "question": "工业废渣用作路堤填料时,为保证公路路基稳定性,不得使用()。A.堆存一年以上的钢渣B.堆存一年以上的高炉矿渣C.堆存时间不足一年的钢渣D.烧失量小于${20}\\%$煤矸石",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "875d69fd-99fa-47d3-8cfc-a44cbd8b00ef",
+        "type": "single_choice",
+        "index": 123
+    },
+    {
+        "question": "利用公路沿线天然砂石料或开挖路基的废石方填筑路堤时,不得用于公路路堤填筑的是()A.硬质岩石B.中硬岩石C.软质岩石D.盐化岩石",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "f2a76c99-f8a3-4d1e-9384-a461917bd15c",
+        "type": "single_choice",
+        "index": 124
+    },
+    {
+        "question": "[已过时]公路沥青路面路表排水形式有（$\\;$）。A.2种B.3种C.4种D.5种",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "abad4e99-c716-4d62-8a72-0aa3eba53a94",
+        "type": "single_choice",
+        "index": 125
+    },
+    {
+        "question": "评价公路沥青路面沥青混合料的高温稳定性的指标是（$\\;$）。A.流值B.饱和度C.动稳定度D.马歇尔稳定度",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "e3e7f622-0681-41de-8fc1-68cafa15fad9",
+        "type": "single_choice",
+        "index": 126
+    },
+    {
+        "question": "根据公路沥青路面内部排水系统设计要求,骨架空隙型水泥处治碎石的7d浸水抗压强度不得低于）。A.$1\\sim2\\mathrm{{MPa}}$B.$3\\sim4\\mathrm{{MPa}}$C.$5\\sim6\\mathrm{{MPa}}$D.$7\\sim8\\mathrm{{MPa}}$",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "38e7ad6f-da31-47ef-ab0f-aa8ace705856",
+        "type": "single_choice",
+        "index": 127
+    },
+    {
+        "question": "公路沥青路面以路表弯沉值为设计或验算指标时,沥青混凝土的设计参数采用()A.劈裂强度B.极限劈裂强度C.抗拉强度D.抗压回弹模量",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "1b18e11f-908d-4d1c-a628-2bc6d8dcf3bd",
+        "type": "single_choice",
+        "index": 128
+    },
+    {
+        "question": "高速公路沥青路面排水设计重现期值为()。A.5年B.6年C.7年D.8年",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "6d7b28b9-35b6-4f36-bd66-4a696d8fadc4",
+        "type": "single_choice",
+        "index": 129
+    },
+    {
+        "question": "公路桥梁设计时,下列作用中,属于永久作用的是()。A.船舶的撞击作用B.基础变位作用C.汽车引起的土侧压力D.温度(均匀温度和梯度据度)作用",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "d5d3e944-b96b-4404-b600-a0f22c534f59",
+        "type": "single_choice",
+        "index": 130
+    },
+    {
+        "question": "公路桥涵设计中,关于车辆荷载,下列选项中,正确的是()。A.公路一I级车辆荷载车辆重力标准值为${1200}\\mathrm{{kN}}$<table><thead><tr><th>1</th><tdrowspan=\"7\">永久作用</td><th>结构重力（包括结构附加重力）</th></tr><tr><td>2</td><td>预加力</td></tr><tr><td>3</td><td>土的重力</td></tr><tr><td>4</td><td>土侧压力</td></tr><tr><td>5</td><td>混凝土收缩、徐变作用</td></tr><tr><td>6</td><td>水浮力</td></tr><tr><td>7</td><td>基础变位作用</td></tr></thead></table>B.公路一II级车辆荷载车辆重力标准值为${1000}\\mathrm{{kN}}$C.公路一II级车辆荷载按公路一I级的0.75倍采用D.公路一I级和公路一II级汽车荷载采用相同的车辆荷载标准值",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "cdf739fa-c930-4268-8baa-fa9d5dd324ea",
+        "type": "single_choice",
+        "index": 131
+    },
+    {
+        "question": "I类环境条件下,梁、板的普通钢筋和预应力直线形钢筋的最小混凝土保护层厚度是()A.${35}\\mathrm{\\;{mm}}$B.${30}\\mathrm{\\;{mm}}$C.${20}\\mathrm{\\;{mm}}$D.${15}\\mathrm{\\;{mm}}$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "4e0f51ec-66e9-4d15-a62d-8063e9a3b72a",
+        "type": "single_choice",
+        "index": 132
+    },
+    {
+        "question": "关于山区河流的公路桥梁桥孔布设,以下说法错误的是()A.峡谷河段宜单孔跨越B.开阔河段应尽量压缩河滩C.河滩路堤与洪水主流斜交时应增设调治工程D.地质条件允许时,沿河纵向桥应尽量设置在山坡坡脚,避开或少占水面",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "b38282be-3476-4940-adbb-c8f31a091caf",
+        "type": "single_choice",
+        "index": 133
+    },
+    {
+        "question": "公路桥梁预应力混凝土构件的混凝土强度等级不应低于（$\\;$）。A.C50B.$\\mathrm{C}{40}$C.C35D.C30",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "d541edd5-9067-4e28-92ce-95b93339e2a6",
+        "type": "single_choice",
+        "index": 134
+    },
+    {
+        "question": "二级公路特长隧道设计洪水频率标准为()。A.$1/{300}$B.$1/{200}$C.$1/{100}$D.$1/{50}$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "42813dea-8993-4b25-aec9-90e31f645ccc",
+        "type": "single_choice",
+        "index": 135
+    },
+    {
+        "question": "通过瓦斯地层的公路障道,含瓦斯地层的喷射混凝土厚度不应小于（$\\;$）。A.${20}\\mathrm{\\;{cm}}$B.${15}\\mathrm{\\;{cm}}$C.${10}\\mathrm{\\;{cm}}$D.8cm",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "096f0507-8d26-4c81-8372-0bc78d8a4806",
+        "type": "single_choice",
+        "index": 136
+    },
+    {
+        "question": "公路隧道照明设计中,双车道单向交通量大于200辆/h时,路面亮度总均匀度$\\left({\\mathrm{U}}_{0}\\right)$应不低于$\\left(\\;\\right)$A.0.2B.0.3C.0.4D.0.5",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "83641165-1c48-4d07-913b-24734ade777d",
+        "type": "single_choice",
+        "index": 137
+    },
+    {
+        "question": "公路隧道洞内纵向排水系统主要排放地下水、运营清洗污水及（$\\;$）。A.雨水B.雪水C.洪水D.消防污水",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "807c2e67-a329-44de-81e1-57242f93ffac",
+        "type": "single_choice",
+        "index": 138
+    },
+    {
+        "question": "公路障道总体设计在地质条件很差时,特长隧道的位置()。A.应控制路线走向,以避开不良地质地段B.应尽可能避开不良地质地段C.处治不良地质地段D.可服从路线走向",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "d6a0e6d8-6caa-4d4b-9ba3-06fccfb877dc",
+        "type": "single_choice",
+        "index": 139
+    },
+    {
+        "question": "公路功能、等级、交通量有明显差别的两条公路平面相交时,交通管理方式应采用()A.主路优先交叉B.无优先交叉C.环形交叉D.信号交叉",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "4a0c039e-f185-41fc-93d1-ebb46bac5c94",
+        "type": "single_choice",
+        "index": 140
+    },
+    {
+        "question": "公路与公路立体交叉可分为()。A.互通式立体交叉和分离式立体交叉B.上跨式立体交叉和下穿式立体交叉C.两层式立体交叉和多层式立体交叉D.一般互通式立体交叉和枢纽互通式立体交叉",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "662a2b07-852d-467c-83d1-f9f6e6c080a2",
+        "type": "single_choice",
+        "index": 141
+    },
+    {
+        "question": "公路设计中,相邻互通立体交叉间距小于规定的最小值,且经论证必须设置时,应将两互通式立体交叉合并设置为（）。A.一般互通式立体交叉B.枢纽互通式立体交叉C.多岔交叉互通式立体交叉D.复合式互通立体交叉",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "86650572-567c-43fc-a2aa-d91b5dc499e8",
+        "type": "single_choice",
+        "index": 142
+    },
+    {
+        "question": "高速公路设计服务水平应不低于$\\left(\\;\\right)$A.一级B.二级C.三级D.四级",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "05accae4-01e1-40b5-b52a-e48f65f3a5c6",
+        "type": "single_choice",
+        "index": 143
+    },
+    {
+        "question": "一条二级公路,设计速度为$\\mathrm{y}={80}\\mathrm{\\;{km}}/\\mathrm{h}$,该公路的停车视距是()。A.${80}\\mathrm{\\;m}$B.${110}\\mathrm{\\;m}$C.${125}\\mathrm{\\;m}$D.${150}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "08077744-b778-4c94-85cc-0e8ae799e699",
+        "type": "single_choice",
+        "index": 144
+    },
+    {
+        "question": "根据《公路工程基本建设项目概算预算编制办法》，建设项目交付使用后，为满足初期正常营运必须购置的第一套不构成固定资产的费用是（）。A.设备购置费B.工器具购置费C.生活用家具购置费D.办公用家具购置费",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "0eb85957-5f27-4cad-a311-69702e0d04f4",
+        "type": "single_choice",
+        "index": 145
+    },
+    {
+        "question": "城市道路设计速度大于60km/h时,一条小客车专用车道最小宽度应为()A.3.00mB.${3.25}\\mathrm{\\;m}$C.${3.50}\\mathrm{\\;m}$D.3.75m",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "5be9d893-e1a2-40f9-a172-49b7a514c67a",
+        "type": "single_choice",
+        "index": 146
+    },
+    {
+        "question": "设计速度为50km/h的城市主干路,平面交叉口范围设置的最小圆曲线半径不宜小于()A.${200}\\mathrm{\\;m}$B.300mC.${400}\\mathrm{\\;m}$D.${500}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "8e64031e-f7d9-4174-a6a4-40dfc501bd79",
+        "type": "single_choice",
+        "index": 147
+    },
+    {
+        "question": "设有中央分隔带的城市主干路,当设计速度为${50}\\mathrm{\\;{km}}/\\mathrm{h}$时,其路缘带最小宽度为()A.1.00mB.0.75mC.${0.50}\\mathrm{\\;m}$D.${0.25}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "b12564cb-ec0f-455c-9cd0-c474e59308e9",
+        "type": "single_choice",
+        "index": 148
+    },
+    {
+        "question": "城市道路非机动车道设计时,困难情况下其最大纵坡不应大于$(\\;$)。A.4.0%B.${3.5}\\%$C.${3.0}\\%$D.${2.5}\\%$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "7ffaf105-73eb-4cec-9939-b93b344ff826",
+        "type": "single_choice",
+        "index": 149
+    },
+    {
+        "question": "城市地下敷设工程管线时,在垂直方向上（$\\;$）。A.不应重叠直埋敷设B.不宜重叠直埋敷设C.应该重叠直埋敷设D.可以重叠直埋敷设",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "39cf058e-d33e-4eee-9f59-d44231f0321f",
+        "type": "single_choice",
+        "index": 150
+    },
+    {
+        "question": "城市道路无障碍设施,三面坡缘石坡道的正面坡道宽度不应小于()。A.1.00mB.1.${20}\\mathrm{\\;m}$C.${1.30}\\mathrm{\\;m}$D.${1.5}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "92966fdd-8e52-492e-8cc0-2ad289c10c9c",
+        "type": "single_choice",
+        "index": 151
+    },
+    {
+        "question": "无障碍设计行进盲道的宽度宜为（）。A.${150}\\mathrm{\\;{mm}}\\sim{400}\\mathrm{\\;{mm}}$B.${200}\\mathrm{\\;{mm}}\\sim{450}\\mathrm{\\;{mm}}$C.${250}\\mathrm{\\;{mm}}\\sim{500}\\mathrm{\\;{mm}}$D.${300}\\mathrm{\\;{mm}}\\sim{550}\\mathrm{\\;{mm}}$",
+        "answer": "C",
+        "score": 1.19,
+        "unique_ID": "4089a472-36c1-4110-bc82-30ecf0d9beca",
+        "type": "single_choice",
+        "index": 152
+    },
+    {
+        "question": "城市道路快速路、主干路、次干路路基顶面设计回弹模量但分别不应小于（$\\;$）。A.30MPa、30MPa、20MPaB.30Pa、30MPa、25mpaC.40MPa、30MPa、30MPaD.40Ma、40mpa、30mpa",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "0f684538-4557-4873-98bb-c4b1ace73b32",
+        "type": "single_choice",
+        "index": 153
+    },
+    {
+        "question": "城市道路路面可分为面层、基层和垫层。以下对基层性能要求描述正确的是（$\\;$）.A.应满足强度、扩散荷载的能力以及水稳定性的要求B.应满足强度、扩散荷载的能力以及水稳定性和抗冻性的要求C.应满足强度、扩散荷载的能力以及低描稳定性和抗冻性的要求D.应满足强度、扩散荷载的能力以及高温稳定性和抗冻性的要求",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "6845318d-0acd-4f5d-b8ed-09d133497140",
+        "type": "single_choice",
+        "index": 154
+    },
+    {
+        "question": "对城市主干路和次干路的桥梁,当两侧无人行道时,两侧应设检修道,其宽度宜为()A.小于0.5mB.0.5m~0.75mC.${0.8}\\mathrm{\\;m}\\sim{1.0}\\mathrm{\\;m}$D.不小于1.5m",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "53815af2-bc77-4d54-ac7b-d46e16b76681",
+        "type": "single_choice",
+        "index": 155
+    },
+    {
+        "question": "确定城市道路平面交叉口渠化及信号相位方案时,应采用信号配时时段的()。A.高峰小时内的到达车辆数B.设计小时内的到达车辆数C.年第30位设计小时内的到达车辆数D.高峰小时内高峰${15}\\mathrm{\\;{min}}$的到达车辆数",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "6360344f-a3af-48ef-a4d0-ee70d969cf9c",
+        "type": "single_choice",
+        "index": 156
+    },
+    {
+        "question": "在设置双车道臣道的城市互通式立交分、合流处,为了保持基本车道数连续和车道数平衡,应增设(）。A.加速车道B.减速车道C.集散车道D.辅助车道",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "37eea7a0-6361-48f6-8aa3-a6a7aecf6a59",
+        "type": "single_choice",
+        "index": 157
+    },
+    {
+        "question": "位于城市主干路的地块或建筑物出入口距平面交叉口停车线不应小于()A.${30}\\mathrm{\\;m}$B.50mC.${80}\\mathrm{\\;m}$D.${100}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 1.19,
+        "unique_ID": "5e6e2724-8ca1-4162-923d-20942e163bb4",
+        "type": "single_choice",
+        "index": 158
+    },
+    {
+        "question": "城市道路平面交叉口渠化范围内设置的实体交通岛,其面积不宜小于$\\left(\\;\\right)$A.5.$0{\\mathrm{m}}^{2}$B.7.$0{\\mathrm{m}}^{2}$C.$9.0{\\mathrm{m}}^{2}$D.11.$0{\\mathrm{m}}^{2}$",
+        "answer": "B",
+        "score": 1.19,
+        "unique_ID": "29a7c1a3-12e1-441e-9cd6-c903af762169",
+        "type": "single_choice",
+        "index": 159
+    },
+    {
+        "question": "根据交通安全和管理设施等级的规定,城市道路中长隧道适用的等级是()A.A级B.B级C.C级D.D级",
+        "answer": "A",
+        "score": 1.19,
+        "unique_ID": "c9b93810-5289-4eab-b182-614f3956827c",
+        "type": "single_choice",
+        "index": 160
+    },
+    {
+        "question": "某双向六车道高速公路,设计速度${100}\\mathrm{\\;{km}}/\\mathrm{h}$,其设计服务水平下单车道服务交通量$=$1600pcu/（h・ln），设计小时交通量系数K=0.13，方向不均匀系数D=0.55该高速公路年平均日设计交通量是（）。A.${44755}\\mathrm{{pcu}}/\\mathrm{d}$B.${67133}\\mathrm{{pcu}}/\\mathrm{d}$C.${73846}\\mathrm{{pcu}}/\\mathrm{d}$D.134265pcu/d",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "792a7439-d7ff-4fa0-90a4-de7c48387346",
+        "type": "single_choice",
+        "index": 161
+    },
+    {
+        "question": "某集散公路采用双向四车道一级公路标准、整体式横断面形式,中间带宽度采用3.5m,设计速度采用60km/h。根据《公路工程技术标准》（JTGB01—2014）计算，一般情况下标准断面的路基宽度是（$\\;$）。A.19.0mB.20.OmC.20.50mD.${21.50}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "d5f01463-90b2-4327-a757-473aedfcb02e",
+        "type": "single_choice",
+        "index": 162
+    },
+    {
+        "question": "50m变化至3.50m，路基中心线不变，条件受限时，过渡段最小长度不应小于（$\\;$）。A.${80}\\mathrm{\\;m}$B.100mC.${120}\\mathrm{\\;m}$D.${200}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "07ca355a-0dbe-4e2c-8005-579d6f870325",
+        "type": "single_choice",
+        "index": 163
+    },
+    {
+        "question": "某山区二级公路项目,越岭段连续上坡,需要克服的相对高差为200~500m,该路段长度为4500m,该段路线按规范要求能克服的最大高差是（）。A.225.OmB.247.5mC.300.0mD.350.0m",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "59288090-302f-4c40-8363-0423c68c0b13",
+        "type": "single_choice",
+        "index": 164
+    },
+    {
+        "question": "某新建路基,平衡湿度（含水率）状态下的回弹模量为60MPa，标准状态下的回弹模量为80MPa，根据《公路路基设计规范》，路基回弹模量湿度调整系数为（$\\;$）。A.0.56B.0.68C.0.75D.0.83",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "aae5030b-00d1-47d3-8be5-2fa4b7868c9d",
+        "type": "single_choice",
+        "index": 165
+    },
+    {
+        "question": "某软基厚度${10}\\mathrm{\\;m}$,设计采用一般预压处理,地基处理类型系数取0.9,公路路堤中心填高$4\\mathrm{\\;m}$,路基填料重度${18}$kN/m${}^{3}$，加载速率修正系数v=0.025，地质因素修正系数y=-0.1，计算的主固结沉降50cm。根据《公路路基设计规范》确定的固结度达到75%时的沉降量最接近的值是（$\\;$）。A.${38}\\mathrm{\\;{cm}}$B.${42}\\mathrm{\\;{cm}}$C.${46}\\mathrm{\\;{cm}}$D.${48}\\mathrm{\\;{cm}}$",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "997a3980-e2e6-4c94-b827-3c04d338dc69",
+        "type": "single_choice",
+        "index": 166
+    },
+    {
+        "question": "某重交通的二级公路,粉质土地基,地下水位埋深1.0m,低填路堤高1.5m,填料为细砂土,路基不受洪水影响，沥青路面厚度0.6m，路床厚度为0.8m。毛细水上升最大高度为0.5m，根据《公路路基设计规范》分析确定，该路床所处的湿度状态是（$\\;$）。A.干燥状态B.中湿状态C.潮湿状态D.过湿状态",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "eff83560-55d6-4d04-ba65-85b322ff2526",
+        "type": "single_choice",
+        "index": 167
+    },
+    {
+        "question": "[已过时]某高速公路设计项目，交通量为累计当量轴次Ne$={1.0}\\times{10}^{7}$（次/车道），每日平均大型客车及中型以上的各种货车交通量为2000[辆/(d·车道)]。该高速公路的设计交通等级为()A.轻交通B.中等交通C.重交通D.特重交通",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "66c03643-6713-4e73-b9de-ca98c75a9bb7",
+        "type": "single_choice",
+        "index": 168
+    },
+    {
+        "question": "[已过时]某高速公路设计年限内一个车道累计标准当量轴次为1.5×10${}^{7}$（次/车道），采用沥青混凝土面层和半刚性基层,该高速公路的设计弯沉值为()(0.01mm)A.20B.22C.24D.26",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "5e932f75-b4e0-4e23-81d3-767372ede85c",
+        "type": "single_choice",
+        "index": 169
+    },
+    {
+        "question": "[已过时]根据《公路沥青路面设计规范》，当以半刚性材料层的拉应力为设计指标进行轴载换算时，单轴轴载为130kN，3轴的轴数系数为（$\\;$）。A.3B.4C.5D.6",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "b12789dc-681c-4a0f-bc8f-acac39291e8c",
+        "type": "single_choice",
+        "index": 170
+    },
+    {
+        "question": "某滨海环境预应力混凝土构件，根据《公路桥涵设计规范》（JTGD62—2004），其耐久性设计要求的混凝土强度等级应不低于（）。A.C25B.C30C.C35D.C40",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "f79d3f67-5b7b-437a-a967-0301609c19c3",
+        "type": "single_choice",
+        "index": 171
+    },
+    {
+        "question": "某一级公路圆管涵,根据填土高度及涵底纵坡算得涵长为35m,该涵跨越的河沟汇水面积较小,设计流量对应的涵洞孔径为0.5m，该涵洞的设计孔径不宜小于（$\\;$）。A.1.${25}\\mathrm{\\;m}$B.1.OmC.${0.75}\\mathrm{\\;m}$D.${0.5}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "ed837f72-2128-4759-96db-c75cd1e3cb26",
+        "type": "single_choice",
+        "index": 172
+    },
+    {
+        "question": "某圬工小桥桥台基础采用干砌块石砌筑，根据当地料场情况选用半细料石砌体，砌块强度等级为MU40，最接近计算结果的砌体轴心抗压强度设计值是（$\\;$）。A.1.57MPaB.1.21MPaC.1.15MPaD.1.05MP",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "6154cf88-728f-4dd1-810a-d4acbb8838fc",
+        "type": "single_choice",
+        "index": 173
+    },
+    {
+        "question": "在滩槽明显的平原区不稳定河段,需建一座公路桥梁,桥位处河槽宽31m,设计流量${530}{\\mathrm{m}}^{3}/\\mathrm{s}$,其中河槽流量${320}{\\mathrm{m}}^{3}/\\mathrm{s}$,该桥按设计流量计算的桥孔最小净长度为（$\\;$）。A.${31}\\mathrm{\\;m}$B.${41}\\mathrm{\\;m}$C.${46}\\mathrm{\\;m}$D.${48}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "e0f95855-3bc3-41a2-a7e5-6ed33d452ae6",
+        "type": "single_choice",
+        "index": 174
+    },
+    {
+        "question": "某高速公路设计标准为双向四车道,按分线设分离式隧道,设计车速${120}\\mathrm{\\;{km}}/\\mathrm{h}$。隧道长度13km,考虑电缆沟、排水沟等因素,左右侧检修道宽为${1.0}\\mathrm{\\;m}$,高度${25}\\mathrm{\\;{cm}}$,则隧道的建筑限界净宽为()A.11.50mB.11.00mC.10.75mD.10.25m",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "2d86b347-85e5-4f17-91c9-67a37ec3c4e9",
+        "type": "single_choice",
+        "index": 175
+    },
+    {
+        "question": "[已过时]某山区高速公路设计速度80km/h，采用双向四车道技术标准，拟建一处特长隧道，单洞建筑限宽10.25m，该处代表性围岩级别为III级。开挖增加宽度1m，从安全、经济合理的角度综合考虑，该隧道双洞间接近计算值的最小净距是（$\\;$）。A.${10}\\mathrm{\\;m}$B.${15}\\mathrm{\\;m}$C.${20}\\mathrm{\\;m}$D.${30}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "83fe8064-1690-42a7-94fc-e4b24edc5aed",
+        "type": "single_choice",
+        "index": 176
+    },
+    {
+        "question": "某濒临水库地区高速公路拟建一处长隧道,经外业勘测,该处五十年一遇洪水位为776.52m,百年一遇洪水位为778.12m，三百年一遇洪水位为782.52m，调查走访发现最高洪水位782.80m。波浪侵袭高0.5m（不考虑壅水高），隧道洞口路肩设计高程应采用（$\\;$）。A.778.62mB.779.12mC.783.02mD.783.52m",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "e662dc0d-632f-406d-9c11-9a9b7ad4742b",
+        "type": "single_choice",
+        "index": 177
+    },
+    {
+        "question": "某互通式立体交叉匝道设计服务水平采用四级,其中一条出口匝道设计速度${40}\\mathrm{\\;{km}}/\\mathrm{h}$,设计小时交通量为${600}\\mathrm{{pcu}}/\\mathrm{h}$，从减速车道起点到该匝道合流鼻端之间的总长度为593m，其中减速车道全长为245m，在下列匝道类型中,符合规范要求的匝道横断面类型为()。A.I型一一单向单车道匝道B.II型一一无紧急停车带的单向双车道匝道C.III型一一有紧急停车带的单向双车道匝道D.IV型一一对向分隔式双车道匝道",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "03f85cfb-a08b-40fc-8873-c393bfb62499",
+        "type": "single_choice",
+        "index": 178
+    },
+    {
+        "question": "城市工程污水管线敷设深度为6m，污水管线开挖管沟宽度为2m，相邻建筑物基础底砌置深度为4m。在不考虑其他因素情况下，污水管线中心与建筑物基础之间的最小水平距离应为（$\\;$）。A.2.5mB.3.5mC.4.$4\\mathrm{\\;m}$D.5.$4\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "2d397bc0-4b9e-41d7-9313-0e52ae972198",
+        "type": "single_choice",
+        "index": 179
+    },
+    {
+        "question": "拟建城市快速路，设计速度80km/h，远景年单向高峰小时预测交通量及其车型构成见下表。如果不考虑方向不均匀系数,那么,远景年双向高峰小时预测交通量(pcu/h)是()<table><thead><tr><th>车辆类型</th><th>交通量（辆/h）</th></tr></thead><tr><td>小客车</td><td>4250</td></tr><tr><td>大型客车</td><td>200</td></tr><tr><td>大型货车</td><td>60</td></tr><tr><td>铰接车</td><td>80</td></tr><tr><td>合计</td><td>4590</td></tr></table>A.4590B.5040C.9180D.10080",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "1932272b-110c-4bfa-bd14-c902e4d2d5e7",
+        "type": "single_choice",
+        "index": 180
+    },
+    {
+        "question": "位于重要地区的城市主干路,不考虑其他因素的干扰,预测路段单侧人行交通量6000人/h。该路段单侧需要的最小人行道宽度应定为()。（计算结果取整数)A.$2\\mathrm{\\;m}$B.$3\\mathrm{\\;m}$C.$4\\mathrm{\\;m}$D.$5\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "d9f65f5d-1bcd-461f-8967-b6be8f8e8d21",
+        "type": "single_choice",
+        "index": 181
+    },
+    {
+        "question": "拟改建某城市主干路，设计速度采用60km/h，受地形条件限制，在圆曲线半径260m段设置4%超高值、6%纵坡度、坡长250m，此段道路设计指标不满足规范规定的是（$\\;$）。A.圆曲线半径B.坡长C.纵坡度D.合成坡度",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "7f0f8060-5c22-40d2-960b-4905d97389d8",
+        "type": "single_choice",
+        "index": 182
+    },
+    {
+        "question": "洛杉矶磨耗试验中,磨耗机的转动速率是$\\left(\\;\\right)$。A.${25}\\sim{28}\\mathrm{r}/\\mathrm{{min}}$B.${28}\\sim{32}\\mathrm{r}/\\mathrm{{min}}$C.${30}\\sim{33}\\mathrm{r}/\\mathrm{{min}}$D.${33}\\sim{35}\\mathrm{r}/\\mathrm{{min}}$",
+        "answer": "C",
+        "score": 16.67,
+        "unique_ID": "49aad93a-87ca-41bb-8550-94c84cee30ef",
+        "type": "single_choice",
+        "index": 183
+    },
+    {
+        "question": "细集料试验中,各筛的累计筛余用${\\mathrm{A}}_{\\mathrm{i}}$来表示。现有一细集料各筛孔累计筛余分别为:${\\mathrm{A}}_{4.75}={3.6},{\\mathrm{\\;A}}_{2.36}$$={15.6},{\\mathrm{\\;A}}_{1.18}={34.2},{\\mathrm{\\;A}}_{0.6}={63.6},{\\mathrm{\\;A}}_{0.3}={90.1},{\\mathrm{\\;A}}_{0.15}={97.2}$,则该细集料是$\\left(\\;\\right)$.A.粗砂B.中砂C.细砂D.不确定",
+        "answer": "B",
+        "score": 16.67,
+        "unique_ID": "571d9b7c-c4aa-47a8-a88d-46e6ed714317",
+        "type": "single_choice",
+        "index": 184
+    },
+    {
+        "question": "石灰可用于道路与桥梁工程,下列技术要求中,不属于石灰的技术要求的是$\\left(\\;\\right)$A.氧化铝的含量B.氧化钙和氧化镁的含量C.二氧化碳的含量D.细度",
+        "answer": "A",
+        "score": 16.67,
+        "unique_ID": "a1eb366d-5fea-4de9-bff5-7ea747fe6f18",
+        "type": "single_choice",
+        "index": 185
+    },
+    {
+        "question": "我国现行标准中规定,硅酸盐水泥的细度测定方法是$\\left(\\;\\right)$。A.负压筛析法B.手工筛析法C.水筛法D.比表面积法",
+        "answer": "A",
+        "score": 16.67,
+        "unique_ID": "074d9e8c-f021-469e-8905-f59fab24e3ba",
+        "type": "single_choice",
+        "index": 186
+    },
+    {
+        "question": "取拌合好的灰土1100g，经检测，该灰土含水率为10%，石灰剂量为4.2%，则该石灰土中含石灰的质量为（）。A.${42.0}\\mathrm{\\;g}$B.${41.6}\\mathrm{\\;g}$C.${40.3}\\mathrm{\\;g}$D.${39.9}\\mathrm{\\;g}$",
+        "answer": "C",
+        "score": 16.67,
+        "unique_ID": "269690c5-d96f-46cd-9deb-0e104e05da5d",
+        "type": "single_choice",
+        "index": 187
+    },
+    {
+        "question": "混凝土拌合物的稠度试验方法有坍落度与坍落度扩展度法试验和维勃稠度试验两种方法,其中坍落度与坍落度扩展度法试验要求新拌混凝土的拌合物坍落度不小于()。A.$5\\mathrm{\\;{mm}}$B.${10}\\mathrm{\\;{mm}}$C.${15}\\mathrm{\\;{mm}}$D.${20}\\mathrm{\\;{mm}}$",
+        "answer": "B",
+        "score": 16.67,
+        "unique_ID": "0860f594-63a1-4b41-8920-f76e010d2039",
+        "type": "single_choice",
+        "index": 188
+    },
+    {
+        "question": "某新建二级公路于2020年正式立项,计划于次年开工建设,建设期三年,下列关于该公路设计时拟采用的交通量预测年份,符合标准规范规定的是哪一年?()A.2035年B.2036年C.2038年D.2043年",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "61ca16f6-3b15-4e44-a754-33e5a83733b7",
+        "type": "single_choice",
+        "index": 189
+    },
+    {
+        "question": "某集散一级公路，在沿某河段拟采用低线位路线方案，临河路段的水文地质调查表明：该河1/100、1/50和$1/{25}$的洪水频率所对应的计算水位高程分别为85.21m、84.82m和84.12m，所对应的壅水高分别为0.65m0.45m和0.34m，所对应的波浪侵袭高分别为0.45m、0.35m、0.26m，该路段纵坡设计中的路基最小控制边缘高程应是多少?(取小数点后两位)()A.85.62mB.86.${12}\\mathrm{\\;m}$C.${86.31}\\mathrm{\\;m}$D.${86.81}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "441c7cca-b8b0-4435-a15d-a1a400ad8c96",
+        "type": "single_choice",
+        "index": 190
+    },
+    {
+        "question": "某公路在粉土地基路段,采用碎石桩处理,碎石桩正方形布置,间距${1.5}\\mathrm{\\;m}$,碎石桩直径${50}\\mathrm{\\;{cm}}$,桩土面积置换率${0.087}$,粉土抗剪强度${\\tau}_{\\mathrm{S}}={50}\\mathrm{{kPa}}$,碎石桩的抗剪强度${\\tau}_{\\mathrm{p}}={160}\\mathrm{{kPa}}$,依据《公路路基设计规范》计算，该复合地基的抗剪强度是多少?(取小数点后1位)()A.50.0kPaB.59.$6\\mathrm{{kPa}}$C.69.$1\\mathrm{{kPa}}$D.88.$3\\mathrm{{kPa}}$",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "d6c73eeb-1300-4b51-9721-abfb8803ae5d",
+        "type": "single_choice",
+        "index": 191
+    },
+    {
+        "question": "某软土地基厚${12}\\mathrm{\\;m}$,设计采用塑料排水板处理,地基处理类型系数取1.05,公路路堤中心填高$4\\mathrm{\\;m}$,路基填料重度$\\gamma={18}\\mathrm{{kN}}/{\\mathrm{m}}^{3}$,加载速率修正系数$\\mathrm{v}={0.025}$,地质因数修正系数$\\mathrm{Y}=-{0.1}$,主固结沉降${66}\\mathrm{\\;{cm}}$,根据《公路路基设计规范》不考虑行车荷载的影响，估算的软基总沉降量是多少?(取小数点后1位)()A.${75.9}\\mathrm{\\;{cm}}$B.79.2cmC.${84.5}\\mathrm{\\;{cm}}$D.89.1cm",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "fccb8dc8-2b47-4192-bbdd-68acc66f6322",
+        "type": "single_choice",
+        "index": 192
+    },
+    {
+        "question": "某边坡拟采用预应力锚杆框架加固,锚杆位于稳定地层中的锚固段长度$6\\mathrm{\\;m}$,锚杆孔直径${13}\\mathrm{\\;{cm}}$,土体与注浆体之间的黏结强度${\\mathrm{f}}_{\\mathrm{{rb}}}={400}\\mathrm{{kPa}}$,注浆体与锚杆之间的黏结强度${\\mathrm{f}}_{\\mathrm{b}}={2400}\\mathrm{{kPa}}$,注浆体为$\\mathrm{M}{30}$水泥砂浆,锚杆采用3根直径25mm的预应力螺纹钢筋，其抗拉强度标准值${\\mathrm{F}}_{\\mathrm{{ptk}}}={785}\\mathrm{{kPa}}$,预应力锚杆固体设计安全系数${\\mathrm{K}}_{1},{\\mathrm{\\;K}}_{2}$都取2.0,依据《公路路基设计规范》计算,每一根锚杆能够提供的轴向锚固力是多少?(取小数点后1位）（）A.${258.5}\\mathrm{{kN}}$B.${489.8}\\mathrm{{kN}}$C.${577.7}\\mathrm{{kN}}$D.${1186.9}\\mathrm{{kN}}$",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "ab57da62-1a96-4752-8202-927280ee6b7c",
+        "type": "single_choice",
+        "index": 193
+    },
+    {
+        "question": "某高速公路既有沥青路面采用直接加辅的改建方案,现场取芯实测的既有路面水泥稳定层的无侧限抗压强度为${3.0}\\mathrm{{MPa}}$,该既有路面水泥稳定层的弯拉强度是多少?()A.0.57MPaB.0.60MPaC.${0.63}\\mathrm{{MPa}}$D.0.66MPa",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "820f1f57-577b-48c8-9a62-4ec9a8feae5a",
+        "type": "single_choice",
+        "index": 194
+    },
+    {
+        "question": "某高速公路水泥混凝土路面面层采用滑模式摊铺机摊铺，单向含硬路肩的路面宽为12m，硬路肩采用混凝土面层,则该路单向基层的宽度应采用多少米?()A.12.00B.12.30C.12.60D.12.65",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "b66baa36-df2f-43d1-be5f-248f5f4d244a",
+        "type": "single_choice",
+        "index": 195
+    },
+    {
+        "question": "某高速公路水泥混凝土路面厚度为250mm，与隧道衔接的胀缝无法设置传力杆，也无法在毗邻隧道口的板端部内配置双层钢筋网，而只能采取在长度为6～10m倍板厚的范围内逐渐增加板厚的措施，该措施实施后，毗邻隧道口的板端厚度可采用多少毫米?()A.270B.280C.290D.300",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "cac7d655-0784-4f84-8acf-542d3ebde61b",
+        "type": "single_choice",
+        "index": 196
+    },
+    {
+        "question": "某公路桥梁单孔净跨径${\\mathrm{L}}_{0}={49.2}\\mathrm{\\;m}$,所跨河流河床地质为非黏性土,设计流速${\\mathrm{V}}_{\\mathrm{S}}$为$5\\mathrm{\\;m}/\\mathrm{s}$,采用${64}-2$简化式计算河槽部分一般冲刷时,桥墩水深侧向压力压缩系数宜取$\\left(\\;\\right)$。A.0.96B.0.97C.0.98D.0.99",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "88474044-7e31-4592-b429-40d17c7fddb1",
+        "type": "single_choice",
+        "index": 197
+    },
+    {
+        "question": "某三级公路桥梁,上部构造为计算跨径${50}\\mathrm{\\;m}$跨径预应力混凝土箱梁,在计算其车道荷载的剪力效应时,集中荷载标准值${\\mathrm{P}}_{\\mathrm{k}}$应取值多少?()A.${270}\\mathrm{{kN}}$B.${324}\\mathrm{{kN}}$C.${360}\\mathrm{{kN}}$D.${432}\\mathrm{{kN}}$",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "737413fe-05ca-4d17-91ba-302cfd451739",
+        "type": "single_choice",
+        "index": 198
+    },
+    {
+        "question": "某公路桥的桥墩拟采用${1.5}\\mathrm{\\;m}$直径的钻孔灌注桩,已知单桩桩顶轴向承载力特征值${\\mathrm{R}}_{\\mathrm{a}}$为${12000}\\mathrm{{kN}}$。桩基处$\\pm$层从上到下分为三层，第一层为硬塑黏土，${\\mathrm{q}}_{1\\mathrm{k}}={50}\\mathrm{{kPa}}$，层厚为5m。第二层为中砂层，${\\mathrm{q}}_{2\\mathrm{k}}={70}\\mathrm{{kPa}}$，层厚为$6\\mathrm{\\;m}$。第三层为卵石层,${\\mathrm{q}}_{3\\mathrm{k}}={160}\\mathrm{{kPa}}$,该土层修正后的桩端土承载力特征值${\\mathrm{q}}_{\\mathrm{T}}={2000}\\mathrm{{kPa}}$,其单桩长应取多少米？（）A.30B.26C.25D.20",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "48d159fd-c8ec-4415-a5b0-823af0599403",
+        "type": "single_choice",
+        "index": 199
+    },
+    {
+        "question": "某公路桥设计拟采用柱式桥墩、桩基础。桩基直径拟采用1.50米，下列拟定的桩基承台厚度数据中，哪一个符合规范要求?()A.1.${40}\\mathrm{\\;m}$B.1.${60}\\mathrm{\\;m}$C.${2.10}\\mathrm{\\;m}$D.2.${50}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "41aa88f5-8270-42a3-80fd-c432ebaaca1c",
+        "type": "single_choice",
+        "index": 200
+    },
+    {
+        "question": "某公路两车道随道,其衬砌结构采用复合式衬砌,其中一段$\\mathrm{V}$级围岩衬砌的初期支护采用锚喷支护,内设I-20b工字钢拱架（工字钢厚度为200mm），该初期支护喷射混凝土的厚度至少应为（）。A.${20}\\mathrm{\\;{cm}}$B.${22}\\mathrm{\\;{cm}}$C.${24}\\mathrm{\\;{cm}}$D.${26}\\mathrm{\\;{cm}}$",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "829e789b-afce-45da-b16b-920a2cf2dd34",
+        "type": "single_choice",
+        "index": 201
+    },
+    {
+        "question": "某公路隧道围岩为硬质岩石,岩体较完整,岩石单轴抗压强度为26MPa,洞壁最大切向应力为20MPa,该围岩的岩爆分级应是多少?()A.IB.IIC.IIID.$\\mathrm{{IV}}$",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "28a96679-4b57-451b-b85b-17684fc79d94",
+        "type": "single_choice",
+        "index": 202
+    },
+    {
+        "question": "某公路IV级围岩中的单线隧道，拟采用钴爆法进行施工。隧道顶部埋深为160m（属深埋隧道），隧道开挖宽度为12m，国岩的重度为24kN/m${}^{3}$，不考虑偏压等影响，则该隧道衬砌所受到的围岩水平均布压力合理的是多少？（）A.${15}\\mathrm{{kPa}}$B.${21}\\mathrm{{kPa}}$C.${35}\\mathrm{{kPa}}$D.${60}\\mathrm{{kPa}}$",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "259f70df-5f01-421b-9efe-8815c9dbb6da",
+        "type": "single_choice",
+        "index": 203
+    },
+    {
+        "question": "某高速公路互通式立体交叉,其中一双向年平均日交通量AADT为10000pcu/d,方向不均匀系数D为60%,设计小时交通量系数K为0.10,则该方向匝道设计小时交通量DDHV为多少?()A.400pcu/hB.500pcu/hC.${600}\\mathrm{{pcu}}/\\mathrm{h}$D.1000pcu/h",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "80918c9f-eae8-4ff1-82b2-bb7828183d49",
+        "type": "single_choice",
+        "index": 204
+    },
+    {
+        "question": "某高速公路互通式立体交叉4条匝道的设计小时交通量和设计速度如下表,设计服务水平为四级,若各匝道均采用单车道,不满足基本路段设计通行能力要求的匝道是哪一条?()<table><thead><tr><th>匝道名称</th><th>A匝道</th><th>B匝道</th><th>C匝道</th><th>D匝道</th></tr></thead><tr><td>设计小时交通量（pcu/h）</td><td>1150</td><td>800</td><td>1150</td><td>800</td></tr><tr><td>设计速度$\\left({\\mathrm{{km}}/\\mathrm{h}}\\right)$</td><td>40</td><td>40</td><td>60</td><td>60</td></tr></table>A.A匝道B.B匝道C.C匝道D.D匝道",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "7de9bea8-942d-4cef-8ddd-6d688a4770b6",
+        "type": "single_choice",
+        "index": 205
+    },
+    {
+        "question": "某城市主干路,设计速度为50km/h,采用三幅路横断面形式,混行车道布置,对向车道之间设置宽度为0.5m的中间分隔护栏。已知道路设计年限末双向预测交通量为33600pcu/d，高峰小时系数为0.10，方向不均匀系数为0.55,受平面交叉口因素影响的综合修正系数取0.50,计算道路基本路段的机动车道路面最小宽度应为多少?(取小数点后1位)()A.15.0mB.15.5mC.${22.0}\\mathrm{\\;m}$D.22.5m",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "ee34a79d-5822-434e-866e-ac5b42d69561",
+        "type": "single_choice",
+        "index": 206
+    },
+    {
+        "question": "某改建城市道路，设计速度为50km/h，路段中有一处横向穿越的构筑物，纵断面设计在构筑物中轴线处设置变坡点，变坡点高程为5.73m，沿桩号前进方向相邻纵坡分别为$+{2.0}\\%,-{1.8}\\%$，已知构筑物顶面标高为2.26m，结构顶面最小覆土按3.0m控制。不考虑其他因素影响，计算构筑物中轴线对应的竖曲线最大、最小半径值分别应为多少?(百位数取整)()竖曲线计算公式:$\\mathrm{L}=2\\mathrm{\\;T}=\\mathrm{R}\\left|\\omega\\right|,\\mathrm{W}=\\mathrm{i}\\langle\\mathrm{{sub}}\\rangle2\\langle/\\mathrm{{sub}}\\rangle-\\mathrm{i}\\langle\\mathrm{{sub}}\\rangle1\\langle/\\mathrm{{sub}}\\rangle,\\mathrm{E}={\\mathrm{T}}^{2}/2\\mathrm{R}$。A.${2600}\\mathrm{\\;m},{900}\\mathrm{\\;m}$B.2600m，1100mC.${2600}\\mathrm{\\;m},{1400}\\mathrm{\\;m}$D.2600m，2600m",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "66c9465d-fb01-41f4-9449-4006c8993d47",
+        "type": "single_choice",
+        "index": 207
+    },
+    {
+        "question": "某城市快速路,设计速度为${80}\\mathrm{\\;{km}}/\\mathrm{h}$,采用整幅式高架桥形式,桥梁路面宽度为${24.5}\\mathrm{\\;m}$,标准路拱横坡为2.0%，路段中设有一处R=300m的圆曲线。已知绕中线旋转的圆曲线超高值为4.0%，计算该处缓和曲线的最小长度。（计算结果取整）A.${70}\\mathrm{\\;m}$B.${98}\\mathrm{\\;m}$C.${110}\\mathrm{\\;m}$D.${147}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "0915ef57-edce-4d40-8532-edfa0dd4bdf1",
+        "type": "single_choice",
+        "index": 208
+    },
+    {
+        "question": "某城市主干路,机动车双向六车道,拟采用沥青混凝土面层和石灰粉煤灰稳定碎石基层。经交通调查分析，路面营运第一年单向日平均当量轴次为3000次/d，交通量年平均增长率为7%，车道分布系数为0.65。已知石灰粉煤灰稳定碎石180d龄期劈裂强度为0.7MPa，请计算半刚性基层的容许抗拉强度值。（取小数点后2位<table><thead><tr><th>荷载情况</th><th>验算项目</th><thcolspan=\"2\">稳定安全系数</th></tr></thead><tr><tdrowspan=\"2\">荷载组合I、II</td><td>抗滑动</td><td>${\\mathrm{K}}_{\\mathrm{c}}$</td><td>1.3</td></tr><tr><td>抗倾覆</td><td>${\\mathrm{K}}_{0}$</td><td>1.5</td></tr><tr><tdrowspan=\"2\">荷载组合Ⅲ</td><td>抗滑动</td><td>${\\mathrm{K}}_{\\mathrm{c}}$</td><td>1.3</td></tr><tr><td>抗倾覆</td><td>${\\mathrm{K}}_{0}$</td><td>1.3</td></tr><tr><tdrowspan=\"2\">施工阶段验算</td><td>抗滑动</td><td>${\\mathrm{K}}_{\\mathrm{c}}$</td><td>1.2</td></tr><tr><td>抗倾覆</td><td>${\\mathrm{K}}_{0}$</td><td>1.2</td></tr></table>)$\\left(\\;\\right)$A.0.32MPaB.0.35MPaC.0.38MPaD.0.51MPa",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "d2672bb2-f7bc-46ba-82ae-49f92493cd3c",
+        "type": "single_choice",
+        "index": 209
+    },
+    {
+        "question": "公路交通量换算的标准车型是()。A.小客车B.中型车C.大型车D.汽车列车",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "c3ff4772-08e2-4466-b982-382d7d183c42",
+        "type": "single_choice",
+        "index": 210
+    },
+    {
+        "question": "二级及二级以下公路的越岭路线连续上坡（或下坡）路段，当相对高差为200～500m时，其平均纵坡不大于（）。A.3%B.$4\\%$C.$5\\%$D.${5.5}\\%$",
+        "answer": "D",
+        "score": 1.2,
+        "unique_ID": "a220847e-07ab-4362-9462-afb0042f3139",
+        "type": "single_choice",
+        "index": 211
+    },
+    {
+        "question": "按照《公路工程技术标准》（JTGB01—2014）的规定，公路服务水平分为（$\\;$）。A.四级B.五级C.六级D.七级",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "89e434ee-d35e-49ba-8c5d-caae256301e5",
+        "type": "single_choice",
+        "index": 212
+    },
+    {
+        "question": "设计速度100km/h的公路,在纵断面设计时,当单一纵坡坡度采用4%时,其最大坡长应为()A.${700}\\mathrm{\\;m}$B.${800}\\mathrm{\\;m}$C.${900}\\mathrm{\\;m}$D.${100}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "78dcb30a-7ab0-49cb-8d53-690af5131014",
+        "type": "single_choice",
+        "index": 213
+    },
+    {
+        "question": "公路S形曲线相邻两个回旋线采用不同参数时,其参数之比应小于（$\\;$）。A.1.0B.1.2C.2.0D.2.5",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "e8d7dcc2-1853-46f5-a370-4ca86325a52e",
+        "type": "single_choice",
+        "index": 214
+    },
+    {
+        "question": "八车道及以上高速公路宜设置左侧硬路肩,其宽度应不小于()。A.1.8mB.2.OmC.${2.3}\\mathrm{\\;m}$D.${2.5}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 1.2,
+        "unique_ID": "a0ec26c9-83d4-4393-b052-e05c2ca68c46",
+        "type": "single_choice",
+        "index": 215
+    },
+    {
+        "question": "某高速公路项目设计速度为120公里/小时,正常情况下,圆曲线半径为()。A.$\\mathrm{R}<{1000}\\mathrm{\\;m}$B.${1000}\\mathrm{\\;m}\\leq\\mathrm{R}\\leq{10000}\\mathrm{\\;m}$C.${650}\\mathrm{\\;m}\\leq\\mathrm{R}<{1000}\\mathrm{\\;m}$D.$\\mathrm{R}<{650}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "3268f2b4-4a7f-4a95-b411-fa22116b7ce7",
+        "type": "single_choice",
+        "index": 216
+    },
+    {
+        "question": "新建一级公路的路基设计标高宜采用()。A.中央分隔带的外侧边缘标高B.行车道中心标高C.路面中心标高D.路基外侧边缘标高",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "b7735996-f211-4886-b0f5-c5476c0fcefd",
+        "type": "single_choice",
+        "index": 217
+    },
+    {
+        "question": "新建二级公路、三级公路,应结合城镇周边路网布设,遇到城镇时应()。A.直接穿越B.环绕C.避免穿越D.远离",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "56f4fbd2-dc93-4b50-9eb6-dc455421da0b",
+        "type": "single_choice",
+        "index": 218
+    },
+    {
+        "question": "高速公路、一级公路路基地表排水设施设计降雨的重现期,应采用()。A.5年B.10年C.15年D.20年",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "bc2c45c3-bf07-476a-b66a-be9ba1d8ea39",
+        "type": "single_choice",
+        "index": 219
+    },
+    {
+        "question": "根据《公路路基设计规范》（JTGD30—2015），高速公路特重、极重交通荷载等级路床设计厚度应采用（$\\;$）。A.0.8mB.1.$2\\mathrm{\\;m}$C.${1.5}\\mathrm{\\;m}$D.1.9m",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "ef0b2865-64ae-4632-acbc-41b2a5197760",
+        "type": "single_choice",
+        "index": 220
+    },
+    {
+        "question": "根据《公路路基设计规范》（JTGD30—2015），进行路基设计时，其设计指标为路床顶面的（$\\;$）。A.回弹模量B.静态模量C.竖向压应力D.竖向压应变",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "7bc0569a-90ec-4708-8a7d-04c69d274755",
+        "type": "single_choice",
+        "index": 221
+    },
+    {
+        "question": "分析已建高速公路高路堤在降雨工况下稳定性时，路堤填土强度参数试验的试样制备要求采用（$\\;$）A.路基原状土B.路基原状土,且预先饱和C.填筑含水率和填筑密度D.填筑含水率和填筑密度,且预先饱和",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "67008fa5-c135-4cdf-8da3-c07dafcb4349",
+        "type": "single_choice",
+        "index": 222
+    },
+    {
+        "question": "年平均降雨量500～1000mm的地区，交工验收时，高速公路、一级公路沥青路面的抗滑横向力系数宜大于或等于（）。A.40B.45C.50D.54",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "814c5f8d-b045-477d-9f0d-e4af2c3cb00e",
+        "type": "single_choice",
+        "index": 223
+    },
+    {
+        "question": "[已过时]公路沥青路面的基层是主要承重层,应具有稳定耐久、较高的承载能力,可分为单层或(）。A.双层B.三层C.四层D.多层",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "b7fe816b-3744-49df-aa56-d3668911d874",
+        "type": "single_choice",
+        "index": 224
+    },
+    {
+        "question": "[已过时]半刚性基层沥青路面结构层组合设计时，基层与底基层的模量比不宜大于（$\\;$）。A.2.0B.2.5C.3.0D.3.5",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "00997a17-ffbc-4e41-91d9-208bdf980aba",
+        "type": "single_choice",
+        "index": 225
+    },
+    {
+        "question": "[已过时]级配砾石或天然砂砾用作公路沥青路面基层,当采用重型击实标准设计时,其压实度应大于(）。A.${95}\\%$B.${96}\\%$C.${97}\\%$D.${98}\\%$",
+        "answer": "D",
+        "score": 1.2,
+        "unique_ID": "8229023c-e351-4765-b082-8e60fb3fcad8",
+        "type": "single_choice",
+        "index": 226
+    },
+    {
+        "question": "[已过时]根据《公路沥青路面设计规范》，以沥青层或半刚性材料结构层层底拉应力为设计或验算指标，确定沥青路面结构厚度时，测试沥青混合料抗压回弹模量的温度条件是（$\\;$）。A.${15}^{\\circ}\\mathrm{C}$B.${18}^{\\circ}\\mathrm{C}$C.${20}^{\\circ}\\mathrm{C}$D.${22}^{\\circ}\\mathrm{C}$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "880db72a-5210-4159-91e0-9868ad800446",
+        "type": "single_choice",
+        "index": 227
+    },
+    {
+        "question": "高速公路上特大桥的设计洪水频率标准是（$\\;$）。A.$1/{300}$B.$1/{100}$C.$1/{50}$D.$1/{25}$",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "4713f404-f61b-4a0c-94fc-da0686dbd701",
+        "type": "single_choice",
+        "index": 228
+    },
+    {
+        "question": "公路桥梁设计时,不可能同时出现的作用或同时参与组合概率很小的作用,应该不考虑其参与组合。不应与流水压力同时参与组合的是（）。A.冰压力B.水浮力C.风荷载D.汽车撞击作用",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "d1f05ef9-82ee-4487-8397-0b9ce5473b72",
+        "type": "single_choice",
+        "index": 229
+    },
+    {
+        "question": "四边支承的板,按双向板计算时,长边长度与短边长度之比小于$\\left(\\;\\right)$A.3.0B.2.5C.2.0D.1.5",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "0e2f3339-f9d2-4848-8c05-8a8ef0e42b4c",
+        "type": "single_choice",
+        "index": 230
+    },
+    {
+        "question": "采用钻孔灌注法施工的摩擦桩,其桩中距不应小于桩直径的()。A.1.5B.2.0C.2.5D.3.0",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "23facf6f-d833-4f56-bd74-a38239b20582",
+        "type": "single_choice",
+        "index": 231
+    },
+    {
+        "question": "位于城镇混合交通繁忙处的公路桥梁,桥上纵坡和桥头引道纵坡均不得大于()A.5.0%B.4.0%C.${3.5}\\%$D.3.0%",
+        "answer": "D",
+        "score": 1.2,
+        "unique_ID": "cd6ea169-4800-4247-bcf9-2d897c4e6e43",
+        "type": "single_choice",
+        "index": 232
+    },
+    {
+        "question": "公路长隧道的长度为()。A.5000m＞L＞3000mB.${4000}\\mathrm{\\;m}\\geq\\mathrm{L}>{2000}\\mathrm{\\;m}$C.${3000}\\mathrm{\\;m}\\geq\\mathrm{L}>{1000}\\mathrm{\\;m}$D.${2000}\\mathrm{\\;m}\\geq\\mathrm{L}>{1000}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "8233ceb5-6584-415f-acda-8ee03e27c447",
+        "type": "single_choice",
+        "index": 233
+    },
+    {
+        "question": "人车混合适行的公路隧道设计风速不应大于（$\\;$）。A.$7\\mathrm{\\;m}/\\mathrm{s}$B.$8\\mathrm{\\;m}/\\mathrm{s}$C.$9\\mathrm{\\;m}/\\mathrm{s}$D.${10}\\mathrm{\\;m}/\\mathrm{s}$",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "94bddf8a-d0aa-4110-a857-ffbbe0e64d4b",
+        "type": "single_choice",
+        "index": 234
+    },
+    {
+        "question": "膨胀性围岩公路隧道应采用复合式衬砌,初期支护喷射混凝土最大厚度不应超过()A.${25}\\mathrm{\\;{cm}}$B.${20}\\mathrm{\\;{cm}}$C.${15}\\mathrm{\\;{cm}}$D.${10}\\mathrm{\\;{cm}}$",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "7d3f9b2a-3474-4688-9726-a77161fdf1b9",
+        "type": "single_choice",
+        "index": 235
+    },
+    {
+        "question": "公路隧道应设置衬砌,高速公路的隧道应采用()。A.喷锚衬砌B.整体式衬砌C.复合式衬砌D.明洞衬砌",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "c1f0037f-8219-4e79-ae66-fd44de96ad37",
+        "type": "single_choice",
+        "index": 236
+    },
+    {
+        "question": "公路隧道喷锚衬砌中的喷射混凝土厚度不宜大于${300}\\mathrm{\\;{mm}}$,不应小于()。A.${25}\\mathrm{\\;{mm}}$B.${40}\\mathrm{\\;{mm}}$C.${50}\\mathrm{\\;{mm}}$D.${80}\\mathrm{\\;{mm}}$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "5d2b7a9f-c4ae-4a54-8872-f728ddc8afe3",
+        "type": "single_choice",
+        "index": 237
+    },
+    {
+        "question": "路线交叉中公路与公路交叉分为（）。A.互通式立体交叉和分离式立体交叉B.平面交叉和立体交叉C.平面交叉和互通式立体交叉D.平面交叉和分离式立体交叉",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "2d812b97-b15d-424c-9a62-899069ed05c7",
+        "type": "single_choice",
+        "index": 238
+    },
+    {
+        "question": "两相交公路的技术等级或交通量相近时,平面交叉范围内的设计速度不宜低于路段设计速度的()A.${50}\\%$B.${60}\\%$C.${70}\\%$D.${80}\\%$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "70e010f9-ad73-45e1-aac8-56fc5524c781",
+        "type": "single_choice",
+        "index": 239
+    },
+    {
+        "question": "公路交叉时,一般情况下,相邻互通式立体交叉的最大间距不宜大于()。A.${15}\\mathrm{\\;{km}}$B.${20}\\mathrm{\\;{km}}$C.${30}\\mathrm{\\;{km}}$D.${40}\\mathrm{\\;{km}}$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "80384cdc-905c-4a0f-87fd-5eaeb777142a",
+        "type": "single_choice",
+        "index": 240
+    },
+    {
+        "question": "收费系统机电设备可按公路开通运营后的交通量配置。其开通运营年限为$\\left(\\;\\right)$A.10B.15C.20D.25",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "d01c8031-04a3-4c7c-a875-5611e9c1c3d5",
+        "type": "single_choice",
+        "index": 241
+    },
+    {
+        "question": "设计速度为$\\mathrm{v}={100}\\mathrm{\\;{km}}/\\mathrm{h}$的一级公路在五级服务水平下最大服务交通量是()A.${400}\\mathrm{{pcu}}/\\left({\\mathrm{h}\\cdot\\ln}\\right)$B.${1800}\\mathrm{{pcu}}/\\left({\\mathrm{h}\\cdot1\\mathrm{n}}\\right)$C.${2000}\\mathrm{{pcu}}/\\left({\\mathrm{h}\\cdot1\\mathrm{n}}\\right)$D.${2200}\\mathrm{{pcu}}/\\left({\\mathrm{h}\\cdot\\ln}\\right)$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "d6495d64-0354-4cba-87ef-dead1ce79d49",
+        "type": "single_choice",
+        "index": 242
+    },
+    {
+        "question": "在批准的公路建设项目可行性研究报告投资估算允许浮动幅度范围内,作为控制基本建设项目投资最高限额的是（$\\;$）。A.初步设计概算B.施工图预算C.工程结算D.竣工决算",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "f8601fa1-e3bf-41c9-a059-6e1cdf0e762f",
+        "type": "single_choice",
+        "index": 243
+    },
+    {
+        "question": "城市道路中对道路建筑限界的规定是（$\\;$）。A.道路建筑限界内不得有任何物体侵入B.道路建筑限界内不应有任何物体侵入C.道路建筑限界内不宜有任何物体侵入D.道路建筑限界内不可有任何物体侵入",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "cac6874c-0def-4950-a40f-e28362251426",
+        "type": "single_choice",
+        "index": 244
+    },
+    {
+        "question": "城市快速路、主干路、次干路道路交通量达到饱和状态时的道路设计年限应分别为()A.20年、20年、15年B.20年、15年、15年C.20年、15年、10年D.15年、15年、10年",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "a6f40c2d-7e6d-42b1-9526-31e5c60b409d",
+        "type": "single_choice",
+        "index": 245
+    },
+    {
+        "question": "城市主干路设计中,当圆曲线半径小于或等于250m时,其道路加宽应设在圆曲线的()A.外侧B.内侧C.左侧D.右侧",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "ff4f757b-666b-4144-ac50-6ad66555065f",
+        "type": "single_choice",
+        "index": 246
+    },
+    {
+        "question": "拟建城市快速路，设计速度为80km/h的路拱横坡度为2%，不设超高的圆曲线最小半径应为（$\\;$）A.${400}\\mathrm{\\;m}$B.${600}\\mathrm{\\;m}$C.${1000}\\mathrm{\\;m}$D.${1200}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "1734a4c5-abc8-45bd-aa09-de96d6631ff0",
+        "type": "single_choice",
+        "index": 247
+    },
+    {
+        "question": "对城市工程管线与建（构）筑物之间的最小水平净距要求最大的是（$\\;$）。A.污水管线B.给水管线C.热力管线D.高压燃气管线",
+        "answer": "D",
+        "score": 1.2,
+        "unique_ID": "a6b13245-b6b8-4472-a0bd-4cdc19b531b2",
+        "type": "single_choice",
+        "index": 248
+    },
+    {
+        "question": "[已过时]红线宽度在40～50m的城市道路，绿地率要求不得小于（$\\;$）。A.${40}\\%$B.${30}\\%$C.${25}\\%$D.${20}\\%$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "06cd7e08-80a1-49a1-a1a0-5d3f4cb0de25",
+        "type": "single_choice",
+        "index": 249
+    },
+    {
+        "question": "城市道路无障碍设施,行进盲道在起点、终点及转弯处及其他有需要处应设提示盲道,当盲道的宽度不大于300mm时，提示盲道的宽度应大于（）。A.${200}\\mathrm{\\;{mm}}$B.250mmC.行进盲道的宽度D.路缘带的宽度",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "ed305667-0585-4b0a-9b9f-d5f4529d437c",
+        "type": "single_choice",
+        "index": 250
+    },
+    {
+        "question": "场地及岩土条件为一级的城市主干路,一般路基路段进行详细勘察的勘探点间距为()A.${150}\\mathrm{\\;m}\\sim{200}\\mathrm{\\;m}$B.${100}\\mathrm{\\;m}\\sim{150}\\mathrm{\\;m}$C.${50}\\mathrm{\\;m}\\sim{100}\\mathrm{\\;m}$D.${30}\\mathrm{\\;m}\\sim{50}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "f2c65c57-6c07-4f5e-ba1e-fc97820d3e4a",
+        "type": "single_choice",
+        "index": 251
+    },
+    {
+        "question": "城市道路路面结构设计的标准轴载应为$\\left(\\;\\right)$。A.双轮组单轴载${100}\\mathrm{{kN}}$B.双轮组双轴载${100}\\mathrm{{kN}}$C.双轮组单轴载80kND.双轮组双轴载80kN",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "a7ee9109-30c5-427b-a2bc-07bbe1e7b011",
+        "type": "single_choice",
+        "index": 252
+    },
+    {
+        "question": "当城市桥梁跨越快速路、城市轨道交通、高速公路、铁路干线等重要交通通道时,桥面人行道栏杆上应加设护网，护网高度不应小于2m，护网长度宜为下穿道路的宽度并各向路外延长（$\\;$）。A.$5\\mathrm{\\;m}$B.${10}\\mathrm{\\;m}$C.${20}\\mathrm{\\;m}$D.${30}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "37f2fa99-d9ed-4c1d-96bf-509df9a455a6",
+        "type": "single_choice",
+        "index": 253
+    },
+    {
+        "question": "设计速度为${60}\\mathrm{\\;{km}}/\\mathrm{h}$的城市主干路,会车视距不应小于$(\\;$)A.${70}\\mathrm{\\;m}$B.80mC.${140}\\mathrm{\\;m}$D.${160}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "afc709c8-0616-4eb9-bba4-68648c2c4434",
+        "type": "single_choice",
+        "index": 254
+    },
+    {
+        "question": "城市道路平面交叉口范围内的设计速度值为路段的$\\left(\\;\\right)$。A.0.3~0.6倍B.0.4~0.6倍C.0.4~0.7倍D.0.5~0.7倍",
+        "answer": "D",
+        "score": 1.2,
+        "unique_ID": "cffe2b7b-07d7-409c-877b-caa71501d7e4",
+        "type": "single_choice",
+        "index": 255
+    },
+    {
+        "question": "城市道路相邻互通式立体交叉的最小间距应满足上游立交加速车道渐变段终点至下游立交减速车道渐变段起点之间的距离不得小于（）。A.${500}\\mathrm{\\;m}$B.800mC.${1000}\\mathrm{\\;m}$D.${1200}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 1.2,
+        "unique_ID": "b870569b-9bc8-48e2-94e8-cb15615bcb2c",
+        "type": "single_choice",
+        "index": 256
+    },
+    {
+        "question": "城市道路人行横道宽度应根据过街行人数量、行人信号时间等确定，主干路的人行横道宽度不宜小于（）。A.3.OmB.4.OmC.${5.0}\\mathrm{\\;m}$D.6.Om",
+        "answer": "C",
+        "score": 1.2,
+        "unique_ID": "340a70bc-ab84-42be-aab2-f53eff76963f",
+        "type": "single_choice",
+        "index": 257
+    },
+    {
+        "question": "对城市快速路中交通安全设施的设置,描述正确的是()A.中间带应连续设置中央分隔护栏和必需的防眩设施B.中间带必须连续设置中央分隔护栏和必需的防眩设施C.互通式立交及其周边路网须连续设置预告、指路、禁令等标志D.互通式立交及其周边路网宜连续设置预告、指路、禁令等标志",
+        "answer": "B",
+        "score": 1.2,
+        "unique_ID": "36b0b106-c29f-4a4d-a20b-71cf9c7efa53",
+        "type": "single_choice",
+        "index": 258
+    },
+    {
+        "question": "集料的以下密度中,最小的是()。A.表观密度B.真实密度C.毛体积密度D.堆积密度",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "c40c3dc1-0a2c-4c07-a88c-1ecabd370eca",
+        "type": "single_choice",
+        "index": 259
+    },
+    {
+        "question": "改变水泥各熟料矿物的含量,可使水泥性质发生相应的变化。如果要使水泥具有比较低的水化热,应降低以下哪种物质的含量?()A.${\\mathrm{C}}_{3}\\mathrm{\\;S}$B.${\\mathrm{C}}_{2}\\mathrm{\\;S}$C.${\\mathrm{C}}_{3}$AD.${\\mathrm{C}}_{4}\\mathrm{{AF}}$",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "7d99b444-3af6-412e-a9ff-434a97efa00c",
+        "type": "single_choice",
+        "index": 260
+    },
+    {
+        "question": "随着水泥剂量的增加,水泥稳定土的强度将()。A.增大B.减小C.无变化D.不确定",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "341e3f71-2a22-4a14-9687-0c882b596da4",
+        "type": "single_choice",
+        "index": 261
+    },
+    {
+        "question": "下列说法中,不属于水泥稳定土混合料组成设计目的的是()。A.确定水泥剂量B.确定最佳含水率C.确定抗压强度D.确定最大干密度",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "c969b16d-3c0c-4389-88f6-1e66c3d74adf",
+        "type": "single_choice",
+        "index": 262
+    },
+    {
+        "question": "消石灰的主要化学成分为（）。A.氧化钙B.氧化镁C.氢氧化钙D.硫酸钙",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "1305d8cf-aad5-40c7-9181-faca92d7142b",
+        "type": "single_choice",
+        "index": 263
+    },
+    {
+        "question": "确定施工所需混凝土拌合物工作性的主要依据是()。A.水灰比和砂率B.水灰比和捣实方式C.骨料的性质、最大粒径和级配D.构件的截面尺寸、钢筋疏密、捣实方式",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "f1181fb1-9f78-44fa-b275-e56d424890e1",
+        "type": "single_choice",
+        "index": 264
+    },
+    {
+        "question": "用来评价沥青的胶体结构类型和感温性的指标是()A.软化点B.针入度C.延度D.针入度指数",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "7fcb8d45-194e-4286-b94e-2dd10498bf02",
+        "type": "single_choice",
+        "index": 265
+    },
+    {
+        "question": "下列不属于土工合成材料力学性质的是()。A.拉伸强度B.撕裂强度C.顶/刺破强度D.耐久性",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "9c5e9e96-2104-4e08-bfb4-e07eb72374f0",
+        "type": "single_choice",
+        "index": 266
+    },
+    {
+        "question": "下列实验方法中,不属于评价石油沥青耐老化性能的试验方法是()。A.水煮法B.压力老化试验C.旋转薄膜烘箱试验D.薄膜烘箱试验",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "d4053640-6a2f-44b0-9ef7-0628ae80dc16",
+        "type": "single_choice",
+        "index": 267
+    },
+    {
+        "question": "沥青混合料抽提试验的目的是检查沥青混合料中的（）。A.沥青用量B.沥青针入度C.沥青标号D.矿物与沥青的粘附性",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "1576c03f-b3a6-496d-90db-cab96afff89a",
+        "type": "single_choice",
+        "index": 268
+    },
+    {
+        "question": "设计钢结构时,确定钢结构容许应力的主要依据是（$\\;$）。A.屈服强度B.抗拉强度C.抗压强度D.弹性极限",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "fff07021-ca03-47c6-8085-69a708cb783c",
+        "type": "single_choice",
+        "index": 269
+    },
+    {
+        "question": "粒径大于0.075mm的颗粒含量不超过全重的50%，且Ip>17的土称为（$\\;$）。A.碎石土B.砂土C.粉土D.黏土",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "f3e4a63e-6ba3-49dd-bd47-bed316babf5e",
+        "type": "single_choice",
+        "index": 270
+    },
+    {
+        "question": "对填土,要保证其具有足够的密实度,就要控制填土的()。A.土粒密度${\\rho}_{\\mathrm{S}}$B.土的密度$\\rho$C.干密度${}^{\\rho}\\mathrm{d}$D.饱和密度${\\rho}_{\\text{sat}}$",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "7f8803eb-09b2-4801-9910-5916cbb92c64",
+        "type": "single_choice",
+        "index": 271
+    },
+    {
+        "question": "某原状土的液限${}^{\\omega}\\mathrm{L}={46}\\%$,塑限${}^{\\omega}\\mathrm{P}={24}\\%$,天然含水量$\\omega={40}\\%$,则该土的塑性指数为()A.22B.${22}\\%$C.16D.${16}\\%$",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "338487a6-0942-4b4b-89dc-efb0d9ddf2dd",
+        "type": "single_choice",
+        "index": 272
+    },
+    {
+        "question": "松砂受振时土颗粒在其跳动中会调整相互位置,土的结构趋于()。A.松散B.稳定和密实C.液化D.均匀",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "c4f6c5ff-5765-4ec6-bf49-78b8561ae2e8",
+        "type": "single_choice",
+        "index": 273
+    },
+    {
+        "question": "土体具有压缩性的主要原因是（）。A.因为水被压缩引起的B.由孔隙的减少引起的C.由土颗粒的压缩引起的D.土体本身压缩模量较小引起的",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "d5887158-136e-4494-96c8-4e31211afe56",
+        "type": "single_choice",
+        "index": 274
+    },
+    {
+        "question": "负温情况下常常发生冻胀现象,下列最易发生冻胀的土类为()。A.细粒土B.中粒土C.粗粒土D.碎石土",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "f7eb535b-47a0-4ed6-9181-7a83bd5f7182",
+        "type": "single_choice",
+        "index": 275
+    },
+    {
+        "question": "下列因素中,与水在土中的渗透速度无关的是()。A.渗流路径B.水头差C.土渗透系数D.土重度",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "1bb77491-f184-4dd2-a3d6-8381181bfdc6",
+        "type": "single_choice",
+        "index": 276
+    },
+    {
+        "question": "下列有关地基土自重应力的说法中,错误的是$\\left(\\;\\right)$。A.自重应力随深度的增加而增大B.在求地下水位以下的自重应力时,应取其有效重度计算C.地下水位以下的同一土的自重应力按直线变化,或按折线变化D.土的自重应力分布曲线是一条折线,拐点在土层交界处和地下水位处",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "9549bda3-f47d-4a65-848c-da2809cb39be",
+        "type": "single_choice",
+        "index": 277
+    },
+    {
+        "question": "由建筑物荷载作用在地基内引起的应力增量称之为$\\left(\\;\\right)$。A.自重应力B.附加应力C.基底压力D.基底附加压力",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "e6f2d1b3-9c89-40af-ba6c-83d91c83216d",
+        "type": "single_choice",
+        "index": 278
+    },
+    {
+        "question": "某点土体处于极限平衡状态时,则$\\tau-\\sigma$坐标系中抗剪强度直线和莫尔应力圆的关系为()A.相切B.相割C.相离D.不确定",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "d1a2e5b6-5158-4078-8587-0e4334d131ad",
+        "type": "single_choice",
+        "index": 279
+    },
+    {
+        "question": "在一定压实功作用下,土样中粗粒含量越多,则该土样的()。A.最佳含水率和最大干重度都越大B.最大干重度越大,而最佳含水率越小C.最佳含水率和最大干重度都越小D.最大干重度越小,而最佳含水率越大",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "855e453a-81d1-4139-80bc-e5be99a3c0e4",
+        "type": "single_choice",
+        "index": 280
+    },
+    {
+        "question": "表征黏性土软硬状态的指标是（$\\;$）。A.塑限B.液限C.塑性指数D.液性指数",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "9a000057-6b6a-42c1-a5e8-ce776a97ce63",
+        "type": "single_choice",
+        "index": 281
+    },
+    {
+        "question": "按成因岩石可分为（）。A.岩浆岩、沉积岩、变质岩B.岩浆岩、变质岩、花岗岩C.沉积岩、酸性岩、黏土岩D.变质岩、碎屑岩、岩浆岩",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "f854c096-1b8d-4cf4-a2fd-c1e2bcde31c7",
+        "type": "single_choice",
+        "index": 282
+    },
+    {
+        "question": "根据组成沉积岩的物质成分，通常把沉积岩分为（$\\;$）。A.黏土岩类、化学岩类、生物岩类B.碎屑岩类、黏土岩类、生物岩类C.黏土岩类、化学岩类、生物化学岩类D.碎屑岩类、黏土岩类、化学及生物化学岩类",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "7003f4b7-f386-4cb4-9d69-f9490a3c359a",
+        "type": "single_choice",
+        "index": 283
+    },
+    {
+        "question": "同岩石的各种强度中,最大的是（$\\;$）。A.抗压强度B.抗剪强度C.抗弯强度D.抗拉强度",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "8bf1128f-fffd-499c-adf1-eee07f64a7a6",
+        "type": "single_choice",
+        "index": 284
+    },
+    {
+        "question": "褶皱构造的两种基本形态是（）。A.背斜和向斜B.背斜和倾伏褶曲C.向斜和倾伏褶曲D.倾伏褶曲和平卧褶曲",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "8dd102a4-1482-406a-9a14-f11909ff64e1",
+        "type": "single_choice",
+        "index": 285
+    },
+    {
+        "question": "某一地区的地层为C、P和J地层，当P和J地层之间呈一定角度相交时，则P和J地层之间为（$\\;$）。A.整合接触B.沉积接触C.假整合接触D.不整合接触",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "c3e1a6d9-6e5b-4a40-a9fa-9fff8a28bffc",
+        "type": "single_choice",
+        "index": 286
+    },
+    {
+        "question": "若岩石裂隙已扩展,并产生大量的风化裂隙,在裂隙面上出现了次生矿物,则此岩层属于()A.整石带B.块石带C.碎石带D.粉碎带",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "b6b324d9-8ca8-4c14-8643-3adf813beeb5",
+        "type": "single_choice",
+        "index": 287
+    },
+    {
+        "question": "坡积裙主要分布在（$\\;$）。A.山沟沟口处B.河流漫滩处C.山坡坡脚处D.山顶处",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "bc04c3c9-28f1-4ba4-b516-7e428f94cb0f",
+        "type": "single_choice",
+        "index": 288
+    },
+    {
+        "question": "从地质作用看,将垭口的基本类型归纳为$\\left(\\;\\right)$。A.构造型垭口、剥蚀型垭口、剥蚀-堆积型垭口B.构造型垭口、剥蚀型垭口、堆积型垭口C.构造型垭口、剥蚀型垭口、构造-剥蚀型垭口D.构造型垭口、剥蚀型垭口、构造-堆积型垭口",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "25fffcd8-85a2-479e-9278-c9fe5224ea2a",
+        "type": "single_choice",
+        "index": 289
+    },
+    {
+        "question": "发生在均质黏性土中的滑坡,滑动面多呈()。A.圆弧形B.直线形C.矩形D.折线形",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "7f8d55eb-0f58-49eb-9114-a237756593c6",
+        "type": "single_choice",
+        "index": 290
+    },
+    {
+        "question": "承压水通常的排泄形式是（$\\;$）。A.泉B.直接排入地表C.通过蒸发逸入大气D.通过透水通道排入潜水层",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "b25448bd-fa2a-4b42-8011-7464866bc8b5",
+        "type": "single_choice",
+        "index": 291
+    },
+    {
+        "question": "产生崩塌的地形条件,一般斜坡()。A.坡度大于${20}^{\\circ}$,高度大于${10}\\mathrm{\\;m}$B.坡度大于${30}^{\\circ}$,高度大于${30}\\mathrm{\\;m}$C.坡度大于${45}^{\\circ}$,高度大于${15}\\mathrm{\\;m}$D.坡度大于${45}^{\\circ}$,高度大于${30}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "2831414c-34d5-4e54-8cae-f6302009486c",
+        "type": "single_choice",
+        "index": 292
+    },
+    {
+        "question": "断层有各种不同的类型,上盘相对上移,下盘相对下移的断层是()A.平移断层B.正断层C.走滑断层D.逆断层",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "88168879-0c6b-4aaa-9842-7dec52521520",
+        "type": "single_choice",
+        "index": 293
+    },
+    {
+        "question": "公路工程筑路材料勘察内容不包括$\\left(\\;\\right)$。A.筑路材料的储量、位置B.筑路材料的品质与性质C.筑路材料的再利用D.筑路材料的运输方式与运距",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "308dfcb3-e0ee-4760-91e8-f2ff8bfe8fe7",
+        "type": "single_choice",
+        "index": 294
+    },
+    {
+        "question": "公路勘测地形图测绘图根控制测量中，图根点的点位中误差应不大于所测比例尺图上（$\\;$）。A.0.05mmB.0.10mmC.${0.15}\\mathrm{\\;{mm}}$D.0.${20}\\mathrm{\\;{mm}}$",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "0ffae8c2-d3c5-4d6e-9dc0-05f5956b140d",
+        "type": "single_choice",
+        "index": 295
+    },
+    {
+        "question": "公路勘测在进行一级平面控制测量时,用DJ2经纬仪进行水平角观测的半测回归零差应小于等于(）。A.6秒B.12秒C.24秒D.36秒",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "6c0b064e-e8dc-4c90-8ac4-1bc675315847",
+        "type": "single_choice",
+        "index": 296
+    },
+    {
+        "question": "数字地面模型应用于公路施工图测设阶段时,DTM高程插值中误差应不大于()A.$\\pm{0.1}\\mathrm{\\;m}$B.$\\pm{0.2}\\mathrm{\\;m}$C.$\\pm{0.3}\\mathrm{\\;m}$D.$\\pm{0.4}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "faf3ac16-ccca-4b7a-b3a2-1372783c3345",
+        "type": "single_choice",
+        "index": 297
+    },
+    {
+        "question": "高速公路的平面控制测量等级应选用（$\\;$）。A.一级B.二级C.三等D.四等",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "78394762-6219-47de-8ed7-79c77fc0ac4a",
+        "type": "single_choice",
+        "index": 298
+    },
+    {
+        "question": "公路工程勘测中,GPS基线测量的中误差应小于（$\\;$）。A.$$\\sigma=\\pm\\sqrt{{a}^{2}+{\\left(b\\timesd\\right)}^{2}}$$B.$$\\sigma=\\pm\\sqrt{{a}^{2}+b\\times{d}^{2}}$$C.$$\\sigma=\\pm\\sqrt{{a}^{2}+{b}^{2}\\timesd}$$D.$$\\sigma=\\pm\\sqrt{{a}^{2}+a\\timesb\\timesd}$$",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "b3a38a17-9185-4bc4-b01a-b68f8a365ff4",
+        "type": "single_choice",
+        "index": 299
+    },
+    {
+        "question": "下列说法中,符合公路工程高程控制测量一般规定的是()。A.同一个公路项目可采用不同高程系统B.高程控制测量可采用视距测量的方法进行C.各等级公路高程控制网最弱点高程中误差不得大于$\\pm{25}\\mathrm{\\;{mm}}$D.跨越深谷和水域的大桥、特大桥最弱点高程中误差不得大于$\\pm{25}\\mathrm{\\;{mm}}$",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "ba920810-cfd0-4f7f-938d-ad99aa66d5e0",
+        "type": "single_choice",
+        "index": 300
+    },
+    {
+        "question": "公路设计初测阶段,现场踏勘过程中,应根据项目特点及自然、地理、社会环境调整并确定()。A.勘测方法与勘测方案B.起终点及中间控制点C.工程规模及技术等级D.路线比较方案",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "5e97d4ac-2e65-43ab-a672-30e6b4a4e9b5",
+        "type": "single_choice",
+        "index": 301
+    },
+    {
+        "question": "公路设计初测阶段,路线可采用纸上定线和现场定线,适用现场定线的是()。A.高速公路B.一级公路C.三、四级公路D.特大桥、大桥",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "865d5664-f9c2-4a35-8bca-ab60bedb6b9b",
+        "type": "single_choice",
+        "index": 302
+    },
+    {
+        "question": "采用测深仪测绘公路大桥、特大桥水下地形图时，一般水域断面线上测深点图上最大间距为（$\\;$）。A.1.0cmB.1.$0\\sim{1.5}\\mathrm{\\;{cm}}$C.1.5~3.5cmD.3.5~4.5cm",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "36e76ba4-fdba-431f-9e96-5253a4e661ea",
+        "type": "single_choice",
+        "index": 303
+    },
+    {
+        "question": "公路定测路线中线敷设时,路线中桩间距不大于${10}\\mathrm{\\;m}$的线型条件是（$\\;$）。A.$\\mathrm{R}>{60}\\mathrm{\\;m}$曲线上B.不设超高的曲线上C.平原、微丘区直线上D.${30}<\\mathrm{R}<{60}\\mathrm{\\;m}$曲线上",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "e9671cec-6807-4840-8dc5-ad0f839c218e",
+        "type": "single_choice",
+        "index": 304
+    },
+    {
+        "question": "公路勘测定测阶段,高速公路中桩高程两次测量之差应小于等于$\\left(\\;\\right)$。A.$3\\mathrm{\\;{cm}}$B.5cmC.$8\\mathrm{\\;{cm}}$D.${10}\\mathrm{\\;{cm}}$",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "81669f37-7d39-41e1-859a-4295fb8feb34",
+        "type": "single_choice",
+        "index": 305
+    },
+    {
+        "question": "在公路设计初测阶段,公路与公路交叉应勘测与调查的内容包括$(\\;$)A.测绘1：10000地形图B.补充调查相交公路的交通量、交通组成C.测量交叉点铁轨顶高、交叉角度及路基宽度D.勘测公路与管线交叉的位置、交叉角度、交叉点悬高或埋置深度",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "8bbdab59-559f-4792-9f81-1ee9a6958f56",
+        "type": "single_choice",
+        "index": 306
+    },
+    {
+        "question": "材料的设计强度指用材料强度标准值除以材料性能分项系数后的值,其取值依据主要是为了满足结构的（$\\;$）。A.抗裂B.强度C.刚度D.可靠度",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "899c830a-3c08-4b24-8e6e-1f23e3a89079",
+        "type": "single_choice",
+        "index": 307
+    },
+    {
+        "question": "结构设计时,应根据各种极限状态的设计要求采用不同的荷载代表值。其中,可变作用的代表值应采用（$\\;$）。A.标准值、平均值或准永久值B.标准值、频遇值或平均值C.标准值、频遇值或准永久值D.平均值、频遇值或准永久值",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "1b2218ad-d144-4886-a3db-6dd827a05865",
+        "type": "single_choice",
+        "index": 308
+    },
+    {
+        "question": "钢筋混凝土适筋梁正截面受力全过程分为三个阶段，其中第三阶段，即破坏阶段末的表现是（$\\;$）。A.受拉区钢筋先屈服,随后受压区混凝土压碎B.受拉区钢筋未屈服,受压区混凝土已压碎C.受拉区钢筋和受压区混凝土的应力均不定D.受压区混凝土先压碎,然后受拉区钢筋屈服",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "cd2d44a3-9f01-4b7a-a059-41dcc2f230d1",
+        "type": "single_choice",
+        "index": 309
+    },
+    {
+        "question": "《公路钢筋混凝土及预应力混凝土桥涵设计规范》规定,为保证斜截面抗弯承载力,要求受拉区弯起钢筋的弯起点应设在钢筋强度（$\\;$）。A.理论断点以外,不小于${\\mathrm{h}}_{0}/2$B.充分利用点以外,不大于${\\mathrm{h}}_{0}/2$C.充分利用点以外,不小于${\\mathrm{h}}_{0}/2$D.理论断点以外,不大于${\\mathrm{h}}_{0}/2$",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "401f3cad-b975-4c1c-9332-11191ac81e7d",
+        "type": "single_choice",
+        "index": 310
+    },
+    {
+        "question": "影响斜截面抗剪承载力的主要因素有（$\\;$）。A.剪跨比、箍筋强度、纵向钢筋长度B.剪跨比、混凝土强度、箍筋及纵向钢筋的配筋率C.纵向钢筋强度、混凝土强度、架立钢筋强度D.混凝土强度、箍筋及纵向钢筋的配筋率、架立钢筋强度",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "65c01261-e9a4-4b6d-928a-f184c9217b62",
+        "type": "single_choice",
+        "index": 311
+    },
+    {
+        "question": "关于光圆钢筋与混凝土黏结作用的说法中,错误的是()。A.钢筋与混凝土接触面上的摩擦力B.钢筋与混凝土接触面上产生的库伦力C.钢筋表面与水泥胶结产生的机械胶合力D.混凝土中水泥胶体与钢筋表面的化学胶着力",
+        "answer": "B",
+        "score": 1.67,
+        "unique_ID": "6b726e66-d5ba-4648-bbfa-3cfc54250325",
+        "type": "single_choice",
+        "index": 312
+    },
+    {
+        "question": "下列预应力损失中,不属于先张法的是（$\\;$）。A.管道摩阻预应力损失B.锚具的变形预应力损失C.钢筋的松弛预应力损失D.混凝土收缩、徐变预应力损失",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "1b5a6114-4e75-46c8-83d3-480d7f4816a6",
+        "type": "single_choice",
+        "index": 313
+    },
+    {
+        "question": "根据《中华人民共和国公路法》，按技术等级将公路分为（$\\;$）。A.高速公路、一级公路、二级公路和等外公路B.高速公路、一级公路、二级公路、三级公路和等外公路C.高速公路、一级公路、二级公路、三级公路和四级公路D.一级公路、二级公路、三级公路、四级公路和等外公路",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "95b727dd-e7c4-47cd-956a-8510f188aa9c",
+        "type": "single_choice",
+        "index": 314
+    },
+    {
+        "question": "根据《建设工程质量管理条例》，下列分包情形中，不属于非法分包的是（$\\;$）。A.总承包合同中未有约定,承包单位又未经建设单位许可,就将其全部劳务作业交由劳务单位完成B.总承包单位将工程分包给不具备相应资质条件的单位C.施工总承包单位将工程主体结构的施工分包给其他单位D.分包单位将其承包的建设工程再分包的",
+        "answer": "A",
+        "score": 1.67,
+        "unique_ID": "8a709135-ee68-4da7-92f0-519db006da19",
+        "type": "single_choice",
+        "index": 315
+    },
+    {
+        "question": "根据《中华人民共和国森林法》，工程建设必须占用或征用林地的，应经主管部门审核同意后，依照有关土地管理的法律、行政法规办理建设用地审批手续,并由用地单位依照国务院有关规定缴纳()A.林地征用费B.树木砍伐费C.森林植被恢复费D.树木所有人补偿费",
+        "answer": "C",
+        "score": 1.67,
+        "unique_ID": "51a73d98-4a92-42d9-a3dc-583021f7b581",
+        "type": "single_choice",
+        "index": 316
+    },
+    {
+        "question": "下列说法中,不适用《建设工程安全生产管理条例》的是()。A.线路管道和设备安装工程B.土木工程和建筑工程C.设备安装工程及装修工程D.抢险救灾和农民自建低层住宅",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "33cf8882-10b0-4749-a9dc-4f9efdbf6591",
+        "type": "single_choice",
+        "index": 317
+    },
+    {
+        "question": "根据《中华人民共和国建筑法》，建筑设计单位不按照建筑工程质量、安全标准进行设计的，应）。A.降低资质等级B.承担赔偿责任C.吊销资质证书D.责令改正,处以罚款",
+        "answer": "D",
+        "score": 1.67,
+        "unique_ID": "cc5b291a-4fec-4545-b152-8bdaa862a4fa",
+        "type": "single_choice",
+        "index": 318
+    },
+    {
+        "question": "某平原微丘区高速公路,设计速度为${120}\\mathrm{\\;{km}}/\\mathrm{h}$,路拱横坡为$2\\%$,若$\\mu={0.04}$,该项目不设超高最小圆曲线半径计算值为$\\left(\\;\\right)\\mathrm{m}$。（计算结果取整）A.1889B.5250C.5669D.5767",
+        "answer": "C",
+        "score": 16.67,
+        "unique_ID": "8de2c96e-27dd-4f8b-b5be-ac566c432968",
+        "type": "single_choice",
+        "index": 319
+    },
+    {
+        "question": "省网高速公路,设计速度为${120}\\mathrm{\\;{km}}/\\mathrm{h}$,双向六车道,采用三级服务水平。交通量预测分析结果折算后的年交通量为1450pcu/（h・1n），中型车比例30%，大型车4%，汽车列车2%，驾驶人员修正系数为1.0，根据《公路路线设计规范》，该公路单向设计通行能力是()veh/h。A.974B.1337C.2921D.4010",
+        "answer": "C",
+        "score": 16.67,
+        "unique_ID": "cc8f93db-4d57-4b9a-8222-ce56c602f5ac",
+        "type": "single_choice",
+        "index": 320
+    },
+    {
+        "question": "沿海疏港公路交通组成以铰接列车、半挂车为主,某三级公路,设计速度${40}\\mathrm{\\;{km}}/\\mathrm{h}$,某路段平面半径R$={220}\\mathrm{m}$圆曲线,则该圆曲线段一般路基横断面总宽度为$\\left(\\;\\right)\\mathrm{m}$。A.8.5B.8.9C.9.1D.9.3",
+        "answer": "D",
+        "score": 16.67,
+        "unique_ID": "90f3001d-f14f-4fe1-8539-fc4b79739e62",
+        "type": "single_choice",
+        "index": 321
+    },
+    {
+        "question": "某市区至国道连接线,交通组成以小客车为主,设计速度${60}\\mathrm{\\;{km}}/\\mathrm{h}$,采用双向四车道一级公路(集散功能）,路基为整体式,中央分隔带宽度为${2.5}\\mathrm{\\;m}$,则该公路路基标准横断面宽度为$\\left(\\;\\right)\\mathrm{m}$.A.18.5B.19.5C.20.5D.21.5",
+        "answer": "C",
+        "score": 16.67,
+        "unique_ID": "9a1e425e-2d3c-475e-9630-871c84554593",
+        "type": "single_choice",
+        "index": 322
+    },
+    {
+        "question": "公路初设阶段,一大型取土场位于河流阶地,代表性土样室内试验,三组CBR值分别为22.8、23、23.2。路基回弹湿度调整系数0.85,冻融循环条件下路基土模量折减系数0.9,取土场估算标准状态下,填料回弹模量是（）MPa。（结果保留1位小数）A.94.8B.124.0C.130.9D.131.7",
+        "answer": "B",
+        "score": 16.67,
+        "unique_ID": "48bc0a26-aafe-4f2a-9884-211f37883e7d",
+        "type": "single_choice",
+        "index": 323
+    },
+    {
+        "question": "8m，1/25洪水位24m，壅水高度为0.6米，波浪侵袭高度为1.2米，该公路为区内唯一公路，则合适的路基边缘高程为（）。A.28.6B.29.1C.30.4D.30.9",
+        "answer": "D",
+        "score": 16.67,
+        "unique_ID": "6495033f-fdff-493d-8a84-ef68735f97bb",
+        "type": "single_choice",
+        "index": 324
+    },
+    {
+        "question": "东北某拟在积雪冰冻的丘陵地区新建一条一级公路，设计速度80km/h，路面横向力系数取0.12时，该公路最大超高时的平曲线最小半径应为多少?(取整数)()A.250mB.${270}\\mathrm{\\;m}$C.${280}\\mathrm{\\;m}$D.300m",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "4782005c-107d-4dee-8337-9aab2447fe2d",
+        "type": "single_choice",
+        "index": 325
+    },
+    {
+        "question": "某山岭区一级公路，设计速度100km/h。其中某一路段的平纵面设计如下图，并分为A、B、C、D四个路段，请从平纵线形组合的合理性的角度分析判断，以下四个路段中平纵组合最为合理的是哪一段？（）[缺图,仅供参考]A.A段B.B段C.C段D.D段",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "5d649914-9af1-48a1-b63a-272a3135823b",
+        "type": "single_choice",
+        "index": 326
+    },
+    {
+        "question": "西北地区城间某拟建四车道高速公路设计速度100km/h，预测年限年平均日交通量为25000pcu/h，车型占比分别是小型车60%，中型车30%，大型车5%，汽车列车5%，方向不均匀系数取0.5，驾驶人总体特征修正系数取1.0。该公路设计通行能力应为多少?(取整数)()A.${790}\\mathrm{{veh}}/\\left({\\mathrm{h}\\cdot1\\mathrm{n}}\\right)$B.${840}\\mathrm{{veh}}/\\left({\\mathrm{h}\\cdot1\\mathrm{n}}\\right)$C.${890}\\mathrm{{veh}}/\\left({\\mathrm{h}\\cdot1\\mathrm{n}}\\right)$D.${930}\\mathrm{{veh}}/\\left({\\mathrm{h}\\cdot1\\mathrm{n}}\\right)$",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "f6ed914d-8f28-4e70-8bd5-2bd23c3cf93e",
+        "type": "single_choice",
+        "index": 327
+    },
+    {
+        "question": "某边坡拟采用预应力锚杆框架防护，锚杆位于稳定地层中的锚固段长度6m，锚杆孔直径13cm，土体与注浆体之间的黏结强度${\\mathrm{f}}_{\\mathrm{{rd}}}={220}\\mathrm{{kPa}}$,注浆体与锚杆之间的黏结强度${\\mathrm{f}}_{\\mathrm{b}}={2400}\\mathrm{{kPa}}$,注浆体为$\\mathrm{M}{30}$水泥砂浆,锚杆采用3根直径22mm的预应力螺纹钢筋电焊成束，其抗拉强度标准值${\\mathrm{f}}_{\\mathrm{{Sk}}}={540}\\mathrm{{MPa}}$,预应力锚杆锚固体设计安全系数K1、K2取2.0。依据规范规定计算每一根锚杆能够提供的轴向锚固力是多少？（结果取小数点后1位，π取3.14）（）A.${258.5}\\mathrm{{kN}}$B.${269.4}\\mathrm{{kN}}$C.${307.8}\\mathrm{{kN}}$D.1044.5kN",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "70be9dc1-b9ca-4453-9776-a8b4601f0a9a",
+        "type": "single_choice",
+        "index": 328
+    },
+    {
+        "question": "某路堤仰斜式挡墙基础宽$3\\mathrm{\\;m}$,作用于基底上合力的竖向分力N$={600}\\mathrm{{kN}}$,墙前被动土压力水平分力${100}\\mathrm{{kN}}$,拦墙基底倾向路基,坡度1：5,墙后主动土压力的水平分力300kN,挡墙不受水的影响,挡墙与基底的摩擦系数0.4,主动土压力分项系数1.0,被动土压力分项系数0.3,基底合力的偏心距满足要求。依据规范规定计算该挡墙的抗滑稳定系数是多少?(取小数点后2位)()A.1.33B.1.45C.1.62D.1.98",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "e31ac3c7-8c5e-458b-b61e-01496bd8fad7",
+        "type": "single_choice",
+        "index": 329
+    },
+    {
+        "question": "陕西关中地区的一处填方路基,地基为湿陷性黄土,地勘查明,地表以下7.5m为自重湿陷性黄土,7.5m以下为非自重湿陷性黄土,取样试验测得自地表向下0.0~1.5m、1.5~3.0m、3.0~4.5m、4.5~5.5m5.$5\\sim{7.5}\\mathrm{\\;m}$的自重湿陷性系数分别为${\\delta}_{zs1}={0.104}、{\\delta}_{zs2}={0.098}、{\\delta}_{zs3}={0.075}、{\\delta}_{zs4}={0.056}、{\\delta}_{zs5}$$={0.028}$,该湿陷性黄土地基的自重湿陷量是多少?()A.${424}\\mathrm{\\;{mm}}$B.${475}\\mathrm{\\;{mm}}$C.${528}\\mathrm{\\;{mm}}$D.633mm",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "4bfba2a8-d419-4e70-b98a-c06e2ec47af9",
+        "type": "single_choice",
+        "index": 330
+    },
+    {
+        "question": "某新建二级公路沥青路面,设计采用粒料类基层,设计使用年限内设计车道当量设计轴载累计作用次数为4.${132}\\times{10}^{6}$,温度调整系数为1.22,则路基顶面的容许竖向压应变是多少?(A.${234}\\left({10}^{-6}\\right)$B.${366}\\left({10}^{-6}\\right)$C.${293}\\left({10}^{-6}\\right)$D.${385}\\left({10}^{-6}\\right)$",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "bc028015-14a0-4177-b212-86ec6c5ce4dd",
+        "type": "single_choice",
+        "index": 331
+    },
+    {
+        "question": "某新建公路,预测初始年各类车辆双向年平均日交通量如下表所列,设计采用底基层为粒料的沥青路面，设计使用年限内交通量的年平均增长率为3.5%，方向系数为0.55，车道系数为0.5，车辆类型分布系数采用TTC5分类标准，已知采用水平三进行路基顶面竖向压应变验算时，确定的2～5类车辆的当量设计轴载换算系数EALF<sub>2</sub>=0.945,EALF<sub>3</sub>=1.180,EALF<sub>4</sub>=3.270,EALF<sub>5</sub>=4210。初始年设计车道日平均当量轴次计算结果是多少?()题11表某新建公路初始年交通量预测结果表(辆/d)<table><thead><tr><th>1类车</th><th>2类车</th><th>3类车</th><th>4类车</th><th>5类车</th></tr></thead><tr><td>12880</td><td>1100</td><td>4900</td><td>2220</td><td>1200</td></tr></table>A.1719次/dB.2326次/dC.2789次/dD.3425次/d",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "33f9336a-3e6c-4714-b4cc-ccccbfc1681c",
+        "type": "single_choice",
+        "index": 332
+    },
+    {
+        "question": "对既有旧水泥混凝土路面钻孔芯样进行劈裂试验,测得三组旧混凝土面层的劈裂强度值分别为2.2MPa.2.5MPa、2.8MPa，标准差为0.3MPa。则该旧混凝土面层的弯拉强度标准值是多少？（）A.3.70MPaB.3.${88}\\mathrm{{MPa}}$C.4.05MPaD.4.25MPa",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "135cf754-5dd2-47db-9a08-0ae8ac496548",
+        "type": "single_choice",
+        "index": 333
+    },
+    {
+        "question": "某预应力混凝土连续梁桥,跨径布置${100}\\mathrm{m}+{180}\\mathrm{m}+{100}\\mathrm{m}$,上下行桥梁分离设置,单幅桥宽${12.5}\\mathrm{m}$,两侧分别设置0.5m宽的墙式护栏。请问，计算汽车荷载作用对中跨跨中截面的荷载效应时，其单幅桥的汽车荷载作用应为一个车道荷载的多少倍?()A.2B.2.27C.2.34D.2.91",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "1b0d0096-1124-45af-9dac-b7179b1eacb4",
+        "type": "single_choice",
+        "index": 334
+    },
+    {
+        "question": "某桥位于寒冷地区,采用3跨连续预应力混凝土梁结构,跨径布置为${50}\\mathrm{\\;m}+{80}\\mathrm{\\;m}+{50}\\mathrm{\\;m}$,中间跨一桥墩设置固定支座,伸缩缝装置预设的安装温度为${15}^{\\circ}\\mathrm{C}\\sim{20}^{\\circ}\\mathrm{C}$。在选用伸缩装置型号时,温度变化贡献较大侧梁端由温度变化贡献的伸缩量值是多少?(不计伸缩量增大系数)()A.0.0637mB.0.0392mC.${0.0245}\\mathrm{\\;m}$D.0.0223m",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "2827cc37-463f-4704-91f7-3a15945fab7b",
+        "type": "single_choice",
+        "index": 335
+    },
+    {
+        "question": "某钢筋混凝土桥墩,圆形截面,截面直径${1.50}\\mathrm{\\;m}$,构件计算长度${1}_{0}={12.75}\\mathrm{\\;m}$,混凝土强度等级为C45,其抗压强度设计值${\\mathrm{f}}_{\\mathrm{{cd}}}={20.5}\\mathrm{{MPa}}$,纵向主钢筋采用HRB400普通钢筋,其抗压强度设计值${\\mathrm{f}}^{\\prime}{}_{\\mathrm{{sd1}}}={330}\\mathrm{{MPa}}$,纵向配筋率为3.5%，箍筋采用HRB300普通钢筋，其抗压强度设计值f'sd2＝250MPa。试计算该桥墩应具备的最小轴向受压承载力。（）A.31952kNB.${48836}\\mathrm{{kN}}$C.${49954}\\mathrm{{kN}}$D.${56637}\\mathrm{{kN}}$",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "fe4d0225-d293-411a-af12-337b48c563b8",
+        "type": "single_choice",
+        "index": 336
+    },
+    {
+        "question": "某公路隧道进口工区穿越高瓦斯地层段,其瓦斯压力为0.15MPa,该地层地段衬砌结构防护等级应为几级？（）A.一级B.二级C.三级D.四级",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "6969748d-f603-43a3-b01c-709238db0e44",
+        "type": "single_choice",
+        "index": 337
+    },
+    {
+        "question": "某二级公路双车道隧道,隧道进口工区穿越高瓦斯地层段,出口工区为微瓦斯工区,按绝对瓦斯涌出量计算需风量时,符合现行规范规定的稀释高低瓦斯工区和微瓦斯工区的瓦斯浓度的是()。A.0.5%以下，0.25%以下B.0.5%，0.25%C.0.7%以下，0.5%以下D.1.0%，0.6%",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "e1174687-d512-4383-ae5a-e1b90b51f3c2",
+        "type": "single_choice",
+        "index": 338
+    },
+    {
+        "question": "某二级公路隧道,隧址区地震基本烈度为Ⅶ度,该隧道抗震设防措施等级应为多少?()A.一级B.二级C.三级D.四级",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "4d4e9bb1-1630-483e-97df-31ec28712bae",
+        "type": "single_choice",
+        "index": 339
+    },
+    {
+        "question": "某城市支路设计速度为30km/h，单幅路布置。机动车双向2车道，两侧设置非机动车道和人行道，机非之间划线分隔。已知每条机动车道宽度为3.5m，预测远景年单向自行车流量为760veh/h，计算该路段车行道符合规范规定的最小宽度应为多少?并说明选择依据和理由。（取小数点后1位）$\\left(\\;\\right)$A.9.OmB.10.0mC.${11.0}\\mathrm{\\;m}$D.12.0m",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "f8e67e49-1934-491e-bd51-274ba71dc230",
+        "type": "single_choice",
+        "index": 340
+    },
+    {
+        "question": "某积雪冰冻地区城市道路立体交叉,匝道设计如下:设计速度为50km/h,单向双车道,路面宽度为8m,行驶普通汽车,直线段路面为向右的单向2%横坡,平面线形采用直线接左偏平曲线,圆曲线半径R=100m。求绥和曲线最小长度（计算值取整）符合规范规定为何项?并说明依据和理由。（横向摩阻力系数$\\mu={0.17}$,超高横坡度百分数取整,超高横坡度为绕路面左侧边缘旋转)()A.${46}\\mathrm{\\;m}$B.50mC.${55}\\mathrm{\\;m}$D.${60}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "904ce486-8404-4532-ab09-7188160aa0d2",
+        "type": "single_choice",
+        "index": 341
+    },
+    {
+        "question": "某城市道路位于季节性冰冻地区,挖方路段设置路堑重力式挡土墙。该处路基下岩土分布由上到下为0.90m厚黏土质砾，0.6m厚基岩风化层，硬岩石基岩，当地冻结深度为0.85m。已知挡土墙基础高度为0.50m，该基础上方设置挖方路基边沟，边沟底的埋置深度为0.80m。不考虑水流冲刷的情况下，计算该挡土墙基础底面的最小埋置深度应为多少?并请说明依据和理由。（取小数后2位）A.1.00mB.1.${10}\\mathrm{\\;m}$C.${1.50}\\mathrm{\\;m}$D.1.${80}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 4.55,
+        "unique_ID": "9ab2013d-023e-4f5e-9b3e-1b0a883bee6b",
+        "type": "single_choice",
+        "index": 342
+    },
+    {
+        "question": "某城市主干路采用沥青路面,水泥稳定碎石基层,路面结构设计的可靠度系数取1.10。面层采用改性沥青SMA混合料，60℃抗剪强度为0.8MPa。已知设计基准期内，该道路某大型公交停靠站同一位置停车的累计当量轴次为2.${16}\\times{10}^{6}$次，沥青层的最大剪应力计算值为0.22MPa。计算该公交停靠站处沥青层的容许抗剪强度,并判断以沥青层剪应力为设计指标,是否符合规范规定。$\\left(\\;\\right)$A.0.23MPa,符合规范规定B.0.23MPa,不符合规范规定C.${0.67}\\mathrm{{MPa}}$,符合规范规定D.${0.67}\\mathrm{{MPa}}$,不符合规范规定",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "63a439eb-ee96-4129-9196-783be43fe267",
+        "type": "single_choice",
+        "index": 343
+    },
+    {
+        "question": "新建某城市地下道路,道路等级为次干路,设计速度为${50}\\mathrm{\\;{km}}/\\mathrm{h}$,地下道路出洞口下游紧邻受信号控制的平面交叉口，交叉口展宽渐变段长25m，展宽段长50m。在满足停车视距和红灯期间车辆排队长度的条件下，计算该地下道路出口接地点至下游平面交叉口停止线的最小距离符合规范规定的是哪项？并请说明依据和理由。（）A.${75}\\mathrm{\\;m}$B.${110}\\mathrm{\\;m}$C.${135}\\mathrm{\\;m}$D.${140}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 4.55,
+        "unique_ID": "d74302ce-a9ea-4420-9b29-fea3e1054885",
+        "type": "single_choice",
+        "index": 344
+    },
+    {
+        "question": "某城市主干路大修工程，拟在其旧沥青路面上加铺5cm细粒式沥青混合料（AC-13C），在不利季节测得旧路面的路表弯沉平均值$$\\overline{{l}_{0}^{\\prime}}={39.3}\\left({{0.01}\\mathrm{\\;{mm}}}\\right)$$，标准差S=1.82（0.01mm）。不考虑季节、湿度影响，计算加铺层弯沉值时，原沥青路面的当量回弹模量应为多少?(取小数点后1位)()A.387.8MPaB.390.2MPaC.398.9MPaD.417.3MPa",
+        "answer": "A",
+        "score": 4.55,
+        "unique_ID": "da136858-c87c-4a19-9ab0-34ca0118e7df",
+        "type": "single_choice",
+        "index": 345
+    },
+    {
+        "question": "某城市道路人行天桥坡度无障碍设计如下图所示,b2、b3、b4、b5、b6尺寸（单位均以m计）中,不符合规范规定的共有几处?并说明选择的依据和理由。$\\left(\\;\\right)$[缺图,仅供参考]A.2处B.3处C.4处D.5处",
+        "answer": "B",
+        "score": 4.55,
+        "unique_ID": "cb6c40ce-ef63-4a41-ab6b-691785d29c16",
+        "type": "single_choice",
+        "index": 346
+    },
+    {
+        "question": "某高速公路采用设计速度${100}\\mathrm{\\;{km}}/\\mathrm{h}$,双向四车道标准,路基宽度${26.0}\\mathrm{\\;m}$,标准横断面和护栏位置如下图。在平曲线路段,中央分隔带曲线外侧相邻车道的最小横净距计算公式为$$m=R\\left\\lbrack{1-\\cos\\left(\\frac{28.65s}{R}\\right)}\\right\\rbrack$$，式中，m为满足视距要求的最小横净距（m）；R为中央分隔带曲线外侧相邻车道中心线的平面圆曲线半径（m）；s为小客车停车视距（m）。在路基中心线平面圆曲线半径的下列各选项中，满足停车视距要求的最小半径是哪一选项?()<table><thead><tr><th>$\\pm$75</th><th>石道300</th><th>行车道2×3.75</th><th>路中央分隔线缘7520075</th><th>行车道$2\\times{3.75}$</th><th>石道300</th><th>$\\pm$75</th></tr></thead><tr><tdcolspan=\"7\">百</td></tr><tr><tdcolspan=\"7\">路基中心线</td></tr></table>A.980mB.1000mC.${1120}\\mathrm{\\;m}$D.${1250}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "0c03db20-149d-41d8-867d-182e259ebf58",
+        "type": "single_choice",
+        "index": 347
+    },
+    {
+        "question": "某越岭区高速公路,设计速度${100}\\mathrm{\\;{km}}/\\mathrm{h}$,其中某越岭段拟采用连续上坡的明线方案,下列各纵坡组合设计方案中,不满足规范要求的是哪一项?()<table><tr><tdrowspan=\"2\">A</td><th>坡长（m）</th><th>700</th><th>250</th><th>500</th><th>300</th><th>500</th><th>400</th><th>650</th></tr><tr><td>坡度</td><td>3.0%</td><td>2.5%</td><td>4.0%</td><td>3.0%</td><td>4.0%</td><td>2.5%</td><td>4.0%</td></tr><tr><tdrowspan=\"2\">B</td><td>坡长（m）</td><td>700</td><td>250</td><td>600</td><td>300</td><td>500</td><td>250</td><td>700</td></tr><tr><td>坡度</td><td>3.0%</td><td>2.5%</td><td>4.0%</td><td>2.5%</td><td>4.0%</td><td>2.5%</td><td>4.0%</td></tr><tr><tdrowspan=\"2\">C</td><td>坡长（m）</td><td>800</td><td>250</td><td>500</td><td>300</td><td>500</td><td>400</td><td>550</td></tr><tr><td>坡度</td><td>3.0%</td><td>2.5%</td><td>4.0%</td><td>3.0%</td><td>2.5%</td><td>4.0%</td><td>2.5%</td></tr><tr><tdrowspan=\"2\">D</td><td>坡长（m）</td><td>800</td><td>450</td><td>250</td><td>300</td><td>250</td><td>550</td><td>700</td></tr><tr><td>坡度</td><td>3.0%</td><td>2.5%</td><td>4.0%</td><td>3.0%</td><td>4.0%</td><td>2.5%</td><td>4.0%</td></tr></table>A.AB.BC.CD.D",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "1bf23127-2ff3-434d-a33f-e8a149938f27",
+        "type": "single_choice",
+        "index": 348
+    },
+    {
+        "question": "某新建八车道高速公路,设计速度${120}\\mathrm{\\;{km}}/\\mathrm{h}$,经论证,可不考虑在左侧紧急停车,内侧两车道(分离式断面的左侧车道）仅限小客车通行。该高速公路分离式断面路段建筑限界横向总宽度的最小值应是多少？（A.17.${25}\\mathrm{\\;m}$B.17.75mC.18.${25}\\mathrm{\\;m}$D.19.${25}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "b5736ad0-9af6-4add-bff3-829745b3b6f2",
+        "type": "single_choice",
+        "index": 349
+    },
+    {
+        "question": "某沿湖公路，路基填筑高度6m（不算路面厚度），设计人员在路基高度2.6m处设置了一层厚度为0.3m的砑石层（作用是隔断毛细水）。路基的下部被湖水长期浸泡。已知路基工作区厚度3.2m，毛细水上升高度${0.8}\\mathrm{\\;m}$,雨季的湖水位比地面高${2.4}\\mathrm{\\;m}$。根据规范规定,该路段路基干湿类型可确定为哪种类型?$\\left(\\;\\right)$A.干燥B.中湿C.潮湿D.无法判断",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "d2a0840a-a6b0-4636-b004-16637d94ac25",
+        "type": "single_choice",
+        "index": 350
+    },
+    {
+        "question": "某公路修建时,对排水沟进行了归并（改沟）,采用了$2\\mathrm{\\;m}\\times2\\mathrm{\\;m}$的矩形明沟,预计排水沟的最大水深1.2m，沟底及侧面采用浆砌片石铺砌，根据规范规定计算该改沟段的排水沟最大允许流速是多少？（取小数点后2位）（）A.3.00m/sB.3.${75}\\mathrm{\\;m}/\\mathrm{s}$C.4.${20}\\mathrm{\\;m}/\\mathrm{s}$D.5.${00}\\mathrm{\\;m}/\\mathrm{s}$",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "c50c2548-4b83-4a10-9f33-107818d31712",
+        "type": "single_choice",
+        "index": 351
+    },
+    {
+        "question": "某新建季节性冻土地区的公路工程,其取土场填料的CBR值为10.5,路基回弹模量湿度调整系数取0.85,冻融循环条件下路基土模量折减系数取0.9，该路段路基的回弹模量设计值是多少？（取小数点后1位）（A.60.6MPaB.61.6MPaC.67.3MPaD.79.3MPa",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "13311ac2-8191-401e-9373-7ac86523ff2d",
+        "type": "single_choice",
+        "index": 352
+    },
+    {
+        "question": "某路堤仰斜式挡墙,采用C20混凝土浇筑基础宽度3m,按承载力极限状态设计,结构重要性系数$\\gamma$($=$1.0，荷载组合为I，墙身重力600kN，墙前被动土压力为103kN（水平方向），墙后主动土压力的水平分力为325kN，主动土压力的垂直分力为33kN（向下），墙身重力到墙趾的距离2.75m，墙后主动土压力的水平分力到墙趾的距离3.42m，墙后主动土压力的竖向分力到墙趾的距离3.64m，墙前被动土压力水平分力到墙趾的距离0.5m，依据规范规定计算，该挡土墙的抗倾覆稳定系数是多少?(取小数后2位)(A.1.53B.1.59C.1.61D.1.64",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "53775fe8-7016-48cb-bbe0-9902db501587",
+        "type": "single_choice",
+        "index": 353
+    },
+    {
+        "question": "某新建双车道二级公路，土路肩宽度0.75m，右侧硬路肩宽度0.75m，行车道宽度3.5m。行车道及硬路肩均采用水泥混凝土路面。当采用小型机具施工时,基层宽度应是多少?()A.${7.6}\\mathrm{\\;m}$B.9.$1\\mathrm{\\;m}$C.${11.3}\\mathrm{\\;m}$D.11.6m",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "753e9b21-026a-42b6-9b30-6d33b8e58227",
+        "type": "single_choice",
+        "index": 354
+    },
+    {
+        "question": "某一级公路路面采用沥青路面结构,已知初始年设计车道日平均当量轴次为2825次/d,交通路年平均增长率为2.8%,则该一级公路设计交通荷载等级是何等级?()A.极重B.特重C.重D.中等",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "acdb1a1e-a664-46b9-b4a8-bb9455e862b8",
+        "type": "single_choice",
+        "index": 355
+    },
+    {
+        "question": "某普通水泥混凝土路面,面层厚度为0.26m,横向缩缝采用不设传力杆形式,则下列选项中横向缩缝顶部锯切槽口深度满足上、下限要求的是多少?()A.${40}\\mathrm{\\;{mm}}$B.${50}\\mathrm{\\;{mm}}$C.${60}\\mathrm{\\;{mm}}$D.${70}\\mathrm{\\;{mm}}$",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "9b7d855b-3a9e-4909-a3d3-bc534095ed31",
+        "type": "single_choice",
+        "index": 356
+    },
+    {
+        "question": "某一级公路上的桥梁,上部构造为30m跨径预应力混凝土T梁,计算跨径为29.5m,请问计算其车道荷载的剪力效应时,集中荷载标准值${\\mathrm{P}}_{\\mathrm{k}}$的取值应为多少?()A.${270.0}\\mathrm{{kN}}$B.319.0kNC.${360.0}\\mathrm{{kN}}$D.${382.8}\\mathrm{{kN}}$",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "416f3572-b779-4a20-aa5f-4c5b3d1e23fb",
+        "type": "single_choice",
+        "index": 357
+    },
+    {
+        "question": "某公路钢筋混凝土梁矩形截面,宽为${1.00}\\mathrm{\\;m}$,高为${2.00}\\mathrm{\\;m}$,采用C50混凝土（轴向抗拉强度设计值f<sub>td</sub>为1.83MPa），计划配置HRB400钢筋（抗拉强度设计值f<sub>sd</sub>为330MPa），假设配筋后的截面有效高度为1.60m。请问受拉一侧至少配置多少根直径25mm的钢筋（计算截面积为4.91×10${}^{-4}$m²）才能满足受拉主筋最小配筋百分率的要求?()A.8根B.9根C.10根D.11根",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "29df8163-7d7e-479b-ae7c-d79628c30507",
+        "type": "single_choice",
+        "index": 358
+    },
+    {
+        "question": "某二级公路上跨径为42m的简支梁桥，跨越不通航河流，设计水位分别为：50年一遇35.6m，100年一退36.00m，300年一遇36.35m；壅水、浪高、漂流物等因素的影响高度总和为3.0m，上部结构梁高2.50m，支座和支座垫石合计高度0.30m，平均桥面铺装厚度0.15m。请计算桥面应满足的最低高程要求。（）A.41.65mB.41.75mC.${42.15}\\mathrm{\\;m}$D.42.${45}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "d63ae79e-9d80-4ec1-8e20-4d5004e94df1",
+        "type": "single_choice",
+        "index": 359
+    },
+    {
+        "question": "某二级公路隧道按单洞双车道设计，设计速度60km/h，该隧道建筑限界高度及基本宽度是多少？（A.4.5m,8.00mB.4.5m，9.00mC.${5.0}\\mathrm{\\;m},{10.00}\\mathrm{\\;m}$D.5.0m,11.00m",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "555a6837-8012-444d-98a9-b09bb9ed41f5",
+        "type": "single_choice",
+        "index": 360
+    },
+    {
+        "question": "某二级公路隧道长度为1550m，设计速度60km/h，双向行车时隧道应设置紧急停车带多少处？（A.0处B.1处C.2处D.3处",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "59ff87c3-007d-44ab-acf9-8d448466ad76",
+        "type": "single_choice",
+        "index": 361
+    },
+    {
+        "question": "新建某城市快速路,设计速度100km/h,道路标准断面布置为0.5（路缘带）$+3\\times{3.75}$m（3条机动车道）$+$0.5（路缘带）$+$5m（中央分隔带）$+$0.5（路缘带）$+$3$\\times$3.73m（3条机动车道）$+$0.5（路缘带），下列关于该路中某桥梁（长1560m）和某隧道（长560m）段横断面布置方案，体现用地节约，路桥隧标准一致，符合规范规定的是何项?并请说明选择理由和依据。（）桥梁、隧道段横断面布置方案(单位:$\\mathrm{m}$)<table><thead><tr><th></th><thcolspan=\"7\">桥梁段断面布置</th><thcolspan=\"3\">隧道段断面布置</th></tr></thead><tr><tdrowspan=\"2\">方案</td><tdcolspan=\"3\">左幅</td><tdrowspan=\"2\">中央分瑞</td><tdcolspan=\"3\">右幅</td><td>左侧</td><tdrowspan=\"2\">机动车道</td><td>右侧</td></tr><tr><td>路缘带</td><td>机动车道</td><td>路缘带</td><td>路缘带</td><td>机动车道</td><td>路缘带</td><td>侧向净宽</td><td>侧向宽度Wmc+Wsc$+\\mathrm{{Wj}}$</td></tr><tr><td>方案一</td><td>0.5</td><td>3×3.75</td><td>0.5</td><td>2</td><td>0.5</td><td>3×3.75</td><td>0.5</td><td>0.75</td><td>3×3.75</td><td>1.25</td></tr><tr><td>方案二</td><td>0.5</td><td>2×3.75+3.50</td><td>0.5</td><td>5</td><td>0.5</td><td>2×3.75+3.50</td><td>0.5</td><td>0.75</td><td>$2\\times{3.75}$$+{3.50}$</td><td>0.75</td></tr><tr><td>方案三</td><td>0.25</td><td>3×3.75</td><td>0.25</td><td>5</td><td>0.25</td><td>3×3.75</td><td>0.25</td><td>0.25</td><td>$3\\times{3.75}$</td><td>0.25</td></tr><tr><td>方案四</td><td>0.5</td><td>3×3.75</td><td>0.5</td><td>2</td><td>0.5</td><td>3×3.75</td><td>0.5</td><td>0.75</td><td>$3\\times{3.75}$</td><td>3</td></tr></table>A.方案一B.方案二C.方案三D.方案四",
+        "answer": "A",
+        "score": 4.76,
+        "unique_ID": "039012ce-4117-4798-b748-8da2b6447f73",
+        "type": "single_choice",
+        "index": 362
+    },
+    {
+        "question": "新建某城市主干路下穿现况轨道线路,主干路设计速度为50km/h,纵断面设计变坡点位于轨道线路中心线，变坡点高程为-5.60m，沿前进方向相邻坡段的纵坡分别为一4.0%和+3.5%。已知轨道桥顶板底的设计标高为+0.80m，顶板结构宽10m，道路净高按5.0m控制。不考虑其他因素的影响，计算该变坡点处道路竖曲线最大半径、竖曲线长度取值应为多少?并请说明依据和理由。（竖曲线半径百位数取整,竖曲线长度取小数点后2位）（）竖曲线计算公式:$$L={2T}=R\\cdot\\left|\\omega\\right|$$,$\\omega=\\mathrm{i}\\langle\\operatorname{sub}\\rangle2\\langle/\\operatorname{sub}\\rangle-\\mathrm{i}\\langle\\operatorname{sub}\\rangle1\\langle/\\operatorname{sub}\\rangle$,$$E=\\frac{{T}^{2}}{2R}$$，对应该桥上部结构的道路竖曲线范围高程可按近似相同计算。A.700m，52.50mB.${1000}\\mathrm{\\;m}$,75.00mC.${1300}\\mathrm{\\;m},{100.00}\\mathrm{\\;m}$D.1900m，142.50m",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "6144de92-bc93-4457-9734-f34cd75275b1",
+        "type": "single_choice",
+        "index": 363
+    },
+    {
+        "question": "某城市支路设计速度为30km/h，单幅路布置，其中车行道由2×3.5m机动车道和两侧各宽2.5m的非机动车道组成,两侧人行道各为${4.0}\\mathrm{\\;m}$。路段中设有$\\mathrm{R}={150}\\mathrm{\\;m}$的圆曲线,道路设计中心线特征点桩号分别为：ZH=K1+230.00，HY=K1+265.00，QZ=K1+282.50，YH=K1+300.00，HZ=K1+335.00。该平曲线桩号K1+260处内侧道路红线处有一110kV的高压杆塔，塔基外缘至道路中心线距离为15.5m。按圆曲线内侧加宽，线性加宽过渡方式设计，不考虑通行铰接车，计算该塔基外缘至道路外边线的水平距离应为多少？（A.4.${22}\\mathrm{\\;m}$B.4.47mC.${4.90}\\mathrm{\\;m}$D.4.${97}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "9d1cbeab-df6b-4c45-80ff-b2ea10ec4c81",
+        "type": "single_choice",
+        "index": 364
+    },
+    {
+        "question": "某城市道路一般立交,其中一条主路设计速度为${60}\\mathrm{\\;{km}}/\\mathrm{h}$,在行车道右侧设置2条连续驶入匝道,不设置集散车道,采用单车道平行式入口。不考虑标准设置距离的影响,下列关于该相邻匝道入口之间的最小净距符合规范规定的是多少?()A.${80}\\mathrm{\\;m}$B.${120}\\mathrm{\\;m}$C.${160}\\mathrm{\\;m}$D.${165}\\mathrm{\\;m}$",
+        "answer": "D",
+        "score": 4.76,
+        "unique_ID": "cdef8523-f2ee-4028-bef5-7e654e9f308a",
+        "type": "single_choice",
+        "index": 365
+    },
+    {
+        "question": "某城市次干路一般填方路段的地基分布有软弱土层，路面结构设计厚度为0.64m，路堤填筑高度为4.14m。拟采用碎石桩处理控制路基工后沉降,碎石桩桩径为${0.50}\\mathrm{\\;m}$,按等边三角形布置的桩距为${1.50}\\mathrm{\\;m}$,桩长为6.00m，桩土应力比取5。在设计年限内，碎石桩桩长深度内未加固地基的工后沉降为0.44m，碎石桩加固地基下卧层的工后沉降为0.12m。不考虑填筑路堤自身沉降,计算该填方路基工后沉降应为多少?并判断是否符合规范规定。（取小数点后2位）（）A.${0.31}\\mathrm{\\;m}$,不符合规范规定B.${0.31}\\mathrm{\\;m}$,符合规范规定C.${0.43}\\mathrm{\\;m}$,符合规范规定D.${0.56}\\mathrm{\\;m}$,不符合规范规定",
+        "answer": "C",
+        "score": 4.76,
+        "unique_ID": "91b66b1a-fe0c-4454-b20d-4900be9614cd",
+        "type": "single_choice",
+        "index": 366
+    },
+    {
+        "question": "新建城市道路下设地下箱涵（结构外廓尺寸：宽×高为5×3m），雨水（内径D＝1000，壁厚10cm）及再生水（DN400）管线，箱涵基础底砌置深度为5m，雨水及再生水管线敷设深度分别为6m和4m，已知箱涵需先行修建,不考虑其他因素,计算箱涵、雨水管线及再生水的布设符合规范要求的最小宽度（含箱涵、管线宽）为多少?(土壤内摩擦角$a={45}^{\\circ},\\tana={1.0}$,管线的开挖沟槽宽度均为$2\\mathrm{\\;m}$)(A.8.$4\\mathrm{\\;m}$B.8.$7\\mathrm{\\;m}$C.${9.1}\\mathrm{\\;m}$D.9.$6\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 4.76,
+        "unique_ID": "dc523c52-5646-4ea6-a68a-3ef48140c2c9",
+        "type": "single_choice",
+        "index": 367
+    },
+    {
+        "question": "公路路线线位的选择,应根据地形、地物条件,除对工程地质、水文地质、气象条件、自然灾害进行充分调查外,还应调查()。A.筑路材料B.交通组成C.生态环境D.自然景观",
+        "answer": "ACD",
+        "score": 1.25,
+        "unique_ID": "f3ad6644-53c1-40d2-868d-6ec103ecfc8f",
+        "type": "multi_choice",
+        "index": 368
+    },
+    {
+        "question": "某山区高速公路,设计速度为${100}\\mathrm{\\;{km}}/\\mathrm{h}$,布设了一座600m长的隧道,符合规范规定的该隧道纵坡是(）。A.0.2%B.${0.5}\\%$C.${2.5}\\%$D.${5.0}\\%$",
+        "answer": "BC",
+        "score": 1.25,
+        "unique_ID": "e5644375-d53f-4ae4-857f-e7813abecb5d",
+        "type": "multi_choice",
+        "index": 369
+    },
+    {
+        "question": "某高原地区新建一级公路,设计速度80km/h,路线走廊带海拔高度在4251m～4863m之间,符合规范规定的设计纵坡是（）。A.$2\\%$B.$3\\%$C.$4\\%$D.$5\\%$",
+        "answer": "ABC",
+        "score": 1.25,
+        "unique_ID": "4a195e85-4951-4352-9f0a-b65e7338d21f",
+        "type": "multi_choice",
+        "index": 370
+    },
+    {
+        "question": "某高速公路设计速度80km/h，在连续上坡路段，下列关于坡度/坡长的组合运用中，符合规范规定的是（）。A.坡度3%/坡长1020m，接坡度0.5%/坡长180m，坡度5%/坡长450mB.坡度4%/坡长840m，接坡度1%/坡长200m，坡度4%/坡长500mC.坡度5%/坡长680m，接坡度1.5%/坡长260m，坡度4%/坡长600mD.坡度6%/坡长650m，接坡度2%/坡长300m，坡度5%/坡长650m",
+        "answer": "BC",
+        "score": 1.25,
+        "unique_ID": "9a17eb70-1a82-4131-a45d-54b138114dc5",
+        "type": "multi_choice",
+        "index": 371
+    },
+    {
+        "question": "施加于挡土墙的作用（或荷载），属于永久作用的有（）。A.填土重力B.挡土墙结构重力C.冻胀压力和冰压力D.计算水位的浮力及静水压力",
+        "answer": "ABD",
+        "score": 1.25,
+        "unique_ID": "0ccfed95-1bf8-451b-91cf-cd094d92d7b1",
+        "type": "multi_choice",
+        "index": 372
+    },
+    {
+        "question": "高速公路高路堤和深路堑设计应进行稳定性计算,下列路基稳定安全系数控制标准合理的有$\\left(\\;\\right)$A.在非正常工况I下,采用快剪指标,高路堤其稳定安全系数采用1.35B.地质条件复杂的深路堑边坡,正常工况下,边坡稳定安全系数采用1.30C.在正常工况下,采用直剪的固结快剪指标,高路堤其稳定安全系数采用1.45D.路堑边坡破坏后的影响区内有桥梁和高压输电塔,非正常工况I下,边坡稳定安全系数采用1.10",
+        "answer": "BC",
+        "score": 1.25,
+        "unique_ID": "10b19d66-4895-4efd-b6fa-2f5a0f81a809",
+        "type": "multi_choice",
+        "index": 373
+    },
+    {
+        "question": "公路挡土墙结构设计时,应按各种设计状况可能同时产生的作用效应进行组合。下列作用或荷载效应组合正确的有（）。A.洪水与地震力应同时考虑B.冻胀力、冰压力与波浪压力应同时考虑C.一般地区,作用在挡土墙上的力可只计算永久作用和基本可变作用D.浸水地区、地震动峰值加速度值为0.2g及以上的地区、产生冻胀力的地区等，尚应计算其他可变作用和偶然作用",
+        "answer": "CD",
+        "score": 1.25,
+        "unique_ID": "5754fc82-9284-4d19-acb4-eb96bab46a15",
+        "type": "multi_choice",
+        "index": 374
+    },
+    {
+        "question": "利用挖方的石料填筑公路路基,在山区公路设计时会经常遇到。下列关于填石路基设计中,合理的方案是（）。A.不采取措施直接用软质岩石作路堤填料B.可用硬质岩石和中硬岩石作路床、路堤填料C.在填石路堤施工质量检测时,可采用孔隙率与压实沉降差联合控制D.采用硬质岩石填筑上路堤顶部最后一层时,每层厚度不大于0.40m,最大粒径小于${150}\\mathrm{\\;{mn}}$",
+        "answer": "ABC",
+        "score": 1.25,
+        "unique_ID": "c97f55b5-1528-4b47-bb4d-1b8df8f7e783",
+        "type": "multi_choice",
+        "index": 375
+    },
+    {
+        "question": "公路沥青路面结构类型按基层材料性质分类时,除水泥混凝土基层类型外,其他基层类型是()A.有机结合料稳定类B.无机结合料稳定类C.粒料类D.沥青结合料类",
+        "answer": "BCD",
+        "score": 1.25,
+        "unique_ID": "17fe06d0-da57-484e-b2f3-09b2fb0e3d24",
+        "type": "multi_choice",
+        "index": 376
+    },
+    {
+        "question": "季节性冻土地区的公路沥青路面厚度不满足防冻要求时,应增设防冻层,防冻层宜采用的粒料类材料包括（）。A.粗砂B.砂砾C.碎石D.黏土",
+        "answer": "ABC",
+        "score": 1.25,
+        "unique_ID": "3cb5a220-4fd9-4744-8f51-728637854c22",
+        "type": "multi_choice",
+        "index": 377
+    },
+    {
+        "question": "基层下应设置底基层的公路水泥混凝土路面所承受的交通荷载等级是()。A.中等B.重C.特重D.极重",
+        "answer": "BCD",
+        "score": 1.25,
+        "unique_ID": "ecc90d9a-53f0-4feb-9298-117a63e7525b",
+        "type": "multi_choice",
+        "index": 378
+    },
+    {
+        "question": "公路水泥混凝土路面行车道路面结构设置排水基层或垫层时,应在排水基层或垫层外侧边缘设置的是(）。A.横向集水沟B.纵向集水沟C.不带孔集水管D.带孔集水管",
+        "answer": "BD",
+        "score": 1.25,
+        "unique_ID": "1ddce461-c48b-454c-9df0-10971aefa953",
+        "type": "multi_choice",
+        "index": 379
+    },
+    {
+        "question": "公路桥涵结构设计时,实际不可能同时出现的作用或同时参与组合概率很小的作用,应该不考虑其参与组合。请问,汽车制动力不应同时参与组合的作用是（）。A.支座摩阻力B.人群荷载C.流水压力D.地震作用",
+        "answer": "AC",
+        "score": 1.25,
+        "unique_ID": "fa1751ec-70aa-44ae-8d37-6f522ded7860",
+        "type": "multi_choice",
+        "index": 380
+    },
+    {
+        "question": "公路桥涵应进行承载能力极限状态设计的设计状况除持久状况外,还有()A.地震状况B.短暂状况C.疲劳状况D.偶然状况",
+        "answer": "ABD",
+        "score": 1.25,
+        "unique_ID": "3493bfb1-42f8-4583-a390-3b9a6b8ebffa",
+        "type": "multi_choice",
+        "index": 381
+    },
+    {
+        "question": "公路隧道明洞式洞门设计应符合的规定是（）。A.洞口衬砌应采用片石混凝土结构B.洞顶设计的回填坡面宜按自然山坡坡度回填C.洞顶采用土石回填时,坡率不陡于1：1,表面宜植草覆盖D.洞口段衬砌应伸出原山坡坡面或设计回填坡面不小于500mm",
+        "answer": "BCD",
+        "score": 1.25,
+        "unique_ID": "10ceeeb9-c1db-4cb1-bdb9-b0ea46b008a9",
+        "type": "multi_choice",
+        "index": 382
+    },
+    {
+        "question": "位于岩溶地段的公路隧道,对隧道底部有充填的溶洞,应根据溶洞充填物的特征以及溶洞与隧道的位置关系,采取$\\left(\\;\\right)$等措施进行处理。A.跨越B.换填C.注浆D.开挖洞穴",
+        "answer": "ABC",
+        "score": 1.25,
+        "unique_ID": "070f080b-2180-4a94-b48a-ec78ec4abca0",
+        "type": "multi_choice",
+        "index": 383
+    },
+    {
+        "question": "在进行公路隧道端墙式洞门设计时,符合规范有关规定的要求是()A.洞门端墙墙顶应高出墙背回填面0.3mB.洞顶排水沟沟底至拱顶衬砌外缘的最小厚度不应小于0.8mC.洞门墙墙身最小厚度不应小于0.5mD.翼墙墙身厚度不应小于0.3m",
+        "answer": "CD",
+        "score": 1.25,
+        "unique_ID": "78d97f67-1e91-4b13-a596-6aa0bee02f6d",
+        "type": "multi_choice",
+        "index": 384
+    },
+    {
+        "question": "公路隧道通过浅埋段、严重偏压段、自稳性差的软弱地层、断层破碎带地段时,可采取的辅助工程措施主要有（）。A.超前管棚、超前小导管、超前锚杆B.超前钻孔排水、泄水洞排水、井点降水C.超前钻孔注浆、超前水平旋喷桩、超前玻璃纤维锚杆D.地表砂浆锚杆、地表注浆、锁脚锚杆",
+        "answer": "ACD",
+        "score": 1.25,
+        "unique_ID": "a4165712-917c-4c02-a266-9666ccb9d86d",
+        "type": "multi_choice",
+        "index": 385
+    },
+    {
+        "question": "当设计速度为80km/h的二级公路与交通量相近的公路平面交叉,且交叉范围设计速度需适当降低时,在下列各选项中,可采用的设计速度有()。A.${40}\\mathrm{\\;{km}}/\\mathrm{h}$B.${50}\\mathrm{\\;{km}}/\\mathrm{h}$C.${60}\\mathrm{\\;{km}}/\\mathrm{h}$D.${70}\\mathrm{\\;{km}}/\\mathrm{h}$",
+        "answer": "CD",
+        "score": 1.25,
+        "unique_ID": "c39cca13-3ae4-472a-b7f8-c8caf85e7703",
+        "type": "multi_choice",
+        "index": 386
+    },
+    {
+        "question": "平面交叉范围主要公路设计速度为${60}\\mathrm{\\;{km}}/\\mathrm{h}$,在凸形竖曲线半径的下列4个选项中,满足引道视距要求的有（）。A.${1850}\\mathrm{\\;m}$B.${2100}\\mathrm{\\;m}$C.${2600}\\mathrm{\\;m}$D.${2800}\\mathrm{\\;m}$",
+        "answer": "CD",
+        "score": 1.25,
+        "unique_ID": "0a16c2e0-e956-4a28-9a2f-5e239817ea67",
+        "type": "multi_choice",
+        "index": 387
+    },
+    {
+        "question": "下列各项为单车道直接式减速车道出口渐变率,其中符合公路有关规范规定的有()A.$1/{12.5}$B.$1/{15.0}$C.$1/{22.5}$D.$1/{25.0}$",
+        "answer": "CD",
+        "score": 1.25,
+        "unique_ID": "7f3d472a-d831-4470-8fa6-339a2389b7cc",
+        "type": "multi_choice",
+        "index": 388
+    },
+    {
+        "question": "《高速公路交通工程及沿线设施设计通用规范》（JTGD80—2006）规定，高速公路路侧护栏防撞等级为4级（SA）时,路侧情况为车辆越出路外可能发生严重事故路段及（）。A.桥头引道段B.隧道洞口连接线段C.地形陡峭路段D.高挡墙的路段",
+        "answer": "CD",
+        "score": 1.25,
+        "unique_ID": "5fa6cebc-2bc5-44ec-bb35-edece60ba49b",
+        "type": "multi_choice",
+        "index": 389
+    },
+    {
+        "question": "《高速公路交通工程及沿线设施设计通用规范》（JTGD80—2006）规定，高速公路服务区、停车区的建设规模应根据公路设计交通量、交通组成、自然环境、用地条件等因素确定。应按预测的第20年交通量设计的项目有（）。A.停车场建筑B.用地C.预留、预埋等相关工程D.餐饮建筑",
+        "answer": "BC",
+        "score": 1.25,
+        "unique_ID": "fe54ff5f-1fcc-4849-adfc-73a8666d578f",
+        "type": "multi_choice",
+        "index": 390
+    },
+    {
+        "question": "《公路交通安全设施设计规范》（JTGD81—2017）规定,高速公路设计速度为${120}\\mathrm{\\;{km}}/\\mathrm{h}$,桥梁采用整体式上部结构并安装六(SS、SSm)级桥梁护栏,该桥梁最可能是跨越了()。A.湖泊B.公路、铁路路段C.饮用水水源一级保护区D.城市经济开发区",
+        "answer": "BC",
+        "score": 1.25,
+        "unique_ID": "8a82156e-febd-4d0a-94b9-1b0a2dc3f634",
+        "type": "multi_choice",
+        "index": 391
+    },
+    {
+        "question": "根据《公路工程基本建设项目概算预算编制办法》（JTG3830—2018）的规定，概（预）算总金额包括（）。A.建筑安装工程费B.生产准备费C.工程建设其他费用D.预备费",
+        "answer": "ACD",
+        "score": 1.25,
+        "unique_ID": "72eaae0e-1995-4fbc-920f-a8fadbefcba5",
+        "type": "multi_choice",
+        "index": 392
+    },
+    {
+        "question": "下列有关城市道路工程建设的原则,符合规范规定的是$\\left(\\;\\right)$。A.应进行重要阶段质量控制B.应遵循节水、节地、节材、节省资源及保护环境C.应采用质量合格并满足要求的材料、产品和设备D.应满足对文物、古树古木、水源地的保护要求",
+        "answer": "BCD",
+        "score": 1.25,
+        "unique_ID": "4a328b5b-16c1-45ab-b1a5-65f93574f17a",
+        "type": "multi_choice",
+        "index": 393
+    },
+    {
+        "question": "下列有关城市道路过街设施的设置要求,符合规范规定的是$\\left(\\;\\right)$。A.平面交叉口应设置行人和非机动车过街设施B.穿越快速路的行人过街设施,必须采用人行天桥C.对视距受限制的路段,应设置人行横道D.人行横道的宽度应根据行人过街数量和信号控制方案确定",
+        "answer": "AD",
+        "score": 1.25,
+        "unique_ID": "85ab38af-cb81-4835-a957-3c0aa3cd3c42",
+        "type": "multi_choice",
+        "index": 394
+    },
+    {
+        "question": "某两条城市主干路相交,采用灯控平面交叉口,下列关于该交叉口进出口的设计要求中,符合规范规定的是（）。A.左转专用车道长度达${90}\\mathrm{\\;m}$时,宜设两条左转专用进口车道B.相邻进口道设有右转专用车道时,出口道应展宽两条右转专用出口车道C.可通过压缩较宽的中央分隔带新辟左转专用进口车道,但压缩后的中央分隔带宽度至少应为1.0nD.当设置公交停靠站时,出口道长度由出口道展宽段和展宽渐变段组成",
+        "answer": "AD",
+        "score": 1.25,
+        "unique_ID": "a98ffc0a-8d28-4678-8bbe-f4e387415075",
+        "type": "multi_choice",
+        "index": 395
+    },
+    {
+        "question": "下列关于城市立交设计中集散车道的设置条件,符合规范规定的是$\\left(\\;\\right)$。A.两个以上出入口分流端部靠得近时,可设置集散车道B.所需要交织长度得不到保证时,可设置集散车道C.通过车道交通量大,需要分离时,可设置集散车道D.集散车道可为单车道,每条车道宽度应为${3.75}\\mathrm{\\;m}$",
+        "answer": "BC",
+        "score": 1.25,
+        "unique_ID": "b93c2ec8-0faa-4705-814a-dd94e8fad7c5",
+        "type": "multi_choice",
+        "index": 396
+    },
+    {
+        "question": "城市道路平面设计中,当受地形条件限制时,下列关于半径不同的同向圆曲线可采用复曲线连接的设置条件,符合规范规定的是$\\left(\\;\\right)$。A.设计速度大于等于${40}\\mathrm{\\;{km}}/\\mathrm{h}$时,半径不同的同向圆曲线连接处B.小圆半径大于或等于不设超高的最小圆曲线半径C.小圆半径小于不设缓和曲线的最小圆曲线半径,但大圆与小圆的内移值之差小于或等于0.1mD.大圆半径与小圆半径之比值小于或等于1.5",
+        "answer": "CD",
+        "score": 1.25,
+        "unique_ID": "f77f4631-531e-4639-91d7-1f1ba01dfbcb",
+        "type": "multi_choice",
+        "index": 397
+    },
+    {
+        "question": "下列关于城市道路环形交叉口环道设计,不考虑信号灯控制,符合规范规定的是()A.环道的机动车道数宜为$2\\sim4$条B.环道纵坡度不宜大于$2\\%$C.中心岛上不应布设人行道D.环道布置为机动车与非机动车分行时,可用分隔带分隔,分隔带宽度不应小于1.5m",
+        "answer": "BC",
+        "score": 1.25,
+        "unique_ID": "6771b5a9-fe1d-48ee-a6ac-9e5b4c541093",
+        "type": "multi_choice",
+        "index": 398
+    },
+    {
+        "question": "下列关于城市道路无障碍缘石坡道的设计要求,符合规范规定的是()。A.采用全宽式单面坡缘石坡道时,其坡度不应大于1：20B.人行道在各种路口、各种出入口位置必须设置缘石坡道C.采用三面坡缘石坡道时,其正面坡道坡口宽度不应小于1.0mD.宜优先选用全宽式单面坡缘石坡道,其宽度应与人行道宽度相同",
+        "answer": "ABD",
+        "score": 1.25,
+        "unique_ID": "ec6c130a-c842-43aa-95d6-f31043c8f45a",
+        "type": "multi_choice",
+        "index": 399
+    },
+    {
+        "question": "下列关于城市道路管线工程采用综合管廊敷设的适用条件,符合规范规定的是().A.高强度集中开发区域、重要的公共空间B.交通流量大或地下管线密集的城市道路C.道路宽度难以满足直埋多种管线的路段D.宜开挖路面的地段",
+        "answer": "ABC",
+        "score": 1.25,
+        "unique_ID": "62d99fa2-7ee5-4ac0-a310-02eea67406bc",
+        "type": "multi_choice",
+        "index": 400
+    },
+    {
+        "question": "下列关于城市道路路基回填的要求,符合规范规定的是$\\left(\\;\\right)$。A.掘路工程中,回填路基的回填弹性模量应达到与新建道路相同的标准B.掘路工程中,路基回填宜选用强度高、级配良好、水稳定性好、便于获取与压实的材料C.管道沟槽回填时,沟槽底至管顶以上0.8m范围内,填料最大粒径应小于50mmD.管道检查井周边回填土的压实度应符合回填路基压实度要求",
+        "answer": "ABD",
+        "score": 1.25,
+        "unique_ID": "27b1ab15-6a16-4d5e-b14d-ce55d852cead",
+        "type": "multi_choice",
+        "index": 401
+    },
+    {
+        "question": "下列关于城市道路交通主标志的分类,符合规范规定的是$\\left(\\;\\right)$。A.禁令和警告标志B.指路和指示标志C.旅游区和作业区标志D.车辆种类标志",
+        "answer": "ABC",
+        "score": 1.25,
+        "unique_ID": "a33b5823-4771-4f8f-8ddd-b7f79331d716",
+        "type": "multi_choice",
+        "index": 402
+    },
+    {
+        "question": "公路技术等级选用应遵循一定的原则。其中,次要干线公路应选用()A.三级公路B.二级公路C.一级公路D.高速公路",
+        "answer": "BCD",
+        "score": 1.19,
+        "unique_ID": "884bb49c-f47f-43c0-9cbb-0fecb72caaac",
+        "type": "multi_choice",
+        "index": 403
+    },
+    {
+        "question": "二级公路设计速度一般情况下可选择（$\\;$）。A.${100}\\mathrm{\\;{km}}/\\mathrm{h}$B.${80}\\mathrm{\\;{km}}/\\mathrm{h}$C.${60}\\mathrm{\\;{km}}/\\mathrm{h}$D.${40}\\mathrm{\\;{km}}/\\mathrm{h}$",
+        "answer": "BC",
+        "score": 1.19,
+        "unique_ID": "aa2c909d-ca33-4d64-94a4-4d044318f0e9",
+        "type": "multi_choice",
+        "index": 404
+    },
+    {
+        "question": "某高速公路项目设计速度为120公里/小时,正常情况下,圆曲线的运用()A.应与地形相适应,以采用超高为$2\\%\\sim4\\%$的圆曲线半径为宜B.条件受限制时,R可采用大于1000mC.R可采用大于等于${650}\\mathrm{\\;m}$,小于${1000}\\mathrm{\\;m}$D.可采用小于${650}\\mathrm{\\;m}$",
+        "answer": "AC",
+        "score": 1.19,
+        "unique_ID": "04031655-0c81-461e-af34-4ad10cb64051",
+        "type": "multi_choice",
+        "index": 405
+    },
+    {
+        "question": "一般情况下,公路设计应采用运行速度进行检验的路段有()。A.平纵配合良好路段B.平纵指标变化大的路段C.最大或最小平纵技术指标采用路段D.实际速度可能高于或低于设计速度的路段",
+        "answer": "BCD",
+        "score": 1.19,
+        "unique_ID": "52ef4c60-749a-4035-ac83-2a00545e4acb",
+        "type": "multi_choice",
+        "index": 406
+    },
+    {
+        "question": "公路路基宽度为车道宽度和与路肩宽度之和,除应计入中间带、加（减）速车道、爬坡车道、紧急停车带、超车道、错车道、慢车道外，下列选项中还应计入的有（$\\;$）。A.侧分隔带B.人行道C.避险车道D.非机动车道",
+        "answer": "AD",
+        "score": 1.19,
+        "unique_ID": "319e3081-d5a9-4c0f-ab87-45ea6d4580bc",
+        "type": "multi_choice",
+        "index": 407
+    },
+    {
+        "question": "[已过时]公路线形与桥梁的配合,下面说法恰当的有()。A.桥梁及其引道的位置、线形可不与路线线形相协调B.桥(涵)路衔接处的外侧护栏在平面上应为同一直线或曲线C.高速公路、一级公路上的桥梁线形应与路线线形相协调,且连续、流畅D.桥梁及其引道的位置、线形应与路线线形相协调,使之视野开阔,视线诱导良好",
+        "answer": "BCD",
+        "score": 1.19,
+        "unique_ID": "780d759e-3f76-4d83-a1ed-b6a1e49efb7d",
+        "type": "multi_choice",
+        "index": 408
+    },
+    {
+        "question": "选择公路路基横断面形式时,应因地制宜,统筹考虑的因素有$\\left(\\;\\right)$。A.公路等级B.施工条件C.地形条件D.地质条件",
+        "answer": "CD",
+        "score": 1.19,
+        "unique_ID": "36bc1bb6-b5e7-4b02-a1ec-0925cdd60d48",
+        "type": "multi_choice",
+        "index": 409
+    },
+    {
+        "question": "《公路路基设计规范》（JTGD30—2015）规定，根据路基平衡湿度状况可依据路基的温度来源，将路基湿度状况划分为（）。A.干燥状态B.中湿状态C.潮湿状态D.过湿状态",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "2fb0fba5-7c27-4020-9336-d68dffa3e34b",
+        "type": "multi_choice",
+        "index": 410
+    },
+    {
+        "question": "公路控方路基路顶上设置截水沟时,应综合考虑的因素有()。A.主顶的地形条件B.堑顶的汇水面积C.挖方路基边坡坡率D.边坡高度",
+        "answer": "AB",
+        "score": 1.19,
+        "unique_ID": "feb95a67-5562-46e2-bffa-77a5cb054522",
+        "type": "multi_choice",
+        "index": 411
+    },
+    {
+        "question": "增加路堤边坡稳定性,可采取的有效措施有()。A.路堤加筋B.设置支挡结构物C.边坡中部增设平台并放缓边坡坡率D.设防落石网",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "02544fd7-03d5-4c7e-9637-04f71e1095ab",
+        "type": "multi_choice",
+        "index": 412
+    },
+    {
+        "question": "公路沥青路面结构层可由多层结构组成,除垫层外,还有()A.面层B.封层C.基层D.底基层",
+        "answer": "ACD",
+        "score": 1.19,
+        "unique_ID": "ffa18ee0-c82d-4dd9-a477-cdbbe7162efb",
+        "type": "multi_choice",
+        "index": 413
+    },
+    {
+        "question": "公路沥青路面的垫层是设置在底基层与土基之间的结构层,其作用有$\\left(\\;\\right)$。A.耐磨B.排水C.隔水D.防冻",
+        "answer": "BCD",
+        "score": 1.19,
+        "unique_ID": "18661040-ecaf-4ecd-8c28-414e8f056ab3",
+        "type": "multi_choice",
+        "index": 414
+    },
+    {
+        "question": "[已过时]确定新建公路沥青路面结构厚度时,二级及以上等级的公路沥青路面结构设计的指标有(）。A.路表面回弹弯沉值B.沥青混凝土层的层底拉应力C.半刚性材料层的层底拉应力D.路表面设计弯沉值",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "ed2f7a80-e461-49ff-b1cb-ee04cec01c88",
+        "type": "multi_choice",
+        "index": 415
+    },
+    {
+        "question": "公路水泥混凝土路面的路基应（$\\;$）。A.稳定B.耐磨C.密实D.均质",
+        "answer": "ACD",
+        "score": 1.19,
+        "unique_ID": "8c93393f-6328-4283-b52f-a18de344fcba",
+        "type": "multi_choice",
+        "index": 416
+    },
+    {
+        "question": "公路桥涵设计时,下列属于永久作用的有()。A.温度(均匀温度和梯度温度)作用B.汽车引起的土侧压力C.混凝土收缩及徐变作用D.基础变位作用",
+        "answer": "CD",
+        "score": 1.19,
+        "unique_ID": "d11a4eb7-e83d-4efd-ad1c-827edcb9aa0e",
+        "type": "multi_choice",
+        "index": 417
+    },
+    {
+        "question": "公路桥梁墩台冲刷计算应包括（$\\;$）。A.河床自然演变冲刷B.桥下一般冲刷C.墩台局部冲刷D.洪水冲刷",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "c912763b-b07c-4be1-827a-d132ecdf59e4",
+        "type": "multi_choice",
+        "index": 418
+    },
+    {
+        "question": "公路桥梁的抗震设防目标有（$\\;$）。A.E1地震作用下,A类结构应不受损坏或不需修复可继续使用B.E1地震作用下,B类、C类结构应不受损坏或不需修复可继续使用C.E2地震作用下,A类结构可发生局部轻微损伤,不需修复或经简单修复可继续使用D.E2地震作用下,D类结构不致倒塌或产生严重结构损伤,经临时加固后可供维持应急交通使用",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "07240a68-53ef-4a84-b00e-32182b0594f9",
+        "type": "multi_choice",
+        "index": 419
+    },
+    {
+        "question": "桥涵设计流量计算可以采用的方法有()。A.利用历史洪水位推算B.利用实测洪水流量系列推算C.按地区经验公式及水文参数求算D.汇水面积大于150平方公里的河流,可按推理公式计算,相关参数取值采用当地编制的暴雨径流图表值",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "e7dd04e3-1952-4348-97c9-f975675ec473",
+        "type": "multi_choice",
+        "index": 420
+    },
+    {
+        "question": "公路隧道设计制订的施工计划主要包括（$\\;$）。A.总工期要求B.施工队伍确定C.合理工区的划分D.施工便道、弃渣场、临时设施、监控量测方案",
+        "answer": "ACD",
+        "score": 1.19,
+        "unique_ID": "b477045b-041e-41de-9c8d-b4c69d68478b",
+        "type": "multi_choice",
+        "index": 421
+    },
+    {
+        "question": "组成公路隧道复合式衬砌的有（$\\;$）。A.铺防水板B.初期支护C.二次衬砌D.中间防水层",
+        "answer": "BC",
+        "score": 1.19,
+        "unique_ID": "a89c1599-49ce-43fb-9f51-a1de8a2e2ead",
+        "type": "multi_choice",
+        "index": 422
+    },
+    {
+        "question": "膨胀性围岩公路隧道应采用的设计方法有（$\\;$）。A.先柔后刚B.先让后顶C.分层支护D.超前支护",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "14e0cbde-f3f6-417e-ac84-165529032dd7",
+        "type": "multi_choice",
+        "index": 423
+    },
+    {
+        "question": "[已过时]公路隧道超前导洞排水设计应遵循的原则有（$\\;$）。A.导洞面积不应小于5平方米B.导洞应和正洞平行或接近平行C.导洞底标高应低于正洞底标高D.导洞应超前正洞${10}\\sim{20}\\mathrm{\\;m}$,至少应超前1个循环进尺",
+        "answer": "BCD",
+        "score": 1.19,
+        "unique_ID": "73ebcbae-3696-4276-bb3a-895bdcb8d60b",
+        "type": "multi_choice",
+        "index": 424
+    },
+    {
+        "question": "下列各级公路中,平面交叉应进行渠化设计的有()。A.一级公路B.二级公路C.三级公路D.四级公路",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "a32d1db3-1b13-4ec9-91ab-dab761709360",
+        "type": "multi_choice",
+        "index": 425
+    },
+    {
+        "question": "公路与乡村道路相交叉时,净高不小于2.70m的车行通道,通行的有$(\\;$)。A.汽车B.拖拉机C.畜力车D.自行车",
+        "answer": "BC",
+        "score": 1.19,
+        "unique_ID": "a837a667-b8ca-4859-9491-d017e6b861b4",
+        "type": "multi_choice",
+        "index": 426
+    },
+    {
+        "question": "根据《公路工程基本建设项目概算预算编制办法》，企业管理费的组成包括()A.临时设施费B.职工探亲路费C.职工取暖补贴D.财务费用",
+        "answer": "BCD",
+        "score": 1.19,
+        "unique_ID": "990f5792-73eb-4878-9cd8-04fd3c98247f",
+        "type": "multi_choice",
+        "index": 427
+    },
+    {
+        "question": "影响确定城市道路标准路段横坡坡度的因素,除路面宽度之外,还有()A.纵坡B.路面类型C.设计车辆D.气候条件",
+        "answer": "ABD",
+        "score": 1.19,
+        "unique_ID": "e6984e0e-ecda-40b0-a1bf-78a7573c5aae",
+        "type": "multi_choice",
+        "index": 428
+    },
+    {
+        "question": "城市快速路应实现交通连续通行,并应()。A.中央分隔B.部分控制出入C.全部控制出入D.控制出入口间距及形式",
+        "answer": "ACD",
+        "score": 1.19,
+        "unique_ID": "f78b912e-d0bb-4996-bc52-c9fec501b7ce",
+        "type": "multi_choice",
+        "index": 429
+    },
+    {
+        "question": "影响确定城市热力、电信、电力电缆工程管线敷设覆土深度的因素包括（$\\;$）。A.土壤性质B.冰冻深度C.地面承受荷载的大小D.管道材料",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "8bfe7083-4da4-46cb-9d07-e1d336ff0d6d",
+        "type": "multi_choice",
+        "index": 430
+    },
+    {
+        "question": "城镇道路路基范围内存在既有地下管线等构筑物时,施工应符合的规定包括()A.施工前,应根据管线等构筑物顶部与路床的高差,结合构筑物结构状况,分析、评估其受施工影响程度,采取相应的保护措施B.对构筑物的永久性加固,应在达到规定强度后方可承受施工荷载C.构筑物拆改或加固保护处理措施后,即可进行下一工序施工D.施工中,应保持构筑物的临时加固设施处于有效工作状态",
+        "answer": "ABD",
+        "score": 1.19,
+        "unique_ID": "66b53587-4ac4-448b-9b4e-8da8f47ebc25",
+        "type": "multi_choice",
+        "index": 431
+    },
+    {
+        "question": "城市道路路面的垫层应满足的性能包括$\\left(\\;\\right)$。A.强度B.抗冻性C.水稳定性D.扩散荷载的能力",
+        "answer": "AC",
+        "score": 1.19,
+        "unique_ID": "be55139d-37cd-4f24-9ddd-72b2257839af",
+        "type": "multi_choice",
+        "index": 432
+    },
+    {
+        "question": "拟建设计速度为60km/h的城市快速路隧道，隧道洞口内外侧平纵线形需保持一致的范围应不小于（）。A.$3\\mathrm{\\;s}$设计速度的行程长度B.$5\\mathrm{\\;s}$设计速度的行程长度C.${50}\\mathrm{\\;m}$D.${80}\\mathrm{\\;m}$",
+        "answer": "AC",
+        "score": 1.19,
+        "unique_ID": "bdf02513-1893-402e-a613-1a5f52b46494",
+        "type": "multi_choice",
+        "index": 433
+    },
+    {
+        "question": "城市道路平面交叉口设计中,设置进口道左转专用车道的合适方法有()A.展宽进口道,以便新增左转专用车道B.道路中钱偏移,以便新增左转专用车道C.压缩非机动车道宽度,以便新增左转专用车道D.压缩较宽的中央分隔带,以便新增左转专用车道",
+        "answer": "ABD",
+        "score": 1.19,
+        "unique_ID": "8105324b-c00b-4a5f-b33d-3a51d8da390b",
+        "type": "multi_choice",
+        "index": 434
+    },
+    {
+        "question": "城市道路交叉分为平面交叉和立体交叉,确定交叉形式的主要根据有$\\left(\\;\\right)$A.相交道路的等级和功能B.交通流量和流向C.地形和地质条件D.气象条件",
+        "answer": "ABC",
+        "score": 1.19,
+        "unique_ID": "fe6a6456-76c7-4e05-8b26-14b58500bf8a",
+        "type": "multi_choice",
+        "index": 435
+    },
+    {
+        "question": "城镇道路开工前,应向施工单位移交测量控制桩、水准点。移交工作由建设单位组织,参加的单位有）。A.运营单位B.设计单位C.勘测单位D.审评单位",
+        "answer": "BC",
+        "score": 1.19,
+        "unique_ID": "c030a0d8-effa-4063-8a05-e14f1f5c36f1",
+        "type": "multi_choice",
+        "index": 436
+    },
+    {
+        "question": "公路建设必须执行国家环境保护和资源节约的法律法规,应作环境影响评价和水土保持方案评价的包括（）。A.高速公路B.一、二级公路C.三级公路D.有特殊要求的公路建设项目",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "2650d977-1893-4b09-9513-569b93579b8d",
+        "type": "multi_choice",
+        "index": 437
+    },
+    {
+        "question": "支线公路宜选用（$\\;$）。A.一级公路B.二级公路C.三级公路D.四级公路",
+        "answer": "CD",
+        "score": 1.2,
+        "unique_ID": "e7c484b5-d4d0-4853-b66d-4c94797701dc",
+        "type": "multi_choice",
+        "index": 438
+    },
+    {
+        "question": "某三级公路采用设计速度${40}\\mathrm{\\;{km}}/\\mathrm{h}$,在路线设计中纵坡坡度可采用()。A.$5\\%$B.$6\\%$C.$7\\%$D.${10}\\%$",
+        "answer": "ABC",
+        "score": 1.2,
+        "unique_ID": "982d0bc8-dac6-45f7-92bc-5dde10bc1e72",
+        "type": "multi_choice",
+        "index": 439
+    },
+    {
+        "question": "某高速公路项目设计速度为100公里/小时,由于地形地物等严格限制,必须采用长直线。因此,依据《公路路线设计规范》（JTGD20—2006），该路段路线平面设计（$\\;$）。A.不应采用超过2000米的长直线B.不应采用超过3000米的长直线C.直线的长度不直过长D.受特殊情况限制而采用长直线时,应采取相应的交通安全技术措施",
+        "answer": "CD",
+        "score": 1.2,
+        "unique_ID": "0daac3cd-460b-4928-8a60-3b99fe454930",
+        "type": "multi_choice",
+        "index": 440
+    },
+    {
+        "question": "[已过时]公路线形与沿线设施的配合,下面说法正确的有()。A.线形设计应考虑主线收费站、匝道收费站、服务区、停车区等沿线设施布设的要求B.线形设计可不考虑主线收费站、匝道收费站服务区、停车区等沿线设施布设的要求C.服务区、停车区及公共汽车停靠站等区段内主线指标可参照互通立交的有关设计规定D.可将主线收费站设置在凹形竖曲线底部",
+        "answer": "AC",
+        "score": 1.2,
+        "unique_ID": "0ba8e90c-3047-4f2e-a7c7-6ea0afffe8af",
+        "type": "multi_choice",
+        "index": 441
+    },
+    {
+        "question": "公路路线总体设计的要点有（）。A.路线设计指标的优化B.路线起终点应符合路网规划要求C.合理确定公路等级、设计速度和设计路段D.合理确定交通工程及沿线设施的建设规模和标准",
+        "answer": "BCD",
+        "score": 1.2,
+        "unique_ID": "bd21f8bc-8dcf-4794-ab7e-1f0329535671",
+        "type": "multi_choice",
+        "index": 442
+    },
+    {
+        "question": "公路路基设计时,应保证路基具有足够的()。A.经济性B.稳定性C.耐久性D.强度",
+        "answer": "BCD",
+        "score": 1.2,
+        "unique_ID": "ed63836c-8ee6-40a3-b0c3-0bc3da22371f",
+        "type": "multi_choice",
+        "index": 443
+    },
+    {
+        "question": "确定公路路基设计高度时,需综合考虑()。A.设计洪水位B.地下水位C.地表积水深度D.边坡坡率",
+        "answer": "ABC",
+        "score": 1.2,
+        "unique_ID": "5cb54566-e4e6-4a2c-b074-4291198c6fa9",
+        "type": "multi_choice",
+        "index": 444
+    },
+    {
+        "question": "公路路边坡稳定性计算时,采用简化Bishop法的适用对象为()。A.土质边坡B.折线形破坏的边坡C.规模较大的破碎结构岩质边坡D.结构复杂的岩质边坡",
+        "answer": "AC",
+        "score": 1.2,
+        "unique_ID": "0972e24d-9465-48fa-a92e-7dea54896655",
+        "type": "multi_choice",
+        "index": 445
+    },
+    {
+        "question": "公路滑坡防治工程措施包括()。A.反压B.小跨径桥梁C.排水D.抗滑支挡工程",
+        "answer": "ACD",
+        "score": 1.2,
+        "unique_ID": "10d06eeb-a964-4cb1-8518-4ad35eb8b8ad",
+        "type": "multi_choice",
+        "index": 446
+    },
+    {
+        "question": "公路沥青路面的刚性基层适用于（$\\;$）。A.轻交通公路工程B.极重交通公路工程C.中等交通公路工程D.特重交通公路工程",
+        "answer": "BD",
+        "score": 1.2,
+        "unique_ID": "f96f6d9e-684c-47ab-9a00-a177f73abbe4",
+        "type": "multi_choice",
+        "index": 447
+    },
+    {
+        "question": "公路沥青路面表面层应具有的性能为()。A.平整密实B.抗滑耐磨C.行车舒适D.抗裂耐久",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "03735a0e-42a4-4659-b171-5c0d07c48152",
+        "type": "multi_choice",
+        "index": 448
+    },
+    {
+        "question": "柔性基层、底基层公路沥青路面沥青碎石混合料的级配类型,按照空隙率的大小可分为()A.密级配B.开级配C.间断级配D.半开级配",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "4fe26d9c-6570-4e60-aa6b-632915a83974",
+        "type": "multi_choice",
+        "index": 449
+    },
+    {
+        "question": "公路沥青路面沥青混合料的高温稳定性以动稳定度来评价,当需提高沥青混合料的高温稳定性时,可采取的技术措施有（）。A.调整集料级配和沥青用量B.增加沥青混合料厚度C.提高沥青稠度D.选用改性沥青",
+        "answer": "ACD",
+        "score": 1.2,
+        "unique_ID": "48d05062-709e-4aea-9c19-8486ffaf7948",
+        "type": "multi_choice",
+        "index": 450
+    },
+    {
+        "question": "公路桥涵设计时,需要采用标准车辆荷载进行设计的有$(\\;$)。A.涵洞B.桥台C.引道D.挡土墙土压力",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "25089a31-c24c-41e0-a2a7-99eb52fdb672",
+        "type": "multi_choice",
+        "index": 451
+    },
+    {
+        "question": "公路桥梁预应力混凝土构件设计,按持久状况正常使用极限状态计算时,以下说法正确()A.全预应力混凝土构件在作用短期效应组合下正截面受拉边缘不允许出现拉应力B.部分预应力混凝土构件在作用短期效应组合下正截面受拉边缘允许出现拉应力C.部分预应力混凝土构件,根据拉应力状态分为A类和B类预应力混凝土构件D.跨径大于${100}\\mathrm{\\;m}$的桥梁,不得按部分预应力混凝土构件设计",
+        "answer": "ABC",
+        "score": 1.2,
+        "unique_ID": "ad938ca7-18b7-469f-bd89-1d65f5a6fc34",
+        "type": "multi_choice",
+        "index": 452
+    },
+    {
+        "question": "公路桥梁钢筋混凝土构件,其计算的最大裂缝宽度不应超过的限值为()A.I类环境下,${0.25}\\mathrm{\\;{mm}}$B.II类环境下,${0.20}\\mathrm{\\;{mm}}$C.III类环境下,${0.15}\\mathrm{\\;{mm}}$D.IV类环境下,${0.10}\\mathrm{\\;{mm}}$",
+        "answer": "BC",
+        "score": 1.2,
+        "unique_ID": "313f0304-57d2-4a59-a8e8-970d78d6e806",
+        "type": "multi_choice",
+        "index": 453
+    },
+    {
+        "question": "通航水域公路桥的桥位选择,符合规定的有$(\\;$)A.航道不稳定时,应考虑河道变迁的影响B.桥轴法线与通航主流的夹角不应大于5度C.桥位应避开既有水工设施、港口作业区和船舶锚地等D.桥位应远在航道稳定、顺直且具有足够通航水深的河段",
+        "answer": "ACD",
+        "score": 1.2,
+        "unique_ID": "383e2f4d-4fc6-47eb-93fd-d39131d29495",
+        "type": "multi_choice",
+        "index": 454
+    },
+    {
+        "question": "公路隧道采用的全长黏结型锚杆有()。A.快硬水泥卷端头锚杆B.早强水泥砂浆锚杆C.中空注浆锚杆D.自钻式注浆锚杆",
+        "answer": "BCD",
+        "score": 1.2,
+        "unique_ID": "a36cadf0-1d65-4e9d-8c9a-cab31ddb6fe8",
+        "type": "multi_choice",
+        "index": 455
+    },
+    {
+        "question": "公路隧道洞口位置的选择,符合要求的有$\\left(\\;\\right)$。A.洞口的边坡及仰坡必须保证稳定B.洞口位置应设于山坡稳定、地质条件较好处C.位于悬崖陡壁下的洞口,可切削山坡直接进洞D.漫坡地段的洞口位置,应结合洞外路堑地质、弃渣、排水及施工等因素综合分析确定",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "43ca59b8-8e7f-4bb8-a806-f6b9e849b347",
+        "type": "multi_choice",
+        "index": 456
+    },
+    {
+        "question": "黄土地区的公路隧道衬砌结构设计应考虑（$\\;$）。A.地表;中沟B.黄土分类C.物理力学性能D.施工方法",
+        "answer": "BCD",
+        "score": 1.2,
+        "unique_ID": "a64dfe40-2e03-4115-83ec-3daa29fd6142",
+        "type": "multi_choice",
+        "index": 457
+    },
+    {
+        "question": "岩爆地段公路隧道初期支护可采用()。A.喷射混凝土B.系统锚杆C.钢筋网D.拱架",
+        "answer": "ABC",
+        "score": 1.2,
+        "unique_ID": "4b8916c4-500d-4a39-b9f3-611b94809a5f",
+        "type": "multi_choice",
+        "index": 458
+    },
+    {
+        "question": "确定平面交叉的交通管理方式时,主要应根据相交公路的()。A.公路功能B.技术等级C.公路景观D.交通量",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "fe80591d-cedf-4a9f-8457-8663f21584b5",
+        "type": "multi_choice",
+        "index": 459
+    },
+    {
+        "question": "互通式立体交叉按交叉岔数可分为()。A.四岔交叉B.全互通型C.三岔交叉D.全互通型",
+        "answer": "AC",
+        "score": 1.2,
+        "unique_ID": "5380cd86-b207-47f1-964a-089653f94d22",
+        "type": "multi_choice",
+        "index": 460
+    },
+    {
+        "question": "组成城市道路停车视距的有A.反应距离B.制动距离C.会车距离D.安全距离",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "76f6f945-c0c8-432f-858f-7e8ed54092a6",
+        "type": "multi_choice",
+        "index": 461
+    },
+    {
+        "question": "在城市快速路中间分隔带应设置紧急开口的位置有$\\left(\\;\\right)$。A.隧道前后B.分离式立交前后C.枢纽立交前后D.特大桥及路堑段前后",
+        "answer": "ACD",
+        "score": 1.2,
+        "unique_ID": "5bf31dd4-ba6e-4ad2-a9cf-54b09a3ab113",
+        "type": "multi_choice",
+        "index": 462
+    },
+    {
+        "question": "根据交通流行驶特征,城市快速路应分为()。A.基本路段B.分合流区C.交织区D.匝道",
+        "answer": "ABC",
+        "score": 1.2,
+        "unique_ID": "d0dfba5b-4777-454d-9543-00adf42e875a",
+        "type": "multi_choice",
+        "index": 463
+    },
+    {
+        "question": "属于城市道路圆曲线最小半径设计指标的有$\\left(\\;\\right)$。A.设超高的圆曲线最小半径B.不设超高的圆曲线最小半径C.设缓和曲线的圆曲线最小半径D.不设缓和曲线的圆曲线最小半径",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "99e9afe1-7692-4636-8c87-106b63a1e50d",
+        "type": "multi_choice",
+        "index": 464
+    },
+    {
+        "question": "城市道路无障碍设计缘石坡道的坡度应符合()。A.全宽式单面坡缘石坡道的坡度不应大于$1:{20}$B.三面坡缘石坡道正面及侧面的坡度不应大于$1:{12}$C.其他形式的缘石坡道的坡度均不应大于$1:{12}$D.有条件地区的缘石坡度可为$1:{10}$",
+        "answer": "ABC",
+        "score": 1.2,
+        "unique_ID": "a1829fd3-7853-41d9-a7bf-b0fed7ed595e",
+        "type": "multi_choice",
+        "index": 465
+    },
+    {
+        "question": "城市道路土质路基压实度可通过试验路检验或综合论证,在保证路基强度和稳定性要求的前提下,可适当降低路基压实度标准的情况有（）。A.采空区B.特殊潮湿地区C.特殊干旱地区D.专用非机动车道、人行道",
+        "answer": "BCD",
+        "score": 1.2,
+        "unique_ID": "89df478a-466f-4f7b-8b26-5036dcb43636",
+        "type": "multi_choice",
+        "index": 466
+    },
+    {
+        "question": "人行道和广场的铺面应满足（）。A.稳定B.抗滑C.平整D.平滑",
+        "answer": "ABC",
+        "score": 1.2,
+        "unique_ID": "37c657e9-5382-431f-bc70-1f88dafb5dc4",
+        "type": "multi_choice",
+        "index": 467
+    },
+    {
+        "question": "城市桥梁上不得敷设（$\\;$）。A.污水管线B.电力、电讯管线C.压力大于$1\\mathrm{{MPa}}$的燃气管线D.可燃、有毒或腐蚀性的液、气体管线",
+        "answer": "ACD",
+        "score": 1.2,
+        "unique_ID": "ef45b7fe-50c6-4dfe-9394-9ebcc31680c4",
+        "type": "multi_choice",
+        "index": 468
+    },
+    {
+        "question": "城市道路平面交叉口范围竖向设计中,合适的雨水口设置位置有$\\left(\\;\\right)$A.无障碍坡道位置B.交叉口低洼处C.交叉口人行横道上游D.交叉口人行横道中间处",
+        "answer": "BC",
+        "score": 1.2,
+        "unique_ID": "a1fadfd4-6abb-4149-9a9c-bddd4c4a05cc",
+        "type": "multi_choice",
+        "index": 469
+    },
+    {
+        "question": "城市道路与轨道交通线路交叉时,必须设置立体交叉的情况有()。A.快速路与轨道交通线路交叉B.主干路、次干路、支路与高速铁路、客运专线、铁路车站、铁路编组场交叉C.次干路、支路与城市有轨电车交叉D.行驶有轨电车或无轨电车的道路与铁路交叉",
+        "answer": "ABD",
+        "score": 1.2,
+        "unique_ID": "f4a8473c-2b90-4e57-b7fa-db649c875ddb",
+        "type": "multi_choice",
+        "index": 470
+    }
+]

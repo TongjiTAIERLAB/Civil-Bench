@@ -1,0 +1,3012 @@
+[
+    {
+        "question": "面积为A=2m^2的圆板随液体以v=0.2m/s匀速运动，则圆板受到的内摩擦力为（）。（已知μ=1.14×10$-3\\mathrm{\\;{Pa}}\\cdot\\mathrm{s},\\;\\rho=1\\times{10}^{3}\\mathrm{\\;{kg}}/{\\mathrm{m}}^{3},\\mathrm{\\;h}={0.4}\\mathrm{\\;m}$)A.${5.7}\\times{10}^{-4}$B.${5.7}\\times{10}^{-7}$C.0D.${5.7}\\times{10}^{-6}$",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "b9d4cff6-92a7-43be-ac81-bddcc0a53380",
+        "type": "single_choice",
+        "index": 1
+    },
+    {
+        "question": "某薄壁孔口出流容器,孔口直径为$\\mathrm{d}$,如在其上加一段长$4\\mathrm{\\;d}$短管,则流量比原来（）。A.增加1.22倍B.增加1.32倍C.不变D.增加1倍",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "035acaae-d87b-4c95-85b9-f299d14c4a23",
+        "type": "single_choice",
+        "index": 2
+    },
+    {
+        "question": "在尼古拉兹试验中,沿程损失系数与雷诺数和相对粗糙度均有关的区域是（）。A.层流区B.层流到紊流的过渡区C.紊流层水力光滑管D.紊流的水力光滑管到水力粗糙管的过渡区",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "585ff05b-7fa6-46db-8043-aae9f95454c2",
+        "type": "single_choice",
+        "index": 3
+    },
+    {
+        "question": "两段明渠,糙率${\\mathrm{n}}_{1}$为0.015,${\\mathrm{n}}_{2}$为0.016,其余参数均相同,则两渠道的临界水深（）。A.${h}_{1}={h}_{2}$B.${h}_{1}<{h}_{2}$C.${h}_{1}>{h}_{2}$D.无法判断",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "dda3efd2-ed8a-457a-b4ba-4fb6d7ee07f8",
+        "type": "single_choice",
+        "index": 4
+    },
+    {
+        "question": "一并联管道,流量$\\mathrm{Q}$为${240}\\mathrm{\\;L}/\\mathrm{s}$,管道${\\mathrm{d}}_{1}={300}\\mathrm{\\;{mm}},{1}_{1}={500}\\mathrm{\\;m},{\\mathrm{\\;d}}_{2}={250}\\mathrm{\\;{mm}},{1}_{2}={800}\\mathrm{\\;m}$,则通过管道的流量比（）。A.$3:1$B.$2\\div1$C.$3:2$D.$4:3$",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "bb4a7953-4147-4db4-8aee-807b2708d547",
+        "type": "single_choice",
+        "index": 5
+    },
+    {
+        "question": "土的级配曲线越平缓,则$\\left(\\;\\right)$。A.不均匀系数越小B.不均匀系数越大C.颗粒分布越均匀D.级配不良",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "33ec230a-4f1e-42fe-adf5-c2d2021c8614",
+        "type": "single_choice",
+        "index": 6
+    },
+    {
+        "question": "以下说法错误的是（）。A.对于黏性土,可用塑性指数评价其软硬程度B.对于砂土,可用相对密实度来评价其松密状态C.对于同一种黏性土,天然含水率反映其软硬程度D.对于黏性土,可用液性指数评价其软硬状态",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "001a95a7-9212-4042-9c45-dddab4bd605b",
+        "type": "single_choice",
+        "index": 7
+    },
+    {
+        "question": "无侧限抗压试验是为了测$\\left(\\;\\right)$的抗剪强度。A.饱和砂土B.饱和软黏土C.松砂D.非饱和黏性土",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "630a6d8a-6788-47b5-8830-235b66c29a56",
+        "type": "single_choice",
+        "index": 8
+    },
+    {
+        "question": "其他条件相同,以下选项错误的是()。A.排水路径越长,固结完成所需时间越长B.渗透系数越大,固结完成所需时间越短C.压缩系数越大,固结完成所需时间越长D.固结系数越大,固结完成所需时间越长",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "34106b0a-ef94-4b5a-bb9e-795dee95510f",
+        "type": "single_choice",
+        "index": 9
+    },
+    {
+        "question": "与地基中附加应力计算无关的量是（）。A.基础尺寸B.所选点的空间位置C.土的抗剪强度指标D.基底埋深",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "a7d8f47a-e862-4fdd-89d6-a05b303048c7",
+        "type": "single_choice",
+        "index": 10
+    },
+    {
+        "question": "当以下数据发生改变,土体强度也发生变化?()A.总应力B.有效应力C.附加应力D.自重应力",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "2cd6582a-5352-449d-b74c-8057a9ee0896",
+        "type": "single_choice",
+        "index": 11
+    },
+    {
+        "question": "以下说法正确的是（）。A.土压缩过程中,土粒间的相对位置不变B.在一般压力作用下,土体压缩主要由土粒破碎造成C.在一般压力作用下,土的压缩可以看作是土中孔隙体积的减小D.饱和土在排水固结过程中,土始终是饱和的,饱和度和含水量是不变的",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "e8bde847-32c0-48f4-9740-1f241e2d2836",
+        "type": "single_choice",
+        "index": 12
+    },
+    {
+        "question": "挡墙后填土为粗砂,当墙后水位上升,墙背所受的侧向压力$\\left(\\;\\right)$。A.增大B.减小C.不变D.0",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "33c4a7fd-95ce-4a7c-823d-295076e6fb86",
+        "type": "single_choice",
+        "index": 13
+    },
+    {
+        "question": "不是岩石具有的主要特征是（）。A.软化性B.崩解性C.膨胀性D.湿陷性",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "07d0bf92-fc30-47d2-b7b7-fecd1bb61230",
+        "type": "single_choice",
+        "index": 14
+    },
+    {
+        "question": "预应力混凝土受弯构件与普通混凝土受弯构件相比,增加了$\\left(\\;\\right)$。A.正截面承载力计算B.斜截面承载力计算C.正截面抗裂验算D.斜截面抗裂验算",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "f28bb5a7-2e6d-4289-85e5-c9fa2f93c8ce",
+        "type": "single_choice",
+        "index": 15
+    },
+    {
+        "question": "钢筋混凝土受弯构件斜截面抗剪承载力计算公式中,没有体现以下哪项的影响因素?()A.材料强度B.箍筋配筋率C.纵筋数量D.截面尺寸",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "14b50364-bd0a-4516-bd2f-07e8fabbdcf3",
+        "type": "single_choice",
+        "index": 16
+    },
+    {
+        "question": "混凝土施加预应力的目的是（）。A.提高承载力B.提高抗裂度及刚度C.提高承载力和抗裂度D.增加结构安全性",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "cfe5f1d7-e661-46ad-b78a-e7f4bd1888a5",
+        "type": "single_choice",
+        "index": 17
+    },
+    {
+        "question": "关于钢筋混凝土构件在剪力和扭矩共同作用下的承载力计算,下列说法正确的是()A.不考虑二者之间的相关性B.混凝土不考虑相关作用,钢筋考虑相关作用C.混凝土考虑相关作用,钢筋不考虑相关作用D.考虑钢筋和混凝土的相关作用",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "839f7aa2-83c8-4cb8-b7ff-366e8638b501",
+        "type": "single_choice",
+        "index": 18
+    },
+    {
+        "question": "有配筋不同的三种梁（梁1：A<sub>s</sub>=350mm2；梁2：A<sub>s</sub>=250\"m2；梁3：A<sub></sub>$=$150mm^2)，其中梁1是适筋梁，梁2和梁3为超筋梁，则破坏时相对高度的大小关系为（）A.${\\xi}_{3}>{\\xi}_{2}>{\\xi}_{1}$B.${\\xi}_{1}>{\\xi}_{2}={\\xi}_{3}$C.${\\xi}_{2}>{\\xi}_{3}>{\\xi}_{1}$D.${\\xi}_{3}={\\xi}_{2}>{\\xi}_{1}$",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "0b4c827a-2a37-4ed0-9e3d-d8e19d9a8318",
+        "type": "single_choice",
+        "index": 19
+    },
+    {
+        "question": "预应力混凝土轴心受拉构件,开裂荷载${\\mathrm{N}}_{\\mathrm{{CT}}}$等于$\\left(\\;\\right)$。A.先张法、后张法均为$\\left({{\\sigma}_{\\mathrm{{pc}}}\\mathrm{{II}}+{\\mathrm{f}}_{\\mathrm{{tk}}}}\\right){\\mathrm{A}}_{0}$B.先张法、后张法均为$\\left({{\\sigma}_{\\mathrm{{pc}}}\\mathrm{{II}}+{\\mathrm{f}}_{\\mathrm{{tk}}}}\\right){\\mathrm{A}}_{\\mathrm{n}}$C.先张法为$\\left({{\\sigma}_{\\mathrm{{pc}}}\\mathrm{{II}}+{\\mathrm{f}}_{\\mathrm{{tk}}}}\\right){\\mathrm{A}}_{\\mathrm{n}}$,后张法为$\\left({{\\sigma}_{\\mathrm{{pc}}}\\mathrm{{II}}+{\\mathrm{f}}_{\\mathrm{{tk}}}}\\right){\\mathrm{A}}_{\\mathrm{n}}$D.先张法为$\\left({{\\sigma}_{\\mathrm{{pc}}}\\mathrm{{II}}+{\\mathrm{f}}_{\\mathrm{{tk}}}}\\right){\\mathrm{A}}_{\\mathrm{n}}$,后张法为$\\left({{\\sigma}_{\\mathrm{{pc}}}\\mathrm{{II}}+{\\mathrm{f}}_{\\mathrm{{tk}}}}\\right){\\mathrm{A}}_{0}$",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "602f4d59-15e9-4567-a0e2-1cdb09a23a00",
+        "type": "single_choice",
+        "index": 20
+    },
+    {
+        "question": "以下哪项对最大裂缝宽度没有影响?()A.钢筋应力B.混凝土强度等级C.钢筋率D.保护层厚度",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "9cb06ea9-7ebd-4a1a-89fe-50cd378af290",
+        "type": "single_choice",
+        "index": 21
+    },
+    {
+        "question": "钢筋混凝土偏心受拉构件,下面说法错误的是()。A.如果$\\xi>{\\xi}_{\\mathrm{b}}$,说明是小偏心受拉破坏B.小偏心受拉构件破坏时,混凝土裂缝全部裂通,全部拉力由钢筋承担C.大偏心受拉构件存在局部受压区D.大小偏心受拉构件的判断是依据轴向拉力的作用位置",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "095eefa3-b086-4f60-9f64-90d070804d36",
+        "type": "single_choice",
+        "index": 22
+    },
+    {
+        "question": "已知AB边的坐标方位角为${}^{a}$AB,属于第III象限,则对应的象限角R是（）。A.${}^{\\alpha}$ABB.${\\alpha}_{\\mathrm{{AB}}}-{180}^{\\circ}$C.${360}^{\\circ}-{a}_{\\mathrm{{AB}}}$D.${180}^{\\circ}-\\alpha$AB",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "f7316ca2-7cee-48f3-aaeb-8ce3eb53da8a",
+        "type": "single_choice",
+        "index": 23
+    },
+    {
+        "question": "量测了边长为$\\mathrm{a}$的正方形每条边,一次量测精度是$\\mathrm{m}$,则周长中误差${\\mathrm{m}}_{\\mathrm{C}}$是$\\left(\\;\\right)$。A.$\\mathrm{m}$B.$\\sqrt{2}$mC.$2\\mathrm{\\;m}$D.$4\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "05cef347-9f8c-4c9f-9a1b-6d82f63be0c3",
+        "type": "single_choice",
+        "index": 24
+    },
+    {
+        "question": "已知基本等高距为$2\\mathrm{\\;m}$,则计曲线为$\\left(\\;\\right)$。A.$1,2,3,\\cdots$B.$2,4,6,\\cdots$C.${10},{20},{30},\\cdots$D.$5,{10},{15},\\cdots$___",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "f12e1168-b0eb-4c67-ae40-f116e3099034",
+        "type": "single_choice",
+        "index": 25
+    },
+    {
+        "question": "一长度为814.29m的导线，坐标增量闭合才分别为$-$0.2m，0.2m，则导线相对闭合差为（）。A.$1/{1000}$B.1/2000C.$1/{3000}$D.$1/{4000}$",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "3909d59e-c24b-43ee-85f1-07e1a5657100",
+        "type": "single_choice",
+        "index": 26
+    },
+    {
+        "question": "利用高程为9.125m水准点,测设高程为8.586m的室内$\\pm$0地坪标高,在水准点上立尺后,水准仪瞄准该尺的读数为1.462m，问室内立尺时，尺上读数是（）。A.0.539mB.0.923mC.${2.001}\\mathrm{\\;m}$D.1.${743}$m",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "327d9e0c-c0fc-418b-8bba-649b6897046e",
+        "type": "single_choice",
+        "index": 27
+    },
+    {
+        "question": "GPS精密定位测量中采用的卫星信号是（）。A.$\\mathrm{C}/\\mathrm{A}$测距码B.P码C.载波信号D.C/A测距码和载波信号混合使用",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "28d91c47-7348-496d-a6e4-937afefb8733",
+        "type": "single_choice",
+        "index": 28
+    },
+    {
+        "question": "憎水性材料的湿润角是（）。A.$>{90}^{\\circ}$B.$<{90}^{\\circ}$C.$>{85}^{\\circ}$D.$\\geq{90}^{\\circ}$",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "03c04b5f-9def-4509-8d8e-8324de2cea47",
+        "type": "single_choice",
+        "index": 29
+    },
+    {
+        "question": "耐水性材料的软化系数大于$\\left(\\;\\right)$。A.0.6B.0.75C.0.85D.0.8",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "f80b8c57-6347-4849-b697-982cb4d66b59",
+        "type": "single_choice",
+        "index": 30
+    },
+    {
+        "question": "为防止混凝土保护层破坏而导致钢筋锈蚀,其pH值应大于()。A.12.5B.11.5C.10.5D.8.5",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "b2601d29-a32b-4b5d-9313-def4e5f98d38",
+        "type": "single_choice",
+        "index": 31
+    },
+    {
+        "question": "材料的吸声系数总是（）。A.小于0.5B.大于等于1C.大于1.0D.小于1.0",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "543350de-17da-4818-bde2-ec584441d168",
+        "type": "single_choice",
+        "index": 32
+    },
+    {
+        "question": "导热系数的单位是（）。A.$\\mathrm{J}/\\mathrm{m}$B.$\\mathrm{{cm}}/\\mathrm{s}$C.$\\mathrm{{kg}}/{\\mathrm{{cm}}}^{2}$D.$\\mathrm{W}/\\left({\\mathrm{m}\\cdot\\mathrm{K}}\\right)$",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "5aae98b5-e774-4e0b-8a50-a37cb9634f62",
+        "type": "single_choice",
+        "index": 33
+    },
+    {
+        "question": "水玻璃的模数是以下哪个选项摩尔数的比值?()A.二氧化硅/氯化钠B.二氧化硅/氧化钠C.二氧化硅/碳酸钠D.二氧化硅/氧化铁钠",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "f2b6ee6a-f6f6-46e8-80a0-9bc2be763643",
+        "type": "single_choice",
+        "index": 34
+    },
+    {
+        "question": "水泥成分中抗硫酸盐侵蚀最好的是（）。A.${\\mathrm{C}}_{3}\\mathrm{\\;S}$B.${\\mathrm{C}}_{2}\\mathrm{\\;S}$C.${\\mathrm{C}}_{3}$AD.${\\mathrm{C}}_{4}\\mathrm{{AF}}$",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "bc09a33a-11ec-4731-910a-d454102c7dbf",
+        "type": "single_choice",
+        "index": 35
+    },
+    {
+        "question": "硅酸盐水泥的比表面积应大于（）。A.${80}{\\mathrm{m}}^{2}/\\mathrm{{kg}}$B.${45}{\\mathrm{m}}^{2}/\\mathrm{{kg}}$C.${400}{\\text{m}}^{2}$/kgD.${300}{\\mathrm{m}}^{2}/\\mathrm{{kg}}$",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "e4d92013-6351-4ff9-9166-63f486254e95",
+        "type": "single_choice",
+        "index": 36
+    },
+    {
+        "question": "混凝土温度膨胀系数是（）。A.$1\\times{10}^{-4}/{}^{\\circ}\\mathrm{C}$B.$1\\times{10}^{-6}/{}^{\\circ}\\mathrm{C}$C.$1\\times{10}^{-5}/{}^{\\circ}\\mathrm{C}$D.$1\\times{10}^{-7}/{}^{\\circ}\\mathrm{C}$",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "325eea4d-31b4-4f30-82d9-c19d44bad6de",
+        "type": "single_choice",
+        "index": 37
+    },
+    {
+        "question": "以下不属于水文循环的是（）。A.降水B.蒸发C.下渗D.物体污染水",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "1756968c-6061-4471-9860-c0046aa9df9b",
+        "type": "single_choice",
+        "index": 38
+    },
+    {
+        "question": "在进行水文分析计算时,还要进行历史洪水调查工作,其目的是为了增加系列的$\\left(\\;\\right)$A.可靠性B.地区性C.代表性D.一致性",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "b6c6a9be-5043-4f1d-81f8-ed535886e83e",
+        "type": "single_choice",
+        "index": 39
+    },
+    {
+        "question": "某流域有两次暴雨,前者的暴雨中心在下游,后者的暴雨中心在上游,其他情况都相同,则前者在流域出口断面形成的洪峰流量比后者的（）。A.洪峰流量小,峰现时间晚B.洪峰流量大,峰现时间晚C.洪峰流量大,峰现时间早D.洪峰流量小,峰现时间早",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "22de049b-d0c9-48d9-87b1-2db8d0c26d4a",
+        "type": "single_choice",
+        "index": 40
+    },
+    {
+        "question": "用适线法进行设计洪水或设计径流频率计算时,适线原则应$\\left(\\;\\right)$。A.抽样误差应最小B.参数误差俞接近临近地区的对应参数C.理论频率曲线与经验点据拟合最好D.设计值要偏于安全",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "8ca3ec65-03fa-4de7-9278-674514a763d2",
+        "type": "single_choice",
+        "index": 41
+    },
+    {
+        "question": "选择典型洪水的原则是“可能”和“不利”,所谓不利是指$\\left(\\;\\right)$。A.典型洪水峰型集中,主峰靠前B.典型洪水峰型集中,主峰居中C.典型洪水峰型集中,主峰靠后D.典型洪水历时长,洪量较大",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "b97ed33c-8e38-4303-bd41-4db64524b053",
+        "type": "single_choice",
+        "index": 42
+    },
+    {
+        "question": "某电站水库校核洪水位315m，设计洪水位313m，正常蓄水位310m，总库容10亿m<sup>3</sup>，调洪库容2亿m<sup>3</sup>，调节库容5亿m<sup>3</sup>，P=75%年份入库过程如下表，按施工进度安排，10月初升始下闸蓄水，初期蓄水期下游综合用水要求不小于40m<sup>3</sup>/s，求初期蓄水时间（每月按263万秒计）。（$\\;$）题1表$\\mathrm{P}={75}\\%$年份入库径流过程表<table><thead><tr><th>时间（月）</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr></thead><tr><td>入库流量${\\mathrm{m}}^{3}$/s</td><td>200</td><td>210</td><td>350</td><td>200</td><td>80</td><td>70</td><td>62</td><td>72</td><td>80</td><td>76</td><td>75</td><td>17</td></tr></table>A.10月初至次年4月底B.10月初至次年3月底C.10月初至次年2月底D.10月初至次年1月底",
+        "answer": "B",
+        "score": 4.0,
+        "unique_ID": "3e19ff01-7255-487d-ae16-f414a3421eaa",
+        "type": "single_choice",
+        "index": 43
+    },
+    {
+        "question": "某水电站多年平均水位,建库后水库区河道平均水面面积为${11.5}{\\mathrm{\\;{km}}}^{2}$,建库前水库区河道平均水面面积为2.$4{\\mathrm{\\;{km}}}^{2}$，年均水面蒸发量为1340mm，年均降雨深为1350mm，年均陆面蒸发量为630mm，求建库后多年平均年额外蒸发损失量接近以下哪项?()A.1219万m3B.931万m3C.646万m3D.573万m3",
+        "answer": "C",
+        "score": 4.0,
+        "unique_ID": "007c8263-f398-4be7-9a4d-9646f8417859",
+        "type": "single_choice",
+        "index": 44
+    },
+    {
+        "question": "某低水头电站经动能计算和调洪计算,上下游最大、最小水位差为20m和3.0m,扣除相应工况最大过水能力的输水水头损失后，最大、最小净水头为${19}\\mathrm{\\;m}$和${1.5}\\mathrm{\\;m}$；选用贯流式机组，该机组适应水头范围为${25}\\sim3\\mathrm{\\;m}$，本电站最大、最小特征水头分别取多少?()A.${19}\\mathrm{\\;m}$和1.5mB.25m和3mC.19m和3mD.20m和3m",
+        "answer": "C",
+        "score": 4.0,
+        "unique_ID": "e6d65fff-20bd-4d11-94f1-ae42e6e0ae2b",
+        "type": "single_choice",
+        "index": 45
+    },
+    {
+        "question": "某年调节水电站相应设计保证率的日调节瞬时下泄流量如下表,航运要求下游拟建反调节梯段,并按固定流量60m<sup>3</sup>/s下泄，求反调节水库的最小调节库容最接近以下哪项?(逐时(24小时)下泄流量表(单位:$\\mathrm{m}<\\sup>3</\\sup>/\\mathrm{s}$)<table><tr><td>$\\mathrm{H}$</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>Q</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td><td>24</td></tr><tr><td>$\\mathrm{H}$</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td></tr><tr><td>Q</td><td>230</td><td>300</td><td>380</td><td>400</td><td>750</td><td>800</td><td>950</td><td>1020</td><td>500</td><td>390</td><td>350</td><td>24</td></tr></table>A.2860万m3B.1310万m3C.1030万m3D.1000万m3",
+        "answer": "D",
+        "score": 4.0,
+        "unique_ID": "22e9eb4b-77db-4c0b-9154-fef5455cbf23",
+        "type": "single_choice",
+        "index": 46
+    },
+    {
+        "question": "水电站正常蓄水位已定时,随着死水位的降低,电站多年平均发电量、保证出力的变化趋势为以下哪项？（）A.多年平均发电量、保证出力单调递增B.多年平均发电量单调递减,保证出力单调递增C.多年平均发电量、保证出力单调递增,后单调递减D.多年平均发电量单调递增,后单调递减,保证出力单调递增",
+        "answer": "D",
+        "score": 4.0,
+        "unique_ID": "5f7cdfea-02e7-49f1-8ab7-5108d5c15798",
+        "type": "single_choice",
+        "index": 47
+    },
+    {
+        "question": "在引水式水电站径流调节计算时,应考虑扣除的水量一般为以下哪项?()A.水库蒸发损失、水库渗透水量B.水库蒸发损失、水库渗透水量、坝下游河道基本用水C.水库渗透水量、增加的蒸发损失D.水库渗透水量、增加的蒸发损失、坝下游河道基本用水",
+        "answer": "D",
+        "score": 4.0,
+        "unique_ID": "37cc0ee6-a8a0-49f6-8bca-e92c5260d29e",
+        "type": "single_choice",
+        "index": 48
+    },
+    {
+        "question": "某水电站正常蓄水位为90m，死水位为80m，机组最大过流量和发电最小流量相应下游水位分别为40m和38m；防洪限制水位81m，相应最大泄量时下游水位为42m，发电水头损失为2m，本电站的最小水头多少？（)A.36mB.${37}\\mathrm{\\;m}$C.${38}\\mathrm{\\;m}$D.${39}\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "8a8f539d-44b5-43a4-8b17-f808cce9ef90",
+        "type": "single_choice",
+        "index": 49
+    },
+    {
+        "question": "某电力系统典型日负荷最大负荷为15000MW，日平均负荷率为0.81，日最小负荷率为0.59，该典型负荷日腰荷、尖峰负荷接近以下哪项?()A.3300MW、2850MWB.3300MW、6150MWC.12150MW、6150MWD.12150MW、2850MW",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "8c52e1e6-82e6-4062-8276-2f6506196468",
+        "type": "single_choice",
+        "index": 50
+    },
+    {
+        "question": "经电力电量平衡,某典型负荷日水电站容量指标如下表,该典型负荷日水电站的调峰能力最接近多少?题9表某典型负荷日水电站容量指标<table><thead><tr><th>工作容量（MW）</th><th>航运基荷（MW）</th><th>负荷备用容量（MW）</th><th>事故备用量（MW）</th><th>检修容量（MW）</th><th>受阻容量（MW）</th><th>装机容量（MW）</th></tr></thead><tr><td>12000</td><td>300</td><td>600</td><td>1200</td><td>1000</td><td>200</td><td>15000</td></tr></table>A.11700MWB.13500MWC.13800MWD.14000MW",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "b76f8051-3d9d-4b5e-9ff9-59f706cb16c3",
+        "type": "single_choice",
+        "index": 51
+    },
+    {
+        "question": "某水电站的设计水平年为2012年,供电的电力系统2010年平均负荷为100亿kW，已知年电量增长率为10%,求设计水平年电力系统的年电量最接近以下哪项?(A.${121}$亿$\\mathrm{{kW}}\\cdot\\mathrm{h}$B.96.4亿kW·hC.${106}$亿$\\mathrm{{kW}}\\cdot\\mathrm{h}$D.${110}$亿$\\mathrm{{kW}}\\cdot\\mathrm{h}$",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "c0b28ae6-37c0-4cc7-8ea2-fe9af1b0d9c4",
+        "type": "single_choice",
+        "index": 52
+    },
+    {
+        "question": "水电站装机容量与电站的调节性能有关,常见的规律为以下哪项?()A.年调节、多年调节水电站调节性能高,往往装设一定的重复容量B.无调节、日调节水电站调节性能低,往往装设一定的重复容量C.年调节、多年调节水电站必需容量比重大,不适合装设备用容量D.日调节、无调节水电站必需容量比重小,适合多装设一些备用容量",
+        "answer": "B",
+        "score": 4.0,
+        "unique_ID": "634b4df1-3d48-420b-a281-de791b0470e4",
+        "type": "single_choice",
+        "index": 53
+    },
+    {
+        "question": "某水库回水计算如下表。题12表某水库回水计算表(单位:$\\mathrm{m}$)<table><thead><tr><throwspan=\"2\">断面号</th><throwspan=\"2\">起点距（m）</th><thcolspan=\"2\">坝前水位${35}\\mathrm{m}$</th><th>坝前水位${40}\\mathrm{m}$</th></tr><tr><th>$\\mathrm{Q}={1000}{\\mathrm{m}}^{3}/\\mathrm{s}$</th><th>Q=1500m³/s</th><th>$\\mathrm{Q}={1500}{\\mathrm{\\;m}}^{3}/\\mathrm{s}$</th></tr></thead><tr><td>C.S.1</td><td>0（坝址）</td><td>35</td><td>35</td><td>40</td></tr><tr><td>C.S.2</td><td>2000</td><td>35.05</td><td>35.07</td><td>40.05</td></tr><tr><td>C.S.3</td><td>4000</td><td>35.2</td><td>35.3</td><td>40.23</td></tr><tr><td>C.S.4</td><td>6000</td><td>35.4</td><td>35.6</td><td>40.48</td></tr></table>表中相同坝前水位，不同库区流量回水曲线的水面比降是否符合一般规律？库区流量1500m${}^{3}$/s不同坝前水位回水曲线各断面间水位差是否符合一般规律?(A.水面比降符合,水位差符合B.水面比降符合,水位差不符合C.水面比降不符合,水位差符合D.水面比降不符合,水位差符合",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "cd145ea3-7cb9-49b5-b77f-eba03e6ce129",
+        "type": "single_choice",
+        "index": 54
+    },
+    {
+        "question": "水库水体突然泄放计算,以下哪个选项是正确的?()A.水库采用正常蓄水位以下水体、上游来水按枯水期平均流量计算B.水库采用设计洪水位以下水体、上游来水按设计标准的洪峰流量计算C.水库采用正常蓄水位以下水体、上游来水按多年平均流量计算D.水库水体突然泄放计算,均不考虑上游来水",
+        "answer": "D",
+        "score": 4.0,
+        "unique_ID": "bf7d8294-da2c-4721-9baf-7fa0f876c5a5",
+        "type": "single_choice",
+        "index": 55
+    },
+    {
+        "question": "某水利水电建设项目，投资500万元，第2年就开始投产，净效益为150万元/年，按社会折现率为12%，前5年的经济净现值最接近以下哪项?(计算基准年为第一年的年初,分年等付(由A求P)复利系数第1年为0.8929，第5年为3.6048）。（$\\;$）A.40万元B.一40万元C.93万元D.一93万元",
+        "answer": "B",
+        "score": 4.0,
+        "unique_ID": "02215967-6d5a-4e59-bf99-b011fc1c30ee",
+        "type": "single_choice",
+        "index": 56
+    },
+    {
+        "question": "间接效益目前一般按直接防洪效益的百分数K表示。某防洪工程直接防洪效益为100亿元，其中减少农业损失20亿元，减少工商业损失30亿元，减少交通运输损失10亿元，减少住宅区损失40亿元，参照国外有关资料分析,结合本工程的实际,确定间接防洪效益系数K${}_{\\text{农}}={10}\\%,\\mathrm{\\;K}$工商$={40}\\%,{\\mathrm{\\;K}}_{\\text{辽区}}={25}\\%,\\mathrm{\\;K}$住宅$={15}\\%$,本工程防洪间接经济效益最接近以下哪项？（A.25.2亿元B.20.0亿元C.22.5亿元D.30.0亿元",
+        "answer": "C",
+        "score": 4.0,
+        "unique_ID": "4e7541b3-e3a6-4024-999f-80c4f532bbf0",
+        "type": "single_choice",
+        "index": 57
+    },
+    {
+        "question": "某建设项目建设基金拟由项目法人投入的资本金和银行贷款构成,银行贷款利率为7.84%。经财务现金流量分析,本项目全部投资财务内部收益率为10.22%,在满足还贷的条件下,资本金财务内部收益率计算值符合以下哪一种规律?()A.小于7.84%B.大于10.22%C.小于10.22%D.在${7.84}\\%\\sim{10.22}\\%$之间",
+        "answer": "B",
+        "score": 4.0,
+        "unique_ID": "9e6a4fe7-51ab-4b6d-a7ff-29e268516e83",
+        "type": "single_choice",
+        "index": 58
+    },
+    {
+        "question": "某河道整治工程全长${245}\\mathrm{\\;{km}}$,总投资12357万元,建成后可获得农田改造、航运和滩涂开发等效益,据计算、工程各项投资费用和效益的现值如下:题17表某河道整治工程投资费用和效益现值计算成果表(万元)<table><thead><tr><th>项目</th><th>综合总值</th><th>农田改造</th><th>航运</th><th>滩涂开发</th></tr></thead><tr><td>专用工程费用现值</td><td>72910</td><td>35543</td><td>21482</td><td>15885</td></tr><tr><td>效益现值</td><td>355841</td><td>233634</td><td>84946</td><td>37261</td></tr></table>试按各部门获得效益的比例，计算航运部门费用分摊的共用工程费用的比例最接近以下哪项？（A.${22}\\%$B.${30}\\%$C.${24}\\%$D.${28}\\%$",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "db94933f-2263-44ea-a9ce-c5defa9cf042",
+        "type": "single_choice",
+        "index": 59
+    },
+    {
+        "question": "经调查计算,某大型供水工程静态总投资158.3亿元,燃料、材料及动力费0.18亿元,折旧费3.55亿元，修理费0.53亿元，工资福利、劳保统筹及住房基金0.89亿元，库区维护及建设基金0.03亿元，管理费0.33亿元，保险费0.07亿元，其它费用0.59亿元，利息净支出1.61亿元。计算该项目总成本费用和经营成本最接近以下哪项?()A.总成本7.78亿元,经营成本2.62亿元B.总成本6.15亿元,经营成本2.62亿元C.总成本7.78亿元,经营成本4.21亿元D.总成本6.15亿元,经营成本4.21亿元",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "baef3073-5bf1-4cff-901c-b8b2f9c5c1b5",
+        "type": "single_choice",
+        "index": 60
+    },
+    {
+        "question": "某泵站前池最低水位、设计水位、最高水位分别为10.0m、11.0m、12.0m；出水池最低水位、设计水位、最高水位分别为120.0m、121.0m、122.0m，各工况泵站水头损失均简化按1.5m计，泵站的设计扬程、最高扬程符合下列哪一选项?()A.${111.5}\\mathrm{\\;m}、{113.5}\\mathrm{\\;m}$B.110.0m、111.5mC.${110.5}\\mathrm{\\;m}、{111.5}\\mathrm{\\;m}$D.110.0m、113.5m",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "4826100a-1973-4654-b429-84c3fbd60b26",
+        "type": "single_choice",
+        "index": 61
+    },
+    {
+        "question": "某土石围堰高70m，堰基为深厚覆盖层，厚度达60m，上部为现代冲积砂砾石层，中部为淤泥质黏土，下部为较密实的砂卵砾石层,混凝土拱坝坝基开挖时形成深基坑,下列哪一选项是堰基防渗墙处理后可能存在的主要工程地质问题?()A.淤泥质黏土层的压缩和不均匀变形,沿淤泥质黏土滑动变形B.黏性土与砂砾石层接触带冲刷C.砂砾石层的渗漏D.砂砾石层的渗透变形",
+        "answer": "B",
+        "score": 4.0,
+        "unique_ID": "19b11776-7ba4-431b-bf90-792ecd945fcb",
+        "type": "single_choice",
+        "index": 62
+    },
+    {
+        "question": "某水电站厂房进水口位于一南北向沟谷中，边坡为逆向坡，坡度50°，工程区为单斜构造，地层为薄层页岩，岩层倾向NE80${}^{\\circ}$，边坡下部岩层正常倾角75${}^{\\circ}$，坡顶岩层倾角变为40${}^{\\circ}$。下列哪一选项是目前边坡变形的类型?()A.座落B.崩塌C.溃屈D.倾倒",
+        "answer": "C",
+        "score": 4.0,
+        "unique_ID": "63190793-0fb0-4757-9ced-4886c4d61eab",
+        "type": "single_choice",
+        "index": 63
+    },
+    {
+        "question": "某水库回水计算成果如下表所示,则该水库对于回水末端合理的选择是以下哪项?()题22表某水库回水计算成果<table><thead><tr><th>断面编号</th><th>里程（m）</th><th>P=20%，天然水位</th><th>P=20%，建库后回水</th></tr></thead><tr><td>CS00</td><td>0</td><td>354.9</td><td>428</td></tr><tr><td>CS17</td><td>250</td><td>35.66</td><td>428</td></tr><tr><td>CS16</td><td>1410</td><td>360.92</td><td>428</td></tr><tr><td>CS15</td><td>3060</td><td>375.2</td><td>428.05</td></tr><tr><td>CS14</td><td>4400</td><td>415.46</td><td>428.33</td></tr><tr><td>CS13</td><td>5300</td><td>421.51</td><td>428.85</td></tr><tr><td>CS12</td><td>9950</td><td>430.28</td><td>430.43</td></tr><tr><td>CS11</td><td>11240</td><td>431.44</td><td>431.43</td></tr></table>A.选择CS12断面作为回水尖灭点B.选择CS11断面作为回水尖灭点C.选择CS11断面作为淹没处理终点位置D.在CS13和CS12断面之间增加计算断面,复核回水位",
+        "answer": "D",
+        "score": 4.0,
+        "unique_ID": "a031485f-b1d1-4f76-8881-ad654652074e",
+        "type": "single_choice",
+        "index": 64
+    },
+    {
+        "question": "某水电工程水利水库淹没涉及某区域的电信工程,对该区域电信工程处理方式不正确的是以下哪项?()A.需要恢复的电信工程,采取复建方式予以恢复B.影响不大的电信工程,可采取防护方式,就地加固处理C.根据移民安置规划需要及安置区原住居民通信需求,采取新建方式D.对不需要或难以恢复的电信设施进行适当补偿",
+        "answer": "B",
+        "score": 4.0,
+        "unique_ID": "09ea424c-af72-42c0-8198-57c744818010",
+        "type": "single_choice",
+        "index": 65
+    },
+    {
+        "question": "某地为土石山区，林草覆盖率较高，降水量80~450mm，为半干旱区，煤炭资源较为丰富，拟开发矿区井田范围约350hm${}^{2}$。设计井工开采，工业场地占地类型为农用地，其剥离表土拟堆放于排砰场并用于后期覆土绿化,水土保持方案中水土流失防治措施布设的关键是以下哪项组合?()①砰石堆场选址与防护;②采空塌陷预期与处理;③表土剥离保护与回覆;④疏干排水排放与处理。A.①④B.②③C.①③D.②④",
+        "answer": "B",
+        "score": 4.0,
+        "unique_ID": "63cdcf58-1c72-4a3c-88ca-7be90ca366ef",
+        "type": "single_choice",
+        "index": 66
+    },
+    {
+        "question": "南方某一公路位于国家级重点治理区内,全线分段采用一级和二级公路建设。某标段取土场、采石场、弃土场分布在公路一侧,占地类型为林地,土层较薄,位置较偏僻,不涉及拆迁,取土场结束后形成了高达30m的土质高陡边坡，采用以下哪种边坡防护措施最经济合理?(A.削坡开级、草皮护坡B.削坡开级、造林护坡C.格状框条、草皮护坡D.格状框条、造林护坡",
+        "answer": "A",
+        "score": 4.0,
+        "unique_ID": "d60060ae-9126-417f-b896-93b386d9037f",
+        "type": "single_choice",
+        "index": 67
+    },
+    {
+        "question": "制定规划，必须进行水资源综合科学考察和调查评价。水资源综合科学考察和调查评价，由以下哪个部门会同同级有关部门组织进行?()A.省级以上人民政府水行政主管部门B.县级以上人民政府水行政主管部门C.有关流域管理机构D.国务院水行政主管部门",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "575fb47d-aad1-4020-8a5b-b6b675fb994a",
+        "type": "single_choice",
+        "index": 68
+    },
+    {
+        "question": "《中华人民共和国水法》规定,在不通航的河流或者人工水道上修建闸坝后可以通航的,闸坝建设单位对同时修建过船设施或者预留过船设施位置时采用以下哪个规范用词?(A.必须B.应当C.可以D.不必",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "234517e1-c266-4b6c-ae8f-e3643aeb8a19",
+        "type": "single_choice",
+        "index": 69
+    },
+    {
+        "question": "《中华人民共和国水法》规定,国家对用水实行以下哪项制度?(A.按需使用和收费管理相结合的制度B.总量控制和定额管理相结合的制度C.总量控制和集中管理相结合的制度D.总量分配和收费管理相结合的制度",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "67630690-87d2-4e7e-a8ce-b2b91500103f",
+        "type": "single_choice",
+        "index": 70
+    },
+    {
+        "question": "符合国家《招标投标法》的各类工程招标内容包括与项目的工程建设有关的重要设备、材料的采购和以下哪个选项？（）A.项目的设计、施工、监理、建设管理B.项目的设计、施工、监理、运行管理C.项目的勘测、设计、施工、监理D.项目的勘测、设计、建设管理、运行管理",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "886895df-f7c7-4f74-824f-a4b99c2aa06f",
+        "type": "single_choice",
+        "index": 71
+    },
+    {
+        "question": "《建设工程勘察设计管理条例》规定,未经注册的建设工程勘察设计人员,可否以注册执业人员的名义从事建设工程勘察、设计活动?()A.不能B.不宜C.不得D.不应",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "20af24ef-eda5-416e-8d2e-9b224623ed06",
+        "type": "single_choice",
+        "index": 72
+    },
+    {
+        "question": "建设工程勘察、设计单位资质证书和执业人员注册证书,由以下哪个部门制作?(A.由各行业行政主管部门制作B.由省级建设行政主管部门制作C.由国务院建设行政主管部门统一制作D.由省级行政主管部门制作",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "f3144ba9-7742-4bf1-b31d-afc07d7a52ba",
+        "type": "single_choice",
+        "index": 73
+    },
+    {
+        "question": "建设工程勘察、设计注册执业人员未受聘于一个建设工程勘察、设计单位或者同时受聘于两个以上建设工程勘察、设计单位,从事建设工程勘察、设计活动的,责令停止违法行为,没收违法所得,处违法所得多少倍的罚款？（）A.10倍以上B.1倍以上2倍以下C.2倍以上5倍以下D.5倍以上10倍以下",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "7f9206e9-6fc1-45ef-8616-48029eb4c7b2",
+        "type": "single_choice",
+        "index": 74
+    },
+    {
+        "question": "重要设备、材料等货物的采购,单项合同估算价在多少人民币以上的,必须进行招标?(A.50万元B.100万元C.150万元D.200万元",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "bd766b2f-57ff-4beb-a573-d48de42b1d23",
+        "type": "single_choice",
+        "index": 75
+    },
+    {
+        "question": "信息管理包括信息的收集、加工及以下哪项?()A.反馈、存储、检索B.传输、存储、检索C.交流、存储、检索D.沟通、存储、检索",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "417cc1f6-8584-4602-aca7-5146de5f406b",
+        "type": "single_choice",
+        "index": 76
+    },
+    {
+        "question": "公益性水利工程项目,其效益表现在它有极好的外部效果,而项目本身无以下哪项?(A.财务收入B.经济效益C.投资效益D.财务效益",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "741eaf14-658a-43c0-b4ec-f502d41ec890",
+        "type": "single_choice",
+        "index": 77
+    },
+    {
+        "question": "通过岩石单轴抗压强度试验所得的软化系数为$\\left(\\;\\right)$。A.岩石单轴抗压强度平均值与最大值之比B.岩石饱和状态下单轴抗压强度平均值与天然状态下单轴抗压强度平均值之比C.岩石饱和状态下单轴抗压强度平均值与干燥状态下单轴抗压强度平均值之比D.岩石天然状态下单轴抗压强度平均值与干燥状态下单轴抗压强度平均值之比",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "03ab8a73-9cc7-49e4-aa5a-099f5977a6a6",
+        "type": "single_choice",
+        "index": 78
+    },
+    {
+        "question": "某坝址为花岗岩体，采用双管75mm金刚石钻具钻进，进尺50m，所取柱状岩芯长度见下表，该孔段RQD值是多少？（）表1柱状岩芯统计结果<table><thead><tr><th>单块柱状岩心长度$\\mathrm{L}$($\\mathrm{m}$)</th><th>$\\mathrm{L}<5\\mathrm{\\;{cm}}$</th><th>$5\\mathrm{\\;{cm}}\\leq\\mathrm{L}<{10}\\mathrm{\\;{cm}}$</th><th>10cm≤·L＜5cm</th><th>15cm<:L＜20cm</th><th>L≥20cm</th></tr></thead><tr><td>累计长度</td><td>3</td><td>4</td><td>20</td><td>15</td><td>8</td></tr></table>A.${16}\\%$B.${46}\\%$C.${86}\\%$D.${94}\\%$",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "c3336cc3-a4ac-46f1-a18b-dde36da6a76c",
+        "type": "single_choice",
+        "index": 79
+    },
+    {
+        "question": "根据钻孔压水试验成果,岩体的透水率为${40}\\mathrm{\\;{Lu}}$,该岩体渗透性等级为$\\left(\\;\\right)$。A.强透水B.中等透水C.弱透水D.微透水",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "51542bf8-df85-499e-94b0-aa0dbfba5e2c",
+        "type": "single_choice",
+        "index": 80
+    },
+    {
+        "question": "在复核坝基深层抗滑稳定时,如无明显滑裂面,在采用试算法计算不同破裂面时,找出的抗滑稳定安全系数应采用以下哪项?(A.最大B.最小C.中间值D.均值",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "89fa89fd-d577-4e22-8d12-b5a2e14e59ab",
+        "type": "single_choice",
+        "index": 81
+    },
+    {
+        "question": "在进行岩质边坡稳定性的分析计算时,其潜在滑动面的抗剪强度可选用()。A.峰值强度B.残余强度C.屈服强度D.流变强度",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "a17dd352-44f6-4036-9c5d-c11a64bb91c0",
+        "type": "single_choice",
+        "index": 82
+    },
+    {
+        "question": "混凝土细骨料的含泥量（黏、粉粒）应符合以下哪项?(A.$<2\\%$B.$<3\\%$C.$<5\\%$D.$3\\sim5\\%$",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "c998bc27-7376-4ce5-802b-1a75d28355c1",
+        "type": "single_choice",
+        "index": 83
+    },
+    {
+        "question": "黄土湿陷系数符合下列哪项可判定为非湿陷性黄土？（$\\;$）A.0.010B.0.015C.0.020D.0.025",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "c7241e5c-1010-4c8c-a6a9-7acb720438b6",
+        "type": "single_choice",
+        "index": 84
+    },
+    {
+        "question": "某洞室围岩单轴抗压强度为45Mpa，该隧洞为无压隧洞，根据水利水电工程经验，其上覆岩体的最小厚度为（$\\;$）。A.${1.0}\\sim{1.5}$倍洞径B.${1.5}\\sim{2.0}$倍洞径C.${2.0}\\sim{3.0}$倍洞径D.大于3.0倍洞径",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "56c3784a-b229-4445-afe1-9a8f94706793",
+        "type": "single_choice",
+        "index": 85
+    },
+    {
+        "question": "拦河水闸工程的等级,应根据以下哪项确定?(A.闸址地理位置B.过闸流量C.所处河流的级别D.水闸的重要性",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "23a9e155-bae4-4fb8-ad2d-8dac84677ecf",
+        "type": "single_choice",
+        "index": 86
+    },
+    {
+        "question": "水工建筑物的洪水设计标准,应根据工程所处位置,按以下哪项分别确定?A.山区和丘陵区、盆地区、滨海区B.山区和盆地区、平原区、滨海区C.山区和丘陵区、盆地区、平原区D.山区和丘陵区、平原区、滨海区",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "6c2e54e6-a808-46ec-8ce0-85904bc5fc91",
+        "type": "single_choice",
+        "index": 87
+    },
+    {
+        "question": "地下厂房洞室群各洞室之间的岩体应保持足够的厚度,其厚度应根据地质条件、洞室规模及施工方法等因素综合分析确定,不宜小于相邻洞室的平均开挖宽度的多少倍?()A.${0.5}\\sim1$倍B.$1\\sim{1.5}$倍C.1.$5\\sim2$倍D.$2\\sim{2.5}$倍",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "e3ff08c3-e886-4287-9a2b-ad7bf999fb6c",
+        "type": "single_choice",
+        "index": 88
+    },
+    {
+        "question": "采用计及条块间作用力的计算方法时,土石坝坝坡抗滑稳定的安全系数,对于I级工程在正常运用条件下应（）。A.不小于1.50B.不小于1.40C.不小于1.30D.不小于1.20",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "c0776c6a-ce74-4144-95f8-2206edacdcf9",
+        "type": "single_choice",
+        "index": 89
+    },
+    {
+        "question": "岩基上的水闸闸室稳定计算中,在非地震情况下,闸室基底是否允许出现拉应力?在地震情况下,闸室基底拉应力不大于多少?()A.允许；100kPaB.不允许；200kPaC.不允许;${100}\\mathrm{{kPa}}$D.允许；200kPa",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "1fa4eacc-299c-47f3-b0c1-2e7cd73af6ec",
+        "type": "single_choice",
+        "index": 90
+    },
+    {
+        "question": "某丘陵区的混凝土坝工程，等级为2级建筑物，其校核洪水标准为（$\\;$）。A.${5000}\\sim{2000}$年一遇洪水B.${2000}\\sim{1000}$年一遇洪水C.${1000}\\sim{500}$年一遇洪水D.${2500}\\sim{3000}$年一遇洪水",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "4cd0ddf7-8f27-4370-8a71-ebf781465a91",
+        "type": "single_choice",
+        "index": 91
+    },
+    {
+        "question": "混凝土面板堆石坝的坝体分区除周边缝下游设特殊垫层区和面板上游低部位设铺盖区、盖重区外,从上游到下游宜分为（$\\;$）。<table><thead><tr><thcolspan=\"2\"rowspan=\"2\">项目</th><thcolspan=\"5\">永久性水工建筑物级别</th></tr><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr></thead><tr><tdcolspan=\"2\">设计/[重现期（年)]</td><td>${1000}\\sim{500}$</td><td>${500}\\sim$100</td><td>${100}\\sim{50}$</td><td>${50}\\sim{30}$</td><td>${30}\\sim{20}$</td></tr><tr><tdrowspan=\"2\">校核洪水标准[重现期(年)]</td><td>土石坝</td><td>可能最大洪水（PMF）或10000～5000</td><td>5000~2000</td><td>2000~1000</td><td>${1000}\\sim$300</td><td>${300}\\sim$200</td></tr><tr><td>混凝土坝、浆砌石坝</td><td>${5000}\\sim{2000}$</td><td>72000–1000</td><td>${1000}\\sim$500</td><td>500–200</td><td>${200}\\sim$100</td></tr></table>A.过渡区、垫层区、主堆石区、下游堆石区B.垫层区、过渡区、主堆石区、下游堆石区C.主堆石区、过渡区、垫层区、下游堆石区D.主堆石区、垫层区、过渡区、下游堆石区",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "3cb1aabe-6e68-4a5b-acdc-2876525229f4",
+        "type": "single_choice",
+        "index": 92
+    },
+    {
+        "question": "位于山区的某水利枢纽,其主坝为土石坝,属2级建筑物,失事后将对下游造成特别重大的灾害,设计法水和校核洪水标准重现期分别为（$\\;$）。A.${500}\\sim{100}$年一遇和${5000}\\sim{2000}$年一遇B.${1000}\\sim{500}$年一遇和${5000}\\sim{2000}$年一遇C.${500}\\sim{100}$年一遇和可能最大洪水（PMF）或${10000}\\sim{5000}$年一遇D.${1000}\\sim{500}$年一遇和可能最大洪水（PMF）或${10000}\\sim{5000}$年一遇",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "4f966388-67a5-41e7-bc95-4b48cb5e1f85",
+        "type": "single_choice",
+        "index": 93
+    },
+    {
+        "question": "混凝土重力坝坝基抽排降压措施的主要作用是（$\\;$）。A.降低坝基浮托力B.降低渗透水压力C.降低坝体扬压力D.降低坝基浮托力和渗透水压力",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "14c77135-4ca7-40c5-a659-03140af42001",
+        "type": "single_choice",
+        "index": 94
+    },
+    {
+        "question": "混凝土坝泄水建筑物的水力设计中,选定的消能方式必须满足宣泄设计洪水及其以下各级洪水流量,尤其在以下那种情况时具有良好的消能效果?(A.校核洪水时B.设计洪水时C.五十年一遇洪水时D.常遇洪水时",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "0e59bb0c-d910-42d8-9b60-b5577fb6c625",
+        "type": "single_choice",
+        "index": 95
+    },
+    {
+        "question": "在常态混凝土拱坝设计中,以下哪项说法是正确的?()A.坝体需要分段浇注,各段之间应留有伸缩缝B.坝体基本上为轴向受压结构,横缝可以不进行接缝灌浆C.坝体必须设置纵缝,而横缝可设也可不设D.坝体厚度较小,各段之间可不留有伸缩缝",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "57a0891b-f240-4b90-b369-ed173cb52032",
+        "type": "single_choice",
+        "index": 96
+    },
+    {
+        "question": "在低流速无压隧洞中，若通气条件良好，在恒定流情况下，洞内水面线以上的空间不宜小于（$\\;$）。A.隧洞高度的15%B.隧洞过水断面面积的${15}\\%$C.隧洞过水断面面积的${20}\\%$D.隧洞断面面积的${15}\\%$",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "982000ae-b6fc-42b8-920d-53dd17672fa6",
+        "type": "single_choice",
+        "index": 97
+    },
+    {
+        "question": "在夹有较大砾石的多泥沙河流上修建泄洪闸时，较为合适的消能方式是（$\\;$）。A.挑流B.消力池C.面流D.斜坡护坦",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "cab37455-c17f-41e5-9bac-fa4dad985e23",
+        "type": "single_choice",
+        "index": 98
+    },
+    {
+        "question": "4级及4级以上灌溉土渠的弯曲半径与该弯道段水面宽度之比应（$\\;$）。A.大于3.5倍B.大于4.0倍C.大于4.5倍D.大于5.0倍",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "8c11c9d0-6324-4316-969e-9029db8cf7f7",
+        "type": "single_choice",
+        "index": 99
+    },
+    {
+        "question": "水电站进水口设计中,当运用水位变幅较大,进水口流道不能满足全程明流条件时,应按以下哪类进水口设计？（$\\;$）A.有压式进水口B.无压式进水口C.明流进水口D.明满流进水口",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "700f9453-44af-42b5-9c60-6ad653af03a8",
+        "type": "single_choice",
+        "index": 100
+    },
+    {
+        "question": "需要闸门控制泄量的水闸宜采用（$\\;$）。A.拱形闸门B.平面闸门C.人字闸门D.弧形闸门",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "ef1039e6-91d3-46d9-9dfd-47409cc8ef6a",
+        "type": "single_choice",
+        "index": 101
+    },
+    {
+        "question": "设计采用的水文资料系列具有可靠性,一致性和代表性,它的含意是()A.资料精度可靠,能反映水文规律,产生水文要素的流域和河道产汇流条件基本一致,资料系列的统计特性能反映总体的统计特性B.资料精度可靠,能反映水文规律,产生水文要素的流域和河道产汇流条件基本一致,资料系列的均值与总体期望值相等C.资料精度可靠,能反映水文规律,产生水文要素的流域地形、地质状况一致,资料系列的均值,变差系数与总体基本相同D.资料收集的方法正确,产生水文资料的流域和河道产汇流条件基本一致,资料反映总体",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "83626614-2b28-4f91-96c9-44ef35e43238",
+        "type": "single_choice",
+        "index": 102
+    },
+    {
+        "question": "某工程坝址1956年～1980年有实测洪水流量资料，工程所在地区1970年～1999年有暴雨资料，推求坝址设计洪水应采用以下哪项?()A.用实测流量进行洪水频率计算B.用地区暴雨计算设计暴雨推求设计洪水C.据1970年$\\sim{1980}$年流量资料延长1956年$\\sim{1969}$年暴雨数列算设计暴雨,然后推求设计洪水D.据1970年～1990年暴雨资料延长得到1981年～1990年流量系列，用实测和延长的流量资料计算设计洪水",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "c4e3f415-27ad-4ff9-9195-bc967b018ccc",
+        "type": "single_choice",
+        "index": 103
+    },
+    {
+        "question": "分区地表水数是指（$\\;$）。A.区内扣除地下水重复水最后的河川径流量B.区内降水形成的河川径流量C.区内扣除出境水最后的河川径流量D.包括入境水量的河川径流量",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "26a81b52-ae4e-4597-9c8c-32e1dfb5c3fd",
+        "type": "single_choice",
+        "index": 104
+    },
+    {
+        "question": "下列哪一个选项属于岩石的水理性质指标?()A.风化状态B.饱和抗压强度C.软化系数D.变形破坏形式",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "9b2d00b3-4bf2-40ef-8dd3-71e57f3d0247",
+        "type": "single_choice",
+        "index": 105
+    },
+    {
+        "question": "当采用围岩岩完整性系数确定岩体完整度时,如果岩体完整性系数为0.45时,则该围岩的完整程度为以下哪项？（$\\;$）A.完整B.较完整C.完整性差D.较破碎",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "954c0d42-a0da-4ac9-8204-9f84675e5e7d",
+        "type": "single_choice",
+        "index": 106
+    },
+    {
+        "question": "喀斯特发育的成层性与下列哪一因素最密切？（A.地层时代B.地层产状与河流的关系C.新构造运动D.气候条件",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "24ea6571-ecfb-43b6-bbb7-ec01187bd534",
+        "type": "single_choice",
+        "index": 107
+    },
+    {
+        "question": "沿坝体与坝基岩体接触面发生剪切破坏时,通常称为$\\left(\\;\\right)$A.混合型滑动B.深层滑动C.浅层滑动D.表层滑动",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "6e1ce01f-b225-4252-8353-b17f37ebcb92",
+        "type": "single_choice",
+        "index": 108
+    },
+    {
+        "question": "影响边坡稳定性的内在因素是（$\\;$）。A.工程荷载B.地震C.岩土体性质D.水库水位变动",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "0a44b371-5ab1-461b-a0d2-f6c8a8e781a7",
+        "type": "single_choice",
+        "index": 109
+    },
+    {
+        "question": "对于II类块石料场,初查阶段勘探剖面间距应为()。A.${200}\\sim{400}\\mathrm{\\;m}$B.${200}\\sim{300}\\mathrm{\\;m}$C.${100}\\sim{200}\\mathrm{\\;m}$D.${100}\\sim{150}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "34668700-6050-43e6-9075-8b7505ae51f5",
+        "type": "single_choice",
+        "index": 110
+    },
+    {
+        "question": "以下措施中哪个不属于防洪工程措施?(A.蓄滞洪区B.水土保持C.通信预警D.河道整治",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "8f241086-339e-42b9-b5c4-b62dcf2417f9",
+        "type": "single_choice",
+        "index": 111
+    },
+    {
+        "question": "已有堤防控制断面允许泄量应根据以下哪项来确定?(A.要达到的设计泄量B.历史上安全通过的最大流量C.历史上曾经发生的最大流量D.上涨水库栏洪后下设流量",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "19d0b9b8-c40a-4dd4-8bc3-89e0dd5e9b15",
+        "type": "single_choice",
+        "index": 112
+    },
+    {
+        "question": "农林牧渔服务业属于哪一种产业？（$\\;$）A.第三产业B.第二产业C.第一产业D.不明确",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "9d4adf07-2cc6-4d66-b470-dfef8c04be50",
+        "type": "single_choice",
+        "index": 113
+    },
+    {
+        "question": "旱地灌溉是通过浇水,使土地耕作层中的含水率保持在()。A.吸湿系数与田间持水率之间B.凋萎系数与田间持水率之间C.吸湿系数与最大悬着毛管水对应的平均含水率之间D.汽态水上限含水量与田间持水率之间",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "0171fcb2-8334-437e-9299-ec6590e469c3",
+        "type": "single_choice",
+        "index": 114
+    },
+    {
+        "question": "水电站的电量效益系指（$\\;$）。A.水电站多年平均发电量B.水电站多年平均发电量中能够被电力系统利用的电量C.水电站多年平均发电量中扣水除因水头受阻年平均损失的电D.水电站多年平均发电量中扣除备用容量的发电量",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "6ca32610-662e-46ac-96d5-9178a363f851",
+        "type": "single_choice",
+        "index": 115
+    },
+    {
+        "question": "水电站装机容量方案的经济比较法则为()。A.在满足系统供电需求的前提下,单位总投资最小B.在满足系统供电需求的前提下,系统总费用现值最小C.在满足系统供电需求的前提下,系统总投资最小D.在满足系统供电需求的前提下,系统总现值最小",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "881212b7-5ff0-4786-9b1e-ece230eb7baa",
+        "type": "single_choice",
+        "index": 116
+    },
+    {
+        "question": "当防洪库容与兴利库容完全分开，下面说法正确的是（$\\;$）。A.防洪高水位等于正常蓄水位B.防洪高水位低于正常蓄水位C.防洪限制水位等于正常蓄水位D.防洪限制水位低于正常蓄水位",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "d42377cd-02c2-4d51-ae41-a0af763cad8e",
+        "type": "single_choice",
+        "index": 117
+    },
+    {
+        "question": "对综合利用水利水电工程,当按各综合利用任务的分等指标确定的等级不同时,其工程等别应按其中哪一项确定？（）A.首要任务B.任务中最高等别C.分摊投资做最多的任务D.效益最大的任务",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "7475ab02-11e9-48f0-99e1-a89d57aad0ca",
+        "type": "single_choice",
+        "index": 118
+    },
+    {
+        "question": "某水库工程为II等工程,大坝为土石坝,坝高为95m,河床覆盖层深达30m,且在主河床部分有上口宽20余米,深达40余米的深槽,覆盖面组成物质为砂砾石井夹有$3\\sim4$层粉细砂透镜体,坝址两岸岩体裸露、风化严重、有多处塌滑体，工程地质条件复杂，大坝建筑物级别应为（$\\;$）。A.1级建筑物B.2级建筑物C.3级建筑物D.4级建筑物",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "09ddd88c-7213-4641-b8f9-3561c36327e5",
+        "type": "single_choice",
+        "index": 119
+    },
+    {
+        "question": "混凝土重力坝溢流坝和泄水孔内流通大于多少，区域可能发生空蚀破坏？（A.${20}\\mathrm{\\;m}/\\mathrm{s}$B.${25}\\mathrm{\\;m}/\\mathrm{s}$C.${10}\\mathrm{\\;m}/\\mathrm{s}$D.${15}\\mathrm{\\;m}/\\mathrm{s}$",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "f88b9397-b416-45dc-a971-064b28301047",
+        "type": "single_choice",
+        "index": 120
+    },
+    {
+        "question": "拱坝体型设计时，拱端内弧面的切线与利用岩面等高线的夹角不应小于（$\\;$）.A.${60}^{\\circ}$B.${15}^{\\circ}$C.${45}^{\\circ}$D.${30}^{\\circ}$",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "0574712f-cb57-42ea-9876-e42ff8820465",
+        "type": "single_choice",
+        "index": 121
+    },
+    {
+        "question": "某有压泄水洞，洞径2.0m，洞内水流条件差，沿程体形变化大，其出口段的断面面积范围宜为（）。A.2.20～2.36m2B.2.${36}\\sim$2.${51}{\\mathrm{m}}^{2}$C.${2.51}\\sim{2.67}{\\mathrm{\\;m}}^{2}$D.2.67～2.${83}{\\mathrm{m}}^{2}$",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "d17e35ce-0e13-428b-8a6d-0911373bcb09",
+        "type": "single_choice",
+        "index": 122
+    },
+    {
+        "question": "溢洪道控制段的闸墩、胸墙或岸墙的顶部高程在挡水时应不低于（$\\;$）。A.洪水位加波浪计算和安全超高值B.洪水位加安全超高值C.正常蓄水洪水位加安全超高值D.设计洪水位加安全超高值",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "89cc6d27-310a-41ba-bc3f-25085e36bd18",
+        "type": "single_choice",
+        "index": 123
+    },
+    {
+        "question": "土基上的闸室稳定在各种计算情况下，闸室平均基底应力与地基允许承载力之比应（$\\;$）。A.不小于1B.不大于1C.等于1D.小于1",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "0f3a3abd-a3eb-4b34-8ab9-7f91fd2b77f7",
+        "type": "single_choice",
+        "index": 124
+    },
+    {
+        "question": "下列说法正确的是（）。A.堤岸防护工程的护脚工程顶部平台岸顶部应超过校核洪水位1.0m及以上B.堤岸防护工程的护脚工程顶部平台应高于枯水位0.5~1.0m，险工段的坝式护岸顶部应超过校核设计洪水位1.0m及以上C.堤岸防护工程的护脚工程顶部平台应高于枯水位0.5<-1.0m,险工段的坝式护岸顶部应超过校核设计洪水位0.5m及以上D.堤岸防护工程的护脚工程顶部平台应高于枯水位1.0<-1.5m,险工段的坝式护岸顶部应超过校核设计洪水位0.5m及以上",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "d628fdf7-daf1-4d11-ba22-515a2b54b0d9",
+        "type": "single_choice",
+        "index": 125
+    },
+    {
+        "question": "一引水电站的高压斜井段,采用钢板混凝土衬砌,在结构分析中,以下说法正确的是()A.内水压力由钢管和混凝土衬砌共同承担；山岩压力由混凝土和钢管共同承担；外水压力全部由钢管承担B.内水压力由钢管、混凝土衬砌、围岩共同承担;山岩压力由混凝土和钢管共同承担;外水压力由钢管和混凝土共同承担C.内水压力由钢管、混凝土衬砌共同承担；山岩压力由混凝土和钢管共同承担；外水压力全部由钢管承担D.内水压力由钢管、混凝土衬砌、围岩共同承担;山岩压力由混凝土和钢管共同承担;外水压力全部由钢管承担",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "e2b7a42e-102f-4596-bac2-a64f407c090f",
+        "type": "single_choice",
+        "index": 126
+    },
+    {
+        "question": "挡潮闸工作闸门宜采用（$\\;$）。A.平面钢闸门B.叠梁闸门C.拱形闸门D.弧形闸门",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "455f6b22-767d-4b5d-be24-4426cf54795a",
+        "type": "single_choice",
+        "index": 127
+    },
+    {
+        "question": "有关截流的方式选择,下列说法不正确的是()。A.截流落差不超过$3\\mathrm{\\;m}$时,河道水深不大,宜选择单立堵截流B.截流落差大于${3.5}\\mathrm{\\;m}$,龙口水流能量较大时,宜优先选择双或多立堵截流C.河道水深不大,采用单立堵截流堤头易发生坍塌时,宜优先选用平堵截流D.在特定条件下,经充分论证,可采用定向爆破法、建闸门等截流方式",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "6fee3cb4-bf7e-45aa-9e38-ef1ce29928cc",
+        "type": "single_choice",
+        "index": 128
+    },
+    {
+        "question": "《中华人民共和国文物保护法》规定,大型基本建设工程事先应当进行考古调查、勘探、考古调查、勘探中发现文物的,以下哪种处理方式是否合适的?()A.由省、自治区、直辖市人民政府文物行政部门根据文物保护的要求制定保护B.由县级以上人民政府文物部门根据文物C.由省、自治区、直辖市人民政府文物行政部门根据文物保护的要求会同建设单位共同商定保护措施D.由省、自治区、直辖市人民政府文物行政部门报国务院文物行政部门处理",
+        "answer": "C",
+        "score": 0.88,
+        "unique_ID": "ea0413d5-0cdd-414c-bbe9-7653bc3773b9",
+        "type": "single_choice",
+        "index": 129
+    },
+    {
+        "question": "各省、自治区、直辖市人民政府划定的基本农田应当占本行政区域内耕地的（$\\;$）。A.80%以上B.75%以上C.70%以上D.65%以上",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "9ad6f2fa-510c-4bdd-a71d-bff97786dfc4",
+        "type": "single_choice",
+        "index": 130
+    },
+    {
+        "question": "在界定水库淹没范围时,考虑风浪爬高的影响,可按正常蓄水位滞留时段出现的哪种风速计算浪高值？（）A.${10}\\sim{30}$年一遇B.$5\\sim{10}$年一遇C.$2\\sim5$年一遇D.${10}\\sim{20}$年一遇",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "4a002182-3c8c-4d7c-b2d7-1937bacc8639",
+        "type": "single_choice",
+        "index": 131
+    },
+    {
+        "question": "在水利枢纽工程水库区社会可行性研究阶段移民安置区随机抽样的家庭样本数可取所在行政居民总户数的（$\\;$）。A.$4\\%\\sim5\\%$B.$3\\%\\sim4\\%$C.$1\\%\\sim2\\%$D.$2\\%\\sim3\\%$",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "9aecdff7-78b1-4bda-8031-372c257124d2",
+        "type": "single_choice",
+        "index": 132
+    },
+    {
+        "question": "农村移民搬迁安置规划目标中,移民居民点基础设施、公用设施的基本指标不包括$\\left(\\;\\right)$A.房屋面积B.用地指标C.供水指标D.对外交通",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "3e82eabb-f116-44f7-a008-8f9110bb10a6",
+        "type": "single_choice",
+        "index": 133
+    },
+    {
+        "question": "生产安置人口按其哪项来源的受淹没影响程度为基础计算确定?(A.经济收入B.主要收入C.生活收入D.生产收入",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "7f4c0c6a-a2d2-4e04-a47e-7e7072263009",
+        "type": "single_choice",
+        "index": 134
+    },
+    {
+        "question": "以下哪项不应列入水利工程建设征地移民安置补偿费用?(A.交通工程B.文物古迹C.工业企业D.矿产资源",
+        "answer": "D",
+        "score": 0.88,
+        "unique_ID": "fca96d15-0448-427f-b98c-a7be1161393a",
+        "type": "single_choice",
+        "index": 135
+    },
+    {
+        "question": "对具有供水、发电等财务效益的综合利用水利枢纽工程,以下说法正确的是()。A.先进行费用分摊,并根据分摊成果对供水、发点等专项进行贷款能力测算B.计入全部费用和效益,按工程整体进行贷款能力测算C.计入全部费用,仅对供水、发电效益进行贷款能力测算D.先进行效益分摊,并根据分摊成果对供水、发电等专项进行贷款能力测算",
+        "answer": "B",
+        "score": 0.88,
+        "unique_ID": "5200c3f4-2bfb-42c8-8b4e-ff26bee1fefe",
+        "type": "single_choice",
+        "index": 136
+    },
+    {
+        "question": "水力发电、城市供水等经营性项目,其电价、水价在具有市场竞争能力的同时,财务评价可行的判断标准是（$\\;$）。A.具有盈利能力B.具有维持工程正常运行的可靠经费来源C.具有贷款能力D.经济内部效益率大于1",
+        "answer": "A",
+        "score": 0.88,
+        "unique_ID": "080dc3e8-c47f-42b2-86a6-07c1a659cb18",
+        "type": "single_choice",
+        "index": 137
+    },
+    {
+        "question": "当工程地址与设计依据站的集水面积相差不超过15%，且区间降水、下垫面条件与设计依据站以上流域相似时,工程地址的径流量可按以下哪项确定?()A.直接采用设计依据站的径流量B.按面积比的$1/2$次方推算C.按面积比的$2/3$次方推算D.按面积比推算",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "4d2142b3-2a34-4b2d-a81a-eb6f4c5f26d2",
+        "type": "single_choice",
+        "index": 138
+    },
+    {
+        "question": "水资源评价内容包括水资源数量、水资源质量、水资源利用评价及以下哪项?(A.水资源开发评价B.水资源保护评价C.水资源管理评价D.水资源综合评价",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "24ed8341-26fb-42ec-b819-ecc86ed76f64",
+        "type": "single_choice",
+        "index": 139
+    },
+    {
+        "question": "分区地表水数量是指区内以下哪项的河川径流量?()A.包括入境水量后B.降雨形成C.扣除地下水补给量后D.扣除出境水量后",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "9498d5ac-40f4-427a-93f5-a49edb8809f8",
+        "type": "single_choice",
+        "index": 140
+    },
+    {
+        "question": "总水资源量应按以下哪项计算?()A.地表水资源量和地下水补给量相加再扣重复水量B.地表水可利用量与浅层地下水可采量相加再扣重复水量C.地表水可利用量与地下水可采量相加D.地表水资源量和地下水补给量相加",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "c954ccc6-588a-4c0c-8bb2-713a8ade0209",
+        "type": "single_choice",
+        "index": 141
+    },
+    {
+        "question": "国务院水行政主管部门在国务院的领导下，负责全国防洪的日常工作，包括组织、协调及以下哪项？（)A.监督B.管理C.指挥D.指示",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "563efe09-292e-4fad-a485-7b495c32a277",
+        "type": "single_choice",
+        "index": 142
+    },
+    {
+        "question": "防洪规划确定的河道整治计划用地和规划建设的堤防用地范围内的土地,经土地管理部门和水行政主管音门会同有关地区核定,报经县级以上人民政府按照国务院规定的权限批准后,可以划定为()A.规划保留区B.规划保护区C.规划开发区D.规划利用区",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "4e295511-a74d-45b6-9799-2810d825c328",
+        "type": "single_choice",
+        "index": 143
+    },
+    {
+        "question": "在洪泛区、蓄滞洪区内建设非防洪建设项目,应当编制洪水影响报告,提出防御措施,就洪水对建设项目可能产生的影响和建设项目对防洪可能产生的影响以下哪一项的形式提出?(A.评估B.评审C.评判D.评价",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "dda56315-9a45-4651-a776-e73d8a28d741",
+        "type": "single_choice",
+        "index": 144
+    },
+    {
+        "question": "已有堤防控制断面允许泄量应根据以下哪项来确定?(A.要达到的设计泄量B.历史上安全通过的最大流量C.历史上曾经发生的最大洪峰流量D.上游水库拦洪后下泄流量",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "8b69a81f-1321-4f60-9096-d7c50d094ba2",
+        "type": "single_choice",
+        "index": 145
+    },
+    {
+        "question": "当涝水受到承泄区洪水顶托,可采用工程措施是()。A.截流沟B.撇洪道C.回水堤D.田间排水沟",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "f89f7ed1-2ede-4352-9dd6-0e2377e2e7bb",
+        "type": "single_choice",
+        "index": 146
+    },
+    {
+        "question": "《中华人民共和国电力法》规定,电网运行实行()。A.统一调度、分级管理B.综合调度、统一管理C.综合调度、分级管理D.统一调度、统一管理",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "dbe113e3-84c1-4589-b194-7022a328b08a",
+        "type": "single_choice",
+        "index": 147
+    },
+    {
+        "question": "《中华人民共和国电力法》规定,电价实行()。A.统一标准、统一定价原则,分级管理B.统一政策、统一定价原则,分级管理C.统一政策、统一定价原则,统一管理D.统一标准、统一定价原则,统一管理",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "a67698e8-451f-4786-a88c-700bcc1945bc",
+        "type": "single_choice",
+        "index": 148
+    },
+    {
+        "question": "额定水头是指水轮发电机组发出额定出力的（$\\;$）。A.最大工作水头B.加权平均水头C.算术平均水头D.最小工作水头",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "ed093f43-5b6e-462a-a51e-67788a07554b",
+        "type": "single_choice",
+        "index": 149
+    },
+    {
+        "question": "灌溉制度是作物播前及全生长期内的灌溉次数、灌水量和以下哪项的具体规定?(A.灌水方式B.灌水总时间C.每次灌水日期D.灌水效率",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "4ce1e938-6e5e-4244-b06c-095b7a559961",
+        "type": "single_choice",
+        "index": 150
+    },
+    {
+        "question": "调水工程规划的调水量（$\\;$）。A.不受取水口下游区的影响B.受上游区的影响C.既受上游区的影响,也受取水口下游区的影响D.就是受水区的需水量",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "a7976b3b-77c2-437a-b879-4f4b10217d31",
+        "type": "single_choice",
+        "index": 151
+    },
+    {
+        "question": "冲积河流河床演变的根本原因为（$\\;$）。A.河床的自动调整作用B.输沙不平衡C.动力不平衡D.水量不平衡",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "c9a654dc-e39a-44cf-b937-b947d031f68d",
+        "type": "single_choice",
+        "index": 152
+    },
+    {
+        "question": "水库遇到下游防护对象的设计洪水标准时,在坝前达到的最高水位为()A.防洪限制水位B.防洪高水位C.设计洪水位D.校核洪水位",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "cdf35643-e33a-46ba-ab34-c4569477caee",
+        "type": "single_choice",
+        "index": 153
+    },
+    {
+        "question": "当防洪库容与兴利库容完全结合时,以下哪项说法正确?()A.防洪高水位等于正常蓄水位B.设计洪水位等于正常蓄水位C.防洪高水位低于正常蓄水位D.防洪高水位高于正常蓄水位",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "7ef0e0a5-1219-443e-a5f6-1184d3543866",
+        "type": "single_choice",
+        "index": 154
+    },
+    {
+        "question": "在回水影响不显著的坝前段,不计算风浪爬高和船行波浪高时,居民迁移和土地征用界线可高于正常蓄水位多少？（）A.0.2~0.5mB.0.3~0.8mC.${0.5}\\sim{1.0}\\mathrm{\\;m}$D.1.$0\\sim{1.5}\\mathrm{\\;m}$",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "ca26d06d-7ac9-4999-aad9-480847e6c533",
+        "type": "single_choice",
+        "index": 155
+    },
+    {
+        "question": "水库淹没实物指标调查内容中的集镇是指以下哪项?(A.经县级以上人民政府确认的非建制镇B.乡级政府驻地和经县级人民政府确认的由集市发展而成的作为农村一定区域经济、文化和生活服务中心的非建制镇C.县级政府驻地和经县级人民政府确认的由集市发展而成的作为农村一定区域经济、文化和生活服务中心的建制镇D.经县级人民政府确认的由集市发展而成的作为农村一定区域经济、文化和生活服务中心的建制镇和县城以外的建制镇",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "80add41d-fc33-4972-a993-e6206954bf99",
+        "type": "single_choice",
+        "index": 156
+    },
+    {
+        "question": "受淹没影响的文物古迹,经以下哪级专业主管部门鉴定后,有特殊保存价值的,提出搬迁、发掘或防护的处理措施?()A.国务院B.省级以上C.地区级以上D.县级以上",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "1d8e595c-3b9e-4624-9c0e-3b95c569908d",
+        "type": "single_choice",
+        "index": 157
+    },
+    {
+        "question": "农村移民安置规划中,新居民点建设投资包括$\\left(\\;\\right)$。A.新址征地费,房屋建设费B.基础设施投资,房屋建设费C.新址征地费,基础设施投资D.移民搬迁费,房屋建设费",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "ad251233-895a-45eb-846e-7b2ffeaaed5a",
+        "type": "single_choice",
+        "index": 158
+    },
+    {
+        "question": "全国土壤侵蚀类型一级区是依据以下哪项划分的?()A.主要侵蚀外营力B.降雨强度C.所处区域D.地质地貌",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "6fac44ab-8b10-4533-af95-f862daf6bf70",
+        "type": "single_choice",
+        "index": 159
+    },
+    {
+        "question": "西北黄土高原区土壤容许流失量为多少?(A.${1000}\\mathrm{t}/\\left({{\\mathrm{{km}}}^{2}\\cdot\\mathrm{a}}\\right)$B.${800}\\mathrm{t}/\\left({{\\mathrm{{km}}}^{2}\\cdot\\mathrm{a}}\\right)$C.${500}\\mathrm{t}/\\left({{\\mathrm{{km}}}^{2}\\cdot\\mathrm{a}}\\right)$D.${400}\\mathrm{t}/\\left({{\\mathrm{{km}}}^{2}\\cdot\\mathrm{a}}\\right)$",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "f53a3b9a-34fc-4416-bded-de6f2717c8e6",
+        "type": "single_choice",
+        "index": 160
+    },
+    {
+        "question": "水土保持生态建设规划的基础主要是（$\\;$）。A.水资源利用调查B.土地利用调查C.区域地质调查D.国民经济调查",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "fb609aca-b91b-4bb8-9ec7-ba8f8a517788",
+        "type": "single_choice",
+        "index": 161
+    },
+    {
+        "question": "根据《水土保持综合治理验收规范》，水土保持造林、防风固沙林、农田防护林网当年造林成活率应达到多少？（）A.85%以上B.70%以上C.90%以上D.80%以上",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "3b5e5a66-a016-477a-a300-b71776db720c",
+        "type": "single_choice",
+        "index": 162
+    },
+    {
+        "question": "环境影响识别应全面列出可能受工程影响的环境要素及环境因子，识别工程对各环境要素及因子的（）。A.影响时段和范围B.影响范围和程度C.影响时段和性质D.影响性质和程度",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "892fbb4f-6172-4711-8914-da90f4359e60",
+        "type": "single_choice",
+        "index": 163
+    },
+    {
+        "question": "水生生物影响应预测对浮游植物、浮游动物、底栖生物、高等水生植物,重要经济鱼类及其它水生动物，珍稀濒危、特有水生生物的什么影响？（A.繁殖及生长B.生物生产能力C.种类及分布D.生物稳定状况",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "18c3d53d-9a62-4576-8e24-280fe8ad664c",
+        "type": "single_choice",
+        "index": 164
+    },
+    {
+        "question": "工程施工期和运行期环境监测的以下哪项内容,应根据受影响的主要环境要素及因子确定?A.范围、项目、点位B.项目、点位、频率C.项目、范围、频率D.范围、点位、频率",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "430660b8-85fd-46f4-9510-f34fd8c45f2b",
+        "type": "single_choice",
+        "index": 165
+    },
+    {
+        "question": "在注重水资源开发利用的同时，特别要重视水资源的（$\\;$）。A.治理和保护B.治理和节约C.节约和保护D.治污和保护",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "c83f5b0d-2c56-437a-aebd-0d647f0570e3",
+        "type": "single_choice",
+        "index": 166
+    },
+    {
+        "question": "我国水功能区划的两级区划体系中,水功能一级区包括()。A.保护区、缓冲区、开发利用区、保留区B.保护区、过渡区、开发利用区、保留区C.保护区、缓冲区、治理区、保留区D.保护区、过渡区、治理区、保留区",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "19f7afd5-f398-454e-b037-7ad4fbc4e0bd",
+        "type": "single_choice",
+        "index": 167
+    },
+    {
+        "question": "纳污能力是对确定的水域在满足功能要求的前提下，水体所能容纳的最大（$\\;$）。A.污水总量B.污染物总量C.排水水量D.污水量和污染物量",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "7a8cd761-a501-46c5-bbc0-047a3b376242",
+        "type": "single_choice",
+        "index": 168
+    },
+    {
+        "question": "经营性水利水电项目全部投资财务内部收益率是否可行的判别标准是（$\\;$）。A.大于或等于社会折旧率B.大于或等于本行业的基准收益率C.大于或等于资本金收益率D.大于或等于投资各方收益率",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "4710655d-8674-447e-ab31-31255b074309",
+        "type": "single_choice",
+        "index": 169
+    },
+    {
+        "question": "不属于国民经济评价指标是以下哪项？（$\\;$）A.内部收益率B.净现值C.效益费用比D.投资回收期",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "725f99c0-dcb7-4be4-86c2-c7683b61eb8a",
+        "type": "single_choice",
+        "index": 170
+    },
+    {
+        "question": "抽水蓄能电站国民经济评价中的效益计算,主要采用以下哪项方法?()A.替代方案法B.影子电价法C.缺电损失法D.分摊系数法",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "3e0cec74-fab0-4f40-a98d-a184f008a122",
+        "type": "single_choice",
+        "index": 171
+    },
+    {
+        "question": "水力发电、城市供水等经营性项目,其电价、水价在具有市场竞争能力的同时,财务评价是否可行的判断标准是（$\\;$）。A.具有盈利能力和偿债能力B.能维持工程正常运行的可靠经费来源C.具有财务生存能力D.经济内部收益率大于1",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "40e9f504-e78b-4cbe-916a-a279cb79bd9a",
+        "type": "single_choice",
+        "index": 172
+    },
+    {
+        "question": "对具有供水、发电等财务效益的综合利用水利枢纽工程的贷款能力测算，以下哪项说法是正确的？（)A.先做费用分摊,并根据分摊成果对供水、发电等专项进行贷款能力测算B.计入全部费用和效益,按工程整体进行贷款能力测算C.仅对以供水、发电为主的工程进行贷款能力测算D.先做效益分摊,并根据分摊成果对供水、发电等专项进行贷款能力测算",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "df22f938-a55b-4437-9795-34b342485623",
+        "type": "single_choice",
+        "index": 173
+    },
+    {
+        "question": "某设计依据水文站,经用皮尔逊III参数如下:洪峰流量$Q<\\operatorname{sub}>\\mathrm{{mp}}</\\mathrm{{sub}}>$均值为${1000}\\mathrm{\\;m}3/\\mathrm{s},\\mathrm{C}<\\mathrm{{sub}}>\\mathrm{v}</\\mathrm{{sub}}>={1.0},\\mathrm{C}<\\mathrm{{sub}}>\\mathrm{s}</\\mathrm{{sub}}>={2.5},\\mathrm{\\;\\Phi}<{\\mathrm{{su}}}^{\\mathrm{b}}>\\mathrm{P}</\\mathrm{{sub}}>\\left({\\mathrm{P}=5\\%}\\right)={2.0}$,经推算二十年-遇洪峰流量的设计值${\\mathrm{Q}}_{\\mathrm{{mp}}}\\left({\\mathrm{P}=5\\%}\\right)={2.0}$,经推算二十年一遇洪峰流量的设计值${\\mathrm{Q}}_{\\mathrm{{mp}}}$为$\\left(\\;\\right)$。A.5000m3/sB.4000m³/sC.3000m3/sD.2000m3/s",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "d2e0c4bf-f5eb-40eb-b369-136f04f7a84c",
+        "type": "single_choice",
+        "index": 174
+    },
+    {
+        "question": "下列哪项不属于历史洪水的调查内容?()A.流域土壤侵蚀和产沙情况B.断面冲淤变化及影响河道糙率的因素C.洪水发生时间及影响因素D.河道浸流、分流过程",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "1729bf6c-9eb8-439a-a46e-d8aac81b5208",
+        "type": "single_choice",
+        "index": 175
+    },
+    {
+        "question": "某流域地表水资源和浅层地下水资源可开采量为40亿m${}^{3}$；流域内渠系渗漏补给量和田间地表水入渗补给量为4亿m${}^{3}$，可开采系数为0.25，该流域水资源可利用总量为（$\\;$）。A.37亿m3B.38亿m3___C.${39}$亿m${}^{3}$D.40亿m3",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "f03c2d6a-6d44-45b8-b955-d39d72e8111c",
+        "type": "single_choice",
+        "index": 176
+    },
+    {
+        "question": "关于径流分析计算,下列说法中正确的是()。A.直接以实测及调查数计算B.应将资料改正到分洪溃口年份前的河湖状况,并对分洪溃口年份的水位数据进行还原C.应将资料改正到目前的河湖状况,并将分洪溃口年份的资料剔除D.应将资料改正到目前的河湖状况,并对分洪溃口年份的水位数据进行还原",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "f65356f8-7a69-4937-98fb-6e73a3749991",
+        "type": "single_choice",
+        "index": 177
+    },
+    {
+        "question": "河道整治标准一般不包括（）。A.设计流量B.设计水深C.设计横剖面D.整治线形式",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "9ca92438-6a42-43b4-904e-99f738a79697",
+        "type": "single_choice",
+        "index": 178
+    },
+    {
+        "question": "影响调水量的主要因素是（$\\;$）。A.受水区需水量、水源可调出水量、输水工程规模B.受水区需水量、水价、水源可调出水量C.受水区需水量、水价、输水工程规模D.节水措施、输水工程规模、水源可调出水量",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "ff47151e-026b-46a1-8e11-3185aa44b3d2",
+        "type": "single_choice",
+        "index": 179
+    },
+    {
+        "question": "在进行灌溉渠系建筑物设计时应采用以下哪种地形图?(A.$1:{2000}$场地地形图B.1：1000带状地形图C.$1:{10000}$地形图D.$1:{500}$场地地形图",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "d312272d-9908-423f-a40f-031a92ebd2ef",
+        "type": "single_choice",
+        "index": 180
+    },
+    {
+        "question": "关于水轮机额定水头的说法,以下哪项是错误的?()A.额定水头是水轮机发出额定出力的最小水头B.额定水头是机组的工作水头之一C.额定水头是电站的加权平均水头D.额定水头是确定水轮机外形尺寸的参数",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "33d0a002-cd2e-49ba-bcae-3f65e726fe2b",
+        "type": "single_choice",
+        "index": 181
+    },
+    {
+        "question": "水电站核机容量等于必需容量加重复容量,与电站的调节性能有关,常见的规律为()A.年调节、多年调节水电站往往装设一定的重复容量B.无调节、日调节水电站往往装设一定的重复容量C.年调节、多年调节水电站必需装设备用容量D.无调节、日调节水电站必需多装一些备用容量",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "984d7114-6bba-43ad-812b-c493b0b9c505",
+        "type": "single_choice",
+        "index": 182
+    },
+    {
+        "question": "进行发电水库正常蓄水位方案比较时,初拟各方案的死水位,其原则为()A.死水位一致B.消落深度一致C.消落深度与最大水头的比值一致D.调节库容一致",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "eb0518b6-59bb-4d86-a867-3e5ee097bd12",
+        "type": "single_choice",
+        "index": 183
+    },
+    {
+        "question": "抽水蓄能电站用3度低估电、2度高峰发电量,关于系统总体效益,下列说法中正确的是()A.系统总调峰容量增加、总用电量增加,总煤耗增加B.系统调峰容量增加、总用电量减少,总煤耗节省C.系统总调峰容量增加、总用电量减少,总煤耗增加D.系统调峰容量增加、总用电量增加,总煤耗节省",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "9f11c3c8-a081-456d-a43c-f743e8b59a19",
+        "type": "single_choice",
+        "index": 184
+    },
+    {
+        "question": "关于水库特征库容的表述,以下哪项是不正确的?()A.调洪库容为校核洪水位至防洪高水位之间的水库容积B.防洪库容为防洪高水位至防洪限制水位之间的水库容积C.兴利库容为正常水位至死水位为之间的水库容积D.总库容为校核洪水位以下的",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "8df15d1b-ec82-4ffc-a5c7-a7cb90da0fdd",
+        "type": "single_choice",
+        "index": 185
+    },
+    {
+        "question": "下列水库特征水位组合情况中,哪种属于防洪库容与兴利库容部分结合的情况?(A.防洪高水位等于正常蓄水位,防洪限制水位等于死水位B.防洪高水位高于正常蓄水位,防洪限制水位高于死水位C.防洪高水位等于正常蓄水位,防洪限制水位低于死水位D.防洪高水位高于正常蓄水位,防洪限制水位等于死水位",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "044dcf22-ba3b-4201-bf26-5e3874f13a9c",
+        "type": "single_choice",
+        "index": 186
+    },
+    {
+        "question": "水利水电建设项目国民经济评价中的费用不应包括以下哪项?(A.固定资产投资B.流动资金C.年运行费D.国内银行贷款利息",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "7f601d69-8922-4c90-97c2-845c0154cb6b",
+        "type": "single_choice",
+        "index": 187
+    },
+    {
+        "question": "国民经济评价中采用影子价格，应剔除按财计算费用和效益中的转移支付。下面哪项不属于转移支付的内容?A.项目向国家、地方交纳的税金B.国家项目补贴C.国外借款的利息D.国内银行贷款的利息",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "7b63bb54-f0d0-4351-8704-616844f56845",
+        "type": "single_choice",
+        "index": 188
+    },
+    {
+        "question": "选择水利水电建设项目经济比较方法时,不需要考虑以下哪项因素?()A.比较的各方案是否有相同的产出效益B.比较的各方案的投资是多少C.比较的各方案有无资金限制条件D.比较的各方案的计算期是否相同",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "7859b3ea-c52a-49ae-86e7-b15114c52338",
+        "type": "single_choice",
+        "index": 189
+    },
+    {
+        "question": "容许流失量是指以下哪种情况时的土壤流失量?(A.成土速率大于侵蚀速率B.成土速率等于侵蚀速率C.成土速率小于侵蚀速率D.成土速率不等于侵蚀速率",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "88fa5af4-4b0d-42e3-a587-1d9e28fdbfc0",
+        "type": "single_choice",
+        "index": 190
+    },
+    {
+        "question": "根据2003年全国水土保持监测公投，20世纪90年代末全国土壤侵蚀的总面积达356万km${}^{2}$。土壤侵蚀面积是指（$\\;$）。A.正常侵蚀面积B.地质侵蚀面积C.加速侵蚀面积D.自然侵蚀面积",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "c3ca884c-16d1-494f-90c1-cdcdc719a593",
+        "type": "single_choice",
+        "index": 191
+    },
+    {
+        "question": "风蚀区主要为全年日均风速大于或等于5m/s的天数累计达到30天以上的沙质土壤地区,其多年平均降雨量小于多少?()A.250mmB.300mmC.${350}\\mathrm{\\;{mm}}$D.${400}\\mathrm{\\;{mm}}$",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "4d29d667-bc9c-4c16-b6b6-cb5eebac572c",
+        "type": "single_choice",
+        "index": 192
+    },
+    {
+        "question": "[已过时]因采矿和建设使植被受到破坏，必须采取的措施是（$\\;$）。A.覆土整治,改造为农田B.覆土整治,改造为林草地C.覆土整治,恢复植被,防治水土流失D.恢复表土层和植被,防治水土流失",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "0df3e230-289e-4738-b444-a228c668e0f9",
+        "type": "single_choice",
+        "index": 193
+    },
+    {
+        "question": "以下哪项属于开发建设项目水土保持中山沟治理工程的常用方式?A.谷坊、沟头防护B.水坝、塘坝C.淤地坝、水坠坝D.格栅坝、拦渣坝",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "af4f5f8c-379f-46df-a7b3-52408fa84968",
+        "type": "single_choice",
+        "index": 194
+    },
+    {
+        "question": "开发建设项目水土流失防治指标中土壤流失控制比是指（$\\;$）。A.项目建设区内治理后的平均土壤流失量之比B.项目建设区内容许土壤流失强度之比C.防治责任范围内治理后的平均土壤流失量之比D.防治责任范围内容许土壤流失强度之比",
+        "answer": "B",
+        "score": 0.85,
+        "unique_ID": "38de1e3f-7bd6-4a30-b786-7adfbe226fe0",
+        "type": "single_choice",
+        "index": 195
+    },
+    {
+        "question": "水土流失治理度是指某一区域或流域内的以下哪项指标?()A.林草植被面积占总面积的百分比B.水土流失治理面积占总面积的百分比C.水土流失治理面积占水土流失总面积的百分比D.林草植被面积占水土流失总面积的百分比",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "1f45feca-208a-416f-9e07-8aa1238c6991",
+        "type": "single_choice",
+        "index": 196
+    },
+    {
+        "question": "环境各因素调查的范围和内容,应根据工程特性和影响区域环境的特点,结合以下哪项确定?A.评价工作等级B.环境影响因素程度C.环境影响因子重要性D.环境保护目标",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "58e9d3f7-285a-487d-9512-d48e97c21b78",
+        "type": "single_choice",
+        "index": 197
+    },
+    {
+        "question": "以下哪项不属于水库工程水环境影响评价内容?(A.库区水体水质影响B.水库下游水体环境影响C.水库输沙变化对水环境影响D.水库对河口咸水入侵影响",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "7aee5a66-dfb0-46de-8a46-eb28460093e3",
+        "type": "single_choice",
+        "index": 198
+    },
+    {
+        "question": "自然保护区内只准进入从事科学研究观测活动的区域是()。A.核心区B.外围地带C.实验区D.缓冲区",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "b20934af-5813-4df9-86c8-9f1d158c4026",
+        "type": "single_choice",
+        "index": 199
+    },
+    {
+        "question": "地下水一级保护区的水质标准不得低于《地下水质量标准》（GB/T14848—93）中哪类标准？（A.I类B.II类C.III类D.IV类",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "c096ba5c-cff6-47e1-9b6a-907e0b3a31a7",
+        "type": "single_choice",
+        "index": 200
+    },
+    {
+        "question": "我国《环境保护法》规定，对本辖区环境质量负责的部门是（$\\;$）。A.地方各级人民政府环境保护部门B.地方各级人民政府建设部门C.地方各级人民政府卫生部门D.地方各级人民政府",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "78e1a829-a14e-4dd1-9aac-0e3eaa1c8b09",
+        "type": "single_choice",
+        "index": 201
+    },
+    {
+        "question": "国家对水资源依法实行的以下哪项制度？（A.定额取水制度B.计划取水制度C.取水许可制度D.需水许可制度",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "8fd7476e-ead9-465b-bac5-3f81a44e5c80",
+        "type": "single_choice",
+        "index": 202
+    },
+    {
+        "question": "国家确定重要江河、湖泊流域综合规划的编制部门是（$\\;$）。A.国务院水行政主管部门,流域机构,有关省、自治区、直辖市人民政府B.国务院水行政主管部门,有关省、自治区、直辖市人民政府C.流域机构,有关省、自治区、直辖市人民政府D.国务院水行政主管部门",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "f7aea490-7993-4127-80b0-c5d6548d79b2",
+        "type": "single_choice",
+        "index": 203
+    },
+    {
+        "question": "由国家投资、中央和地方合资、企事业单位独资、合资和其他方式兴建的以下哪类大中型水利工程以及配套的附属工程应进行招标投标?(A.灌溉、水保、发电、供水等B.供水、发电、水保、水产等C.灌溉、发电、围垦、供水等D.供水、发电、水保、围垦等",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "9e96b8fb-2176-4bcc-bcac-6b5d9659f7c1",
+        "type": "single_choice",
+        "index": 204
+    },
+    {
+        "question": "工程建设监理的权力是（$\\;$）。A.项目出资人B.项目法人C.建设主管部门D.质量监督部门",
+        "answer": "D",
+        "score": 0.85,
+        "unique_ID": "fe0c48fc-77e1-4e64-8c50-f6b9c00bb420",
+        "type": "single_choice",
+        "index": 205
+    },
+    {
+        "question": "信息管理是一个比较复杂的管理过程,它包括信息的()。A.收集、加工、整理、反馈、检索等B.收集、整理、传递、使用、检索等C.收集、加工、传递、存储、检索等D.收集、整理、传递、存储、使用等",
+        "answer": "C",
+        "score": 0.85,
+        "unique_ID": "3dbb2f3d-7ed1-4ea4-830b-12daaf2b8c7b",
+        "type": "single_choice",
+        "index": 206
+    },
+    {
+        "question": "国家出台《水利工程管理体制改革实施意见》的目的是（$\\;$）。A.保证水利工程的安全运行,充分发挥水利工程的效益,促进水资源的可持续利用,保障经济社会的可持续发展B.保证水利工程的安全运行,充分发挥水利工程的效益,促进水资源的综合利用,保障经济社会的可持续发展C.保证水利工程的安全运行,充分发挥水利工程的作用,促进水资源的可持续利用,保障经济社会的可持续发展D.保证水利工程的安全运行,充分发挥水利工程的作用,促进水资源的综合利用,保障经济社会的可持续发展",
+        "answer": "A",
+        "score": 0.85,
+        "unique_ID": "3faa363e-bbec-45c5-bffa-6dee8a4b625d",
+        "type": "single_choice",
+        "index": 207
+    },
+    {
+        "question": "某水库坝址典型洪水和设计洪水,洪峰、洪量如下表。表典型洪水和设计洪水、洪峰、洪量值<table><thead><tr><th></th><th>洪峰$\\left({{\\mathrm{m}}^{3}/\\mathrm{s}}\\right)$</th><th>1日洪量$\\left\\lbrack{\\left({{\\mathrm{m}}^{3}/\\mathrm{s}}\\right)\\;\\cdot\\mathrm{h}}\\right\\rbrack$</th><th>3日洪量$\\left\\lbrack\\begin{matrix}\\left({{\\mathrm{m}}^{3}/\\mathrm{s}}\\right)&\\cdot\\mathrm{h}\\end{matrix}\\right\\rbrack$</th></tr></thead><tr><td>$\\mathrm{P}=1\\%$设计值___</td><td>3530</td><td>42600</td><td>72400</td></tr><tr><td>典型洪水过程</td><td>1620</td><td>20290</td><td>31250</td></tr></table>据此计算同频率放大的1日洪量倍比以及2日洪量倍比为以下哪项?()A.2.10，2.72B.2.18,2.72C.2.10,2.32D.2.18,2.32",
+        "answer": "A",
+        "score": 5.0,
+        "unique_ID": "f80ccf89-40be-4059-b883-fac07389d3a6",
+        "type": "single_choice",
+        "index": 208
+    },
+    {
+        "question": "某中型水库集水面积为${341}\\mathrm{\\;{km}}<\\sup>2</\\sup>$,为防洪复核,用设计暴雨推求设计洪水,求得$\\mathrm{P}=2\\%$的最大1日点暴雨量为${296}\\mathrm{\\;{mm}}$,点面暴雨折减系数为0.92,各时段分配如下:表最大1日点暴雨量各时段所占百分比<table><tr><td>时段序号（$\\Delta\\mathrm{t}=6\\mathrm{h}$）</td><td>1</td><td>2</td><td>3</td><td>4</td><td>合计</td></tr><tr><td>占最大1日的百分比</td><td>11</td><td>63</td><td>17</td><td>9</td><td>100</td></tr></table>最大的2个时段的设计面暴雨损失量均为9mm，其时段地表净雨量最接近以下哪项？（A.162.6mm，37.3mmB.20.9mm，162.2mmC.162.6mm，15.6mmD.15.6mm，20.9mm",
+        "answer": "A",
+        "score": 5.0,
+        "unique_ID": "7edefb5c-f0e3-4f59-be5b-6677cd59984e",
+        "type": "single_choice",
+        "index": 209
+    },
+    {
+        "question": "用单位线推求洪水过程,$6\\mathrm{\\;h}$单位线纵标如下:表6h单位线纵标及流量<table><thead><tr><th>时段次序($\\Delta\\mathrm{t}$=$6\\mathrm{h}$)</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th></tr></thead><tr><td>纵标$\\left({{\\mathrm{m}}^{3}/\\mathrm{s}}\\right)$</td><td>0</td><td>8.4</td><td>49.6</td><td>33.8</td><td>24.6</td><td>17.4</td><td>10.8</td><td>7.0</td><td>4.4</td><td>1.8</td><td>0</td></tr><tr><td>流量（${\\mathrm{m}}^{3}$/s）</td><td></td><td>0</td><td>31.3</td><td>185</td><td>126</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>求第6时段的流量最接近以下哪项?()A.${40}{\\mathrm{m}}^{3}/\\mathrm{s}$B.${65}{\\mathrm{m}}^{3}/\\mathrm{s}$C.${59}{\\mathrm{m}}^{3}/\\mathrm{s}$D.${93}{\\mathrm{m}}^{3}/\\mathrm{s}$",
+        "answer": "B",
+        "score": 5.0,
+        "unique_ID": "a08b7bb9-a53b-41da-a2d7-5e5a6554dd92",
+        "type": "single_choice",
+        "index": 210
+    },
+    {
+        "question": "某工程坝址流域面积F<sub>坝</sub>$={3500}\\mathrm{\\;{km}}2$,年均降水量P<sub>坝</sub>$={1400}$mm;其下游设计依据具有30年以上径流系列，流域面积F<sub>坝</sub>$={4500}\\mathrm{\\;{km}}2$;坝址与水文站区间年均降水P<sub>坝</sub>$={1200}$m${}^{\\mathrm{m}}$，下垫面条件与坝址以上基本一致，设计依据站年平均径流量R<sub>坝</sub>=30.0亿m3，则坝址年平均径流量${}^{\\mathrm{R}}$坝最接近以下哪项?(A.23.3亿m3B.24.1亿m3C.25.7亿m3D.27.2亿m3",
+        "answer": "D",
+        "score": 5.0,
+        "unique_ID": "436174e0-3982-40af-89f8-a29a03ce5000",
+        "type": "single_choice",
+        "index": 211
+    },
+    {
+        "question": "某村有水田200亩、旱地300亩、菜地50亩。当年水田中有100亩灌水二次，50亩灌水三次，还有50亩灌水-次；旱地中有50亩灌水二次，200亩灌水一次，菜地50亩灌水二次，当年实际灌溉面积为多少？（A.500亩B.550亩C.800亩D.700亩",
+        "answer": "A",
+        "score": 5.0,
+        "unique_ID": "e8e28c96-cf82-42d8-b51b-63b8dc3a8082",
+        "type": "single_choice",
+        "index": 212
+    },
+    {
+        "question": "河流某断面,多年平均流量${136}{\\mathrm{\\;m}}^{3}/\\mathrm{s}$,历史实测最小流量${8.4}{\\mathrm{\\;m}}^{3}/\\mathrm{s}$,最枯月平均流量P$={90}\\%$时为13.$5{\\mathrm{\\;m}}^{3}$/s:$\\mathrm{P}={95}\\%$时为${12.0}{\\mathrm{\\;m}}^{3}/\\mathrm{s}$,则河道内生态基流至少应为多少?A.8.$4{\\mathrm{m}}^{3}/\\mathrm{s}$B.12.$0{\\mathrm{m}}^{3}/\\mathrm{s}$C.13.5m3/sD.13.$6{\\mathrm{m}}^{3}/\\mathrm{s}$",
+        "answer": "D",
+        "score": 5.0,
+        "unique_ID": "93e07e64-6b16-41c2-b133-6581fe2bf7fe",
+        "type": "single_choice",
+        "index": 213
+    },
+    {
+        "question": "某大城市现状非农业人口为72万人，单位人口综合用水指标为1万m${}^{3}$/（万人・d）。规划水平年非农业人口将比现状增加24万人。由于节水器具使用率从现状的26%增至40%，年综合用水的总量不变，规划水平年单位人口综合用水指标为多少?()A.${0.75}$万${\\mathrm{m}}^{3}/\\left({\\text{万人・}\\mathrm{d}}\\right)$B.${0.67}$万${\\mathrm{m}}^{3}/\\left({\\text{万人・}\\mathrm{d}}\\right)$C.${0.60}$万${\\mathrm{m}}^{3}/\\left({\\text{万人・}\\mathrm{d}}\\right)$D.${0.80}{\\text{万m}}^{3}$/（万人・d）",
+        "answer": "D",
+        "score": 5.0,
+        "unique_ID": "80259038-246e-439c-826f-565257113e76",
+        "type": "single_choice",
+        "index": 214
+    },
+    {
+        "question": "某区域现状总需水量中，农业需水占80%，工业需水占12%，生活需水占8%。规划水平年需水结构发生变化，农业需水占70%，工业需水占18%，生活需水占12%，由于采取了节水措施，规划水平年总需水量仅比现状年增加5亿m${}^{3}$，但农业需水减少4亿m${}^{3}$。求规划水平年总需水量为多少？（$\\;$）A.70亿m3B.80亿m3C.${72}$亿m${}^{3}$D.75亿m3",
+        "answer": "B",
+        "score": 5.0,
+        "unique_ID": "78b80ddc-9be1-4c1c-922c-44c5400adeb9",
+        "type": "single_choice",
+        "index": 215
+    },
+    {
+        "question": "以下关于水质的哪一项描述不正确的?()A.五级水受严重污染,但还是水资源B.四级水未经处理,可用于某些工业的供水,但不能与产品直接接触C.三级水可进入城镇统一供水管网D.在进行水资源开发利用规划时,不同质的水应尽量用于不同的部门",
+        "answer": "C",
+        "score": 5.0,
+        "unique_ID": "aee66479-d03f-42b4-aa19-58df02033723",
+        "type": "single_choice",
+        "index": 216
+    },
+    {
+        "question": "某一城市设计水平的需水量为1.74亿m<sup>3</sup>，当地水源多年平均可供水量为0.79亿$\\mathrm{m}<\\sup>3</\\sup>$,需新建供水工程,根据代表系列进行调节计算,结果见下表(单位:亿m<sup>3</sup>）；供水工程的多年平均供水量最接近以下哪项？并计算此工程的年供水保证率（$\\;$）。表19781996某城市需水量表<table><thead><tr><th>年份</th><th>需水量</th><th>当地可供水量</th><th>供水工程可供水量</th></tr></thead><tr><td>1978</td><td>1.74</td><td>1.39</td><td>0.64</td></tr><tr><td>1979</td><td>1.74</td><td>1.03</td><td>0.75</td></tr><tr><td>1980</td><td>1.74</td><td>0.90</td><td>0.82</td></tr><tr><td>1981</td><td>1.74</td><td>0.31</td><td>1.45</td></tr><tr><td>1982</td><td>1.74</td><td>0.55</td><td>0.21</td></tr><tr><td>1983</td><td>1.74</td><td>0.59</td><td>0.18</td></tr><tr><td>1984</td><td>1.74</td><td>0.49</td><td>0.27</td></tr><tr><td>1985</td><td>1.74</td><td>0.99</td><td>0.79</td></tr><tr><td>1986</td><td>1.74</td><td>0.32</td><td>1.45</td></tr><tr><td>1987</td><td>1.74</td><td>0.98</td><td>0.78</td></tr><tr><td>1988</td><td>1.74</td><td>0.55</td><td>1.21</td></tr><tr><td>1989</td><td>1.74</td><td>0.31</td><td>1.46</td></tr><tr><td>1990</td><td>1.74</td><td>0.98</td><td>1.80</td></tr><tr><td>1991</td><td>1.74</td><td>1.05</td><td>0.71</td></tr><tr><td>1992</td><td>1.74</td><td>0.85</td><td>0.90</td></tr><tr><td>1993</td><td>1.74</td><td>0.86</td><td>0.88</td></tr><tr><td>1994</td><td>1.74</td><td>1.00</td><td>0.76</td></tr><tr><td>1995</td><td>1.74</td><td>0.92</td><td>0.67</td></tr><tr><td>1996</td><td>1.74</td><td>0.99</td><td>0.75</td></tr><tr><td>多年平均</td><td>1.74</td><td>0.79</td><td>0.97</td></tr></table>A.1.74亿m3B.0.97亿m3C.0.94亿m3D.0.79亿m3",
+        "answer": "C",
+        "score": 5.0,
+        "unique_ID": "a0d2b774-f06d-4c2a-812c-efe04a83a91a",
+        "type": "single_choice",
+        "index": 217
+    },
+    {
+        "question": "某灌区的灌溉水源为水库，各年灌溉毛需水量为1.5亿m${}^{3}$、4.6亿m${}^{3}$、2.1亿m${}^{3}$、0.7亿m${}^{3}$、0.7亿m${}^{3}$、3.2亿m${}^{3}$、3亿m${}^{3}$，经过逐旬调节计算，水库各年的洪水量最大值为3亿m${}^{3}$。按经验频率计算，灌区70%保证率需水量和水库供水量最大灌溉保证率最接近以下哪项?(A.3.0亿m3，71%B.3.2亿m${}^{3}$，57%C.3.2亿m${}^{3}$，71%D.3.0亿m3,57%___<table><thead><tr><th>年份</th><th>需水量</th><th>当地可供水量</th><th>供水工程可供水量</th><th>供水工程实际供水量</th></tr></thead><tr><td>1978</td><td>1.74</td><td>1.39</td><td>0.64</td><td>0.35</td></tr><tr><td>1979</td><td>1.74</td><td>1.03</td><td>0.75</td><td>0.71</td></tr><tr><td>1980</td><td>1.74</td><td>0.90</td><td>0.82</td><td>0.82</td></tr><tr><td>1981</td><td>1.74</td><td>0.31</td><td>1.45</td><td>1.43</td></tr><tr><td>1982</td><td>1.74</td><td>0.55</td><td>0.21</td><td>1.19</td></tr><tr><td>1983</td><td>1.74</td><td>0.59</td><td>0.18</td><td>1.15</td></tr><tr><td>1984</td><td>1.74</td><td>0.49</td><td>0.27</td><td>1.25</td></tr><tr><td>1985</td><td>1.74</td><td>0.99</td><td>0.79</td><td>0.75</td></tr><tr><td>1986</td><td>1.74</td><td>0.32</td><td>1.45</td><td>1.42</td></tr><tr><td>1987</td><td>1.74</td><td>0.98</td><td>0.78</td><td>0.76</td></tr><tr><td>1988</td><td>1.74</td><td>0.55</td><td>1.21</td><td>1.19</td></tr><tr><td>1989</td><td>1.74</td><td>0.31</td><td>1.46</td><td>1.43</td></tr><tr><td>1990</td><td>1.74</td><td>0.98</td><td>1.80</td><td>0.76</td></tr><tr><td>1991</td><td>1.74</td><td>1.05</td><td>0.71</td><td>0.69</td></tr><tr><td>1992</td><td>1.74</td><td>0.85</td><td>0.90</td><td>0.89</td></tr><tr><td>1993</td><td>1.74</td><td>0.86</td><td>0.88</td><td>0.88</td></tr><tr><td>1994</td><td>1.74</td><td>1.00</td><td>0.76</td><td>0.74</td></tr><tr><td>1995</td><td>1.74</td><td>0.92</td><td>0.67</td><td>0.67</td></tr><tr><td>1996</td><td>1.74</td><td>0.99</td><td>0.75</td><td>0.75</td></tr><tr><td>多年平均</td><td>1.74</td><td>0.79</td><td>0.97</td><td>0.94</td></tr></table>",
+        "answer": "B",
+        "score": 5.0,
+        "unique_ID": "a3f98220-f446-4ff6-86b9-c34dbbc67b54",
+        "type": "single_choice",
+        "index": 218
+    },
+    {
+        "question": "某灌区有灌溉面积30万亩,年播种冬小麦20万亩,夏玉米18万亩,其它杂粮7万亩,灌溉定额为:冬小麦${260}{\\text{m}}^{3}$/亩，杂粮140m${}^{3}$/亩，夏玉米为上述两者的均值。灌区的毛灌溉需水量为16300万m${}^{3}$，该灌区的灌溉用水利用系数和复种指数各为多少?()A.灌溉水利用系数0.65,复种指数1.6B.灌溉水利用系数0.7,复种指数1.5C.灌溉水利用系数0.58,复种指数1.6D.灌溉水利用系数0.6,复种指数1.5",
+        "answer": "D",
+        "score": 5.0,
+        "unique_ID": "7773d6e0-108d-43b6-b011-8cb2c5d5d19e",
+        "type": "single_choice",
+        "index": 219
+    },
+    {
+        "question": "某河段拟采用马斯京根法进行洪水演进计算,若C<sub>0</sub>=0.200,C<sub>1</sub>=0.500,C<sub>2</sub>=0.300,求下表中2个时段的出流量最接近以下哪项？（）题14表某河段不同时段出流、入流量表<table><thead><tr><th>时间（月.日.时）</th><th>5.1.16</th><th>5.1.17</th><th>5.1.18</th></tr></thead><tr><td>入流量（${\\mathrm{m}}^{3}$/s）</td><td>100</td><td>200</td><td>300</td></tr><tr><td>出流量（${\\mathrm{m}}^{3}$/s）</td><td>100</td><td></td><td></td></tr></table>A.${150}{\\mathrm{m}}^{3}/\\mathrm{s}$，${235}{\\mathrm{m}}^{3}/\\mathrm{s}$B.${120}{\\mathrm{m}}^{3}/\\mathrm{s}$，${180}{\\mathrm{m}}^{3}/\\mathrm{s}$C.${120}{\\text{m}}^{3}$/s，196m${}^{3}$/sD.${150}{\\text{m}}^{3}$/s，180m${}^{3}$/s___",
+        "answer": "C",
+        "score": 5.0,
+        "unique_ID": "03ee884f-4ce0-4b98-b663-d580077e57ef",
+        "type": "single_choice",
+        "index": 220
+    },
+    {
+        "question": "已知某河段水面比降为0.332%，河段典型断面的实测流量为3500m${}^{3}$/s，水面宽145m，平均水深4.8m，该断面的糙率最接近以下哪项?()A.0.0064B.0.021C.0.033D.0.043",
+        "answer": "A",
+        "score": 5.0,
+        "unique_ID": "fda449be-8d5b-4d10-9d95-9bc38dbed532",
+        "type": "single_choice",
+        "index": 221
+    },
+    {
+        "question": "某涝区采用排水泵站排涝,设计外水位16.2m,平均外水位15.8m,设计最高外水位17.0m,设计最低外水位15.5m，涝区设计内水位11.5m，设计最高内水位12.2m，设计最低内水位11.0m，设计最小扬程为多少？并说明选择泵型主要依据哪一个内水位?()A.3.3mB.3.6mC.${4.0}\\mathrm{\\;m}$D.4.$3\\mathrm{\\;m}$",
+        "answer": "A",
+        "score": 5.0,
+        "unique_ID": "01744c76-69d9-43df-8074-e99fcb7cf515",
+        "type": "single_choice",
+        "index": 222
+    },
+    {
+        "question": "压强为3500kN/m${}^{2}$时水的体积为1.0m${}^{3}$，当压强增加到24000kN/m${}^{2}$时，其体积为0.99m${}^{3}$，则当压强增加到7000kN/m${}^{2}$时水的体积为（）。A.0.9945m3B.0.9956m3C.0.${9974}{\\text{m}}^{3}$D.0.9983m3",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "ae0829ed-c605-4668-b380-1af3fc7c0834",
+        "type": "single_choice",
+        "index": 223
+    },
+    {
+        "question": "某混凝土衬砌隧洞,洞径d=2m,粗糙系数n=0.014。模型设计时,选定长度比尺为40,在模型中测得下泄流量为${35}\\mathrm{\\;L}/\\mathrm{s}$,则对应的原型中流量及模型材料的粗糙系数分别为$\\left(\\;\\right)$。A.56m${}^{3}$/s和0.0076B.${56}{\\text{m}}^{3}$/s和0.0067C.354.18m${}^{3}$/s和0.0076D.354.18m${}^{3}$/s和0.0067",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "bc9b7ef1-a3b4-4150-bf27-ddd8230bc051",
+        "type": "single_choice",
+        "index": 224
+    },
+    {
+        "question": "水在直径为1cm的圆管中流动,流速为1m/s,运动黏性系数为0.01cm${}^{2}$/s,则圆管中的流动型态为（）A.层流B.紊流C.临界流D.无法判断",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "8ad3d326-6658-4c03-ad07-0384f34f8bca",
+        "type": "single_choice",
+        "index": 225
+    },
+    {
+        "question": "有一段直径为100mm的管路长度为10m，其中有两个弯头（每个弯头的局部水头损失系数为0.8），管道的沿程水头损失系数为0.037。如果拆除这两个弯头，同时保证管2路长度不变，作用于管路两端的水头维持不变，管路中流量将增加（）。A.${10}\\%$B.${20}\\%$C.${30}\\%$D.${40}\\%$",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "d2b02a47-7f68-42f3-bd79-8e1e0a265e75",
+        "type": "single_choice",
+        "index": 226
+    },
+    {
+        "question": "明渠恒定均匀流的总水头H和水深h随流程s变化的特征是()。A.$\\frac{\\mathrm{d}H}{\\mathrm{\\;d}s}<0$,$$\\frac{\\mathrm{d}h}{\\mathrm{\\;d}s}<0$$B.$$\\frac{\\mathrm{d}H}{\\mathrm{\\;d}s}<0$$，$$\\frac{\\mathrm{d}h}{\\mathrm{\\;d}s}=0$$C.$$\\frac{\\mathrm{d}H}{\\mathrm{\\;d}s}=0$$,$$\\frac{\\mathrm{d}h}{\\mathrm{\\;d}s}=0$$D.$\\frac{\\mathrm{d}H}{\\mathrm{\\;d}s}=0$,$\\frac{\\mathrm{d}h}{\\mathrm{\\;d}s}>0$",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "8cddf5b7-3074-4388-99a3-280a710f4e13",
+        "type": "single_choice",
+        "index": 227
+    },
+    {
+        "question": "某渠道为恒定均匀流,若保持流量不变,可以通过以下哪种方法实现“减小流速以减小河床冲刷”的目的？（）A.减小水力半径,减小底坡B.增大水力半径,增大底坡C.增大底坡,减小糙率D.增大水力半径,减小糙率",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "01e22df3-e971-4bab-982b-fd93513b056b",
+        "type": "single_choice",
+        "index": 228
+    },
+    {
+        "question": "某管道泄流,如果流量一定,当管径沿程减小时,则测压管水头线()。A.可能沿程上升也可能沿程下降B.总是与总水头线平行C.只能沿程下降D.不可能低于管轴线",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "1ebbb784-4b55-48f1-9c96-79c578dce735",
+        "type": "single_choice",
+        "index": 229
+    },
+    {
+        "question": "下列有关颗粒级配的说法错误的是（）。A.土的颗粒级配曲线越平缓则土的颗粒级配越好B.只要不均匀系数${\\mathrm{C}}_{\\mathrm{u}}\\geq5$,就可判定级配良好C.土的级配越均匀,越不容易压实D.级配良好的土,必然颗粒大小不均匀",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "9297dea1-e15f-46e4-bebf-3aa5bc1aeded",
+        "type": "single_choice",
+        "index": 230
+    },
+    {
+        "question": "液性指数${\\mathrm{I}}_{\\mathrm{L}}$为1.25的黏性土,应判定为$\\left(\\;\\right)$。A.硬塑状态B.可塑状态C.软塑状态D.流塑状态",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "df5fb8f0-a6e9-471d-89e5-509ebbfa7999",
+        "type": "single_choice",
+        "index": 231
+    },
+    {
+        "question": "孔隙率可以用于评价土体的$\\left(\\;\\right)$。A.软硬程度B.干湿程度C.松密程度D.轻重程度",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "2b721e35-8d33-40b1-9819-b0470fed1a33",
+        "type": "single_choice",
+        "index": 232
+    },
+    {
+        "question": "下列土的变形参数中,无侧限条件下定义的参数是()。A.压缩系数$a$B.侧限压缩模量${\\mathrm{E}}_{\\mathrm{S}}$C.变形模量ED.压缩模量${\\mathrm{C}}_{\\mathrm{C}}$",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "cfbb3c25-fb78-4553-b65f-ebabd7f8109b",
+        "type": "single_choice",
+        "index": 233
+    },
+    {
+        "question": "下列有关孔隙水压力的特点中正确的是（）。A.一点各方向不相等B.垂直指向所作用物体表面C.处于不同水深处的土颗粒受到同样的压力D.土体因为受到孔隙水压力的作用而变得密实",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "dbed39f2-1c8d-403a-93cb-394305340fe9",
+        "type": "single_choice",
+        "index": 234
+    },
+    {
+        "question": "地基附加应力是指（）。A.建筑物修建以前,地基中由土体本身的有效重量所产生的压力B.基础底面与地基表面的有效接触应力C.基础底面增加的有效应力D.建筑物修建以后,建筑物重量等外荷载在地基内部引起的有效应力",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "14f5da39-cc05-4fa1-841c-0285fd53624a",
+        "type": "single_choice",
+        "index": 235
+    },
+    {
+        "question": "实验室测定土的抗剪强度指标的试验方法有$\\left(\\;\\right)$。A.直剪、三轴和无侧限试验B.直剪、无侧限和十字板试验C.直剪、三轴和十字板试验D.三轴、无侧限和十字板试验",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "1734ada8-0af1-41f0-a98f-0b40289bd67f",
+        "type": "single_choice",
+        "index": 236
+    },
+    {
+        "question": "影响地基承载力的主要因素中不包括$\\left(\\;\\right)$。A.基础的高度B.地基土的强度C.基础的埋深D.地下水位",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "a0ee728f-4623-4455-8fa4-12402e11f4e3",
+        "type": "single_choice",
+        "index": 237
+    },
+    {
+        "question": "针对简单条分法和简化毕肖普法,下面说法错误的是()。A.简化毕肖普法忽略了条间切向力的作用,结果更经济B.简化毕肖普法忽略了条间法向力的作用,结果更经济C.简单条分法忽略了全部条间力的作用,结果更保守D.简单条分法获得的安全系数低于简化毕肖普法获得的结果",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "833d1be2-7a54-41d3-9e3d-221a0437b653",
+        "type": "single_choice",
+        "index": 238
+    },
+    {
+        "question": "砂土液化现象是指（）。A.非饱和的密实砂土在地震作用下呈现液体的特征B.非饱和的疏松砂土在地震作用下呈现液体的特征C.饱和的密实砂土在地震作用下呈现液体的特征D.饱和的疏松砂土在地震作用下呈现液体的特征",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "63410263-ec41-4fb9-8a23-f6b56fe39bfa",
+        "type": "single_choice",
+        "index": 239
+    },
+    {
+        "question": "有一不对称配筋偏心受压柱,计算得$\\mathrm{A}<\\mathrm{{sub}}>\\mathrm{s}</\\mathrm{{sub}}>{}^{\\prime}=-{420}{\\mathrm{\\;{mm}}}^{2}$,则$\\left(\\;\\right)$。A.按${420}{\\mathrm{\\;{mm}}}^{2}$钢筋配置B.按受拉钢筋最小配筋率配置C.按受压钢筋最小配筋率配置D.按${\\mathrm{A}}_{\\mathrm{S}}={\\mathrm{A}}_{\\mathrm{S}}{}^{\\prime}$配置钢筋",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "8e71a9fe-bb59-4075-904d-a295a2e277bb",
+        "type": "single_choice",
+        "index": 240
+    },
+    {
+        "question": "预应力混凝土受弯构件与普通混凝土受弯构件相比增加了（）。A.正截面承载力计算B.斜截面承载力计算C.正截面抗裂验算D.斜截面抗裂验算",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "180b0b81-f899-42f0-8979-8d3b735ed865",
+        "type": "single_choice",
+        "index": 241
+    },
+    {
+        "question": "关于受弯构件斜截面抗剪说法正确的是（）。A.施加预应力可以提高斜截面抗剪承载力B.防止发生斜压破坏应提高配箍率C.避免发生斜拉破坏的有效办法是提高混凝土强度D.对无腹筋梁,剪跨比越大其斜截面承载力越高",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "2f5f9f9d-6d25-455a-8274-43a485ca5ca0",
+        "type": "single_choice",
+        "index": 242
+    },
+    {
+        "question": "以下哪项对最大裂缝宽度没有明显影响?()A.钢筋应力B.混凝土强度等级C.钢筋直径D.保护层厚度",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "5f77caf8-6e2c-4a93-942c-8dc4b73d9c98",
+        "type": "single_choice",
+        "index": 243
+    },
+    {
+        "question": "后张法预应力混凝土构件的第一批预应力损失一般包括（）。A.锚具变形及钢筋内缩损失,摩擦损失,钢筋应力松弛损失B.锚具变形及钢筋内缩损失,摩擦损失C.错具变形及钢筋内缩损失,温度损失,钢筋应力松弛损失D.摩擦损失,钢筋应力松弛损失,混凝土徐变损失",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "69928cbc-69a0-4275-b455-2d1cb8e46e4b",
+        "type": "single_choice",
+        "index": 244
+    },
+    {
+        "question": "钢筋混凝土受弯构件斜截面抗剪承载力计算公式中没有体现以下哪项影响因素?(A.材料强度B.配箍率C.纵筋配筋量D.截面尺寸",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "55a102a4-c768-47b4-a5c5-94291bff9176",
+        "type": "single_choice",
+        "index": 245
+    },
+    {
+        "question": "仅配筋不同的三种梁（梁1：A<sub>s</sub>=450mm2；梁2：A<sub>s</sub>=600\"m2；梁3：A<sub>$\\left\\langle{/\\text{sub}\\rangle={650}{\\mathrm{\\;{mm}}}^{2}}\\right.$;$)$,其中梁1为适筋梁,梁2及梁3为超筋梁,则破坏时相对受压区高度系数$\\xi$的大小关系为（）。A.${\\xi}_{3}>{\\xi}_{2}>{\\xi}_{1}$B.${\\xi}_{1}>{\\xi}_{2}={\\xi}_{3}$C.${\\xi}_{2}>{\\xi}_{3}>{\\xi}_{1}$D.${\\xi}_{3}={\\xi}_{2}>{\\xi}_{1}$",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "07e66ae2-acab-4f3d-ad59-7d29ed30d154",
+        "type": "single_choice",
+        "index": 246
+    },
+    {
+        "question": "对于钢筋混凝土偏心受拉构件,下面说法错误的是()。A.如果$\\xi>{\\xi}_{\\mathrm{b}}$,说明是小偏心受拉破坏B.小偏心受拉构件破坏时,混凝土完全退出工作,全部拉力由钢筋承担C.大偏心受拉构件存在混凝土受压区D.大、小偏心受拉构件的判断是依据拉力N作用点的位置",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "e00df7a3-968a-4873-8bdb-8ddd57bb9d79",
+        "type": "single_choice",
+        "index": 247
+    },
+    {
+        "question": "当一单筋矩形截面梁的截面尺寸、材料强度及弯矩设计值确定后,计算时发现超筋,那么采取以下哪项指施提高其正截面承载力最有效?()A.增大纵向受拉钢筋的数量B.提高混凝土强度等级C.加大截面宽度D.加大截面高度",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "416356a5-3855-471e-9467-bac95f312d26",
+        "type": "single_choice",
+        "index": 248
+    },
+    {
+        "question": "钢筋混凝土构件变形和裂缝验算中关于荷载、材料强度取值说法正确的是().A.荷载、材料强度都取标准值B.荷载取设计值,材料强度取标准值C.荷载取标准值,材料强度取设计值D.荷载、材料强度都取设计值",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "52fe3aab-f6f2-43e6-9780-c306cdc7e846",
+        "type": "single_choice",
+        "index": 249
+    },
+    {
+        "question": "钢筋混凝土构件在处理剪力和扭矩共同作用的承载力计算时$\\left(\\;\\right)$。A.不考虑二者之间的相关性B.混凝土不考虑剪扭相关作用,钢筋考虑剪扭相关性C.混凝土考虑剪扭相关作用,钢筋不考虑剪扭相关性D.混凝土和钢筋均考虑相关关系",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "084669aa-ec70-4b03-a00b-7f934749f474",
+        "type": "single_choice",
+        "index": 250
+    },
+    {
+        "question": "高斯坐标系是属于（）。A.空间坐标B.相对坐标C.平面直角坐标D.极坐标",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "6dcd0fa6-dceb-410c-9f23-900836a26954",
+        "type": "single_choice",
+        "index": 251
+    },
+    {
+        "question": "1：2000图上量得A、B两点距离为43.4cm，欲在两点间修一坡度不大于3%的道路，则A、B两点高差最大应是（）。A.2.6mB.26.OmC.${1.2}\\mathrm{\\;m}$D.${10.8}\\mathrm{\\;m}$",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "2995081c-8e8c-45c0-a4ad-02f7c95d857c",
+        "type": "single_choice",
+        "index": 252
+    },
+    {
+        "question": "GPS精密定位测量中采用的卫星信号是（）。A.$\\mathrm{C}/\\mathrm{A}$测距码B.P码C.载波信号D.C/A测距码和载波信号混合使用",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "086e369b-6346-486a-874e-b994f7f18ebf",
+        "type": "single_choice",
+        "index": 253
+    },
+    {
+        "question": "某水平角以等精度观测4测回，观测值分别是55°40′47″、55°40′40″、55°40′42″、${55}^{\\circ}{40}^{\\prime}{50}^{\\prime\\prime}$，则一测回观测值中误差m为（）。A.2.${28}^{\\prime\\prime}$B.3.${96}^{\\prime\\prime}$C.${7.92}^{\\prime\\prime}$D.4.${57}^{\\prime\\prime}$",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "9a5d4984-0678-48df-809d-6fb1c468a4e6",
+        "type": "single_choice",
+        "index": 254
+    },
+    {
+        "question": "放样设水平角度时,采用盘左、盘右投点是为了消除()。A.目标倾斜B.气泡两侧偏斜误差C.旁折光影响D.2C误差",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "e88a52c9-887c-4e1c-9984-5611b01725c0",
+        "type": "single_choice",
+        "index": 255
+    },
+    {
+        "question": "无机非金属材料基本构成是（）。A.矿物B.元素C.聚合度D.组分",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "bc437ac0-c670-486f-85b1-64c4626a35be",
+        "type": "single_choice",
+        "index": 256
+    },
+    {
+        "question": "一般要求绝热材料的导热率不宜大于0.17W（k・m），表观密度小于1000kg/m${}^{3}$，抗压强度应大于（）。A.10MPaB.5MPaC.$3\\mathrm{{MPa}}$D.0.3MPa",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "f6859ea9-d38f-4008-b520-0ced660fdbe3",
+        "type": "single_choice",
+        "index": 257
+    },
+    {
+        "question": "影响材料抗冻性的主要因素有孔结构、水饱和度及冻融龄期，而极限水饱和度是（）。A.${50}\\%$B.${75}\\%$C.${85}\\%$D.91.7%",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "b4a1fda9-a1e8-4502-955a-935f34c3438b",
+        "type": "single_choice",
+        "index": 258
+    },
+    {
+        "question": "混凝土集料和水泥石之间存在界面过渡区,其典型厚度为()。A.$5\\sim{10\\mu}\\mathrm{m}$B.${10}\\sim{15\\mu}\\mathrm{m}$C.${20}\\sim{30\\mu}\\mathrm{m}$D.${20}\\sim{40\\mu}\\mathrm{m}$",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "d4454261-6f9e-47e4-a66f-05e413e47b83",
+        "type": "single_choice",
+        "index": 259
+    },
+    {
+        "question": "混凝土检验用水应与饮用水做水泥凝结对比试验,其中初凝时间差与终凝时间差均不应大于$\\left(\\;\\right)$A.10minB.20minC.${30}\\mathrm{\\;{min}}$D.${40}\\mathrm{{min}}$",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "c6b88c03-a756-4fc7-9e8a-c97bf03dc509",
+        "type": "single_choice",
+        "index": 260
+    },
+    {
+        "question": "一般认为,硅酸盐水泥颗粒大于${100\\mu}\\mathrm{m}$的活性较小,颗粒小于多少才具有较高的活性?A.${30\\mu}\\mathrm{m}$B.${40\\mu}\\mathrm{m}$C.${50\\mu}\\mathrm{m}$D.${20\\mu}\\mathrm{m}$",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "ec357d2b-6e71-4fe4-b53d-ff7ed76b3b88",
+        "type": "single_choice",
+        "index": 261
+    },
+    {
+        "question": "正常雨水的pH值为（）。A.4.5B.5.6C.6.5D.7.5",
+        "answer": "B",
+        "score": 2.13,
+        "unique_ID": "32733fde-43a9-40a5-8ec2-1e806f949bb3",
+        "type": "single_choice",
+        "index": 262
+    },
+    {
+        "question": "水泥胶砂试件拆模后立即水平或垂直放在多少度水中养护?()A.${17}\\pm{5}^{\\circ}\\mathrm{C}$B.${18}\\pm{3}^{\\circ}\\mathrm{C}$C.${20}\\pm1{}^{\\circ}\\mathrm{C}$D.${25}^{\\circ}\\mathrm{C}$",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "eacecb66-dc8e-4192-a720-0dd992386001",
+        "type": "single_choice",
+        "index": 263
+    },
+    {
+        "question": "混凝土快速碳化实验,碳化深度小于${20}\\mathrm{\\;{mm}}$,其抗碳化性能满足混凝土多少年使用要求?A.50B.80C.100D.150",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "24b2261f-a615-4019-bb13-dc04f59c79bc",
+        "type": "single_choice",
+        "index": 264
+    },
+    {
+        "question": "某流域面积为10000km${}^{2}$，则其时段长为2小时的单位线（10mm）所包围的总洪量为多少？（单位：百万m${}^{3}$）（）。A.100B.200C.360D.720",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "2926c1c2-b8ef-4d3b-b7e8-c6e73dc2d07f",
+        "type": "single_choice",
+        "index": 265
+    },
+    {
+        "question": "进行设计洪水频率计算时,用适线法推求设计参数,以下哪项不属于设计参数?()A.均值B.变差系数C.偏态系数D.径流系数",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "887e8751-0834-4ac8-b431-4b2688f20265",
+        "type": "single_choice",
+        "index": 266
+    },
+    {
+        "question": "设计洪水推求时,往往进行特大洪水调查延长样本系列,其主要目的是提高样本的$\\left(\\;\\right)$A.一致性B.可靠性C.可选性D.代表性",
+        "answer": "D",
+        "score": 2.13,
+        "unique_ID": "cad8a305-92c9-4a0e-90e8-ecf8aabf55b1",
+        "type": "single_choice",
+        "index": 267
+    },
+    {
+        "question": "某水利工程的设计洪水标准为百年一遇,则根据水文频率的含义,要推求的洪水为().A.大于等于百年一遇洪水B.正好等于百年一遇洪水C.不超过百年一遇洪水D.数值在百年一遇洪水左右",
+        "answer": "A",
+        "score": 2.13,
+        "unique_ID": "7bf9eddb-a66d-4dff-9e02-687e337d7aa8",
+        "type": "single_choice",
+        "index": 268
+    },
+    {
+        "question": "使水资源具有可再生性的原因,是由于自然界所引起的$\\left(\\;\\right)$。A.径流B.蒸发C.水循环D.降水",
+        "answer": "C",
+        "score": 2.13,
+        "unique_ID": "dbd50284-db12-4b8e-8c22-050c28b23d0d",
+        "type": "single_choice",
+        "index": 269
+    },
+    {
+        "question": "下列哪项是量纲分析的基本原理?()[2020年回忆版]A.动力相似原理B.量纲相似原理C.量纲统一原理D.量纲和谐原理",
+        "answer": "D",
+        "score": 7.14,
+        "unique_ID": "97c16677-6d0c-43c7-8475-6872e812b254",
+        "type": "single_choice",
+        "index": 270
+    },
+    {
+        "question": "有一河道泄流时,流量$\\mathrm{Q}={120}{\\mathrm{\\;m}}^{3}/\\mathrm{s}$,过水断面为矩形断面,其宽度$\\mathrm{b}={60}\\mathrm{\\;m}$,流速$\\mathrm{v}=5\\mathrm{\\;m}/\\mathrm{s}$,河道水流的流动类型为（）。[2020年回忆版]A.急流B.缓流C.临界流D.不能确定",
+        "answer": "A",
+        "score": 7.14,
+        "unique_ID": "cccb05a0-30b1-48a4-aef3-466c75f4704b",
+        "type": "single_choice",
+        "index": 271
+    },
+    {
+        "question": "水力最佳断面是指（）。[2020年回忆版]A.面积一定,湿周最小的断面B.湿周一定,面积最小的断面C.最小糙率的断面D.最低造价的断面",
+        "answer": "A",
+        "score": 7.14,
+        "unique_ID": "c609bf9c-f9c5-43e7-b757-2b7d3a386d1a",
+        "type": "single_choice",
+        "index": 272
+    },
+    {
+        "question": "渗流运动在计算总水头时,不需要考虑下列哪项?()[2020年回忆版]A.测压管水头B.流速水头C.压强水头D.位置水头",
+        "answer": "B",
+        "score": 7.14,
+        "unique_ID": "d021efba-53fb-442d-8946-c8ec106bbc82",
+        "type": "single_choice",
+        "index": 273
+    },
+    {
+        "question": "土的物性指标中不能直接测试，需要从其他指标换算的是（）。[2020年回忆版]A.含水率B.土粒比重C.天然密度D.孔隙比",
+        "answer": "D",
+        "score": 7.14,
+        "unique_ID": "8954749f-10df-4a1f-8175-b76d48bd0233",
+        "type": "single_choice",
+        "index": 274
+    },
+    {
+        "question": "已知甲土的压缩模量为5MPa，乙土的压缩模量为10MPa，关于两种土的压缩性的比较，下面说法正确的是（）。[2020年回忆版]A.甲土比乙土的压缩性大B.甲土比乙土的压缩性小C.不能判断,需要补充两种土的泊松比D.不能判断,需要补充两种土所受的上部荷载",
+        "answer": "A",
+        "score": 7.14,
+        "unique_ID": "3c9ee923-9070-4701-839a-0d339f48923e",
+        "type": "single_choice",
+        "index": 275
+    },
+    {
+        "question": "下列关于预应力混凝土梁的说法中,不正确的是()。[2020年回忆版]A.可以提高正截面的抗裂性B.可以提高斜截面的承载力C.可以提高正截面的承载力D.可以提高斜截面的抗裂性",
+        "answer": "C",
+        "score": 7.14,
+        "unique_ID": "a9151078-5a6d-4a42-8134-30aa39af7a25",
+        "type": "single_choice",
+        "index": 276
+    },
+    {
+        "question": "根据水准测量的原理,水准仪的主要作用是（）。[2020年回忆版]A.提供一条水平视线B.提供水准器装置C.具有望远镜功能D.可以照准水准尺读数",
+        "answer": "A",
+        "score": 7.14,
+        "unique_ID": "112c552c-792d-445a-880c-c16b9162c419",
+        "type": "single_choice",
+        "index": 277
+    },
+    {
+        "question": "关于等高线的描述中,下列正确的是()。[2020年回忆版]A.是地面高程相同点连成的闭合曲线B.是地面所有等高点连成的一条曲线C.是地面上相邻点高程的连线D.不是计曲线就是首曲线",
+        "answer": "A",
+        "score": 7.14,
+        "unique_ID": "e5daf738-0d84-4aa4-87aa-f98f80d1680c",
+        "type": "single_choice",
+        "index": 278
+    },
+    {
+        "question": "已知基本等高距为$2\\mathrm{\\;m}$,则计曲线为$\\left(\\;\\right)$。[2020年回忆版]A.$1,2,3,\\cdots$B.$2,4,6,\\cdots$C.$5,{10},{15},\\cdots$D.10,20,30,...",
+        "answer": "D",
+        "score": 7.14,
+        "unique_ID": "2f4f1d3f-ee4c-4e50-8854-ec3d00789c97",
+        "type": "single_choice",
+        "index": 279
+    },
+    {
+        "question": "当材料的孔隙率增大时,材料的密度变化情况是()。[2020年回忆版]A.不变B.变小C.变大D.无法确定",
+        "answer": "A",
+        "score": 7.14,
+        "unique_ID": "895fee9e-14ed-4dd5-a733-ef6033a5ed83",
+        "type": "single_choice",
+        "index": 280
+    },
+    {
+        "question": "我国现行国家标准《通用硅酸盐水泥》中,符号“P·C”代表（）。[2020年回忆版]A.普通硅酸盐水泥B.硅酸盐水泥C.粉煤灰硅酸盐水泥D.复合硅酸盐水泥",
+        "answer": "D",
+        "score": 7.14,
+        "unique_ID": "8d786e48-5a4f-4df4-a336-ff4a0f909c33",
+        "type": "single_choice",
+        "index": 281
+    },
+    {
+        "question": "某水利工程的设计洪水是指下列哪项?()[2020年回忆版]A.流域重点断面的历史最大洪水B.通过文献考证的特大洪水C.符合该工程设计标准要求的洪水D.所在流域历史上发生的最大洪水",
+        "answer": "C",
+        "score": 7.14,
+        "unique_ID": "3b3c203d-c83b-41d8-8ad4-3c579f7a18ce",
+        "type": "single_choice",
+        "index": 282
+    },
+    {
+        "question": "使水资源具有再生性的根本原因是自然界的（）。[2020年回忆版]A.水文循环B.蒸发C.径流D.降水",
+        "answer": "A",
+        "score": 7.14,
+        "unique_ID": "47997337-017d-44cb-9701-0114413616b0",
+        "type": "single_choice",
+        "index": 283
+    },
+    {
+        "question": "《中华人民共和国水法》规定,国家保护水资源,采取以下哪些措施防治水土流失和水体污染,改善生态环境?()A.退耕还林B.保护植被C.植树种草D.涵养水源",
+        "answer": "BCD",
+        "score": 0.88,
+        "unique_ID": "eacbe149-4031-4e17-9dd4-cd000abd6fd2",
+        "type": "multi_choice",
+        "index": 284
+    },
+    {
+        "question": "《中华人民共和国水法》规定,禁止在江河、湖泊及以下哪些地方内弃置、堆放阻碍行洪的物体和种植阻碍行洪的林木及高秆作物?()A.湿地B.水库C.运河D.渠道",
+        "answer": "BCD",
+        "score": 0.88,
+        "unique_ID": "ff4f01df-87e9-4230-9e7c-55911818ff90",
+        "type": "multi_choice",
+        "index": 285
+    },
+    {
+        "question": "《中华人民共和国水法》规定,水中长期供求规划应当依据水的供求现状、国民经济和社会发展规划、流域规划、区域规划，按照水资源供需协调、综合平衡、合理开源及以下哪些选项的原则制定？（A.保护生态B.厉行节约C.资源节约D.节约用水",
+        "answer": "AB",
+        "score": 0.88,
+        "unique_ID": "bdd90347-df80-4636-8b97-f06a8971e7fa",
+        "type": "multi_choice",
+        "index": 286
+    },
+    {
+        "question": "招标文件应包括以下哪几项内容?(A.招标项目的技术要求B.对投标人资格审查的标准C.签定合同的主要条款D.投标报价要求和评标标准",
+        "answer": "ABCD",
+        "score": 0.88,
+        "unique_ID": "f2c4344a-f030-4599-8f5d-0a77fcc61e66",
+        "type": "multi_choice",
+        "index": 287
+    },
+    {
+        "question": "《建设工程勘察设计管理条例》中所称建设工程设计,是指根据建设工程的要求,对建设工程所需的技术、经济和以下哪几项条件进行综合分析、论证、编制建设工程设计文件的活动？（A.社会B.生态C.资源D.环境",
+        "answer": "CD",
+        "score": 0.88,
+        "unique_ID": "6515b680-86b0-41a8-8d64-34e2998ce120",
+        "type": "multi_choice",
+        "index": 288
+    },
+    {
+        "question": "投标报价的主要依据包括A.设计工程量清单B.拟采用的施工方案C.本企业资质等级D.本企业设备装备能力",
+        "answer": "ABD",
+        "score": 0.88,
+        "unique_ID": "6a6e56e0-6f75-4eb4-b653-0ec1809b7405",
+        "type": "multi_choice",
+        "index": 289
+    },
+    {
+        "question": "工程建设监理的职责包括（$\\;$）。A.协助项目法人评审投标文件,提出决标建议B.负责处理索赔问题C.在现场解决施工期间出现的设计问题D.批准承包商派驻工地的项目经理",
+        "answer": "ABD",
+        "score": 0.88,
+        "unique_ID": "61492fae-4ac3-4e64-950f-fbccd16dd44c",
+        "type": "multi_choice",
+        "index": 290
+    },
+    {
+        "question": "下列工程项目中，属经营性水利工程项目的有（$\\;$）。A.灌溉供水B.水力发电C.水产D.旅游",
+        "answer": "BCD",
+        "score": 0.88,
+        "unique_ID": "ec18a019-7e3b-47fe-ad18-0eee02cbaacd",
+        "type": "multi_choice",
+        "index": 291
+    },
+    {
+        "question": "下列岩类中哪些属于岩石学的一级分类?(A.火成岩B.沉积岩C.花冈岩D.变质岩",
+        "answer": "ABD",
+        "score": 0.88,
+        "unique_ID": "c302deb6-b601-4ea6-8554-83c7e792df64",
+        "type": "multi_choice",
+        "index": 292
+    },
+    {
+        "question": "断层面的产状至少需要下列哪些要素确定?(A.走向B.倾向C.倾角D.擦痕方向",
+        "answer": "ABC",
+        "score": 0.88,
+        "unique_ID": "ca14485f-0af7-4e9b-94e1-e8248d68721c",
+        "type": "multi_choice",
+        "index": 293
+    },
+    {
+        "question": "在对砂砾料II类料场进行初查时，下列哪些勘探（网）点间距是符合水利水电规程规定的？（A.${100}\\mathrm{\\;m}$B.${150}\\mathrm{\\;m}$C.${200}\\mathrm{\\;m}$D.${250}\\mathrm{\\;m}$",
+        "answer": "ABC",
+        "score": 0.88,
+        "unique_ID": "8b019bfc-7472-43ca-9834-6298e2e4a8ae",
+        "type": "multi_choice",
+        "index": 294
+    },
+    {
+        "question": "请指出下列哪些土属于特殊土?()A.粉细砂B.膨胀土C.填土D.淤泥",
+        "answer": "BCD",
+        "score": 0.88,
+        "unique_ID": "523d1890-5a11-4ea9-89cc-d3a2a0f55bd4",
+        "type": "multi_choice",
+        "index": 295
+    },
+    {
+        "question": "编制水电工程预可行性研究报告,应在以下哪几项的基础上进行?(A.地区经济发展规划B.江河流域综合利用规划或河流(河段)水电规划C.国土资源利用规划D.电网电源规划",
+        "answer": "AB",
+        "score": 0.88,
+        "unique_ID": "286f2fd8-1224-4453-b156-582902029045",
+        "type": "multi_choice",
+        "index": 296
+    },
+    {
+        "question": "灌溉、排水泵站的等别,应根据以下哪几项确定?()A.装机流量B.灌溉亩数C.排水面积D.装机功率",
+        "answer": "AD",
+        "score": 0.88,
+        "unique_ID": "4bce8c37-dcb5-478a-910e-a329b3bc8609",
+        "type": "multi_choice",
+        "index": 297
+    },
+    {
+        "question": "在水电工程坝址比选中,应分析比较的主要因素是地形、地质、工程总体布置及建筑物型式、施工条件及以下哪几项？（$\\;$）A.环境影响B.机组机型C.运行条件D.建筑材料",
+        "answer": "AD",
+        "score": 0.88,
+        "unique_ID": "d1fb3e03-873c-4692-b614-85fed286adbc",
+        "type": "multi_choice",
+        "index": 298
+    },
+    {
+        "question": "无压隧洞当地质条件较差时,断面形式可选用()。A.圆拱直墙形B.城门洞形C.圆形D.马蹄形",
+        "answer": "CD",
+        "score": 0.88,
+        "unique_ID": "f1e927c8-8fc2-465e-8c66-69351171c8ed",
+        "type": "multi_choice",
+        "index": 299
+    },
+    {
+        "question": "河堤堤线布置应遵循下列原则（$\\;$）。A.与中小洪水流向一致B.尽量避开强透水地基C.尽量避开古河道D.河段内两岸堤防的间距大致相等",
+        "answer": "BCD",
+        "score": 0.88,
+        "unique_ID": "164924f7-d647-4c48-8f93-fdebf6a9db4a",
+        "type": "multi_choice",
+        "index": 300
+    },
+    {
+        "question": "提高地下埋管抗外压力稳定的工程措施有()。A.建立可靠的排水系统B.在钢管段起始端设置阻水环C.提高钢管与岩石间混凝土强度等级D.设置加劲环",
+        "answer": "AB",
+        "score": 0.88,
+        "unique_ID": "d3ef1f57-e113-4627-9b9a-848d0cf71143",
+        "type": "multi_choice",
+        "index": 301
+    },
+    {
+        "question": "施工总布置方案应遵循因地制宜、因时制宜、有利生产、易于管理及以下哪几项原则,经全面系统比较论证后选定?A.安全可靠B.经济合理C.技术先进D.方便生活",
+        "answer": "ABD",
+        "score": 0.88,
+        "unique_ID": "197175dd-a2c7-43e3-bc63-beafedc652fe",
+        "type": "multi_choice",
+        "index": 302
+    },
+    {
+        "question": "高边坡开挖应遵循的原则有（）。A.预留保护层,二次削坡B.按照自上而下顺序进行C.设有锚索、锚杆支护的,每层开挖后宜立即锚喷D.坡顶需设排水沟",
+        "answer": "BC",
+        "score": 0.88,
+        "unique_ID": "03bf7254-060e-4f3b-a0bd-28ead97457af",
+        "type": "multi_choice",
+        "index": 303
+    },
+    {
+        "question": "流量资料测验精度较差时,应着重复核浮标系数及以下哪些内容的合理性?(A.水位流量B.水面流速系数C.断面糙率D.借用断面",
+        "answer": "ABD",
+        "score": 0.88,
+        "unique_ID": "45ed2f25-6f97-4c83-a8cf-dfb2d1d95930",
+        "type": "multi_choice",
+        "index": 304
+    },
+    {
+        "question": "以下哪些是水资源评价中地表水和地下水之间的重复水量?(A.山前侧渗量B.田间渗透量C.渠系渗透量D.河道渗透量",
+        "answer": "BC",
+        "score": 0.88,
+        "unique_ID": "5e173309-412b-4014-bba8-2b8b3b833cbc",
+        "type": "multi_choice",
+        "index": 305
+    },
+    {
+        "question": "下列哪些选项是动力变质岩的结构类型?(A.片状结构B.碎斑结构C.块状结构D.糜棱结构",
+        "answer": "BD",
+        "score": 0.88,
+        "unique_ID": "f00cf3e3-8314-489d-9b04-e1241bb17127",
+        "type": "multi_choice",
+        "index": 306
+    },
+    {
+        "question": "下列哪些选项是软弱夹层抗剪强度取值应考虑的因素?(A.软弱夹层的位置B.软弱夹层的长度C.软弱夹层的类型D.软弱夹层的厚度及起伏差",
+        "answer": "CD",
+        "score": 0.88,
+        "unique_ID": "0c5f2dd9-c001-47ab-90e2-96eaa215f50b",
+        "type": "multi_choice",
+        "index": 307
+    },
+    {
+        "question": "流土的临界水力比降可以通过以下哪些指标计算?(A.颗粒密度B.相对密度C.孔隙率D.不均匀系数",
+        "answer": "BC",
+        "score": 0.88,
+        "unique_ID": "17756d4a-d12d-4ed5-859e-2dbb60c61cba",
+        "type": "multi_choice",
+        "index": 308
+    },
+    {
+        "question": "城镇公共用水包括（）。A.货运邮电业用水B.商饮业用水C.绿化与河湖补水D.建筑业用水",
+        "answer": "ABD",
+        "score": 0.88,
+        "unique_ID": "b8fd25e0-ec97-4a15-8080-4014629f857e",
+        "type": "multi_choice",
+        "index": 309
+    },
+    {
+        "question": "设计洪水位Z（设）,防洪高水位Z（洪）,正常高水位Z（正）,不符合一般规律的关系式为（）。A.Z(设)$<Z$(洪)$>Z$(正)B.Z(设)$>Z$(洪)$=Z$(正)C.$Z$(设)$<Z$(洪)$>Z$(正)D.Z(设)$=Z$(洪)$<Z$(正)",
+        "answer": "ACD",
+        "score": 0.88,
+        "unique_ID": "b4e95d6b-9d0f-4082-b352-c196626dbc09",
+        "type": "multi_choice",
+        "index": 310
+    },
+    {
+        "question": "水利水电工程场址选择考虑的主要因素有（$\\;$）。A.地形、地质条件B.水文气象条件C.施工因素,缩短工程D.枢纽总造价",
+        "answer": "ABCD",
+        "score": 0.88,
+        "unique_ID": "ffbd0e43-c601-4cff-b6b5-a8a3c1e1596d",
+        "type": "multi_choice",
+        "index": 311
+    },
+    {
+        "question": "位于强震区的黏土斜砾石,关于坝壳料的填筑标准,说法正确的有$\\left(\\;\\right)$。A.应以相对密度作为标准B.应以干容重作为设计标准C.浸润线以下坝壳料相对密度不低于0.75D.浸润线以下坝壳料相对密度根据地震烈度大小选用0.7510.85",
+        "answer": "AD",
+        "score": 0.88,
+        "unique_ID": "b95cb1c8-9685-401e-8ef1-a1d0a9908ae3",
+        "type": "multi_choice",
+        "index": 312
+    },
+    {
+        "question": "下面关于重力坝的应力计算的叙述,符合规范要求的有$\\left(\\;\\right)$。A.重力坝的坝基面坝趾垂直正应力在施工期允许有小于0.1MPa的拉应力B.重力坝坝体的下游面在施工期允许有不大于0.2MPa的主拉应力C.有限元法计算的坝基应力,其上游面拉应力区宽度,宜小于坝底宽度的0.07倍或小于坝至帷幕中心线的距离D.当坝体局部混凝土有抗拉要求时,混凝土抗拉安全系数基本组合不应小于5.0,特殊组合（不含地震情况）不应小于3.5",
+        "answer": "AB",
+        "score": 0.88,
+        "unique_ID": "69beeb3f-5870-4fc3-a7d9-292ac9b7e98c",
+        "type": "multi_choice",
+        "index": 313
+    },
+    {
+        "question": "对最终选定的拱坝布置方案,按照规范要求应进行水工模型试验的有$(\\;$)。A.1级拱坝B.2级拱坝C.特殊的2级拱坝D.3级拱坝",
+        "answer": "AB",
+        "score": 0.88,
+        "unique_ID": "b7da34ce-d2d2-4420-8fde-df41e6465e59",
+        "type": "multi_choice",
+        "index": 314
+    },
+    {
+        "question": "溢洪道控制基底面上的垂直正应力控制标准,满足规范要求的有$\\left(\\;\\right)$。A.运用期地震情况下可允许出现不大于0.1MPa的垂直拉应力B.运用期在各种工况条件下均不得出现垂直拉应力C.施工期基底面下游端可允许出现不大于0.1MPa的拉应力D.计算双向受力时,可允许出现不大于0.3MPa的拉应力",
+        "answer": "AC",
+        "score": 0.88,
+        "unique_ID": "49748103-847c-449c-9245-ea1f2f8a1ec5",
+        "type": "multi_choice",
+        "index": 315
+    },
+    {
+        "question": "下列关于坝式护岸型式的选用,正确的有()。A.坝式护岸可选用丁坝,顺坝及丁,顺坝相结合的“T”形坝型式B.坝式护岸按结构材料,可选用透水,不透水型式C.坝式护岸按坝高及水流关系,可选用上挑、正挑、下挑型式D.坝式护岸按潮流流向关系,可选用淹没、非淹没型式",
+        "answer": "AB",
+        "score": 0.88,
+        "unique_ID": "493ff661-074b-47dd-bf81-59f5de76a1fb",
+        "type": "multi_choice",
+        "index": 316
+    },
+    {
+        "question": "某工程为引水式电站,压力管道采用沿山坡布置的钢衬钢筋混凝土管,在进行钢衬钢筋混凝土管设计时，说法正确的有（）。A.钢筋混凝土衬砌承担内水压力,外包钢筋混凝土衬砌承担外荷载B.钢衬钢筋混凝土管联合承担内水压力C.进行强度设计时,应考虑钢衬与钢筋混凝土间的干缩、温度等因素引起的缝隙影响D.在正常工况最高外压力作用下,总安全系数不小于2.0",
+        "answer": "BD",
+        "score": 0.88,
+        "unique_ID": "b831f52a-e06e-442f-8a09-5cfff36f09e9",
+        "type": "multi_choice",
+        "index": 317
+    },
+    {
+        "question": "电站机组进水口和泵站出口有快速关闭要求的闸门,其启闭机的选用和布置不合适的为$\\left(\\;\\right)$A.采用动式电动葫芦进行闸门操作B.采用液压启闭一门一机布置进行闸门操作C.采用双向门机进行闸门操作D.采用固定一门一机布置进行闸门操作",
+        "answer": "ACD",
+        "score": 0.88,
+        "unique_ID": "4dce683f-153b-429f-91ef-d69766821f9a",
+        "type": "multi_choice",
+        "index": 318
+    },
+    {
+        "question": "有关施工导流标准,以下说法不正确的有()。A.同一期中的各导流建筑物级别应相同B.过水,应以过水围堰挡水工况各项指标为衡量依据C.过水围堰的设计洪水时段不同,设计洪水重现期应相同D.封堵施工挡水标准,不应低于导流泄水建筑物封堵后坝体度迅洪水标准",
+        "answer": "ACD",
+        "score": 0.88,
+        "unique_ID": "57143426-2d99-4feb-945d-032cb29badbc",
+        "type": "multi_choice",
+        "index": 319
+    },
+    {
+        "question": "工程动态投资包括（$\\;$）。A.基本预备费B.价差预备费C.建设期贷款(或融资)利息D.运行期货款(或融资)利息",
+        "answer": "BC",
+        "score": 0.88,
+        "unique_ID": "8a1d30c4-c998-42ef-88a5-9c93c35eebe7",
+        "type": "multi_choice",
+        "index": 320
+    },
+    {
+        "question": "除根据土地利用总体规划或者县级以上地方人民政府批准确定的粮、棉、油生产基地内的耕地外,国家规定列入基本农田保护区的还有（$\\;$）。A.经国务院有关主管部门产基地内的耕地B.有良好的水利和水土保持设施的耕地,正在实施改造计划以及可以改造的中、低产田C.蔬菜生产基地,农业科研,教学试验田D.交通沿线及地形的耕地",
+        "answer": "ABC",
+        "score": 0.88,
+        "unique_ID": "7252c0dc-5fef-40b7-9bb5-0383b235ad79",
+        "type": "multi_choice",
+        "index": 321
+    },
+    {
+        "question": "以下哪些是水库淹没影响处理范围?(A.工程引水导致河段减水,流成生产生活引起困难,必须采取措施的区域B.水库蓄水后,失去基本生产生活条件的区域C.库水回水影响范围内分布有居民的区域D.水库蓄水后,库周恢复公路工程建设的区域",
+        "answer": "BC",
+        "score": 0.88,
+        "unique_ID": "5d8df4c9-15ed-4569-a479-c8e8f95e6640",
+        "type": "multi_choice",
+        "index": 322
+    },
+    {
+        "question": "居民点新址规划水平年的用地规模由以下哪些确定?()A.人均宅基地标准B.搬迁安置人口C.人均用地标准D.原址人均占地",
+        "answer": "BC",
+        "score": 0.88,
+        "unique_ID": "75892682-0d57-4346-b098-949a31b5a2b6",
+        "type": "multi_choice",
+        "index": 323
+    },
+    {
+        "question": "城镇,集镇迁建规划人口包括$\\left(\\;\\right)$。A.原址征地影响人口B.新址征占C.搬迁人口D.生活安装",
+        "answer": "ABC",
+        "score": 0.88,
+        "unique_ID": "e9b935eb-3010-44e9-82df-6c1334727b1c",
+        "type": "multi_choice",
+        "index": 324
+    },
+    {
+        "question": "水电（水利）工程建设征地移民安置补偿投资概（估）算费用包括（$\\;$）。A.补偿补助费用B.工程建设费用C.环境保护和水土保持费用D.独立费用(其他费用)",
+        "answer": "ABCD",
+        "score": 0.88,
+        "unique_ID": "a8ddfff4-528d-4c82-895a-b23881862011",
+        "type": "multi_choice",
+        "index": 325
+    },
+    {
+        "question": "水利水电项目偿债能力分析内容主要包括（）。A.贷款偿还期B.资产负债率C.投资回收期D.投资利润率",
+        "answer": "AB",
+        "score": 0.88,
+        "unique_ID": "df8cd7e4-7cf8-4210-8375-0f1d9155168e",
+        "type": "multi_choice",
+        "index": 326
+    },
+    {
+        "question": "水利项目贷款能力测试成果包括（$\\;$）。A.贷款本金B.建设期利息C.资本金回收期D.资本金",
+        "answer": "ABD",
+        "score": 0.88,
+        "unique_ID": "bbc2a002-fcd8-4504-a5f0-cb639d13f895",
+        "type": "multi_choice",
+        "index": 327
+    },
+    {
+        "question": "水文分析计算依据的基本资料应具有（$\\;$）。A.可靠性B.连序性C.代表性D.一致性",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "c2f6dbf5-bfb4-41da-b261-8b5f50f13a83",
+        "type": "multi_choice",
+        "index": 328
+    },
+    {
+        "question": "工程所依据的各种标准的设计洪水包括（$\\;$）。A.洪峰流量B.时段洪量C.洪水过程线D.时段暴雨量",
+        "answer": "ABC",
+        "score": 0.85,
+        "unique_ID": "a2764d26-d034-433d-872a-e5311f737a87",
+        "type": "multi_choice",
+        "index": 329
+    },
+    {
+        "question": "在水库洪水调节计算中,对以下哪些水库需用入库设计洪水进行计算?(A.库尾比较开阔的水库B.湖泊型水库C.河道型水库D.动库容较大的水库",
+        "answer": "AD",
+        "score": 0.85,
+        "unique_ID": "488de81a-bb2d-46bd-a46d-8b45b414c165",
+        "type": "multi_choice",
+        "index": 330
+    },
+    {
+        "question": "水电站在电力系统的主要作用是调峰及以下哪些选项?(A.检修备用B.调频C.事故备用D.调相",
+        "answer": "BCD",
+        "score": 0.85,
+        "unique_ID": "af62613d-0687-4b6f-85f0-b12d50f2ac89",
+        "type": "multi_choice",
+        "index": 331
+    },
+    {
+        "question": "水电站装机容量由必需容量和重复容量组成,必需容量包括工作容量和以下哪些选项?(A.事故备用容量B.旋转备用容量C.负荷备用容量D.检修备用容量",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "a0d4e471-7813-47da-8df4-fdece0f3a490",
+        "type": "multi_choice",
+        "index": 332
+    },
+    {
+        "question": "城镇节水的主要方向包括$\\left(\\;\\right)$。A.提高水的重复利用率B.降低用水单耗C.加强治污D.利用价格杠杆",
+        "answer": "AB",
+        "score": 0.85,
+        "unique_ID": "caf3a03f-af50-4181-92e3-a1204ac4bbc9",
+        "type": "multi_choice",
+        "index": 333
+    },
+    {
+        "question": "一般情况下,灌溉工程设计保证率越高,以下哪些说法是正确的?(A.相应于设计保证率年的供水量越小B.相应于设计保证率年的供水量越大C.工程投资越大D.工程投资不变",
+        "answer": "BC",
+        "score": 0.85,
+        "unique_ID": "3ce16b56-f0f7-4c2a-9cf8-fa4481ba6f18",
+        "type": "multi_choice",
+        "index": 334
+    },
+    {
+        "question": "确定综合利用水库承担任务及主次关系时,主要考虑以下哪几项因素?(A.水资源综合利用的各方面B.不改变规划对本工程任务及主次关系C.城乡供水优先D.尽可能做到防洪与兴利相结合",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "d75aa6c4-009b-418f-a5e8-cbf899df936a",
+        "type": "multi_choice",
+        "index": 335
+    },
+    {
+        "question": "国家法律规定,征用以下哪几类土地时,需由国务院批准?(A.基本农田B.基本农田以外的耕地三十公顷C.其他土地五十公顷D.其他土地七十公顷",
+        "answer": "AD",
+        "score": 0.85,
+        "unique_ID": "97100e4b-8fd2-4792-aaec-f2302b42f71f",
+        "type": "multi_choice",
+        "index": 336
+    },
+    {
+        "question": "根据国家规定,基本农田保护区的耕地包括经国务院有关主管部门或者县级以上地方人民政府批准确定的粮、棉、油生产基地内的耕地以及以下哪些选项?(A.良好的水利和水土保持设施的耕地B.正在实施改造计划以及可以改造的中、低产田C.蔬菜生产基地、农业科研、教学试验田D.交通沿线及地形平坦的耕地",
+        "answer": "ABC",
+        "score": 0.85,
+        "unique_ID": "8580bbf7-e1d8-424c-8fe4-674690205c56",
+        "type": "multi_choice",
+        "index": 337
+    },
+    {
+        "question": "水库淹没处理范围除直接淹没区以外,还包括以下哪些选项的影响区?(A.浸没B.塌岸C.滑坡D.移民安置",
+        "answer": "ABC",
+        "score": 0.85,
+        "unique_ID": "c163b894-6476-47fa-8eee-df77db44e817",
+        "type": "multi_choice",
+        "index": 338
+    },
+    {
+        "question": "水库淹没影响实物指标调查的内容可分为城镇和以下哪些选项及专业项目等部分？（A.农村B.集镇C.事业单位D.工矿企业",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "827b4562-b78c-4446-a5fa-1a756da424c3",
+        "type": "multi_choice",
+        "index": 339
+    },
+    {
+        "question": "集(城)镇迁建的建设用地规模,应根据以下哪些选项,参照国家和省、自治区、直辖市的有关规定分析确定？（$\\;$）A.原址用地情况B.远期用地规划C.人口规模D.新址地形、地质条件",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "ecf6c670-8461-449a-af34-c5b00b378d8c",
+        "type": "multi_choice",
+        "index": 340
+    },
+    {
+        "question": "农村移民生产安置规划,要进行移民安置环境容量的分析,考虑以下哪些主要资源,测算可能生产安置移民的数量?()A.耕地B.林地C.矿产D.养殖水面",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "fd97addc-63d4-4adc-866a-1e89e7e166b8",
+        "type": "multi_choice",
+        "index": 341
+    },
+    {
+        "question": "农村移民生产安置补助费包括A.青苗补偿费B.土地补偿费C.安置补助费D.房屋补偿费",
+        "answer": "ABCD",
+        "score": 0.85,
+        "unique_ID": "03392544-1702-4050-9abd-0c2330616dd6",
+        "type": "multi_choice",
+        "index": 342
+    },
+    {
+        "question": "水土保持生态建设项目可行性研究阶段主要的设计任务包括$\\left(\\;\\right)$。A.确定项目范围和建设方案B.确定措施布局及典型设计C.确定总体建设规模和总体布局D.确定投资估算及经济评价",
+        "answer": "BCD",
+        "score": 0.85,
+        "unique_ID": "085ea635-42b1-47f4-833a-26818005eadf",
+        "type": "multi_choice",
+        "index": 343
+    },
+    {
+        "question": "水土保持生态建设项目的工程措施一般分为小型蓄水用水工程及以下哪些选项?(A.坡面治理工程B.河沟治理工程C.山沟治理工程D.山洪排导工程",
+        "answer": "ABCD",
+        "score": 0.85,
+        "unique_ID": "1c5810b8-f553-415f-b961-4739bf572a47",
+        "type": "multi_choice",
+        "index": 344
+    },
+    {
+        "question": "大型缓洪淤地坝工程,一般由以下哪几项组成?()A.坝体B.泄洪洞C.排水排沙设施D.放水建筑物",
+        "answer": "AD",
+        "score": 0.85,
+        "unique_ID": "6edccb10-84f6-4f5b-96ad-11532195231c",
+        "type": "multi_choice",
+        "index": 345
+    },
+    {
+        "question": "开发建设项目水土流失防治责任范围分为()。A.项目所在区B.项目建设区C.直接影响区D.间接影响区",
+        "answer": "BC",
+        "score": 0.85,
+        "unique_ID": "f144b25e-dff1-4f5a-a815-27c0682e04d1",
+        "type": "multi_choice",
+        "index": 346
+    },
+    {
+        "question": "水土保持生态建设工程概估算由以下哪些费用和独立费用组成?(A.工程措施B.林草措施C.临时工程D.封育治理措施",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "6ecf089f-331f-40b6-85d4-1a3c6282c2c8",
+        "type": "multi_choice",
+        "index": 347
+    },
+    {
+        "question": "全国水土保持监督管理体系包括：水土保持法律法规体系和以下哪些选项？（$\\;$）A.监督执法体系B.预防监督技术支持体系C.遥测遥感体系D.监测网络信息系统",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "7dd1555e-dce9-4b8e-bdba-fb196170c1f7",
+        "type": "multi_choice",
+        "index": 348
+    },
+    {
+        "question": "应针对工程建设造成不利环境影响的对象和以下哪些选项,提出相应环保对策措施?(A.级别B.程度C.范围D.时段",
+        "answer": "BCD",
+        "score": 0.85,
+        "unique_ID": "40978c1a-136a-457d-9c23-690caaa0df62",
+        "type": "multi_choice",
+        "index": 349
+    },
+    {
+        "question": "自然保护区内保存完好的哪些区域,应当划为核心区,禁止任何单位和个人进入?(A.天然状态的生态系统B.珍贵动植物的集中分布地C.濒危动植物的集中分布地D.珍稀动植物的集中分布地",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "65d1a4eb-c552-461a-b2d4-95cae224cfbd",
+        "type": "multi_choice",
+        "index": 350
+    },
+    {
+        "question": "水功能区划中的开发利用区是指具有满足生活、生产和以下哪些选项的需水要求的水域和水污染控制、治理的重点水域?()A.旅游B.景观C.水力发电D.净化水体",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "e027b3eb-c242-43fc-b2ac-1dd33b16c65e",
+        "type": "multi_choice",
+        "index": 351
+    },
+    {
+        "question": "水利水电建设项目国民经济评价中灌溉效益可采用以下哪几种方法计算?(A.分摊系数法B.影子水价法C.影子产量法D.缺水损失法",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "0d9864de-da35-49d1-a528-e1225cfb388e",
+        "type": "multi_choice",
+        "index": 352
+    },
+    {
+        "question": "我国《水利产业政策》对水利建设项目根据建设其功能和作用划分为甲类和乙类，属于乙类项目的是(）。A.供水B.防洪除涝C.水力发电D.水利综合经营",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "deef118d-d752-4a91-9b24-168429c8fc95",
+        "type": "multi_choice",
+        "index": 353
+    },
+    {
+        "question": "当设计依据站径流系列较长时，可采用下列哪些方法分析评价该系列或系列代表段的代表性？（A.滑动平均B.差积曲线C.回归分析D.序列分析",
+        "answer": "AB",
+        "score": 0.85,
+        "unique_ID": "42a691ab-bd42-4829-bcba-bc90aec01add",
+        "type": "multi_choice",
+        "index": 354
+    },
+    {
+        "question": "江河、湖泊主要控制站设计洪水位的确定方法主要有（$\\;$）。A.据实测和调查的年最高洪水进行频率分析,根据选定的防洪标准确定设计洪水位B.据洪峰流量根据选定的防洪标准求设计流量,再通过水位流量关系确定设计洪水位C.以某一实际洪水作为年实测或调查洪水位作为设计洪水位D.据实测和调查的最高洪水位",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "6e282849-e4c4-424b-a07b-b6aab4016f22",
+        "type": "multi_choice",
+        "index": 355
+    },
+    {
+        "question": "一般来说,灌溉工程设计保证率越高,则()。A.枯水年供水量越小,工程投资越大B.枯水年供水量越大,工程投资越大C.供水工程的技术经济性越合理D.输水工程按设计能力运行的机会越少",
+        "answer": "BD",
+        "score": 0.85,
+        "unique_ID": "88861522-3e9f-4f72-9ab5-cb7c9787f450",
+        "type": "multi_choice",
+        "index": 356
+    },
+    {
+        "question": "对于中小型水库,可供水量计算一般应采用()。A.典型年法B.长系列、月调节计算方法C.复蓄次数法D.实际资料统计法",
+        "answer": "AB",
+        "score": 0.85,
+        "unique_ID": "116fc99f-a20d-4612-ad85-f63777c2e6af",
+        "type": "multi_choice",
+        "index": 357
+    },
+    {
+        "question": "农作物田间需水量包括（）。A.田间渗漏量B.植株蒸发量C.棵间土壤蒸发量D.棵间水面蒸发量",
+        "answer": "BCD",
+        "score": 0.85,
+        "unique_ID": "0b2c448d-4368-474c-a6ea-5578214ed200",
+        "type": "multi_choice",
+        "index": 358
+    },
+    {
+        "question": "水电站机组不同额定水头方案影响以下哪些指标?(A.电力电量效益B.电站投资C.电站厂房尺寸D.机组额定出力",
+        "answer": "CD",
+        "score": 0.85,
+        "unique_ID": "0d417186-d4a7-443c-a471-23afd12a921b",
+        "type": "multi_choice",
+        "index": 359
+    },
+    {
+        "question": "水库推算成果中,在同一库区流量情况下,其一般规律性正确的有()。A.回水水面线,离坝址愈近愈平缓B.坝前水位愈高,水面线坡降愈平缓C.坝前水位愈低,回水线未端愈远D.尾段糙率,不同流量可采用不同数值",
+        "answer": "AB",
+        "score": 0.85,
+        "unique_ID": "29295029-0ad4-4719-b5aa-9a2f2f5482ff",
+        "type": "multi_choice",
+        "index": 360
+    },
+    {
+        "question": "国民经济评价使用的影子价格是比财务价格更为合理的价格。所谓合理,从定价原则来看应更好地反映（）。A.产品的价值B.现行的价格体系C.资源稀缺程度D.市场供需情况",
+        "answer": "CD",
+        "score": 0.85,
+        "unique_ID": "7b6278e9-4c2f-4707-b5e0-f2451458417f",
+        "type": "multi_choice",
+        "index": 361
+    },
+    {
+        "question": "方案比较的方法很多,应根据项目的具体情况来选择。当有明显资金限制时,一般宜采用以下哪些方法？（）A.差额内部收益率法B.经济效益费用比法C.经济净年值法D.经济净现值率法",
+        "answer": "BD",
+        "score": 0.85,
+        "unique_ID": "51ccb952-7fb2-4666-ac65-a15b2d8f5059",
+        "type": "multi_choice",
+        "index": 362
+    },
+    {
+        "question": "按外营力性质可将土壤侵蚀类型划分为（$\\;$）。A.冰川侵蚀、地质侵蚀、古代侵蚀B.重力侵蚀、冻融侵蚀、混合侵蚀C.水力侵蚀、风力侵蚀、人为侵蚀D.河岸侵蚀、海洋侵蚀、正常侵蚀",
+        "answer": "BC",
+        "score": 0.85,
+        "unique_ID": "ad30e222-fe86-4879-8b19-d35598a29f19",
+        "type": "multi_choice",
+        "index": 363
+    },
+    {
+        "question": "根据风蚀强度分级标准,下列哪些地区土壤侵蚀类型属于强烈侵蚀?A.半固定沙丘、植被覆盖度35%B.半固定沙丘、植被覆盖度25%C.沙地半固定沙丘、风蚀厚度55mm/aD.沙地半固定沙丘、风蚀厚度45mm/a",
+        "answer": "BD",
+        "score": 0.85,
+        "unique_ID": "67bbd823-ab8e-45b1-a7dd-ba981857196f",
+        "type": "multi_choice",
+        "index": 364
+    },
+    {
+        "question": "水土保持生态工程建设的具体内容包括哪些?(A.人工造林种草和封山育林等恢复生态自然B.基本农田建设和小型蓄水保土C.林业生态和农村人蓄饮水工程D.水土保持预防与监督等综合体系建设",
+        "answer": "AB",
+        "score": 0.85,
+        "unique_ID": "3925f893-6999-4215-b296-36c24fd600a3",
+        "type": "multi_choice",
+        "index": 365
+    },
+    {
+        "question": "下列属于水土保持治生态建设工程措施的有（）。A.山沟治理工程B.风沙治理工程C.山坡治理工程D.小型蓄水用水工程",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "3cac9b08-4550-4fc6-bf89-9f4526c795d1",
+        "type": "multi_choice",
+        "index": 366
+    },
+    {
+        "question": "制定环境保护措施应进行经济技术论证,选择()的措施。A.技术先进、经济合理B.便于实施C.可促进工程开发、任务落实D.保护和改善环境效果好",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "6773c9f5-585b-4472-a4f2-179d257317fc",
+        "type": "multi_choice",
+        "index": 367
+    },
+    {
+        "question": "我国水功能区划中缓冲区的划区条件为（$\\;$）。A.跨省、自治区、直辖市的行政区域边界的水域B.入海口与海洋功能区交接的水域C.取水口集中,取水量达到可利用量的水域D.用水矛盾突出的地区之间的水域",
+        "answer": "ABD",
+        "score": 0.85,
+        "unique_ID": "cfc40974-f80a-495b-9dbc-8c776e93110a",
+        "type": "multi_choice",
+        "index": 368
+    },
+    {
+        "question": "环境管理的主要任务有（）。A.环境保护政策、法规的执行B.项目环境影响报告的编制C.环境保护措施的实施管理D.环境保护科研和技术管理",
+        "answer": "ACD",
+        "score": 0.85,
+        "unique_ID": "46244821-e327-4902-8ae9-0c933445cf8a",
+        "type": "multi_choice",
+        "index": 369
+    },
+    {
+        "question": "在设计水量不变情况下,可直接采用现状入河污染物量作为其纳污能力的水功能区有()A.保护区B.开发利用区C.缓冲区D.保留区",
+        "answer": "AD",
+        "score": 0.85,
+        "unique_ID": "34e42752-02a0-4735-9c4d-cd4a302fb859",
+        "type": "multi_choice",
+        "index": 370
+    },
+    {
+        "question": "水利水电工程项目建议书的主要内容包括$\\left(\\;\\right)$。A.基本确定项目任务的主次顺序B.基本确定工程规模C.初拟水利工程管理方案D.编制工程概算",
+        "answer": "ABC",
+        "score": 0.85,
+        "unique_ID": "4422b5f5-e8cb-4164-a1a7-0b086a46d8ec",
+        "type": "multi_choice",
+        "index": 371
+    },
+    {
+        "question": "招标公告应当载明招标（）。A.招标机构名称及地址B.招标开始时间与投标截止时间C.标底D.招标项目性质",
+        "answer": "AD",
+        "score": 0.85,
+        "unique_ID": "a8a19d22-2f92-4d8f-9fa6-f8be79b0a755",
+        "type": "multi_choice",
+        "index": 372
+    },
+    {
+        "question": "监理单位在项目施工阶段应（$\\;$）。A.协助项目法人编写开工报告B.协助项目法人编写工程计划C.审查承包商提出的施工技术措施与进度计划,处理违约事件D.审查承包商提出的施工技术措施与进度计划,处理设计变更",
+        "answer": "AC",
+        "score": 0.85,
+        "unique_ID": "556718bd-9a46-4d71-b984-b88ac6040e65",
+        "type": "multi_choice",
+        "index": 373
+    },
+    {
+        "question": "以下哪些单位可定性为事业单位?()A.纯公益性水管单位B.准公益性水管单位,不具备自收自支条件C.准公益性水管单位,具备自收自支条件D.担任城市供水的水利管维护任务的水管单位",
+        "answer": "AB",
+        "score": 0.85,
+        "unique_ID": "1a74803b-085b-4191-bd31-43541ae0825a",
+        "type": "multi_choice",
+        "index": 374
+    },
+    {
+        "question": "有一输油圆管，直径为300mm，流量为0.$3{\\text{m}}^{3}$/s，如果采用水在实验室中用管道进行模型试验，长度比尺为3,已知油的黏滞系数为${0.045}{\\mathrm{\\;{cm}}}^{2}/\\mathrm{s}$,水的黏滞系数为${0.01}{\\mathrm{\\;{cm}}}^{2}/\\mathrm{s}$,求模型流量（）。A.0.006m³/sB.0.0074m³/sC.0.022m³/sD.0.${06}{\\mathrm{m}}^{3}/\\mathrm{s}$",
+        "answer": "C___",
+        "analysis": "两液流力学相似必须满足几何相似、运动相似、动力相似和边界条件相似,对于非恒定流还需满足初始条件相似。由动力相似即雷诺数相等,即:$$\\frac{Q}{vd}=\\frac{{Q}_{m}}{{v}_{m}{d}_{m}}$$则有:$${Q}_{m}=\\frac{{v}_{m}}{v}\\cdot\\frac{1}{\\lambda}\\cdotQ=\\frac{0.01}{0.045}\\times\\frac{1}{3}\\times{0.3}={0.022}{\\mathrm{\\;m}}^{3}/\\mathrm{s}$$",
+        "score": 10.649999999999999,
+        "unique_ID": "a37584d3-5f3a-4293-9ffd-bff1fd9d6f3d",
+        "type": "subjective",
+        "index": 375
+    },
+    {
+        "question": "已知某水库库区输水渠渠首维持常水位300m运行：渠首引水量与水库月平均水位如下表,若根据引水量和库水位过程进行泵站机组选型,哪一扬程应在高效区内?(题13表某水库库区渠首引水量与水库月平均水位A.$5\\mathrm{\\;m}$B.${15}\\mathrm{\\;m}$C.${20}\\mathrm{\\;m}$D.${11}\\mathrm{\\;m}$",
+        "answer": "D<table><thead><tr><th>月份</th><th>渠首引水量(万${\\mathrm{m}}^{3}$)</th><th>水库月平均水位（m）</th></tr></thead><tr><td>1</td><td>19.6</td><td>326</td></tr><tr><td>2</td><td>19.6</td><td>325</td></tr><tr><td>3</td><td>85.0</td><td>310</td></tr><tr><td>4</td><td>150.3</td><td>302</td></tr><tr><td>5</td><td>336.1</td><td>290</td></tr><tr><td>6</td><td>274.2</td><td>280</td></tr><tr><td>7</td><td>339.5</td><td>295</td></tr><tr><td>8</td><td>150.3</td><td>305</td></tr><tr><td>9</td><td>85.0</td><td>325</td></tr><tr><td>10</td><td>19.6</td><td>327</td></tr><tr><td>11</td><td>19.6</td><td>326</td></tr><tr><td>12</td><td>19.6</td><td>324</td></tr></table>",
+        "analysis": "由上表可得每月净扬程,见下表第四列。加权平均净扬程可按下式计算:$$H=\\frac{\\sum{H}_{i}{Q}_{i}{t}_{i}}{\\sum{Q}_{i}{t}_{i}}$$采用上述数据计算可得$\\mathrm{H}={11}\\mathrm{\\;m}$。题13解表某水库库区每月净扬程计算表<table><thead><tr><th>月份</th><th>渠首引水量（万${\\mathrm{m}}^{3}$）</th><th>水库月平均水位（m）</th><th>净扬程（m）</th></tr></thead><tr><td>1</td><td>19.6</td><td>326</td><td>26</td></tr><tr><td>2</td><td>19.6</td><td>325</td><td>25</td></tr><tr><td>3</td><td>85.0</td><td>310</td><td>10</td></tr><tr><td>4</td><td>150.3</td><td>302</td><td>2</td></tr><tr><td>5</td><td>336.1</td><td>290</td><td>10</td></tr><tr><td>6</td><td>274.2</td><td>280</td><td>20</td></tr><tr><td>7</td><td>339.5</td><td>295</td><td>5</td></tr><tr><td>8</td><td>150.3</td><td>305</td><td>5</td></tr><tr><td>9</td><td>85.0</td><td>325</td><td>25</td></tr><tr><td>10</td><td>19.6</td><td>327</td><td>27</td></tr><tr><td>11</td><td>19.6</td><td>326</td><td>26</td></tr><tr><td>12</td><td>19.6</td><td>324</td><td>24</td></tr></table>",
+        "score": 25.0,
+        "unique_ID": "509ba679-70ad-4bc4-926f-636fa973a35a",
+        "type": "subjective",
+        "index": 376
+    }
+]
