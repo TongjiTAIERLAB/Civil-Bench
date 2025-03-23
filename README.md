@@ -10,15 +10,18 @@ English | [简体中文](README-CN.md)
 </div>
 
 # Introduction
-Welcome to Civil-Bench
+Welcome to Civil-Bench：
+
+Civil-Bench is an evaluation framework specifically designed to assess the performance of large language models in the field of civil engineering. This framework is based on real exam questions from civil engineering professional qualification exams between 2018 and 2023, covering various disciplines such as structural analysis, geotechnical engineering, construction management, and environmental engineering. Civil-Bench consists of 14,823 objective questions and over 269 subjective questions, aiming to comprehensively evaluate the model's capabilities in computational accuracy, knowledge application, and complex problem analysis.
+
 The evaluation framework consists of six key assessment dimensions:
 
-1. **Engineering Management and Construction**: Evaluates the model's knowledge and application abilities in construction technology, project management, cost estimation, construction safety, and green construction.
-2. **Architectural and Structural Design**: Tests the model's understanding of building structures, materials, structural calculations, and engineering codes, and examines its application abilities in architectural design and structural analysis.
-3. **Safety Engineering**: Measures the model's reasoning and decision-making abilities in structural safety assessment, disaster prevention, engineering accident analysis, and emergency management.
-4. **Environmental Engineering**: Assesses the model’s coverage of knowledge and practical guidance capabilities in areas such as water pollution prevention, air pollution control, solid waste management, and environmental impact assessment.
-5. **Civil Engineering**: Examines the model's grasp of basic engineering theories and design methods in areas such as foundation engineering, bridges and tunnels, road traffic, and construction machinery.
-6. **Surveying and Geographic Information**: Tests the model's capabilities in engineering surveying, construction staking, GIS and remote sensing applications, and deformation monitoring, evaluating its potential in the surveying and geographic information field.
+1. **Civil Engineering**: Evaluates the model's understanding of fundamental theories and design methods in geotechnical engineering, hydraulic and hydropower engineering, road engineering, as well as general foundational knowledge.
+2. **Surveying and Geoinformation**: Tests the model's capabilities in surveying case analysis, surveying management and regulations, and comprehensive surveying applications, assessing its potential applications in the field of surveying and geoinformation.
+3. **Environmental Engineering**: Assesses the model’s knowledge coverage and practical guidance ability in environmental impact assessment, including technical guidelines and standards, technical methods, case analysis, and relevant regulations.
+4. **Engineering Management and Construction**: Evaluates the model’s knowledge and practical application ability in construction, project cost estimation, engineering consulting, and engineering supervision.
+5. **Architecture and Structural Design**: Tests the model's understanding of architectural structural design, structural calculations, and urban-rural planning, assessing its application capability in architectural design and structural analysis.
+6. **Safety Engineering**: Measures the model’s reasoning ability and decision-making level in safety and emergency management fields, including nuclear safety engineering, safety engineering, and fire protection engineering.
 
 This framework establishes a standardized evaluation benchmark for professional language models in the civil engineering field, providing a comprehensive measure of the model's professionalism, precision, and practical engineering application abilities.
 
